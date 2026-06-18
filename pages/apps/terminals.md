@@ -11,4 +11,4 @@
 
 
 > [!NOTE]
-> Using [rish](#rish-shell), you can create a local ADB shell with any terminal emulator, such as Termux.
+> You can use Rish from the official Shizuku API documentation for local elevated shell workflows in terminal apps.

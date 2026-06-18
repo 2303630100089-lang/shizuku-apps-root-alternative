@@ -88,13 +88,13 @@ Main category pages include:
 
 ---
 
-## 📈 Graphs
+## 📈 Charts
 
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=krishna3163/shizuku-apps-root-alternative&type=Date)](https://star-history.com/#krishna3163/shizuku-apps-root-alternative&Date)
 
-### Category Distribution (high-level)
+### Category Distribution (high-level, snapshot: 2026-06-18)
 
 > Counts are a snapshot of current category pages and should be updated when app entries change.
 
