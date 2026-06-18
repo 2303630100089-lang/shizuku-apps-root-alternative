@@ -96,7 +96,7 @@ Main category pages include:
 
 ### Category Distribution (high-level, snapshot: 2026-06-18)
 
-> Counts are a snapshot of current category pages and should be updated when app entries change.
+> Counts are a snapshot of current category pages. To update: manually count app bullet entries in each linked category page and refresh the pie values.
 
 ```mermaid
 pie title App Category Focus
