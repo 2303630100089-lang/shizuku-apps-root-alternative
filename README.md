@@ -96,6 +96,8 @@ Main category pages include:
 
 ### Category Distribution (high-level)
 
+> Counts are a snapshot of current category pages and should be updated when app entries change.
+
 ```mermaid
 pie title App Category Focus
     "Customization" : 26
