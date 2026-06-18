@@ -126,6 +126,7 @@ This project is contribution-ready.
 2. Edit the matching category page in `pages/apps/`
 3. Add app name, link, short description, and license
 4. Open a pull request
+5. If category app counts change, update the pie-chart snapshot numbers in this README
 
 ---
 
