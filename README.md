@@ -98,11 +98,11 @@ Main category pages include:
 
 ```mermaid
 pie title App Category Focus
-    "Customization" : 20
+    "Customization" : 26
     "Software management" : 18
-    "Development utilities" : 15
+    "Development utilities" : 16
     "Network" : 12
-    "Other categories" : 35
+    "Other categories" : 119
 ```
 
 ---
