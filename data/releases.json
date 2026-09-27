@@ -1079,22 +1079,22 @@
   },
   "de1984": {
     "source_repository": "dorumrr/de1984",
-    "source_release_id": 390017698,
-    "source_tag": "v2.7.7",
-    "source_published_at": "2026-09-16T14:48:40Z",
-    "synced_at": "2026-09-16T15:48:08.262092+00:00",
+    "source_release_id": 397448800,
+    "source_tag": "v2.7.8",
+    "source_published_at": "2026-09-27T00:44:53Z",
+    "synced_at": "2026-09-27T02:37:11.765667+00:00",
     "assets": [
       {
-        "source_asset_id": 568173293,
-        "filename": "de1984-v2.7.7.apk",
-        "original_filename": "de1984-v2.7.7.apk",
-        "sha256": "7defd1e10e1654cd0c3a5bd573a67f7fa0a5f4e0a85bd4c7930bda107bfc5d69",
-        "file_size": 6545723,
+        "source_asset_id": 591777988,
+        "filename": "de1984-v2.7.8.apk",
+        "original_filename": "de1984-v2.7.8.apk",
+        "sha256": "edf2fdce712911ef768c0ba788306cebaab8da3d080a4cdd8a350b8a1a09e450",
+        "file_size": 6553671,
         "architecture": "unknown"
       }
     ],
-    "mirror_release_tag": "de1984-v2.7.7",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.7"
+    "mirror_release_tag": "de1984-v2.7.8",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.8"
   },
   "tarnhelm": {
     "source_repository": "lz233/Tarnhelm",
@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-26T20:23:39.976255+00:00",
+    "synced_at": "2026-09-27T02:37:14.888079+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
