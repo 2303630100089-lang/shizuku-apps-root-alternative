@@ -6,6 +6,7 @@ import logging
 import os
 import time
 from typing import Any, Optional
+from urllib.parse import urlparse
 
 import requests
 
@@ -140,8 +141,11 @@ class GitHubAPI:
         """Download a release asset to *dest_path* and return the path."""
         self._wait_for_rate_limit()
 
-        # If it's a direct browser download url (cdn), we don't need octet-stream accept header
-        is_direct = "github.com/" in url and "/releases/download/" in url
+        # If it's a direct browser download URL on github.com, we don't need octet-stream accept header
+        parsed_url = urlparse(url)
+        host = (parsed_url.hostname or "").lower()
+        path = parsed_url.path or ""
+        is_direct = host in {"github.com", "www.github.com"} and "/releases/download/" in path
         headers = {}
         if not is_direct:
             headers = dict(self.session.headers)
