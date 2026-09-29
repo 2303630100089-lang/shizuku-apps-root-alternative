@@ -9,6 +9,10 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/krishna3163/shizuku-apps-root-alternative?style=for-the-badge&logo=github)](https://github.com/krishna3163/shizuku-apps-root-alternative/commits)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/krishna3163/shizuku-apps-root-alternative/pulls)
 [![Community](https://img.shields.io/badge/Community-Contributions-blue?style=for-the-badge)](https://github.com/krishna3163/shizuku-apps-root-alternative/issues)
+<br>
+[![Telegram](https://img.shields.io/badge/Telegram-@kk3163019-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk3163019)
+[![Instagram](https://img.shields.io/badge/Instagram-@krishna.0858-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishna.0858/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna0858/)
 
 **Find the best Shizuku apps to customize Android, remove bloatware, manage apps, improve privacy, automate tasks, and unlock root-like features without rooting your phone.**
 
@@ -140,6 +144,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - [Other apps (FOSS alternatives to premium apps)](#other-apps-foss-alternatives-to-premium-apps)
 - [Resources](#resources)
 - [Android Power-User Ecosystem](#android-power-user-ecosystem)
+- [Connect with Maintainer](#connect-with-maintainer)
 - [Join the Community](#-join-the-community)
 - [License](#license)
 
@@ -1016,6 +1021,16 @@ Explore our curated network of Android power-user tools, no-root alternatives, w
 * 🛡️ **[Best Root Apps for Android](https://github.com/krishna3163/best-root-apps-for-android)** — 500+ curated root apps, Magisk/KernelSU/APatch modules, and rooting guides.
 * ⚡ **[Shizuku Web Portal](https://github.com/krishna3163/shizuku-web)** ([Live App](https://shizuku-web.onrender.com)) — Modern PostHog-styled web companion, ADB setup wizard, and app directory.
 * 📱 **[Awesome Android App Repositories](https://github.com/krishna3163/awesome-android-app-repositories)** — Constantly updated catalog of open-source Android apps, utilities, and developer tools.
+
+---
+
+## 📬 Connect with Maintainer
+
+Have questions, suggestions, or want to collaborate? Connect directly:
+
+- ✈️ **Telegram**: [@kk3163019](https://t.me/kk3163019)
+- 📸 **Instagram**: [@krishna.0858](https://www.instagram.com/krishna.0858/?hl=en)
+- 💼 **LinkedIn**: [Krishna on LinkedIn](https://www.linkedin.com/in/krishna0858/)
 
 ---
 
