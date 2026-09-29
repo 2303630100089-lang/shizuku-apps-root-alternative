@@ -247,6 +247,7 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **OpenMinis** | OpenMinis | `1.14` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.14) | [Upstream](https://github.com/OpenMinis/OpenMinis/releases) |
 | ⚡ **Nothing Modes** | Dvorinka | `v0.19.6` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nothing-modes-v0.19.6) | [Upstream](https://github.com/Dvorinka/Nothing_Modes/releases) |
 | ⚡ **CallVault** | madkongo | `v2.4.3` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/callvault-v2.4.3) | [Upstream](https://github.com/madkongo/CallVault/releases) |
 | ⚡ **Dragon-Launcher** | Elnix90 | `4.3.0` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dragon-launcher-4.3.0) | [Upstream](https://github.com/Elnix90/Dragon-Launcher/releases) |
@@ -256,7 +257,6 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 | ⚡ **Hermes Agent** | adybag14-cyber | `v0.13.158` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hermes-agent-v0.13.158) | [Upstream](https://github.com/adybag14-cyber/hermes-agent/releases) |
 | ⚡ **OpenTasker** | SysAdminDoc | `v0.2.94` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opentasker-v0.2.94) | [Upstream](https://github.com/SysAdminDoc/OpenTasker/releases) |
 | ⚡ **WG Tunnel** | wgtunnel | `5.7.5` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.5) | [Upstream](https://github.com/wgtunnel/wgtunnel/releases) |
-| ⚡ **PrivacyFlip** | dorumrr | `v2.1.9` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.9) | [Upstream](https://github.com/dorumrr/privacyflip/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
@@ -326,7 +326,7 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 | **OmniPrompt** | mrndstvndv | `v0.19.0` | 2026-09-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/omniprompt-v0.19.0) | [GitHub](https://github.com/mrndstvndv/OmniPrompt) |
 | **OpenCyvis** | opencyvis | `v2.0.1` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opencyvis-v2.0.1) | [GitHub](https://github.com/opencyvis/opencyvis-phone) |
 | **OpenDroid** | yashab-cyber | `v1.0.7` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opendroid-v1.0.7) | [GitHub](https://github.com/yashab-cyber/opendroid) |
-| **OpenMinis** | OpenMinis | `1.13` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.13) | [GitHub](https://github.com/OpenMinis/OpenMinis) |
+| **OpenMinis** | OpenMinis | `1.14` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.14) | [GitHub](https://github.com/OpenMinis/OpenMinis) |
 | **OpenTasker** | SysAdminDoc | `v0.2.94` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opentasker-v0.2.94) | [GitHub](https://github.com/SysAdminDoc/OpenTasker) |
 | **OwnDroid** | BinTianqi | `v8.3.1` | 2026-08-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/owndroid-v8.3.1) | [GitHub](https://github.com/BinTianqi/OwnDroid) |
 | **Porter** | d4rken-org | `v0.7.0-rc0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/porter-v0.7.0-rc0) | [GitHub](https://github.com/d4rken-org/porter) |

@@ -1,528 +1,528 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:51.801671+00:00",
+    "last_checked": "2026-09-29T17:18:15.826945+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
   "mythara": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:49:52.065804+00:00"
+    "last_checked": "2026-09-29T17:18:16.226681+00:00"
   },
   "omniprompt": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:52.434765+00:00",
+    "last_checked": "2026-09-29T17:18:16.699574+00:00",
     "latest_version": "v0.19.0",
     "last_synced": "2026-09-11T02:08:44.037437+00:00"
   },
   "neo-store": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:52.760155+00:00",
+    "last_checked": "2026-09-29T17:18:17.084306+00:00",
     "latest_version": "1.3.0",
     "last_synced": "2026-09-20T20:00:20.781224+00:00"
   },
   "shizutools": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:53.100810+00:00",
+    "last_checked": "2026-09-29T17:18:17.427142+00:00",
     "latest_version": "v1.4.6",
     "last_synced": "2026-08-22T11:57:12.762859+00:00"
   },
   "mihon": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:53.486201+00:00",
+    "last_checked": "2026-09-29T17:18:17.842158+00:00",
     "latest_version": "v0.20.4",
     "last_synced": "2026-08-22T11:57:31.587952+00:00"
   },
   "amarok-hider": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:53.868546+00:00",
+    "last_checked": "2026-09-29T17:18:19.237555+00:00",
     "latest_version": "v0.10.1",
     "last_synced": "2026-08-22T11:57:36.034905+00:00"
   },
   "hail": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:54.249631+00:00",
+    "last_checked": "2026-09-29T17:18:19.487888+00:00",
     "latest_version": "v1.11.0",
     "last_synced": "2026-08-26T12:31:47.845132+00:00"
   },
   "canta": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:54.697913+00:00",
+    "last_checked": "2026-09-29T17:18:19.802141+00:00",
     "latest_version": "v3.2.2",
     "last_synced": "2026-08-22T11:57:41.563201+00:00"
   },
   "logfox": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:55.002051+00:00",
+    "last_checked": "2026-09-29T17:18:20.207530+00:00",
     "latest_version": "v2.1.10-79",
     "last_synced": "2026-08-22T11:57:44.158091+00:00"
   },
   "obtainium": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:55.711600+00:00",
+    "last_checked": "2026-09-29T17:18:20.846974+00:00",
     "latest_version": "v1.6.17",
     "last_synced": "2026-09-13T20:01:34.935014+00:00"
   },
   "blocker": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:56.135790+00:00",
+    "last_checked": "2026-09-29T17:18:21.346805+00:00",
     "latest_version": "v2.0.5839",
     "last_synced": "2026-08-22T11:58:14.007807+00:00"
   },
   "colorblendr": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:56.482637+00:00",
+    "last_checked": "2026-09-29T17:18:22.729567+00:00",
     "latest_version": "v3.0.1",
     "last_synced": "2026-08-22T11:58:16.787084+00:00"
   },
   "linksheet": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:56.830770+00:00",
+    "last_checked": "2026-09-29T17:18:23.219071+00:00",
     "latest_version": "0.0.33",
     "last_synced": "2026-08-22T11:58:19.577479+00:00"
   },
   "taptap": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:57.145902+00:00",
+    "last_checked": "2026-09-29T17:18:23.521332+00:00",
     "latest_version": "1.6.2",
     "last_synced": "2026-08-22T11:58:22.847910+00:00"
   },
   "smartspacer": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:57.478085+00:00",
+    "last_checked": "2026-09-29T17:18:23.884166+00:00",
     "latest_version": "1.11.3",
     "last_synced": "2026-08-30T02:32:54.316107+00:00"
   },
   "keymapper": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:57.839578+00:00",
+    "last_checked": "2026-09-29T17:18:24.393360+00:00",
     "latest_version": "v4.5.0",
     "last_synced": "2026-09-21T17:28:03.691555+00:00"
   },
   "sdmaid-se": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:58.253452+00:00",
+    "last_checked": "2026-09-29T17:18:24.789552+00:00",
     "latest_version": "v2.1.0-rc0",
     "last_synced": "2026-09-06T19:47:13.650501+00:00"
   },
   "droid-ify": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:58.608787+00:00",
+    "last_checked": "2026-09-29T17:18:25.115124+00:00",
     "latest_version": "v0.7.8",
     "last_synced": "2026-09-12T19:53:55.775535+00:00"
   },
   "installwithoptions": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:58.941458+00:00",
+    "last_checked": "2026-09-29T17:18:25.360502+00:00",
     "latest_version": "0.9.2",
     "last_synced": "2026-08-22T11:58:38.602458+00:00"
   },
   "rootlessjamesdsp": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:49:59.301058+00:00",
+    "last_checked": "2026-09-29T17:18:26.160506+00:00",
     "latest_version": "v1.6.13"
   },
   "privacyflip": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:49:59.729579+00:00",
+    "last_checked": "2026-09-29T17:18:27.019867+00:00",
     "latest_version": "v2.1.9",
     "last_synced": "2026-09-26T15:24:16.555403+00:00"
   },
   "firewall-blocks": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:00.038088+00:00",
+    "last_checked": "2026-09-29T17:18:27.245880+00:00",
     "latest_version": "v1.5.shynoid",
     "last_synced": "2026-08-22T11:58:44.586046+00:00"
   },
   "amply": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:50:00.348228+00:00"
+    "last_checked": "2026-09-29T17:18:27.563711+00:00"
   },
   "dhizuku": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:00.679441+00:00",
+    "last_checked": "2026-09-29T17:18:28.114102+00:00",
     "latest_version": "v2.12.0",
     "last_synced": "2026-08-22T11:58:47.221308+00:00"
   },
   "lspatch": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:00.980132+00:00",
+    "last_checked": "2026-09-29T17:18:28.370820+00:00",
     "latest_version": "v1.2",
     "last_synced": "2026-08-23T18:16:17.890226+00:00"
   },
   "extendroid": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:01.284184+00:00",
+    "last_checked": "2026-09-29T17:18:28.622646+00:00",
     "latest_version": "v1.0.5-no-mediaprojection",
     "last_synced": "2026-08-22T11:58:55.607134+00:00"
   },
   "detoxdroid": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:01.693297+00:00",
+    "last_checked": "2026-09-29T17:18:28.976696+00:00",
     "latest_version": "v2.8.2",
     "last_synced": "2026-09-23T02:30:06.612529+00:00"
   },
   "ashell-you": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:02.126376+00:00",
+    "last_checked": "2026-09-29T17:18:29.295089+00:00",
     "latest_version": "v7.4.0",
     "last_synced": "2026-08-22T11:59:03.515383+00:00"
   },
   "autojs6": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:02.485150+00:00",
+    "last_checked": "2026-09-29T17:18:29.672926+00:00",
     "latest_version": "v6.7.0",
     "last_synced": "2026-08-22T12:00:03.952859+00:00"
   },
   "aniyomi": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:02.907109+00:00",
+    "last_checked": "2026-09-29T17:18:30.159071+00:00",
     "latest_version": "v0.18.2.1",
     "last_synced": "2026-09-14T21:12:45.227805+00:00"
   },
   "dsu-sideloader": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:03.219797+00:00",
+    "last_checked": "2026-09-29T17:18:30.450094+00:00",
     "latest_version": "2.03",
     "last_synced": "2026-08-22T12:00:38.164584+00:00"
   },
   "shizuwall": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:03.587544+00:00",
+    "last_checked": "2026-09-29T17:18:30.747739+00:00",
     "latest_version": "v4.6.4",
     "last_synced": "2026-09-09T20:12:52.941294+00:00"
   },
   "owndroid": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:04.092944+00:00",
+    "last_checked": "2026-09-29T17:18:31.123773+00:00",
     "latest_version": "v8.3.1",
     "last_synced": "2026-08-26T12:32:00.141304+00:00"
   },
   "wg-tunnel": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:04.731281+00:00",
+    "last_checked": "2026-09-29T17:18:31.941379+00:00",
     "latest_version": "5.7.5",
     "last_synced": "2026-09-26T15:24:42.023107+00:00"
   },
   "libchecker": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:05.161716+00:00",
+    "last_checked": "2026-09-29T17:18:32.456237+00:00",
     "latest_version": "2.5.4",
     "last_synced": "2026-08-22T12:01:06.420315+00:00"
   },
   "sai": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:05.555267+00:00",
+    "last_checked": "2026-09-29T17:18:32.716674+00:00",
     "latest_version": "4.5",
     "last_synced": "2026-08-22T12:01:09.216639+00:00"
   },
   "dragon-launcher": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:05.938303+00:00",
+    "last_checked": "2026-09-29T17:18:33.051191+00:00",
     "latest_version": "4.3.0",
     "last_synced": "2026-09-28T12:24:28.179851+00:00"
   },
   "better-internet-tiles": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:06.259634+00:00",
+    "last_checked": "2026-09-29T17:18:33.591602+00:00",
     "latest_version": "v3.1.2",
     "last_synced": "2026-08-22T12:01:15.401505+00:00"
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:06.615616+00:00",
+    "last_checked": "2026-09-29T17:18:34.344427+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
   "installerx-revived": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:06.982447+00:00",
+    "last_checked": "2026-09-29T17:18:34.596147+00:00",
     "latest_version": "26.05.01",
     "last_synced": "2026-08-22T12:01:49.159930+00:00"
   },
   "reterminal": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:07.327646+00:00",
+    "last_checked": "2026-09-29T17:18:34.930011+00:00",
     "latest_version": "v1.2.0",
     "last_synced": "2026-08-22T12:01:52.240096+00:00"
   },
   "upgradeall": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:07.723500+00:00",
+    "last_checked": "2026-09-29T17:18:35.445116+00:00",
     "latest_version": "0.13-beta.4",
     "last_synced": "2026-08-22T12:01:55.640067+00:00"
   },
   "package-manager": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:50:08.058392+00:00",
+    "last_checked": "2026-09-29T17:18:35.856637+00:00",
     "latest_version": "v8.0"
   },
   "freezeyou": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:08.434013+00:00",
+    "last_checked": "2026-09-29T17:18:36.214578+00:00",
     "latest_version": "V11.5(151)",
     "last_synced": "2026-08-22T12:01:58.799969+00:00"
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:08.951369+00:00",
+    "last_checked": "2026-09-29T17:18:36.785707+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
   "de1984": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:09.395156+00:00",
+    "last_checked": "2026-09-29T17:18:37.386160+00:00",
     "latest_version": "v2.7.8",
     "last_synced": "2026-09-27T02:37:11.765689+00:00"
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:50:09.623369+00:00"
+    "last_checked": "2026-09-29T17:18:37.581216+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:10.048129+00:00",
+    "last_checked": "2026-09-29T17:18:38.049848+00:00",
     "latest_version": "20250630",
     "last_synced": "2026-08-22T12:02:07.436754+00:00"
   },
   "system-ui-tuner": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:10.463529+00:00",
+    "last_checked": "2026-09-29T17:18:38.343490+00:00",
     "latest_version": "362",
     "last_synced": "2026-08-22T12:02:11.048956+00:00"
   },
   "morphe-manager": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:10.965182+00:00",
+    "last_checked": "2026-09-29T17:18:38.651873+00:00",
     "latest_version": "v1.32.0",
     "last_synced": "2026-09-24T10:46:32.269094+00:00"
   },
   "microg-re": {
     "status": "no-update",
-    "last_checked": "2026-09-29T11:50:11.333058+00:00",
+    "last_checked": "2026-09-29T17:18:39.064190+00:00",
     "latest_version": "7.1.1",
     "last_synced": "2026-09-10T10:17:39.185462+00:00"
   },
   "morphe-autobuilds": {
     "status": "synced",
-    "last_checked": "2026-09-29T11:52:00.613878+00:00",
+    "last_checked": "2026-09-29T17:18:41.357225+00:00",
     "latest_version": "latest",
-    "last_synced": "2026-09-29T11:52:00.613878+00:00"
+    "last_synced": "2026-09-29T17:18:41.357225+00:00"
   },
   "athena": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:04.710279+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:41.621386+00:00",
     "latest_version": "1.8",
     "last_synced": "2026-09-29T11:52:04.710279+00:00"
   },
   "shizukuplus": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:52:05.254219+00:00"
+    "last_checked": "2026-09-29T17:18:42.590371+00:00"
   },
   "porter": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:09.968703+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:42.866617+00:00",
     "latest_version": "v0.7.0-rc0",
     "last_synced": "2026-09-29T11:52:09.968703+00:00"
   },
   "shevery": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:14.226535+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:43.163279+00:00",
     "latest_version": "14.0.0",
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:18.448576+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:43.822470+00:00",
     "latest_version": "zako3.02",
     "last_synced": "2026-09-29T11:52:18.448576+00:00"
   },
   "aether": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:23.010163+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:44.128779+00:00",
     "latest_version": "2.1.6",
     "last_synced": "2026-09-29T11:52:23.010163+00:00"
   },
   "androidharness": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:28.617987+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:44.437028+00:00",
     "latest_version": "v1.2-release",
     "last_synced": "2026-09-29T11:52:28.617987+00:00"
   },
   "autoxiaoer": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:42.651603+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:44.847459+00:00",
     "latest_version": "v1.0.22",
     "last_synced": "2026-09-29T11:52:42.651603+00:00"
   },
   "clawgui": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:52:48.404480+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:45.183380+00:00",
     "latest_version": "clawgui-app-v0.3.1",
     "last_synced": "2026-09-29T11:52:48.404480+00:00"
   },
   "hermes-agent": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:53:30.536322+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:45.742565+00:00",
     "latest_version": "v0.13.158",
     "last_synced": "2026-09-29T11:53:30.536322+00:00"
   },
   "omnibot": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:53:38.682161+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:46.649992+00:00",
     "latest_version": "v0.6.3",
     "last_synced": "2026-09-29T11:53:38.682161+00:00"
   },
   "opencyvis": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:53:55.359868+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:47.016552+00:00",
     "latest_version": "v2.0.1",
     "last_synced": "2026-09-29T11:53:55.359868+00:00"
   },
   "opendroid": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:02.786690+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:47.402990+00:00",
     "latest_version": "v1.0.7",
     "last_synced": "2026-09-29T11:54:02.786690+00:00"
   },
   "openminis": {
     "status": "synced",
-    "last_checked": "2026-09-29T11:54:08.263199+00:00",
-    "latest_version": "1.13",
-    "last_synced": "2026-09-29T11:54:08.263199+00:00"
+    "last_checked": "2026-09-29T17:18:53.413542+00:00",
+    "latest_version": "1.14",
+    "last_synced": "2026-09-29T17:18:53.413542+00:00"
   },
   "roubao": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:12.322967+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:53.946184+00:00",
     "latest_version": "V1.4.2",
     "last_synced": "2026-09-29T11:54:12.322967+00:00"
   },
   "zafiro": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:17.590595+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:54.483509+00:00",
     "latest_version": "v10-1.4.2",
     "last_synced": "2026-09-29T11:54:17.590595+00:00"
   },
   "flywheel": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:21.278039+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:54.959937+00:00",
     "latest_version": "v1.1.1",
     "last_synced": "2026-09-29T11:54:21.278039+00:00"
   },
   "tvpilot": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:24.664506+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:55.307673+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-09-29T11:54:24.664506+00:00"
   },
   "alleq": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:28.009073+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:55.678239+00:00",
     "latest_version": "v1.0-alpha",
     "last_synced": "2026-09-29T11:54:28.009073+00:00"
   },
   "castix": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:31.379833+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:56.131020+00:00",
     "latest_version": "v1.0",
     "last_synced": "2026-09-29T11:54:31.379833+00:00"
   },
   "volume-plus-plus": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:35.186708+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:56.501062+00:00",
     "latest_version": "v2.0",
     "last_synced": "2026-09-29T11:54:35.186708+00:00"
   },
   "argus": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:54:56.477771+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:56.817572+00:00",
     "latest_version": "v0.3.4",
     "last_synced": "2026-09-29T11:54:56.477771+00:00"
   },
   "autoslide": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:00.413060+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:57.298241+00:00",
     "latest_version": "v2.6.1",
     "last_synced": "2026-09-29T11:55:00.413060+00:00"
   },
   "flowpilot": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:03.750952+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:58.679817+00:00",
     "latest_version": "v1.1.0",
     "last_synced": "2026-09-29T11:55:03.750952+00:00"
   },
   "imd": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:07.110494+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:58.980176+00:00",
     "latest_version": "v3",
     "last_synced": "2026-09-29T11:55:07.110494+00:00"
   },
   "nexaflow": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:12.822680+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:59.418239+00:00",
     "latest_version": "v3.90.0",
     "last_synced": "2026-09-29T11:55:12.822680+00:00"
   },
   "nothing-modes": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:19.320321+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:18:59.782952+00:00",
     "latest_version": "v0.19.6",
     "last_synced": "2026-09-29T11:55:19.320321+00:00"
   },
   "opentasker": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:23.525248+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:00.948178+00:00",
     "latest_version": "v0.2.94",
     "last_synced": "2026-09-29T11:55:23.525248+00:00"
   },
   "service-keeper": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:55:39.631521+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:01.472185+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
   "vflow": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:56:43.580759+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:01.952043+00:00",
     "latest_version": "v1.5.2",
     "last_synced": "2026-09-29T11:56:43.580759+00:00"
   },
   "callvault": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:56:51.328435+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:02.330269+00:00",
     "latest_version": "v2.4.3",
     "last_synced": "2026-09-29T11:56:51.328435+00:00"
   },
   "ghostmode": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:56:54.968957+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:02.631061+00:00",
     "latest_version": "v0.2.0",
     "last_synced": "2026-09-29T11:56:54.968957+00:00"
   },
   "kdeconnect-shizuku": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:56:58.932780+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:02.876185+00:00",
     "latest_version": "v1.35.14-shizuku-clipboard",
     "last_synced": "2026-09-29T11:56:58.932780+00:00"
   },
   "kettumanager": {
-    "status": "synced",
-    "last_checked": "2026-09-29T11:57:03.261655+00:00",
+    "status": "no-update",
+    "last_checked": "2026-09-29T17:19:03.155332+00:00",
     "latest_version": "1220",
     "last_synced": "2026-09-29T11:57:03.261655+00:00"
   },
   "root-my-galaxy": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:57:03.668952+00:00",
+    "last_checked": "2026-09-29T17:19:03.419999+00:00",
     "latest_version": "v0.2.65"
   },
   "root-my-pixel": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:57:04.173498+00:00",
+    "last_checked": "2026-09-29T17:19:03.736116+00:00",
     "latest_version": "v1.5"
   },
   "resukisu": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T11:57:04.502121+00:00"
+    "last_checked": "2026-09-29T17:19:04.014791+00:00"
   }
 }

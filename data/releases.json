@@ -1201,7 +1201,7 @@
     "source_release_id": 328294817,
     "source_tag": "latest",
     "source_published_at": "2026-05-23T11:51:54Z",
-    "synced_at": "2026-09-29T11:52:00.613821+00:00",
+    "synced_at": "2026-09-29T17:18:41.357161+00:00",
     "assets": [
       {
         "source_asset_id": 520498209,
@@ -3405,22 +3405,22 @@
   },
   "openminis": {
     "source_repository": "OpenMinis/OpenMinis",
-    "source_release_id": 380730382,
-    "source_tag": "1.13",
-    "source_published_at": "2026-09-01T18:25:00Z",
-    "synced_at": "2026-09-29T11:54:08.263180+00:00",
+    "source_release_id": 399277404,
+    "source_tag": "1.14",
+    "source_published_at": "2026-09-29T15:22:09Z",
+    "synced_at": "2026-09-29T17:18:53.413509+00:00",
     "assets": [
       {
-        "source_asset_id": 539958831,
-        "filename": "MinisApp-1.13-arm64-v8a.apk",
-        "original_filename": "MinisApp-1.13-arm64-v8a.apk",
-        "sha256": "789253f95475fccfcc88a803a0ec8276777b588f5039be773b9774f4bb3f80c6",
-        "file_size": 41389240,
+        "source_asset_id": 598531154,
+        "filename": "MinisApp-1.14-arm64-v8a.apk",
+        "original_filename": "MinisApp-1.14-arm64-v8a.apk",
+        "sha256": "38141df32c73ea36a3d8d0fb0754f575457a5b95ec3dd9c3c674abfdefbc581b",
+        "file_size": 42289222,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "openminis-1.13",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.13"
+    "mirror_release_tag": "openminis-1.14",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.14"
   },
   "roubao": {
     "source_repository": "Turbo1123/roubao",
