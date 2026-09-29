@@ -134,6 +134,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - [Miscellaneous content](#miscellaneous-content)
 - [Rish shell](#rish-shell)
 - [Annotations](#annotations)
+- [Other apps (FOSS alternatives to premium apps)](#other-apps-foss-alternatives-to-premium-apps)
 - [Resources](#resources)
 - [Join the Community](#-join-the-community)
 - [License](#license)
@@ -360,8 +361,9 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | App | Description | License | Links |
 | --- | --- | --- | --- |
 | Dhizuku | Share DeviceOwner permissions to third-party apps | GPL-3.0 | [Link](https://github.com/iamr0s/Dhizuku) |
-| OwnDroid | Manage your device with Device Owner privileges | GPL-3.0 | [Link](https://github.com/BinTianqi/OwnDroid) |
 | MDPC | Fork of OwnDroid with added features | GPL-3.0 | See project page |
+| OwnDroid | Manage your device with Device Owner privileges | GPL-3.0 | [Link](https://github.com/BinTianqi/OwnDroid) |
+| ShizukuPlus | Fork combining Dhizuku and Shizuku with drop-in replacement or distinct package, plus WIP app-hiding and anti-detection | Apache-2.0 | [Link](https://github.com/thejaustin/ShizukuPlus) |
 
 ### Display management
 
@@ -466,6 +468,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | App | Description | License | Links |
 | --- | --- | --- | --- |
 | ADNS | DNS-based ad blocker for Android | MIT | [Link](https://github.com/eyalm2000/adns) |
+| Athena | Firewall, DNS, and ad blocker that uses Shizuku to set system DNS and firewall globally without activating VPN | GPL-3.0 | [Link](https://github.com/Kin69/Athena) |
 | CellReader | `Paid` 💰 - Read cell tower info on Android | MIT | [Link](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) · [Source code](https://github.com/zacharee/CellReader) |
 | de1984 | App firewall without VPN; can also manage packages | MIT | [Link](https://github.com/dorumrr/de1984) |
 | delta | Hotspot manager using Shizuku | BSD-3-Clause | [Link](https://github.com/supershadoe/delta) |
@@ -697,6 +700,26 @@ If Shizuku was launched using ADB privileges, then `rish` also provides a shell 
 - `Proprietary` - Not licensed under a FOSS license
 - `n-day trial` - Payment required after trial period
 - `Root` - Requires Shizuku to run in root mode
+
+---
+
+## Other apps (FOSS alternatives to premium apps)
+
+Curated list of the best free and open-source (FOSS) Android alternatives to popular premium, proprietary, and paid subscription apps:
+
+| App | Description | License | Links |
+| --- | --- | --- | --- |
+| Aegis Authenticator | Alternative to Authy / Google Authenticator — secure, encrypted 2FA with automatic backups | GPL-3.0 | [GitHub](https://github.com/beemdevelopment/Aegis) |
+| Document Scanner | Alternative to CamScanner — ad-free document scanning to PDF with OCR and filters | GPL-3.0 | [GitHub](https://github.com/Aniruddha-Tapas/Document-Scanner) |
+| Fossify Gallery | Alternative to QuickPic / Simple Gallery Pro — fast, customizable offline photo & video gallery | GPL-3.0 | [GitHub](https://github.com/FossifyOrg/Gallery) |
+| Image Toolbox | Alternative to PhotoRoom / Lightroom — multilingual image editing, cropping, resizing, and conversion tool | Apache-2.0 | [GitHub](https://github.com/T8RIN/ImageToolbox) |
+| InnerTune | Alternative to Spotify / YouTube Music — Material 3 music client with background playback and offline caching | GPL-3.0 | [GitHub](https://github.com/z-huang/InnerTune) |
+| Joplin | Alternative to Evernote / OneNote — end-to-end encrypted note-taking and to-do application with sync | AGPL-3.0 | [GitHub](https://github.com/laurent22/joplin) |
+| Just Player | Alternative to MX Player Pro — clean, lightweight video player powered by AndroidX Media3 / ExoPlayer | Apache-2.0 | [GitHub](https://github.com/moneytoo/Player) |
+| KeePassDX | Alternative to 1Password / LastPass — lightweight, offline-first password vault with biometric unlock | GPL-3.0 | [GitHub](https://github.com/Kunzisoft/KeePassDX) |
+| NewPipe | Alternative to YouTube Premium — lightweight media player with background playback and popup mode | GPL-3.0 | [GitHub](https://github.com/TeamNewPipe/NewPipe) |
+| Organic Maps | Alternative to Google Maps / Sygic — offline privacy-focused navigation using OpenStreetMap | Apache-2.0 | [GitHub](https://github.com/organicmaps/organicmaps) |
+| Seal | Alternative to TubeMate / VidMate / IDM — Material You video and audio downloader powered by yt-dlp | GPL-3.0 | [GitHub](https://github.com/JunkFood02/Seal) |
 
 ---
 

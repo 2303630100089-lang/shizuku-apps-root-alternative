@@ -529,6 +529,26 @@
       "release_strategy": "latest-stable",
       "asset_patterns": [".*\\.apk$"],
       "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+    },
+    {
+      "name": "Athena",
+      "slug": "athena",
+      "repository": "Kin69/Athena",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [".*\\.apk$"],
+      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+    },
+    {
+      "name": "ShizukuPlus",
+      "slug": "shizukuplus",
+      "repository": "thejaustin/ShizukuPlus",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [".*\\.apk$"],
+      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
     }
   ],
   "defaults": {
