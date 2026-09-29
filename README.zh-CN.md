@@ -16,10 +16,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@kk3163019-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk3163019)
 [![Instagram](https://img.shields.io/badge/Instagram-@krishna.0858-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishna.0858/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna0858/)
+<br>
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-0A66C2?style=for-the-badge&logo=github)](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/discussions)
+[![Telegram Chat](https://img.shields.io/badge/Telegram-Community%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk3163019)
 
 **发现最优质的 Shizuku 应用，无需 Root 即可自定义安卓、精简系统预装、管理应用权限、增强隐私保护并实现自动化操作。**
 
-[📱 什么是 Shizuku？](#-what-is-shizuku) • [📋 应用分类](#-table-of-contents) • [⭐ 精选推荐](#-my-top-picks) • [🤝 加入社区](#-join-the-community) • [🔗 相关资源](#-resources)
+[📱 什么是 Shizuku？](#-what-is-shizuku) • [📋 应用分类](#-table-of-contents) • [⭐ 精选推荐](#-my-top-picks) • [💬 社区交流群](#community--chat-discussions) • [🤝 加入社区](#-join-the-community) • [🔗 相关资源](#-resources)
 
 <br>
 
@@ -152,6 +155,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - [相关资源](#resources)
 - [安卓极客与高级用户生态圈](#android-power-user-ecosystem)
 - [联系维护者与社交主页](#connect-with-maintainer)
+- [社区聊天与互动讨论](#community--chat-discussions)
 - [参与社区贡献](#-join-the-community)
 - [Contributors & Community Wall](#contributors--community-wall)
 - [开源许可](#license)
@@ -1039,6 +1043,22 @@ Explore our curated network of Android power-user tools, no-root alternatives, w
 - ✈️ **Telegram**: [@kk3163019](https://t.me/kk3163019)
 - 📸 **Instagram**: [@krishna.0858](https://www.instagram.com/krishna.0858/?hl=en)
 - 💼 **LinkedIn**: [Krishna on LinkedIn](https://www.linkedin.com/in/krishna0858/)
+
+---
+
+## 💬 社区聊天与互动讨论
+
+Looking to connect with other Android power users, ask setup questions, troubleshoot issues, or share your Android setups? Join our active community:
+
+| Platform | Channel / Forum | Purpose |
+| :--- | :--- | :--- |
+| 💬 **GitHub Discussions** | [👉 **Open Discussions Forum**](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/discussions) | Q&A, app showcases, device compatibility reports, and feature requests. |
+| ✈️ **Telegram 社区交流群** | [👉 **Join Telegram @kk3163019**](https://t.me/kk3163019) | Real-time chat with maintainer [@kk3163019](https://t.me/kk3163019) and Android modding enthusiasts. |
+| 💡 **应用名称 Suggestions** | [👉 **Submit New 应用名称**](../../issues/new?template=app-suggestion.yml) | Suggest new Shizuku apps via our automated issue-to-PR bot. |
+| 🐛 **Bug & Link Reports** | [👉 **Open an Issue**](../../issues) | Report broken download links, outdated versions, or catalog errors. |
+
+> [!TIP]
+> Have a question about whether an app works on your device (MIUI, HyperOS, One UI, ColorOS)? Ask in [GitHub Discussions Q&A](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/discussions) to get help from other users who have tested it on the same phone!
 
 ---
 

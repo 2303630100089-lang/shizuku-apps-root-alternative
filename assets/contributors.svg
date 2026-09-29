@@ -1,40 +1,64 @@
-<svg xmlns="http://www.w3.org/2005/svg" width="800" height="162" viewBox="0 0 800 162" fill="none">
+<svg xmlns="http://www.w3.org/2005/svg" width="820" height="180" viewBox="0 0 820 180" fill="none">
   <style>
     .title { font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0f172a; }
     .subtitle { font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #64748b; }
-    .avatar-bg { fill: #f1f5f9; stroke: #e2e8f0; stroke-width: 2px; }
-    .avatar-border { stroke: #3b82f6; stroke-width: 2px; rx: 27px; }
-    .handle { font: 600 11px sans-serif; fill: #1e293b; text-anchor: middle; }
+    .chip-bg { fill: #f8fafc; stroke: #e2e8f0; stroke-width: 1px; rx: 12px; }
+    .chip-name { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #1e293b; }
+    .chip-role { font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #64748b; }
+    .avatar-text { font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #ffffff; text-anchor: middle; dominant-baseline: central; }
     @media (prefers-color-scheme: dark) {
       .title { fill: #f8fafc; }
       .subtitle { fill: #94a3b8; }
-      .avatar-bg { fill: #1e293b; stroke: #334155; }
-      .handle { fill: #f1f5f9; }
+      .chip-bg { fill: #1e293b; stroke: #334155; }
+      .chip-name { fill: #f8fafc; }
+      .chip-role { fill: #94a3b8; }
     }
   </style>
-  <rect width="800" height="162" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#cbd5e1" stroke-width="1"/>
+  <defs>
+    <linearGradient id="grad-0" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="grad-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="grad-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#BE185D"/>
+    </linearGradient>
+    <linearGradient id="grad-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="grad-4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+    <linearGradient id="grad-5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#0E7490"/>
+    </linearGradient>
+    <linearGradient id="grad-6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#4338CA"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="180" rx="16" fill="#ffffff" fill-opacity="0.04" stroke="#cbd5e1" stroke-width="1"/>
   <text x="24" y="38" class="title">👥 Project Contributors &amp; Community Heroes</text>
-  <text x="24" y="58" class="subtitle">Thank you to everyone helping curate and build the Android Shizuku ecosystem! (2 active contributors)</text>
-  <defs>
-    <clipPath id="clip-0">
-      <circle cx="55" cy="107" r="26"/>
-    </clipPath>
-  </defs>
+  <text x="24" y="58" class="subtitle">Thank you to everyone helping curate, build, and support the Android Shizuku ecosystem! (2 contributors)</text>
   <a href="https://github.com/github-actions[bot]" target="_blank">
-    <circle cx="55" cy="107" r="27" class="avatar-bg"/>
-    <image x="28" y="80" width="54" height="54" href="https://avatars.githubusercontent.com/in/15368?v=4" clip-path="url(#clip-0)"/>
-    <circle cx="55" cy="107" r="26" fill="none" stroke="#60a5fa" stroke-width="2"/>
-    <text x="55" y="148" class="handle">github-act</text>
+    <rect x="24" y="80" width="180" height="64" class="chip-bg" />
+    <circle cx="50" cy="112" r="18" fill="url(#grad-0)"/>
+    <text x="50" y="112" class="avatar-text">GA</text>
+    <text x="76" y="106" class="chip-name">github-actions</text>
+    <text x="76" y="124" class="chip-role">184 contributions</text>
   </a>
-  <defs>
-    <clipPath id="clip-1">
-      <circle cx="142" cy="107" r="26"/>
-    </clipPath>
-  </defs>
   <a href="https://github.com/krishna3163" target="_blank">
-    <circle cx="142" cy="107" r="27" class="avatar-bg"/>
-    <image x="115" y="80" width="54" height="54" href="https://avatars.githubusercontent.com/u/96763880?v=4" clip-path="url(#clip-1)"/>
-    <circle cx="142" cy="107" r="26" fill="none" stroke="#60a5fa" stroke-width="2"/>
-    <text x="142" y="148" class="handle">krishna316</text>
+    <rect x="220" y="80" width="180" height="64" class="chip-bg" />
+    <circle cx="246" cy="112" r="18" fill="url(#grad-1)"/>
+    <text x="246" y="112" class="avatar-text">KR</text>
+    <text x="272" y="106" class="chip-name">krishna3163</text>
+    <text x="272" y="124" class="chip-role">Maintainer</text>
   </a>
 </svg>
