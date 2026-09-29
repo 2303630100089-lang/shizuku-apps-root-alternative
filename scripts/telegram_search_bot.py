@@ -340,6 +340,55 @@ def handle_text_message(token: str, chat_id: int | str, text: str, catalog: list
     send_reply(token, chat_id, reply)
 
 
+def handle_inline_query(token: str, inline_query: dict[str, Any], catalog: list[dict[str, Any]]) -> None:
+    """Handle inline queries (@krishna0858bot <query>) for inline sharing across any chat."""
+    query_id = inline_query.get("id")
+    raw_query = inline_query.get("query", "").strip()
+
+    if not raw_query:
+        top_names = ["Shizuku", "Canta", "App Manager", "Hail", "Athena", "ShizukuPlus"]
+        matching = [a for a in catalog if a["name"] in top_names]
+    else:
+        matching = search_apps(raw_query, catalog, limit=10)
+
+    results: list[dict[str, Any]] = []
+    for app in matching:
+        app_name = app["name"]
+        desc = app["description"]
+        lic = app["license"]
+        card_text = format_app_card(app)
+
+        buttons = []
+        if app.get("primary_link"):
+            buttons.append({"text": "🔗 Source Repo", "url": app["primary_link"]})
+        if app.get("is_mirrored"):
+            buttons.append({"text": "⬇️ Download APK", "url": f"{REPO_URL}/releases"})
+
+        item: dict[str, Any] = {
+            "type": "article",
+            "id": f"app_{abs(hash(app_name))}",
+            "title": f"📱 {app_name} ({lic})",
+            "description": desc[:100],
+            "input_message_content": {
+                "message_text": card_text,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+            },
+        }
+        if buttons:
+            item["reply_markup"] = {"inline_keyboard": [buttons]}
+
+        results.append(item)
+
+    payload = {
+        "inline_query_id": query_id,
+        "results": results,
+        "cache_time": 300,
+        "is_personal": False,
+    }
+    call_telegram_api(token, "answerInlineQuery", payload)
+
+
 def run_long_polling(token: str) -> None:
     """Run interactive long polling loop to receive updates."""
     logger.info("Loading catalog...")
@@ -349,7 +398,7 @@ def run_long_polling(token: str) -> None:
     offset = 0
     while True:
         try:
-            payload = {"offset": offset, "timeout": 25, "allowed_updates": ["message"]}
+            payload = {"offset": offset, "timeout": 25, "allowed_updates": ["message", "inline_query"]}
             resp = call_telegram_api(token, "getUpdates", payload)
             if not resp or not resp.get("ok"):
                 time.sleep(3)
@@ -358,6 +407,14 @@ def run_long_polling(token: str) -> None:
             updates = resp.get("result", [])
             for upd in updates:
                 offset = max(offset, upd["update_id"] + 1)
+
+                # Check for inline queries
+                inline_q = upd.get("inline_query")
+                if inline_q:
+                    logger.info("Inline query from %s: %s", inline_q.get("from", {}).get("id"), inline_q.get("query"))
+                    handle_inline_query(token, inline_q, catalog)
+                    continue
+
                 msg = upd.get("message")
                 if not msg:
                     continue
