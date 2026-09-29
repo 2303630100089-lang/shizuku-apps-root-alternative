@@ -12,6 +12,7 @@ Shizuku is an open-source framework developed by Rikka that allows non-rooted An
 - F-Droid Repository: https://krishna3163.github.io/best_shizuku_apps_for_android_no_root/fdroid/repo
 - Obtainium Multi-App Feed: https://krishna3163.github.io/best_shizuku_apps_for_android_no_root/obtainium.json
 - Telegram Search Bot: https://t.me/krishna0858bot
+- Shizuku CLI Companion: https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/tree/main/bin (Zero-dependency CLI for search, ADB activation & direct APK installs)
 - Community Chat: https://t.me/kk3163019
 
 ## Key Recommended Apps by Category

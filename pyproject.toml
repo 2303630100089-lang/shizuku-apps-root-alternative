@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shizuku-cli"
+version = "1.0.0"
+description = "Curated privileged Android tools, Shizuku ADB companion & verified APK mirror CLI"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Krishna", email = "kk3163019@gmail.com" }
+]
+keywords = ["shizuku", "android", "adb", "no-root", "apk", "debloat", "cli"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: End Users/Desktop",
+    "Topic :: Utilities",
+    "Programming Language :: Python :: 3",
+]
+
+[project.scripts]
+shizuku = "scripts.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root"
+Issues = "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/issues"
+Web = "https://shizuku-web.onrender.com"
+Telegram = "https://t.me/krishna0858bot"

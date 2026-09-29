@@ -90,6 +90,22 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - **Windows** - Дважды щелкните [ `scripts/activate_shizuku.bat` ](scripts/activate_shizuku.bat)
 - **Linux & macOS** - Выполнить `./scripts/activate_shizuku.sh`
 
+### Интерфейс командной строки экосистемы 💻 Сидзуку и компаньон АБР
+Специальный спутник терминала с нулевой зависимостью для поиска более500 приложений, проверки метаданных, загрузки зеркальных APK, активации Shizuku и установки приложений через ADB:
+- **Quick Run** - Code: 0
+- **Global Install** - `pip install -e .` (или Symlink `bin/shizuku` to `~/.local/bin/shizuku` )
+- **Interactive Shell** - Code: 0
+- команды
+  - `shizuku search <query>` : поиск приложений по всем категориям
+  - `shizuku top` : отображение основных отобранных вариантов
+  - `shizuku info <app>` : расширенная карточка приложения, лицензия, исходный код репозитория и проверенные версии APK
+  - `shizuku activate` : Активация ADB в 1 клик для подключенных устройств Android
+  - `shizuku status` : проверьте подключенные устройства, версию Android/SDK и статус демона Shizuku
+  - `shizuku download <app>` : Загрузите проверенный зеркальный APK с проверкой целостности SHA256
+  - `shizuku install <app>` : Download and install app directly to your phone via ADB
+  - `shizuku feeds` : просмотр конечных точек RSS F-Droid, Obtainium и Atom
+
+
 ### Примечания по настройке и совместимости 📱 OEM-устройств
 - **Xiaomi / HyperOS / MIUI** - Перейдите в раздел Параметры разработчика и включите **"Отладка USB"** и **"Отладка USB (настройки безопасности)"**. Также включите **«Отключить мониторинг разрешений»**, чтобы предотвратить MIUI от уничтожения связующих Shizuku.
 - **Samsung One UI** - Работает из коробки с беспроводной отладкой (Android 11+). Убедитесь, что KNOX / Auto Blocker не блокирует отладку USB.

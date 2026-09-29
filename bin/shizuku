@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Shizuku CLI Executable Launcher
+# Curated privileged Android tools & verified APK mirror companion
+
+SOURCE="${BASH_SOURCE[0]}"
+while [ -h "$SOURCE" ]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" >/dev/null 2>&1 && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ $SOURCE != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+DIR="$(cd -P "$(dirname "$SOURCE")/.." >/dev/null 2>&1 && pwd)"
+
+exec python3 "$DIR/scripts/cli.py" "$@"

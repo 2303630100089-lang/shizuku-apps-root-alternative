@@ -87,6 +87,22 @@ Connect your Android phone via USB cable with USB Debugging enabled, then simply
 - **Windows**: Double-click [`scripts/activate_shizuku.bat`](scripts/activate_shizuku.bat)
 - **Linux & macOS**: Run `./scripts/activate_shizuku.sh`
 
+### 💻 Shizuku Ecosystem CLI & ADB Companion
+A dedicated zero-dependency terminal companion to search 500+ apps, inspect metadata, download mirrored APKs, activate Shizuku, and install apps via ADB:
+- **Quick Run**: `./bin/shizuku search debloat`
+- **Global Install**: `pip install -e .` (or symlink `bin/shizuku` to `~/.local/bin/shizuku`)
+- **Interactive Shell**: `shizuku interactive`
+- **Commands**:
+  - `shizuku search <query>`: Search apps across all categories
+  - `shizuku top`: Display essential curated top picks
+  - `shizuku info <app>`: Rich app card, license, source repo, and verified APK releases
+  - `shizuku activate`: 1-Click ADB activation for connected Android devices
+  - `shizuku status`: Check connected devices, Android/SDK version, and Shizuku daemon status
+  - `shizuku download <app>`: Download verified mirrored APK with SHA256 integrity check
+  - `shizuku install <app>`: Download and install app directly to your phone via ADB
+  - `shizuku feeds`: View F-Droid, Obtainium, and Atom RSS endpoints
+
+
 ### 📱 OEM Device Setup & Compatibility Notes
 - **Xiaomi / HyperOS / MIUI**: Go to Developer Options and turn ON both **"USB debugging"** and **"USB debugging (Security settings)"**. Also enable **"Disable permission monitoring"** to prevent MIUI from killing Shizuku binders.
 - **Samsung One UI**: Works out of the box with Wireless Debugging (Android 11+). Ensure Knox / Auto Blocker does not block USB debugging.

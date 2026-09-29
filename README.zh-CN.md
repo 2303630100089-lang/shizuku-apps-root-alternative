@@ -90,6 +90,22 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - **Windows** - 双击[ `scripts/activate_shizuku.bat` ] (scripts/activate_shizuku.bat)
 - **Linux & macOS** - 运行 `./scripts/activate_shizuku.sh`
 
+### 💻 Shizuku生态系统CLI和ADB伴侣
+专用的零依赖终端伴侣，可搜索500多个应用程序、检查元数据、下载镜像APK、激活Shizuku并通过ADB安装应用程序：
+- **Quick Run** - `./bin/shizuku search debloat`
+- **Global Install** - `pip install -e .` （或将 `bin/shizuku` 链接至 `~/.local/bin/shizuku` ）
+- **Interactive Shell** - `shizuku interactive`
+- 指令
+  - `shizuku search <query>` ：搜索所有类别的应用
+  - `shizuku top` ：展示精选精选
+  - `shizuku info <app>` ：丰富的应用卡、许可证、源代码库和已验证的APK版本
+  - `shizuku activate` ： 1-针对已连接的安卓设备点击ADB激活
+  - `shizuku status` ：查看已连接的设备、Android/SDK版本和Shizuku守护进程状态
+  - `shizuku download <app>` ：下载带有SHA256完整性检查的已验证镜像APK
+  - `shizuku install <app>` ：通过ADB将应用程序直接下载并安装到手机上
+  - `shizuku feeds` ：查看F-Droid、Obtainium和Atom RSS端点
+
+
 ### 📱 OEM设备设置和兼容性说明
 - **Xiaomi / HyperOS / MIUI** - 转到开发人员选项并打开* * “USB调试” * *和* * “USB调试（安全设置）” * *。还启用* * “禁用权限监控” * *以防止MIUI杀死Shizuku绑定器。
 - **Samsung One UI** - 开箱即可使用无线调试（ Android 11 + ）。确保KNOX/Auto Blocker不会阻止USB调试。

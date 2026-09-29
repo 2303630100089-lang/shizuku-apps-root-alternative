@@ -811,7 +811,21 @@
     "[`llms.txt`](llms.txt)": "[ `llms.txt` ] (llms.txt)",
     "❓ Frequently Asked Questions (FAQ)": "始终忽略指定的页面/目录。支持正则表达式 (见 < href = \" %s\" > < 首字母缩略词标题 = \"常见问题\" > faq </acronym> </a>)",
     "[AI & Citation Reference](#ai--citation-reference)": "[AI和引文参考] (# ai-citation-reference)",
-    "[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)": "[常见问题(FAQ)] (# often-asked-questions-faq)"
+    "[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)": "[常见问题(FAQ)] (# often-asked-questions-faq)",
+    "`shizuku top`: Display essential curated top picks": "`shizuku top` ：展示精选精选",
+    "`shizuku download <app>`: Download verified mirrored APK with SHA256 integrity check": "`shizuku download <app>` ：下载带有SHA256完整性检查的已验证镜像APK",
+    "A dedicated zero-dependency terminal companion to search 500+ apps, inspect metadata, download mirrored APKs, activate Shizuku, and install apps via ADB:": "专用的零依赖终端伴侣，可搜索500多个应用程序、检查元数据、下载镜像APK、激活Shizuku并通过ADB安装应用程序：",
+    "`shizuku info <app>`: Rich app card, license, source repo, and verified APK releases": "`shizuku info <app>` ：丰富的应用卡、许可证、源代码库和已验证的APK版本",
+    "`shizuku feeds`: View F-Droid, Obtainium, and Atom RSS endpoints": "`shizuku feeds` ：查看F-Droid、Obtainium和Atom RSS端点",
+    "`shizuku status`: Check connected devices, Android/SDK version, and Shizuku daemon status": "`shizuku status` ：查看已连接的设备、Android/SDK版本和Shizuku守护进程状态",
+    "`shizuku interactive`": "`shizuku interactive`",
+    "`pip install -e .` (or symlink `bin/shizuku` to `~/.local/bin/shizuku`)": "`pip install -e .` （或将 `bin/shizuku` 链接至 `~/.local/bin/shizuku` ）",
+    "`./bin/shizuku search debloat`": "`./bin/shizuku search debloat`",
+    "`shizuku install <app>`: Download and install app directly to your phone via ADB": "`shizuku install <app>` ：通过ADB将应用程序直接下载并安装到手机上",
+    "`shizuku activate`: 1-Click ADB activation for connected Android devices": "`shizuku activate` ： 1-针对已连接的安卓设备点击ADB激活",
+    "💻 Shizuku Ecosystem CLI & ADB Companion": "💻 Shizuku生态系统CLI和ADB伴侣",
+    "**Commands**:": "指令",
+    "`shizuku search <query>`: Search apps across all categories": "`shizuku search <query>` ：搜索所有类别的应用"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -1625,6 +1639,20 @@
     "[`llms.txt`](llms.txt)": "[ `llms.txt` ](llms.txt)",
     "❓ Frequently Asked Questions (FAQ)": "Часто задаваемые вопросы (FAQ)",
     "[AI & Citation Reference](#ai--citation-reference)": "[AI & Citation Reference](#ai-citation-reference)",
-    "[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)": "[Часто задаваемые вопросы (FAQ)](#often-asked-questions-faq)"
+    "[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)": "[Часто задаваемые вопросы (FAQ)](#often-asked-questions-faq)",
+    "A dedicated zero-dependency terminal companion to search 500+ apps, inspect metadata, download mirrored APKs, activate Shizuku, and install apps via ADB:": "Специальный спутник терминала с нулевой зависимостью для поиска более500 приложений, проверки метаданных, загрузки зеркальных APK, активации Shizuku и установки приложений через ADB:",
+    "`shizuku top`: Display essential curated top picks": "`shizuku top` : отображение основных отобранных вариантов",
+    "`shizuku download <app>`: Download verified mirrored APK with SHA256 integrity check": "`shizuku download <app>` : Загрузите проверенный зеркальный APK с проверкой целостности SHA256",
+    "`shizuku info <app>`: Rich app card, license, source repo, and verified APK releases": "`shizuku info <app>` : расширенная карточка приложения, лицензия, исходный код репозитория и проверенные версии APK",
+    "`shizuku feeds`: View F-Droid, Obtainium, and Atom RSS endpoints": "`shizuku feeds` : просмотр конечных точек RSS F-Droid, Obtainium и Atom",
+    "`shizuku interactive`": "Code: 0",
+    "`shizuku status`: Check connected devices, Android/SDK version, and Shizuku daemon status": "`shizuku status` : проверьте подключенные устройства, версию Android/SDK и статус демона Shizuku",
+    "`pip install -e .` (or symlink `bin/shizuku` to `~/.local/bin/shizuku`)": "`pip install -e .` (или Symlink `bin/shizuku` to `~/.local/bin/shizuku` )",
+    "`./bin/shizuku search debloat`": "Code: 0",
+    "`shizuku activate`: 1-Click ADB activation for connected Android devices": "`shizuku activate` : Активация ADB в 1 клик для подключенных устройств Android",
+    "💻 Shizuku Ecosystem CLI & ADB Companion": "Интерфейс командной строки экосистемы 💻 Сидзуку и компаньон АБР",
+    "**Commands**:": "команды",
+    "`shizuku search <query>`: Search apps across all categories": "`shizuku search <query>` : поиск приложений по всем категориям",
+    "`shizuku install <app>`: Download and install app directly to your phone via ADB": "`shizuku install <app>` : Download and install app directly to your phone via ADB"
   }
 }
