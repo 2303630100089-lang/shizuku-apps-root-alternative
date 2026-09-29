@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   links:
@@ -18,3 +19,8 @@ jobs:
         with:
           python-version: "3.x"
       - run: python scripts/catalog.py --task links
+      - name: Run Deep Link Health Check & Auto-Issue Creator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/link_checker_issue.py --create-issue || true

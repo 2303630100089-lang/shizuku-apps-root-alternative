@@ -1,0 +1,43 @@
+name: 🤖 App Suggestion to PR Bot
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  convert-to-pr:
+    if: contains(github.event.issue.labels.*.name, 'app-suggestion')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Parse Issue and Update Files
+        id: process_issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python3 scripts/issue_to_pr.py --issue-body "$ISSUE_BODY"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "feat: add app suggested in #${{ github.event.issue.number }}"
+          title: "🤖 [Auto-PR] Add app from Issue #${{ github.event.issue.number }}"
+          body: |
+            Automatically generated PR from community suggestion in #${{ github.event.issue.number }}.
+            Closes #${{ github.event.issue.number }}.
+          branch: "auto-suggestion-issue-${{ github.event.issue.number }}"
+          delete-branch: true

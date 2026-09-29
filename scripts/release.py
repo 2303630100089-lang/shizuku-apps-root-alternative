@@ -94,6 +94,9 @@ def generate_release_body(
     source_tag: str,
     assets_info: list[dict[str, Any]],
     license_info: str = "",
+    upstream_notes: str = "",
+    vt_summary: str = "",
+    inspection_summary: str = "",
 ) -> str:
     """Generate a structured release description with full attribution."""
     source_url = f"https://github.com/{source_repo}"
@@ -115,6 +118,20 @@ def generate_release_body(
         "",
     ]
 
+    # Upstream changelog notes
+    if upstream_notes:
+        body_lines.extend([
+            f"## 📝 What's New in {version} (Upstream Changelog)",
+            "",
+            "<details open>",
+            "<summary>Click to expand upstream release notes</summary>",
+            "",
+            upstream_notes.strip(),
+            "",
+            "</details>",
+            "",
+        ])
+
     # APK details
     if assets_info:
         body_lines.append("## APK Assets")
@@ -132,6 +149,20 @@ def generate_release_body(
             body_lines.append(f"- **Size:** {size_str}")
             body_lines.append(f"- **SHA-256:** `{sha256}`")
             body_lines.append("")
+
+    # Architecture, SDK & Privacy Inspection
+    if inspection_summary:
+        body_lines.extend([
+            inspection_summary.strip(),
+            "",
+        ])
+
+    # VirusTotal Safety Report
+    if vt_summary:
+        body_lines.extend([
+            vt_summary.strip(),
+            "",
+        ])
 
     # License
     if license_info:

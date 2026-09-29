@@ -1,0 +1,42 @@
+name: 🛡️ Archived & Abandoned Repo Detector
+
+on:
+  schedule:
+    # Run once every Sunday at 04:00 UTC
+    - cron: '0 4 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Run Archive Detector
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/archive_detector.py --output-json site/repo_health.json --output-md site/repo_health.md
+
+      - name: Check in generated reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/repo_health.json site/repo_health.md || true
+          if git diff --staged --quiet; then
+            echo "No changes in repository health status."
+          else
+            git commit -m "chore(health): update upstream repository health report [skip ci]"
+            git push origin main
+          fi

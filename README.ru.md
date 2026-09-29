@@ -1,7 +1,10 @@
 <div align="center">
 
-# 🚀 Best Shizuku Apps for Android (No Root)
-### Discover the top Shizuku apps, Android root alternatives, wireless ADB tools, debloat apps, and power-user utilities
+# 🚀 Лучшие приложения Shizuku для Android (Без Root)
+
+> 🌐 **Language / 语言 / Язык:** [ 🇬🇧 English ](README.md) • [ 🇨🇳 简体中文 ](README.zh-CN.md) • [ 🇷🇺 Русский ](README.ru.md)
+
+### Откройте для себя лучшие приложения Shizuku, альтернативы Root, утилиты беспроводного ADB и инструменты для продвинутых пользователей
 
 [![GitHub stars](https://img.shields.io/github/stars/krishna3163/shizuku-apps-root-alternative?style=for-the-badge&logo=github)](https://github.com/krishna3163/shizuku-apps-root-alternative/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/krishna3163/shizuku-apps-root-alternative?style=for-the-badge&logo=github)](https://github.com/krishna3163/shizuku-apps-root-alternative/network)
@@ -14,9 +17,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@krishna.0858-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishna.0858/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna0858/)
 
-**Find the best Shizuku apps to customize Android, remove bloatware, manage apps, improve privacy, automate tasks, and unlock root-like features without rooting your phone.**
+**Найдите лучшие приложения Shizuku для настройки Android, удаления встроенного мусора, контроля конфиденциальности и автоматизации без рутирования устройства.**
 
-[📱 What is Shizuku?](#-what-is-shizuku) • [📋 App Categories](#-table-of-contents) • [⭐ Top Picks](#-my-top-picks) • [🤝 Join Community](#-join-the-community) • [🔗 Resources](#-resources)
+[📱 Что такое Shizuku?](#-what-is-shizuku) • [📋 Категории приложений](#-table-of-contents) • [⭐ Избранное](#-my-top-picks) • [🤝 Сообщество](#-join-the-community) • [🔗 Ресурсы](#-resources)
 
 <br>
 
@@ -27,7 +30,7 @@
 ---
 
 <details id="about">
-<summary><h2>📝 About</h2></summary>
+<summary><h2>📝 О проекте</h2></summary>
 
 If you are searching for **best Shizuku apps**, **Android apps without root**, **Shizuku root alternative**, **wireless ADB apps**, or **debloat apps for Android**, this repository is built for you.
 
@@ -42,7 +45,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - 📱 **No Root Required** - Great for non-rooted Android users
 - 🔍 **SEO-Friendly Discovery** - Covers popular Android search topics
 - 🤝 **Community Driven** - Everyone can suggest apps, fixes, and improvements
-- 📂 **Well Organized** - Apps grouped by category and use case
+- 📂 **Well Organized** - Приложениеs grouped by category and use case
 - 🔓 **Open Source Friendly** - FOSS and source-available apps are easy to spot
 
 ### 🔥 Popular Search Topics
@@ -50,7 +53,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - Best Shizuku apps for Android
 - Android root alternative apps
 - Debloat apps without root
-- App manager apps using Shizuku
+- Приложение manager apps using Shizuku
 - Privacy apps without root
 - Wireless ADB tools for Android
 - Shizuku customization apps
@@ -61,7 +64,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 ---
 
 <details id="-what-is-shizuku">
-<summary><h2>📱 What is Shizuku?</h2></summary>
+<summary><h2>📱 Что такое Shizuku?</h2></summary>
 
 [Shizuku](https://shizuku.rikka.app/) is a framework that allows Android apps to use system APIs with elevated privileges via ADB, without requiring root access.
 
@@ -73,7 +76,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 - ✅ Open source and actively maintained
 
 ### 🚀 Quick Setup
-1. Install [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or get it from [GitHub](https://github.com/RikkaApps/Shizuku/releases)
+1. Install [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) or get it from [GitHub](https://github.com/RikkaПриложениеs/Shizuku/releases)
 2. Enable Wireless Debugging in Developer Options
 3. Start Shizuku service
 4. Install your favorite Shizuku-powered apps
@@ -82,12 +85,12 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 ---
 
-## ⭐ My Top Picks
+## ⭐ My Избранное
 
-### 🎯 Essential Apps
+### 🎯 Essential Приложениеs
 1. **[Mythara](https://github.com/ankurCES/project_mythara)** - Local-first Android AI agent with on-device tools
 2. **[OmniPrompt](https://github.com/mrndstvndv/OmniPrompt)** - Keyboard-first command palette for apps and system utilities
-3. **[Neo-Store](https://github.com/NeoApplications/Neo-Store)** - Modern F-Droid client with powerful update tools
+3. **[Neo-Store](https://github.com/NeoПриложениеlications/Neo-Store)** - Modern F-Droid client with powerful update tools
 4. **[ShizuTools](https://github.com/legendsayantan/ShizuTools)** - Practical tools for deeper Android system control
 5. **[Mihon](https://github.com/mihonapp/mihon)** - Open-source manga reader with Shizuku-powered extensions
 
@@ -101,19 +104,19 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 ---
 
 <details id="-table-of-contents">
-<summary><h2>📑 Table of Contents</h2></summary>
+<summary><h2>📑 Содержание</h2></summary>
 
-- [Recently Updated Apps](#recent-updates)
+- [Recently Updated Приложениеs](#recent-updates)
 - [APK Downloads](#apk-downloads)
 - [Catalog Analytics](#catalog-analytics)
-- [Apps](#apps)
+- [Приложениеs](#apps)
   - [AI agents](#ai-agents)
   - [Android TV](#android-tv)
   - [Audio](#audio)
-  - [Automation](#automation)
+  - [Автоматизация](#automation)
   - [Communication](#communication)
-  - [Customization](#customization)
-  - [Development utilities](#development-utilities)
+  - [Кастомизация и оформление](#customization)
+  - [Разработка и отладка utilities](#development-utilities)
   - [Device Owner (DPM)](#device-owner-dpm)
   - [Display management](#display-management)
   - [Entertainment](#entertainment)
@@ -138,20 +141,20 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
     - [Other](#other)
   - [Closed-source apps](#closed-source-apps)
   - [Unlisted apps](#unlisted-apps)
-- [Development libraries](#development-libraries)
+- [Разработка и отладка libraries](#development-libraries)
   - [Core](#core)
   - [Filesystem](#filesystem)
   - [System](#system)
-- [Miscellaneous content](#miscellaneous-content)
+- [Разное и дополнительные инструменты](#miscellaneous-content)
 - [Rish shell](#rish-shell)
 - [Annotations](#annotations)
-- [Other apps (FOSS alternatives to premium apps)](#other-apps-foss-alternatives-to-premium-apps)
-- [Resources](#resources)
-- [Android Power-User Ecosystem](#android-power-user-ecosystem)
-- [Connect with Maintainer](#connect-with-maintainer)
-- [Join the Community](#-join-the-community)
+- [Другие приложения (FOSS альтернативы платным сервисам)](#other-apps-foss-alternatives-to-premium-apps)
+- [Ресурсы](#resources)
+- [Экосистема для энтузиастов Android](#android-power-user-ecosystem)
+- [Связаться с автором и соцсети](#connect-with-maintainer)
+- [Присоединиться к сообществу](#-join-the-community)
 - [Contributors & Community Wall](#contributors--community-wall)
-- [License](#license)
+- [Лицензия](#license)
 
 </details>
 
@@ -160,19 +163,19 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 <!-- AUTO-DISCOVERED-SHIZUKU-APPS:START -->
 
 <details id="discovered-apps">
-<summary><h2>🔍 Auto-Discovered Shizuku Apps</h2></summary>
+<summary><h2>🔍 Auto-Discovered Shizuku Приложениеs</h2></summary>
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 |:---|:---|:---|:---|
 | **[adbeacon](https://github.com/DalitsoSakala/adbeacon)** | Ubuntu tray + window app for wireless ADB: discover, connect, pair and USB→Wi-Fi hand-over for Android devices on your network | See project | [GitHub](https://github.com/DalitsoSakala/adbeacon) |
 | **[android-control](https://github.com/azimshaik/android-control)** | Read-only Android telemetry over wireless ADB — no root, no app installs, no data leaving your machine. | See project | [GitHub](https://github.com/azimshaik/android-control) |
 | **[apk-tv-installer](https://github.com/Turki-Alshaikh/apk-tv-installer)** | 📦 APK/XAPK Installer Pro: A sleek Python GUI tool (CustomTkinter) to wirelessly sideload Android apps to Android TVs and smart screens via ADB. Features auto-network scanning and native XAPK support. | See project | [GitHub](https://github.com/Turki-Alshaikh/apk-tv-installer) |
-| **[AppOpsNext](https://github.com/1zumiii/AppOpsNext)** | Modern Android 15+ AppOps manager powered by Shizuku. | See project | [GitHub](https://github.com/1zumiii/AppOpsNext) |
+| **[ПриложениеOpsNext](https://github.com/1zumiii/ПриложениеOpsNext)** | Modern Android 15+ ПриложениеOps manager powered by Shizuku. | See project | [GitHub](https://github.com/1zumiii/ПриложениеOpsNext) |
 | **[Benimaru](https://github.com/Benimaru-x1k/Benimaru)** | An Android utility app that leverages Shizuku to apply advanced ADB performance tweaks, optimize refresh rates, and safely change screen resolution. all without requiring root access. | See project | [GitHub](https://github.com/Benimaru-x1k/Benimaru) |
 | **[BoneConductionMusic](https://github.com/bbbomb0/BoneConductionMusic)** | Shizuku-only music-to-haptics Android app with a Miuix UI. | See project | [GitHub](https://github.com/bbbomb0/BoneConductionMusic) |
 | **[BooxUltimatum](https://github.com/huuunleashed/BooxUltimatum)** | A home screen, sleep-screen designer, battery doctor and tweak hub for the BOOX Note Air6 C, in one app, without root. | See project | [GitHub](https://github.com/huuunleashed/BooxUltimatum) |
 | **[Bulwark](https://github.com/SaiStyles/Bulwark)** | Strip bloatware, trackers and permissions from a stock Android phone - no root, no unlocked bootloader. Shizuku-driven, with zero network permission. | See project | [GitHub](https://github.com/SaiStyles/Bulwark) |
-| **[Debloat-HyperOS-App](https://github.com/AnasAbdullh/Debloat-HyperOS-App)** | Open-source Android app to safely debloat Xiaomi & HyperOS devices using Shizuku. No root required. | See project | [GitHub](https://github.com/AnasAbdullh/Debloat-HyperOS-App) |
+| **[Debloat-HyperOS-Приложение](https://github.com/AnasAbdullh/Debloat-HyperOS-Приложение)** | Open-source Android app to safely debloat Xiaomi & HyperOS devices using Shizuku. No root required. | See project | [GitHub](https://github.com/AnasAbdullh/Debloat-HyperOS-Приложение) |
 | **[Droidsmith](https://github.com/SysAdminDoc/Droidsmith)** | Local Android device workshop for apps, debloat recovery, wireless ADB, Logcat, scrcpy, and APK inspection. | See project | [GitHub](https://github.com/SysAdminDoc/Droidsmith) |
 | **[EssentialKeyTools](https://github.com/KoukeNeko/EssentialKeyTools)** | Remap the Nothing Phone Essential Key to your own actions — no root required. | See project | [GitHub](https://github.com/KoukeNeko/EssentialKeyTools) |
 | **[fenox](https://github.com/onefennox/fenox)** | Portable CLI that connects, monitors, and launches Flutter apps on USB/wireless/emulator devices — WSL-friendly, with blast deploys, profiles, and plugins | See project | [GitHub](https://github.com/onefennox/fenox) |
@@ -188,10 +191,10 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **[sentinel52](https://github.com/knowlily/sentinel52)** | 自维护包名名单，命中即静默卸载 —— Root / Dhizuku / Stellar 三个特权后端 | See project | [GitHub](https://github.com/knowlily/sentinel52) |
 | **[shizuku-fdroid-repo](https://github.com/K3NOXOFFICIAL/shizuku-fdroid-repo)** | All Shizuku-enabled Android apps in one place: catalog + F-Droid-compatible repository data | See project | [GitHub](https://github.com/K3NOXOFFICIAL/shizuku-fdroid-repo) |
 | **[shizuku-Relay](https://github.com/XuanFENNN/shizuku-Relay)** | Android-to-Android Wireless ADB tool for securely starting Shizuku on another device. | See project | [GitHub](https://github.com/XuanFENNN/shizuku-Relay) |
-| **[ShizuStore](https://github.com/timschneeb/ShizuStore)** | App store for Shizuku apps. Based on my awesome-shizuku list and installs APKs straight from their upstream sources | See project | [GitHub](https://github.com/timschneeb/ShizuStore) |
+| **[ShizuStore](https://github.com/timschneeb/ShizuStore)** | Приложение store for Shizuku apps. Based on my awesome-shizuku list and installs APKs straight from their upstream sources | See project | [GitHub](https://github.com/timschneeb/ShizuStore) |
 | **[SystemDebloater](https://github.com/mystichero1/SystemDebloater)** | A android app made for universal usage to debloat your android devices using shizuku, requires android 8.0+. | See project | [GitHub](https://github.com/mystichero1/SystemDebloater) |
 | **[termux-config](https://github.com/jehan593/termux-config)** | Personal Termux setup scripts, dotfiles, and command-line tools. | See project | [GitHub](https://github.com/jehan593/termux-config) |
-| **[Uraam](https://github.com/Ruraam/Uraam)** | Universal Ruvomain ADB App Manager [URAAM]: An all-in-one shell toolkit for Android debloating. Uninstall/disable your apps, backup your debloat apps JSON file & revert/restore, install apk. Works with "Termux  `WirelessADB, Shizuku, Root', Linux `Debian, Arch, Fedora, macOS & WSL '. Compatible with Canta/UAD JSON lists. | See project | [GitHub](https://github.com/Ruraam/Uraam) |
+| **[Uraam](https://github.com/Ruraam/Uraam)** | Universal Ruvomain ADB Приложение Manager [URAAM]: An all-in-one shell toolkit for Android debloating. Uninstall/disable your apps, backup your debloat apps JSON file & revert/restore, install apk. Works with "Termux  `WirelessADB, Shizuku, Root', Linux `Debian, Arch, Fedora, macOS & WSL '. Compatible with Canta/UAD JSON lists. | See project | [GitHub](https://github.com/Ruraam/Uraam) |
 
 </details>
 
@@ -200,20 +203,20 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 <!-- RECENT-UPDATES-START -->
 
 <details id="recent-updates">
-<summary><h2>🔥 Recently Updated Apps</h2></summary>
+<summary><h2>🔥 Recently Updated Приложениеs</h2></summary>
 
 > Automatically synced from upstream releases. Shows the latest new versions.
 
-| App | Developer | Version | Released | APK | Upstream |
+| Приложение | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
 | ⚡ **Dragon-Launcher** | Elnix90 | `4.3.0` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dragon-launcher-4.3.0) | [Upstream](https://github.com/Elnix90/Dragon-Launcher/releases) |
 | ⚡ **de1984** | dorumrr | `v2.7.8` | 2026-09-27 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.8) | [Upstream](https://github.com/dorumrr/de1984/releases) |
 | ⚡ **WG Tunnel** | wgtunnel | `5.7.5` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.5) | [Upstream](https://github.com/wgtunnel/wgtunnel/releases) |
 | ⚡ **PrivacyFlip** | dorumrr | `v2.1.9` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.9) | [Upstream](https://github.com/dorumrr/privacyflip/releases) |
-| ⚡ **Morphe Manager** | MorpheApp | `v1.32.0` | 2026-09-24 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.32.0) | [Upstream](https://github.com/MorpheApp/morphe-manager/releases) |
+| ⚡ **Morphe Manager** | MorpheПриложение | `v1.32.0` | 2026-09-24 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.32.0) | [Upstream](https://github.com/MorpheПриложение/morphe-manager/releases) |
 | ⚡ **DetoxDroid** | flxapps | `v2.8.2` | 2026-09-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/detoxdroid-v2.8.2) | [Upstream](https://github.com/flxapps/DetoxDroid/releases) |
 | ⚡ **KeyMapper** | keymapperorg | `v4.5.0` | 2026-09-21 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/keymapper-v4.5.0) | [Upstream](https://github.com/keymapperorg/KeyMapper/releases) |
-| ⚡ **Neo-Store** | NeoApplications | `1.3.0` | 2026-09-20 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.3.0) | [Upstream](https://github.com/NeoApplications/Neo-Store/releases) |
+| ⚡ **Neo-Store** | NeoПриложениеlications | `1.3.0` | 2026-09-20 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.3.0) | [Upstream](https://github.com/NeoПриложениеlications/Neo-Store/releases) |
 | ⚡ **Aniyomi** | aniyomiorg | `v0.18.2.1` | 2026-09-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aniyomi-v0.18.2.1) | [Upstream](https://github.com/aniyomiorg/aniyomi/releases) |
 | ⚡ **Obtainium** | ImranR98 | `v1.6.17` | 2026-09-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.17) | [Upstream](https://github.com/ImranR98/Obtainium/releases) |
 
@@ -227,7 +230,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 > Automatically synced from upstream GitHub releases. APKs are unmodified.
 
-| App | Developer | Version | Updated | APK | Source |
+| Приложение | Developer | Version | Updated | APK | Source |
 |:---|:---|:---|:---|:---|:---|
 | **Amarok-Hider** | deltazefiro | `v0.10.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/amarok-hider-v0.10.1) | [GitHub](https://github.com/deltazefiro/Amarok-Hider) |
 | **Aniyomi** | aniyomiorg | `v0.18.2.1` | 2026-09-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aniyomi-v0.18.2.1) | [GitHub](https://github.com/aniyomiorg/aniyomi) |
@@ -256,11 +259,11 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **LinkSheet** | LinkSheet | `0.0.33` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/linksheet-0.0.33) | [GitHub](https://github.com/LinkSheet/LinkSheet) |
 | **LogFox** | F0x1d | `v2.1.10-79` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/logfox-v2.1.10-79) | [GitHub](https://github.com/F0x1d/LogFox) |
 | **LSPatch** | JingMatrix | `v1.2` | 2026-08-23 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/lspatch-v1.2) | [GitHub](https://github.com/JingMatrix/LSPatch) |
-| **MicroG-RE** | MorpheApp | `7.1.1` | 2026-09-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-7.1.1) | [GitHub](https://github.com/MorpheApp/MicroG-RE) |
+| **MicroG-RE** | MorpheПриложение | `7.1.1` | 2026-09-10 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/microg-re-7.1.1) | [GitHub](https://github.com/MorpheПриложение/MicroG-RE) |
 | **Mihon** | mihonapp | `v0.20.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mihon-v0.20.4) | [GitHub](https://github.com/mihonapp/mihon) |
 | **Morphe AutoBuilds** | RookieEnough | `latest` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-autobuilds-latest) | [GitHub](https://github.com/RookieEnough/Morphe-AutoBuilds) |
-| **Morphe Manager** | MorpheApp | `v1.32.0` | 2026-09-24 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.32.0) | [GitHub](https://github.com/MorpheApp/morphe-manager) |
-| **Neo-Store** | NeoApplications | `1.3.0` | 2026-09-20 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.3.0) | [GitHub](https://github.com/NeoApplications/Neo-Store) |
+| **Morphe Manager** | MorpheПриложение | `v1.32.0` | 2026-09-24 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.32.0) | [GitHub](https://github.com/MorpheПриложение/morphe-manager) |
+| **Neo-Store** | NeoПриложениеlications | `1.3.0` | 2026-09-20 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.3.0) | [GitHub](https://github.com/NeoПриложениеlications/Neo-Store) |
 | **Obtainium** | ImranR98 | `v1.6.17` | 2026-09-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.17) | [GitHub](https://github.com/ImranR98/Obtainium) |
 | **OmniPrompt** | mrndstvndv | `v0.19.0` | 2026-09-11 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/omniprompt-v0.19.0) | [GitHub](https://github.com/mrndstvndv/OmniPrompt) |
 | **OwnDroid** | BinTianqi | `v8.3.1` | 2026-08-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/owndroid-v8.3.1) | [GitHub](https://github.com/BinTianqi/OwnDroid) |
@@ -268,7 +271,7 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 | **ReTerminal** | RohitKushvaha01 | `v1.2.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/reterminal-v1.2.0) | [GitHub](https://github.com/RohitKushvaha01/ReTerminal) |
 | **SAI** | Aefyr | `4.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sai-4.5) | [GitHub](https://github.com/Aefyr/SAI) |
 | **SDMaid-SE** | d4rken-org | `v2.1.0-rc0` | 2026-09-06 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sdmaid-se-v2.1.0-rc0) | [GitHub](https://github.com/d4rken-org/sdmaid-se) |
-| **Shizuku** | RikkaApps | `v13.6.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuku-v13.6.0) | [GitHub](https://github.com/RikkaApps/Shizuku) |
+| **Shizuku** | RikkaПриложениеs | `v13.6.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuku-v13.6.0) | [GitHub](https://github.com/RikkaПриложениеs/Shizuku) |
 | **ShizuTools** | legendsayantan | `v1.4.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizutools-v1.4.6) | [GitHub](https://github.com/legendsayantan/ShizuTools) |
 | **ShizuWall** | AhmetCanArslan | `v4.6.4` | 2026-09-09 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuwall-v4.6.4) | [GitHub](https://github.com/AhmetCanArslan/ShizuWall) |
 | **Smartspacer** | KieronQuinn | `1.11.3` | 2026-08-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/smartspacer-1.11.3) | [GitHub](https://github.com/KieronQuinn/Smartspacer) |
@@ -296,12 +299,12 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 <summary><b>📈 Interactive Mermaid Chart</b></summary>
 
 ```mermaid
-pie title App Category Breakdown
+pie title Приложение Category Breakdown
     "Vendor-specific" : 49
-    "Customization" : 48
+    "Кастомизация и оформление" : 48
     "Network" : 29
     "Installer & app stores" : 27
-    "Development utilities" : 26
+    "Разработка и отладка utilities" : 26
     "Software management" : 24
     "Miscellaneous" : 21
     "Other Categories" : 206
@@ -312,11 +315,11 @@ pie title App Category Breakdown
 </details>
 <!-- STATS-GRAPH-END -->
 
-## Apps
+## Приложениеs
 
 ### AI agents
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Aether | Localized, extensible general-purpose AI agent for Android, iOS and macOS, with optional Shizuku and Termux integration for direct device control. | GPL-3.0 | [Link](https://github.com/Zhou-Shilin/Aether) |
 | AndroidHarness | On-device coding agent that routes privileged commands through a Shizuku shell UID, with a Termux-prefixed Linux toolchain as fallback. | MIT | [Link](https://github.com/Sanuu7/AndroidHarness) |
@@ -332,21 +335,21 @@ pie title App Category Breakdown
 | Operit AI | AI agent and AI chat software on Android. Can run commands using Shizuku | LGPL-3.0 | [GitHub](https://github.com/AAswordman/Operit) |
 | rish-mcp | Exposes an Android device's Shizuku shell to AIs as an MCP run_shell tool over an outbound WebSocket relay | MIT | [GitHub](https://github.com/turin-dev/rish-mcp) |
 | roubao | Open-source on-device AI phone automation assistant based on vision-language models that performs tasks via Shizuku system permissions, no PC needed. `MIT` [(Source code)](https://github.com/Turbo1123/roubao) | MIT | [Link](https://github.com/Turbo1123/roubao/blob/main/README_EN.md) |
-| Ruto-GLM | Automation and multitasking framework using AutoGLM with virtual screens and multi-window | Apache-2.0 | [GitHub](https://github.com/iamr0s/Ruto-GLM) |
+| Ruto-GLM | Автоматизация and multitasking framework using AutoGLM with virtual screens and multi-window | Apache-2.0 | [GitHub](https://github.com/iamr0s/Ruto-GLM) |
 | Zafiro | Bring-your-own-key AI agent that reads the screen and controls the device through Shizuku, without root. | MIT | [Link](https://github.com/niki914/zafiro) |
 
 ### Android TV
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | flicky | An F-Droid client designed for Android TVs | GPL-3.0 | [Link](https://apt.izzysoft.de/packages/app.flicky) · [Source code](https://github.com/mlm-games/flicky) |
 | fluffy | A file manager and archive viewer designed for Android TVs | GPL-3.0 | [Link](https://apt.izzysoft.de/packages/app.fluffy) · [Source code](https://github.com/mlm-games/fluffy) |
-| RecentAppsTV | Recent Apps overlay for Android TV | Proprietary | [Link](https://github.com/Qutaiba-Khader/RecentAppsTV) |
+| RecentПриложениеsTV | Recent Приложениеs overlay for Android TV | Proprietary | [Link](https://github.com/Qutaiba-Khader/RecentПриложениеsTV) |
 | TVPilot | Remote-first system control and app management for Android TV / Google TV, with optional Shizuku-powered advanced actions | Apache-2.0 | [Link](https://github.com/mahmutaunal/TVPilot) |
 
 ### Audio
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | allEQ | Rootless 10-band system equalizer that hooks the output mix audio session through Shizuku. | GPL-3.0 | [Link](https://github.com/omixin/allEQ) |
 | android-realtime-voice-isolation | On-device real-time voice isolation using Shizuku, GTCRN, and ONNX Runtime | MIT | [Link](https://github.com/sk2andy/android-realtime-voice-isolation) |
@@ -359,9 +362,9 @@ pie title App Category Breakdown
 | VolumeManager | Control each app's volume independently | GPL-2.0 | [Link](https://github.com/yume-chan/VolumeManager) |
 | wecho | Global audio effects processing | MIT | [GitHub](https://github.com/qumolangmo/wecho) |
 
-### Automation
+### Автоматизация
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Argus | Tasker-class Android automation where an LLM compiles natural-language rules into a deterministic engine, with an optional Shizuku shell gateway. | GPL-3.0 | [Link](https://github.com/JackRushante/argus) |
 | AutoJs6 | JavaScript-based automation tool | MPL-2.0 | [Link](https://github.com/SuperMonster003/AutoJs6) |
@@ -370,7 +373,7 @@ pie title App Category Breakdown
 | Geto | Automatically change device settings when a specific app is launched | GPL-3.0 | [Link](https://github.com/JackEblan/Geto) |
 | IMD | Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them | GPL-3.0 | [Link](https://github.com/soul-99/SU_IMD) |
 | NexaFlow | Context-aware Android automation engine combining triggers, constraints and actions, with Shizuku execution for privileged device controls. | MIT | [Link](https://github.com/Alaa91H/NexaFlow) |
-| Nothing_Modes | Automation app for Nothing phones (modes, routines, Glyph) that also runs on other Android devices with optional Shizuku | GPL-3.0 | [Link](https://github.com/Dvorinka/Nothing_Modes) |
+| Nothing_Modes | Автоматизация app for Nothing phones (modes, routines, Glyph) that also runs on other Android devices with optional Shizuku | GPL-3.0 | [Link](https://github.com/Dvorinka/Nothing_Modes) |
 | OpenTasker | Local-first, open-source Tasker alternative with readable rules and honest permission gates; privileged actions run through a Shizuku AIDL user service. | MIT | [Link](https://github.com/SysAdminDoc/OpenTasker) |
 | PhoneProfilesPlus | Automatic or one-click configuration for specific life situations | Apache-2.0 | [Link](https://github.com/henrichg/PhoneProfilesPlus) |
 | Service-Keeper | Watches background, accessibility and notification-listener services and auto-restarts ones the system kills. | GPL-3.0 | [Link](https://github.com/shaunkleyn/Service-Keeper) |
@@ -379,7 +382,7 @@ pie title App Category Breakdown
 
 ### Communication
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Aliucord-Manager | Discord modding tool | OSL-3.0 | [Link](https://github.com/Aliucord/Manager) |
 | Bluesky Redirect | Launch Bluesky links in your preferred Bluesky client | MIT | [Link](https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect) · [Source code](https://github.com/Turtlepaw/BlueskyRedirect) |
@@ -394,13 +397,13 @@ pie title App Category Breakdown
 | Lemmy Redirect | Launch Lemmy links in your preferred client | MIT | [Link](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) · [Source code](https://github.com/zacharee/MastodonRedirect) |
 | Mastodon Redirect | Launch fediverse links in your preferred Mastodon client | MIT | [Link](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) · [Source code](https://github.com/zacharee/MastodonRedirect) |
 | revenge-manager | Discord modding tool | OSL-3.0 | [Link](https://github.com/revenge-mod/revenge-manager) |
-| RivoPhoneApp | Material 3 dialer and contacts app with Shizuku-powered call recording without root | GPL-3.0 | [Link](https://github.com/user-grinch/RivoPhoneApp) |
+| RivoPhoneПриложение | Material 3 dialer and contacts app with Shizuku-powered call recording without root | GPL-3.0 | [Link](https://github.com/user-grinch/RivoPhoneПриложение) |
 | ShizuCallRecorder | Record phone calls on non-rooted devices through ADB via Shizuku | GPL-3.0 | [Link](https://github.com/kitsumed/ShizuCallRecorder) |
 | TxtNet-Browser | Browse the web over SMS | GPL-3.0 | [Link](https://github.com/lukeaschenbrenner/TxtNet-Browser) |
 
-### Customization
+### Кастомизация и оформление
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Adaptive-Theme | Smart dark mode based on ambient light | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=dev.lexip.hecate) · [Source code](https://github.com/xLexip/Adaptive-Theme) |
 | AmbientMusicMod | Port of Now Playing from Pixels to other Android devices | GPL-3.0 | [Link](https://github.com/KieronQuinn/AmbientMusicMod) |
@@ -451,9 +454,9 @@ pie title App Category Breakdown
 | WidgetsPro | CPU and battery widgets | Proprietary | [Link](https://github.com/preethamkmr3/WidgetsPro) |
 | YoukiDEX | Full desktop experience layer for Android | GPL-3.0 | [Link](https://github.com/mrYouki/YoukiDex-Android-Desktop) |
 
-### Development utilities
+### Разработка и отладка utilities
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | 80bee-app | Root-free on-device ADB/Fastboot toolbox: boot modes, DPI, DNS, debloater and sideload bypass via Shizuku, plus USB-OTG host mode. | Apache-2.0 | [Link](https://github.com/Endda/80bee-app) |
 | ActivityLauncherShizukuPlugin | A Shizuku-based plugin for [Activity Launcher](https://github.com/butzist/ActivityLauncher) that allows launching private (non-exported) activities. | GPL-3.0 | [Link](https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin) |
@@ -475,7 +478,7 @@ pie title App Category Breakdown
 | KeyAttestation | Generate, save, load, parse, and verify Android key and ID attestation data | Proprietary | [Link](https://github.com/vvb2060/KeyAttestation) |
 | LibChecker | View libraries used in apps and determine install sources | Apache-2.0 | [Link](https://github.com/LibChecker/LibChecker) |
 | LogFox | ✨ - Logcat reader for Android | GPL-3.0 | [Link](https://github.com/F0x1d/LogFox) |
-| ManageSensors | Fine-grained app permission control using AppOps APIs | MIT | [Link](https://github.com/Carry-rrk/ManageSensors) |
+| ManageSensors | Fine-grained app permission control using ПриложениеOps APIs | MIT | [Link](https://github.com/Carry-rrk/ManageSensors) |
 | panda-ide | Mobile-first Flutter IDE with code editor, PTY terminal, Git and VS Code extensions; a Shizuku bridge provides ADB-level shell for on-device flutter run. | MIT | [Link](https://github.com/ferelking242/panda-ide) |
 | ReSukiSU | KernelSU-based root solution for Android with advanced hook and module support | GPL-3.0 | [Link](https://github.com/ReSukiSU/ReSukiSU) |
 | roamer | Developer tool overriding SIM country ISO and carrier name via Shizuku, with optional per-app locale syncing. | MIT | [Link](https://github.com/eigenlux-ai/roamer) |
@@ -484,7 +487,7 @@ pie title App Category Breakdown
 
 ### Device owner (DPM)
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Dhizuku | Share DeviceOwner permissions to third-party apps | GPL-3.0 | [Link](https://github.com/iamr0s/Dhizuku) |
 | Déchaîner | Blocks adult content as Device Owner; Shizuku runs the dpm set-device-owner setup command. | Apache-2.0 | [Link](https://github.com/warleysr/dechainer) |
@@ -499,7 +502,7 @@ pie title App Category Breakdown
 
 ### Display management
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Adaptive-Hz | Automatically switches between 60Hz and 120Hz on supported Samsung devices | MIT | [Link](https://github.com/mahmutaunal/Adaptive-Hz) |
 | akiHz | Lightweight refresh rate switcher with Quick Settings tile, automatic rate detection, and floating FPS monitor | MIT | [Link](https://github.com/anlaki-py/akihz) |
@@ -517,7 +520,7 @@ pie title App Category Breakdown
 
 ### Entertainment
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Aniyomi | Tachiyomi fork with anime support and plugin management using Shizuku | Apache-2.0 | [Link](https://github.com/aniyomiorg/aniyomi) |
 | BiliDownOut | Export Bilibili downloads to standard video files | GPL-3.0 | [Link](https://f-droid.org/en/packages/cn.a10miaomiao.bilidown/) · [Source code](https://github.com/10miaomiao/bili-down-out) |
@@ -527,7 +530,7 @@ pie title App Category Breakdown
 
 ### File management
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Buge-Files | Material 3 Expressive file manager that installs APKs through Shizuku in addition to storage browsing and management. `GPL-3.0` [(Source code)](https://github.com/BugeStudioTeam/Buge-Files) | GPL-3.0 | [Link](https://bugestudio.website/files/) |
 | Butler | `IAP` 💰 - Fast, private file explorer for power users with tabs, trash bin, regex search, app manager, and root/Shizuku support | GPL-3.0 | [Link](https://github.com/d4rken-org/butler) |
@@ -546,17 +549,17 @@ pie title App Category Breakdown
 | UnscopeMyData | Moves app data in and out of scoped storage folders using Shizuku for elevated file access. | GPL-3.0 | [Link](https://github.com/kepatotorica/UnscopeMyData) |
 | XArchiver | File manager with built-in archive support | MIT | [Link](https://github.com/Xtra-Manager-Software/XArchiver) |
 | XClean | Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk. | Proprietary | [Link](https://github.com/utopiafar/XClean) |
-| XFiles | Offline file manager with root and Shizuku support for full filesystem access | GPL-3.0 | [Link](https://github.com/Local1stDotApp/XFiles) |
+| XFiles | Offline file manager with root and Shizuku support for full filesystem access | GPL-3.0 | [Link](https://github.com/Local1stDotПриложение/XFiles) |
 | ZenFile | NFile fork with built-in remote file server support | GPL-3.0 | [Link](https://github.com/l930203811/ZenFile) |
 | ZhuFiler | Open-source Material You file manager with archive, editor, media playback, APK handling and Shizuku-backed privileged access. | MIT | [Link](https://github.com/Artzhu86/ZhuFiler) |
 
 ### Games
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Ascent | Retrieve gacha history links from Mihoyo games | AGPL-3.0 | [Link](https://github.com/4o3F/Ascent) |
 | BDroid_X | Browndust II mod manager | Proprietary | [Link](https://github.com/Ark-Repoleved/BDroid_X) |
-| blocktopograph | App server for MCBE with world and NBT editor | Apache-2.0 | [Link](https://github.com/NguyenDuck/blocktopograph) |
+| blocktopograph | Приложение server for MCBE with world and NBT editor | Apache-2.0 | [Link](https://github.com/NguyenDuck/blocktopograph) |
 | Cinderbox-Companion | Companion app for Stardew Valley on Android with Steam Cloud save sync, game file download, and SMAPI mod management | MIT | [Link](https://github.com/ObfuscatedVoid/Cinderbox-Companion) |
 | CloudSync-Mobile | Sync Stardew Valley saves across devices | GPL-3.0 | [Link](https://github.com/FawazTakahji/CloudSync-Mobile) |
 | HandheldExp | In-game menu for EmulationStation on Android | MIT | [Link](https://github.com/Teppichseite/HandheldExp) |
@@ -571,12 +574,12 @@ pie title App Category Breakdown
 | pogoplusle | Skip pairing dialog when connecting a Pokémon GO Plus | Apache-2.0 | [Link](https://github.com/Mygod/pogoplusle) |
 | ShinGen | Genshin Impact auto-conversation clicker | MIT | [Link](https://github.com/Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android) |
 | stalker | Save data viewer and editor for Shadow Fight 2 | GPL-3.0 | [Link](https://github.com/onerdna/stalker) |
-| SwiftSense | Gaming tuner that uses Shizuku to freeze background apps, disable packages and raise sensor sampling rates. | GPL-3.0 | [Link](https://github.com/itsmelissadev/SwiftSense) |
+| SwiftSense | Игры и оптимизация tuner that uses Shizuku to freeze background apps, disable packages and raise sensor sampling rates. | GPL-3.0 | [Link](https://github.com/itsmelissadev/SwiftSense) |
 | translatefgo | Fate/Grand Order game translation project | MIT | [Link](https://github.com/rayshift/translatefgo) |
 
 ### Input methods
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | 8bitdo-xbox-bridge | Makes the 8BitDo Ultimate Wired Controller for Xbox work as a real system-wide gamepad on Android TV via the reverse-engineered GIP protocol and Shizuku uinput injection. | MIT | [Link](https://github.com/BoredNewCoder/8bitdo-xbox-bridge) |
 | andRemote2 | Emulates the DMD Remote 2 for map apps | Proprietary | [Link](https://github.com/c0dev0id/andRemote2) |
@@ -596,7 +599,7 @@ pie title App Category Breakdown
 
 ### Installer & app stores
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | APKUpdater | APKUpdater fork adding Shizuku-based silent installs next to its APKMirror, Aptoide, F-Droid and IzzyOnDroid sources. | GPL-3.0 | [Link](https://github.com/DmitryN71/apkupdater) |
 | AuroraDroid | FOSS F-Droid client with silent installs via Shizuku/root and automatic updates `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/auroradroid) | GPL-3.0 | [Link](https://f-droid.org/packages/com.aurora.adroid/) |
@@ -606,7 +609,7 @@ pie title App Category Breakdown
 | Droid-ify | Material F-Droid client | GPL-3.0 | [Link](https://f-droid.org/packages/com.looker.droidify/) · [Source code](https://github.com/Droid-ify/client) |
 | ffupdater | Updater for privacy-friendly browsers | GPL-3.0 | [Link](https://f-droid.org/packages/de.marmaro.krt.ffupdater/) · [Source code](https://github.com/Tobi823/ffupdater) |
 | florid | Material 3 F-Droid client | GPL-3.0 | [Link](https://github.com/Nandanrmenon/florid) |
-| GitHub-Store | App store for GitHub releases with discovery features | Apache-2.0 | [Link](https://f-droid.org/packages/zed.rainxch.githubstore/) |
+| GitHub-Store | Приложение store for GitHub releases with discovery features | Apache-2.0 | [Link](https://f-droid.org/packages/zed.rainxch.githubstore/) |
 | instafel | Updater app for Instafel | MIT | [Link](https://github.com/mamiiblt/instafel) |
 | InstallerX-Revived | ✨ - Modern and functional app installer replacement | GPL-3.0 | [Link](https://github.com/wxxsfxyzm/InstallerX-Revived) |
 | InstallWithOptions | Install APKs with advanced options | MIT | [Link](https://github.com/zacharee/InstallWithOptions) |
@@ -618,19 +621,19 @@ pie title App Category Breakdown
 | Obtainium | Get Android app updates directly from the source | GPL-3.0 | [Link](https://github.com/ImranR98/Obtainium) |
 | Omnify | F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row. | GPL-3.0 | [Link](https://github.com/Victor-root/Omnify) |
 | OpenLoader | APK installer built for the Android developer verification era, using Shizuku for the privileged install path. | GPL-3.0 | [Link](https://github.com/thebytearray/OpenLoader) |
-| Orion Store | App store for modded apps | GPL-3.0 | [Link](https://github.com/RookieEnough/Orion-Store) |
-| PI | Package installer with requester/executor override support | MIT | [Link](https://github.com/SanmerApps/PI) |
+| Orion Store | Приложение store for modded apps | GPL-3.0 | [Link](https://github.com/RookieEnough/Orion-Store) |
+| PI | Package installer with requester/executor override support | MIT | [Link](https://github.com/SanmerПриложениеs/PI) |
 | SAI | Android split APK installer | GPL-3.0 | [Link](https://f-droid.org/packages/com.aefyr.sai.fdroid/) · [Source code](https://github.com/Aefyr/SAI) |
 | ShizuCoreFetch | Shizuku-powered app manager with silent installs, updates, and batch operations | GPL-3.0 | [Link](https://github.com/elhizazi1/ShizuCoreFetch) |
 | Shizuku Package Installer | Lightweight app installer replacement with split APK support | Apache-2.0 | [Link](https://github.com/vvb2060/PackageInstaller) |
 | universal-installer | Install and manage APK packages with split APK support and VirusTotal scanning | GPL-3.0 | [Link](https://github.com/pass-with-high-score/universal-installer) |
-| Vyxel Apps | `IAP` 💰 - GitHub-backed app store with signature verification and silent installs through Shizuku. | AGPL-3.0 | [Link](https://github.com/NikhilKain/vyxel-apps) |
+| Vyxel Приложениеs | `IAP` 💰 - GitHub-backed app store with signature verification and silent installs through Shizuku. | AGPL-3.0 | [Link](https://github.com/NikhilKain/vyxel-apps) |
 
 ### Miscellaneous
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
-| AppBooster | GUI for Android's built-in dex2oat utility to re-optimize installed apps | Apache-2.0 | [Link](https://github.com/androidexpert35/AppBooster) |
+| ПриложениеBooster | GUI for Android's built-in dex2oat utility to re-optimize installed apps | Apache-2.0 | [Link](https://github.com/androidexpert35/ПриложениеBooster) |
 | CaptureCap | Screen and audio recording and streaming app, no root required | MIT | [Link](https://github.com/yepgoryo/CaptureCap) |
 | Flywheel | Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture. | GPL-3.0 | [Link](https://github.com/Benjamin-Wiegand/Flywheel) |
 | HiddenAlarmRevealer | Find why the alarm icon is active in the status bar | Proprietary | [Link](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) |
@@ -648,21 +651,21 @@ pie title App Category Breakdown
 | Rainy Screenshot | Silent screenshots and screen recording through a Shizuku or Porter privileged shell instead of MediaProjection. | Proprietary | [Link](https://github.com/CATMIAOZHI/RainyScreenShot/blob/main/README_EN.md) |
 | Screen Recorder | Screen recorder with internal audio capture routed through Shizuku. | MIT | [Link](https://github.com/muhammadhaseebiqbal-dev/Screen-Recorder) |
 | silent-alarm | Earphone-first alarm clock that keeps alarms alive on aggressive OEM ROMs with a Shizuku or root watchdog that restarts the app. | AGPL-3.0 | [Link](https://github.com/izumisagirii/silent-alarm) |
-| SimpleWear | Control your Android device from WearOS | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) · [Source code](https://github.com/SimpleAppProjects/SimpleWear) |
+| SimpleWear | Control your Android device from WearOS | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) · [Source code](https://github.com/SimpleПриложениеProjects/SimpleWear) |
 | telegram-rc | Remote-control your device via Telegram messages | BSD-3-Clause | [Link](https://github.com/telegram-sms/telegram-rc) |
 | VineOS | Android VM engine; Shizuku probes shell privileges for the no-root ADB and wireless debugging path. | GPL-3.0 | [Link](https://github.com/Hexadecinull/VineOS) |
 
 ### Network
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | ADNS | DNS-based ad blocker for Android | MIT | [Link](https://github.com/eyalm2000/adns) |
 | Athena | Firewall, DNS, and ad blocker that uses Shizuku to set system DNS and firewall globally without activating VPN | GPL-3.0 | [Link](https://github.com/Kin69/Athena) |
 | Bluetooth Bouncer | Per-device Bluetooth auto-connect control that stays paired; policy enforced via Shizuku. | GPL-3.0 | [Link](https://github.com/harvzor/android-bluetooth-bouncer) |
 | CellReader | `Paid` 💰 - Read cell tower info on Android | MIT | [Link](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) · [Source code](https://github.com/zacharee/CellReader) |
-| de1984 | App firewall without VPN; can also manage packages | MIT | [Link](https://github.com/dorumrr/de1984) |
+| de1984 | Приложение firewall without VPN; can also manage packages | MIT | [Link](https://github.com/dorumrr/de1984) |
 | delta | Hotspot manager using Shizuku | BSD-3-Clause | [Link](https://github.com/supershadoe/delta) |
-| Dolphy-App | NFC, BLE, and IR multi-tool for wireless protocol research | GPL-3.0 | [Link](https://github.com/unvoiddd/Dolphy-App) |
+| Dolphy-Приложение | NFC, BLE, and IR multi-tool for wireless protocol research | GPL-3.0 | [Link](https://github.com/unvoiddd/Dolphy-Приложение) |
 | EasySpot | Remotely turn on your hotspot via Bluetooth | GPL-3.0 | [Link](https://github.com/GGORG0/EasySpot) |
 | FindMyDevice | Secure and open-source alternative to Google's Find My Device | GPL-3.0 | [Link](https://gitlab.com/Nulide/findmydevice) |
 | FireWall Blocks | Dual-mode firewall using Shizuku or local VPN or both | MIT | [Link](https://github.com/shynoiddev/FireWall-Blocks) |
@@ -682,25 +685,25 @@ pie title App Category Breakdown
 | sing-box | Universal proxy platform with Shizuku for per-app proxying | GPL-3.0 | [Link](https://f-droid.org/packages/io.nekohasekai.sfa/) |
 | Traffic Light | Persistent network speed tracker in your status bar | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.leekleak.trafficlight) |
 | WG Tunnel | FOSS WireGuard and AmneziaWG client with auto-tunneling | MIT | [Link](https://github.com/wgtunnel/wgtunnel) |
-| WiFi Portal | Applies captive-portal probe settings via Shizuku with backup, verify-before-write and regional presets. | Proprietary | [Link](https://github.com/lovitus/wifiportal) |
+| WiFi Portal | Приложениеlies captive-portal probe settings via Shizuku with backup, verify-before-write and regional presets. | Proprietary | [Link](https://github.com/lovitus/wifiportal) |
 | wifi-password-manager | Manage and view saved Wi-Fi passwords | MIT | [Link](https://github.com/Khh-vu/wifi-password-manager) |
 | WiFiList | `Paid` 💰 - View saved Wi-Fi passwords on Android 11+ without root | Proprietary | [Link](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) · [Source code](https://github.com/zacharee/WiFiList) |
 
 ### Patching
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | LSPatch | Non-root Xposed framework extending LSPosed | GPL-3.0 | [Link](https://github.com/JingMatrix/LSPatch) |
-| MicroG-RE | MicroG companion app for Morphe and ReVanced | Apache-2.0 | [Link](https://github.com/MorpheApp/MicroG-RE) |
-| Morphe | User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0` [(Source code)](https://github.com/MorpheApp/morphe-manager) | GPL-3.0 | [Link](https://morphe.software/) |
+| MicroG-RE | MicroG companion app for Morphe and ReVanced | Apache-2.0 | [Link](https://github.com/MorpheПриложение/MicroG-RE) |
+| Morphe | User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0` [(Source code)](https://github.com/MorpheПриложение/morphe-manager) | GPL-3.0 | [Link](https://morphe.software/) |
 | Morphe AutoBuilds | Pre-built automated releases of Morphe-patched applications | GPL-3.0 | [Link](https://github.com/RookieEnough/Morphe-AutoBuilds) |
-| Morphe Manager | Management tool and patcher for Morphe apps | GPL-3.0 | [Link](https://github.com/MorpheApp/morphe-manager) |
+| Morphe Manager | Management tool and patcher for Morphe apps | GPL-3.0 | [Link](https://github.com/MorpheПриложение/morphe-manager) |
 | NPatch | Rootless LSPosed-based Xposed framework that injects the Xposed API into target APKs | GPL-3.0 | [Link](https://github.com/7723mod/NPatch) |
 | Universal-ReVanced-Manager | ReVanced patcher with extra features beyond the official manager | GPL-3.0 | [Link](https://github.com/Jman-Github/Universal-ReVanced-Manager) |
 
 ### Power management
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Amply | Easy control of charging limits with automatic restore of protective limit | GPL-3.0 | [Link](https://github.com/d4rken-org/amply) |
 | BatStats | Battery monitor with stats via Shizuku | GPL-3.0 | [Link](https://github.com/mlm-games/BatStats) |
@@ -722,12 +725,12 @@ pie title App Category Breakdown
 
 ### Privacy
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Amarok-Hider | Hide private files and Android apps with one click | Apache-2.0 | [Link](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) · [Source code](https://github.com/deltazefiro/Amarok-Hider) |
 | AntiForensic-Tools | Silently protect user data from powerful adversaries | GPL-3.0 | [Link](https://github.com/bakad3v/Android-AntiForensic-Tools) |
-| anubis | App manager that freezes/unfreezes app groups based on VPN state via Shizuku pm disable, so frozen apps cannot detect or bypass the VPN. | MIT | [Link](https://github.com/sogonov/anubis) |
-| AppLock | ✨ - Lock sensitive apps with a PIN and optionally biometrics | MIT | [Link](https://github.com/PranavPurwar/AppLock) |
+| anubis | Приложение manager that freezes/unfreezes app groups based on VPN state via Shizuku pm disable, so frozen apps cannot detect or bypass the VPN. | MIT | [Link](https://github.com/sogonov/anubis) |
+| ПриложениеLock | ✨ - Lock sensitive apps with a PIN and optionally biometrics | MIT | [Link](https://github.com/PranavPurwar/ПриложениеLock) |
 | AvarionX-Android-Antivirus | On-device antivirus with local malware/APK scanning, download monitoring and DNS filtering; Shizuku powers ransomware-style behaviour monitoring | MPL-2.0 | [Link](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) |
 | Monica | Local-first Bitwarden/KeePass password vault with TOTP; Shizuku keeps autofill protection running in the background. | GPL-3.0 | [Link](https://github.com/Monica-Pass/Monica) |
 | Privacify | Privacy control center: permission scanner, sensor-usage timeline and privacy score, with Root/Shizuku advanced hardware controls. | Apache-2.0 | [Link](https://github.com/robinsrk/privacify) |
@@ -735,7 +738,7 @@ pie title App Category Breakdown
 
 ### Productivity
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Blink | Persistent 20-20-20 eye-care timer using Shizuku to whitelist itself from battery optimization | GPL-3.0 | [Link](https://github.com/character-flat/Blink) |
 | Cresto | To-do app with AI capture, calendar sync and reminders; its Quick Settings current-screen extraction captures the screen through Shizuku shell access. | Apache-2.0 | [Link](https://github.com/Nevodev/Cresto) |
@@ -748,7 +751,7 @@ pie title App Category Breakdown
 
 ### Quick settings
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | AlwaysOnDisplayToggle | Toggle Always on Display from quick settings | MIT | [Link](https://f-droid.org/packages/org.alberto97.aodtoggle/) · [Source code](https://github.com/Alberto97/AlwaysOnDisplayToggle) |
 | Better Internet Tiles | Bring back separate Wi-Fi and mobile data tiles | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs) · [Source code](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) |
@@ -758,21 +761,21 @@ pie title App Category Breakdown
 | ManualRotate | Quick-settings tile switching portrait/landscape without rotating the phone; optional Shizuku override for apps that lock orientation. | GPL-3.0 | [Link](https://github.com/Verisonder/ManualRotate) |
 | Private DNS Quick Setting | QS tile for toggling Private DNS | GPL-3.0 | [Link](https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs) · [Source code](https://github.com/flashsphere/private-dns-qs) |
 | PrivateDNSAndroid | Quick Settings tile to switch active Private DNS server | MIT | [Link](https://github.com/karasevm/PrivateDNSAndroid) |
-| Quick-Tile Settings | QS tiles for USB debugging and Private DNS switching | GPL-3.0 | [Link](https://f-droid.org/packages/com.rbn.qtsettings/) · [Source code](https://github.com/RBN-Apps/Quick-Tile-Settings) |
+| Quick-Tile Settings | QS tiles for USB debugging and Private DNS switching | GPL-3.0 | [Link](https://f-droid.org/packages/com.rbn.qtsettings/) · [Source code](https://github.com/RBN-Приложениеs/Quick-Tile-Settings) |
 | SensorsOff | Enable or disable sensors via quick settings | Apache-2.0 | [Link](https://github.com/LinerSRT/SensorsOff) |
 | Tooler | Quick Settings tiles for lock screen, private DNS, grayscale and charging, executed through Shizuku. | MIT | [Link](https://github.com/jehan593/tooler) |
 
 ### Software management
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
-| AppControlX | Freeze, force stop, uninstall apps, change battery optimization, and more | GPL-3.0 | [Link](https://github.com/risunCode/AppControl-X) |
-| AppDualZuku | Manages multiple app instances in isolated or shared workspaces (managed profiles) using Shizuku, with an optional root backend. | Proprietary | [Link](https://github.com/nathanatgit/AppDualZuku) |
-| AppManagerNG | Fork of [AppManager](https://github.com/muntashirakon/appmanager) to inspect, debloat, back up, freeze and control Android apps; works with Shizuku, ADB, Dhizuku or root. | GPL-3.0 | [Link](https://github.com/SysAdminDoc/AppManagerNG) |
-| Appslim | Android runtime analyzer profiling launch behavior, CPU/memory and Dex calls, then slimming apps through hooks, rules and Shizuku or root actions. | Proprietary | [Link](https://github.com/Horizen5/Appslim/blob/master/docs/README_en.md) |
-| AppVaultX | High-performance app manager powered by Shizuku | GPL-3.0 | [Link](https://github.com/sunilpaulmathew/AppVaultX) |
+| ПриложениеControlX | Freeze, force stop, uninstall apps, change battery optimization, and more | GPL-3.0 | [Link](https://github.com/risunCode/ПриложениеControl-X) |
+| ПриложениеDualZuku | Manages multiple app instances in isolated or shared workspaces (managed profiles) using Shizuku, with an optional root backend. | Proprietary | [Link](https://github.com/nathanatgit/ПриложениеDualZuku) |
+| ПриложениеManagerNG | Fork of [ПриложениеManager](https://github.com/muntashirakon/appmanager) to inspect, debloat, back up, freeze and control Android apps; works with Shizuku, ADB, Dhizuku or root. | GPL-3.0 | [Link](https://github.com/SysAdminDoc/ПриложениеManagerNG) |
+| Приложениеslim | Android runtime analyzer profiling launch behavior, CPU/memory and Dex calls, then slimming apps through hooks, rules and Shizuku or root actions. | Proprietary | [Link](https://github.com/Horizen5/Приложениеslim/blob/master/docs/README_en.md) |
+| ПриложениеVaultX | High-performance app manager powered by Shizuku | GPL-3.0 | [Link](https://github.com/sunilpaulmathew/ПриложениеVaultX) |
 | Blocker | Enable/disable Android components | Apache-2.0 | [Link](https://github.com/lihenggui/blocker) |
-| Buge App Manager | App manager focused on permission management | GPL-3.0 | [Link](https://github.com/BugeStudioTeam/Buge-App-Manager) |
+| Buge Приложение Manager | Приложение manager focused on permission management | GPL-3.0 | [Link](https://github.com/BugeStudioTeam/Buge-Приложение-Manager) |
 | Canta | Uninstall any app without root | LGPL-3.0 | [Link](https://play.google.com/store/apps/details?id=io.github.samolego.canta) · [Source code](https://github.com/samolego/Canta) |
 | CloneCat | Clone and manage apps across work profile, private space, dual apps, and secondary users with home screen shortcuts | Proprietary | [Link](https://github.com/AhmetCanArslan/CloneCat) |
 | Dexor | Ahead-of-time (AOT) bytecode compilation and dexopt runtime manager for Android applications | MIT | [Link](https://github.com/DeveshTone/Dexor) |
@@ -782,25 +785,25 @@ pie title App Category Breakdown
 | Guest-Manager | Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root. | Proprietary | [Link](https://github.com/dlawoals2713/Guest-Manager) |
 | Hail | ✨ - Freeze, hide, or disable apps and manage app groups | GPL-3.0 | [Link](https://f-droid.org/packages/com.aistra.hail/) · [Source code](https://github.com/aistra0528/Hail) |
 | Insular | FLOSS fork of Island | Apache-2.0 | [Link](https://f-droid.org/packages/com.oasisfeng.island.fdroid/) · [Source code](https://gitlab.com/secure-system/Insular) |
-| Inure App Manager | `15-day trial` `IAP` 💰 - App manager for rooted and non-rooted devices | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=app.simple.inure.play) · [Source code](https://github.com/Hamza417/Inure) |
+| Inure Приложение Manager | `15-day trial` `IAP` 💰 - Приложение manager for rooted and non-rooted devices | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=app.simple.inure.play) · [Source code](https://github.com/Hamza417/Inure) |
 | Island | Isolate and clone apps for privacy and parallel running | Apache-2.0 | [Link](https://play.google.com/store/apps/details?id=com.oasisfeng.island) · [Source code](https://github.com/oasisfeng/island) |
 | krude | All-in-one app and workflow launcher | MIT | [Link](https://github.com/KusStar/krude) |
 | Minimal Kernel Manager | Kernel manager and system monitor with battery stats, apply-on-boot and hidden-app support via Shizuku or root. | GPL-3.0 | [Link](https://github.com/abhay-byte/mkm) |
-| MMRL | `Root` - Manage Magisk module repository | GPL-3.0 | [Link](https://github.com/MMRLApp/MMRL) |
+| MMRL | `Root` - Manage Magisk module repository | GPL-3.0 | [Link](https://github.com/MMRLПриложение/MMRL) |
 | Package Manager | Manage system and user apps | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) · [Source code](https://github.com/SmartPack/PackageManager) |
-| Thor | App manager with freeze and install capabilities | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.valhalla.thor) · [Source code](https://github.com/trinadhthatakula/Thor) |
+| Thor | Приложение manager with freeze and install capabilities | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.valhalla.thor) · [Source code](https://github.com/trinadhthatakula/Thor) |
 | UpgradeAll | Check updates for Android apps, Magisk modules, and more | GPL-3.0 | [Link](https://f-droid.org/packages/net.xzos.upgradeall/) · [Source code](https://github.com/DUpdateSystem/UpgradeAll) |
 
 ### Task manager
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
-| KillMyApps | Background process killer to improve battery life and performance via Shizuku or root | GPL-3.0 | [Link](https://github.com/dedeadend/KillMyApps) |
+| KillMyПриложениеs | Background process killer to improve battery life and performance via Shizuku or root | GPL-3.0 | [Link](https://github.com/dedeadend/KillMyПриложениеs) |
 | memhogs | See which apps are eating memory with per-app breakdown | MIT | [Link](https://github.com/cicerothoma/memhogs-android) |
 | MemorySnapshot | On-device Android memory observer: per-app/process PSS tracking, snapshot save and compare, with data gathered via Shizuku or root. | Proprietary | [Link](https://github.com/RyensX/MemorySnapshot/blob/master/docs/README_EN.md) |
 | Pensum | Windows-style Task Manager for Android | GPL-3.0 | [Link](https://github.com/troikoss/Pensum) |
 | ProcessLens | Process observatory using Shizuku for ADB-level CPU, memory, thread, wake lock and per-app battery readings. | MIT | [Link](https://github.com/Dreamucxe/ProcessLens) |
-| ReAppzuku | Control and manage background applications, fork of shappky | GPL-3.0 | [Link](https://github.com/gree1d/ReAppzuku) |
+| ReПриложениеzuku | Control and manage background applications, fork of shappky | GPL-3.0 | [Link](https://github.com/gree1d/ReПриложениеzuku) |
 | Recents | Launcher-agnostic replacement for the system Recents menu, with app-kill support via Shizuku | GPL-3.0 | [Link](https://github.com/tymwitko/Recents) |
 | Running Services Monitor | Monitor running services on Android | MIT | [Link](https://play.google.com/store/apps/details?id=me.biplobsd.rsm) · [Source code](https://github.com/biplobsd/running_services_monitor) |
 | RvSystem Monitor | High-performance system monitor (Compose + Rust) with Shizuku-fed CPU and hardware insights | GPL-3.0 | [Link](https://github.com/Rve27/RvSystem-Monitor) |
@@ -809,7 +812,7 @@ pie title App Category Breakdown
 
 ### Terminals
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | aShell | Local ADB shell for Shizuku-powered Android devices | GPL-3.0 | [GitLab](https://gitlab.com/sunilpaulmathew/ashell) |
 | aShell You | Material You redesign of aShell | GPL-3.0 | [GitHub](https://github.com/DP-Hridayan/aShellYou) |
@@ -818,12 +821,12 @@ pie title App Category Breakdown
 
 ### Vendor-specific
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 
 #### Google Pixel
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Always On Display | Toggle Always on Display from quick settings | MIT | [Link](https://f-droid.org/packages/org.alberto97.aodtoggle/) · [Source code](https://github.com/Alberto97/AlwaysOnDisplayToggle) |
 | carrier-ims-for-pixel | Maintained Pixel IMS toolkit: tune VoLTE/VoWiFi/VoNR, 5G display and carrier config via Shizuku | Apache-2.0 | [Link](https://github.com/ryfineZ/carrier-ims-for-pixel) |
@@ -839,7 +842,7 @@ pie title App Category Breakdown
 
 #### Samsung OneUI
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | 4Zones | Restores four-zone window tiling on Samsung DeX and Android desktop mode with tap-to-snap and keyboard shortcuts | Apache-2.0 | [Link](https://github.com/mr-biz-apps/4zones) |
 | android-battery-health | Samsung battery health and cycle-count viewer with screen-reader-friendly layout via Shizuku. | Proprietary | [Link](https://github.com/willbilec/android-battery-health) |
@@ -851,17 +854,17 @@ pie title App Category Breakdown
 | ScamsungFonts | Font manager for Samsung Galaxy via system shell or root | No license | [Link](https://github.com/KhunHtetzNaing/ScamsungFonts) |
 | ShutterMute | Disable forced camera shutter sounds on some Samsung devices | Proprietary | [Link](https://github.com/ajebulon/ShutterMute) |
 | SMTShell | Privilege escalation exploit automation for older OneUI versions | LGPL-2.1 | [Link](https://github.com/BLuFeNiX/SMTShell) |
-| ZFold-Multi-DPI | Applies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices | Proprietary | [Link](https://github.com/balamurugan15/ZFold-Multi-DPI) |
+| ZFold-Multi-DPI | Приложениеlies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices | Proprietary | [Link](https://github.com/balamurugan15/ZFold-Multi-DPI) |
 
 #### MIUI
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Aura | Custom RGB notification LED app for POCO X8 Pro with per-app, per-contact, and per-group colors and animations | MIT | [Link](https://github.com/tgvdufuture/Aura) |
 | FiveGSwitcher | 5G shortcut switch for HyperOS/MIUI | GPL-3.0 | [Link](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) |
 | FxxkMIUIAd | Turn off MIUI ads with minimal cost | Apache-2.0 | [Link](https://github.com/qhy040404/FxxkMIUIAd) |
 | HyperOS FCM Fix | Keeps Google Play services unrestricted on HyperOS so FCM push notifications arrive on time | GPL-3.0 | [Link](https://github.com/dingwen07/hyperos-fcm-fix) |
-| HyperOS-MTZ-Studio | MTZ theme workspace for Xiaomi HyperOS; imports, composes, translates and applies themes, using Shizuku or Shevery for rootless theme application. | Proprietary | [Link](https://github.com/GloriousApps/HyperOS-MTZ-Studio/blob/main/readme_en.md) |
+| HyperOS-MTZ-Studio | MTZ theme workspace for Xiaomi HyperOS; imports, composes, translates and applies themes, using Shizuku or Shevery for rootless theme application. | Proprietary | [Link](https://github.com/GloriousПриложениеs/HyperOS-MTZ-Studio/blob/main/readme_en.md) |
 | HyperOS3ScrollSetter | Restores scrolling wallpapers and disables forced darkening on HyperOS 3/4, applying secure settings and restarts through Shizuku.newProcess or a root module. | GPL-3.0 | [Link](https://github.com/BlizzardAn225/HyperOS3ScrollSetter) |
 | HyperOSUnfcker | Unlocks hidden performance, display, memory, battery, and visual settings on HyperOS/MIUI devices | LGPL-3.0 | [Link](https://github.com/Enki013/hyperosunfcker) |
 | IslandRecorder | Xiaomi-focused screen recorder with Super Island controls | GPL-3.0 | [Link](https://github.com/wxxsfxyzm/IslandRecorder) |
@@ -872,7 +875,7 @@ pie title App Category Breakdown
 
 #### Other
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | buttonoo | Remaps the Nothing Essential Key to any press pattern; Shizuku enables the privileged input route. | GPL-3.0 | [Link](https://github.com/bractstudio/buttonoo) |
 | Calibrate-SoC | SoC tuner, monitor and benchmark suite for Android gaming handhelds with goal-seeking governor and live HUD. | Apache-2.0 | [Link](https://github.com/mayusi/Calibrate-SoC) |
@@ -899,20 +902,20 @@ Closed-source apps can be kept in a separate sublist for users who prefer open-s
 Deprecated or abandoned apps can be moved to a separate archived page to keep the main list clean.
 ---
 
-## Development libraries
+## Разработка и отладка libraries
 
 ### Core
 
-| Library | Description | License | Links |
+| Library | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Porter API | Android SDK for Porter, a maintained Shizuku fork, offering compatible Shizuku APIs with direct Porter support | MIT | [GitHub](https://github.com/d4rken-org/porter-api) |
-| Shizuku-API | Developer documentation for Shizuku and Sui, including examples | Apache-2.0 | [GitHub](https://github.com/RikkaApps/Shizuku-API) |
+| Shizuku-API | Developer documentation for Shizuku and Sui, including examples | Apache-2.0 | [GitHub](https://github.com/RikkaПриложениеs/Shizuku-API) |
 | Shizuku-API-Flutter-Plugin | A Flutter plugin to interact with the Shizuku API | MIT | [GitHub](https://github.com/runoob-coder/shizuku-api-flutter-plugin) |
 | Shizuku-Plugin (Flutter) | Shizuku API bindings for Flutter apps | GPL-3.0 | [GitHub](https://github.com/santhosh-D-subramani/Shizuku-Plugin) |
 
 ### Filesystem
 
-| Library | Description | License | Links |
+| Library | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Ackpine | Kotlin-first package installer extensions with Shizuku support | Apache-2.0 | [GitHub](https://github.com/solrudev/Ackpine) |
 | LintFile | File operation library with Shizuku, root, and regular filesystem backends | LGPL-2.1 | [GitHub](https://github.com/lumkit/LintFile) |
@@ -921,26 +924,26 @@ Deprecated or abandoned apps can be moved to a separate archived page to keep th
 
 ### System
 
-| Library | Description | License | Links |
+| Library | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | droid-mcp | Android SDK giving local LLM/AI apps structured on-device access to phone data, plus shell-level control via Shizuku | Apache-2.0 | [GitHub](https://github.com/stixez/droid-mcp) |
 | libterm | Kotlin-first Android terminal session library with User, Root, Shizuku, and SSH backends behind one API | Proprietary | [GitHub](https://github.com/niki914/libterm) |
 | Priv Kit | Lightweight privileged-runtime library for Root, ADB, or Shizuku-backed Binder access in your own app | Proprietary | [GitHub](https://github.com/priv-kit/priv-kit) |
-| ServiceManagerCompat | ServiceManager bindings | MIT | [GitHub](https://github.com/SanmerApps/ServiceManagerCompat) |
+| ServiceManagerCompat | ServiceManager bindings | MIT | [GitHub](https://github.com/SanmerПриложениеs/ServiceManagerCompat) |
 
 ---
 
-## Miscellaneous content
+## Разное и дополнительные инструменты
 
 ### Command-line utilities
 
-| Tool | Description | License | Links |
+| Tool | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | AndroSH | Multi-distribution Linux environments for Android with system integration | GPL-3.0 | [GitHub](https://github.com/ahmed-alnassif/AndroSH) |
 
 ### Flows for Automate
 
-| Flow | Description | License | Links |
+| Flow | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Better Shizuku Starter | Automatically start Shizuku 13.6 on key events via wireless debugging | MIT | [Automate](https://llamalab.com/automate/community/flows/50863) |
 | Shizuku Keeper | Continuously run Shizuku or ADB uninterrupted without root, Wi-Fi, or cables | MIT | [GitHub](https://github.com/protonpony/Shizuku-Keeper/tree/main) |
@@ -967,11 +970,11 @@ If Shizuku was launched using ADB privileges, then `rish` also provides a shell 
 
 ---
 
-## Other apps (FOSS alternatives to premium apps)
+## Другие приложения (FOSS альтернативы платным сервисам)
 
 Curated list of the best free and open-source (FOSS) Android alternatives to popular premium, proprietary, and paid subscription apps:
 
-| App | Description | License | Links |
+| Приложение | Описание и сценарий использования | Лицензия | Ссылки |
 | --- | --- | --- | --- |
 | Aegis Authenticator | Alternative to Authy / Google Authenticator — secure, encrypted 2FA with automatic backups | GPL-3.0 | [GitHub](https://github.com/beemdevelopment/Aegis) |
 | Document Scanner | Alternative to CamScanner — ad-free document scanning to PDF with OCR and filters | GPL-3.0 | [GitHub](https://github.com/Aniruddha-Tapas/Document-Scanner) |
@@ -987,51 +990,51 @@ Curated list of the best free and open-source (FOSS) Android alternatives to pop
 
 ---
 
-## 🔗 Resources
+## 🔗 Ресурсы
 
 ### Official
 
 - 📚 [Official Documentation](https://shizuku.rikka.app/guide/setup/)
-- 🧩 [Shizuku API](https://github.com/RikkaApps/Shizuku-API)
+- 🧩 [Shizuku API](https://github.com/RikkaПриложениеs/Shizuku-API)
 - 🗓️ [Awesome-Shizuku Changelog](https://github.com/timschneeb/changelog-awesome-shizuku)
-- 📦 [Shizuku GitHub](https://github.com/RikkaApps/Shizuku)
-- 📥 [Download Shizuku](https://github.com/RikkaApps/Shizuku/releases)
+- 📦 [Shizuku GitHub](https://github.com/RikkaПриложениеs/Shizuku)
+- 📥 [Download Shizuku](https://github.com/RikkaПриложениеs/Shizuku/releases)
 - 🌐 [Shizuku Website](https://shizuku.rikka.app/)
 
 ### Community & Support
 
-- 💡 [Shizuku GitHub Discussions](https://github.com/RikkaApps/Shizuku/discussions)
+- 💡 [Shizuku GitHub Discussions](https://github.com/RikkaПриложениеs/Shizuku/discussions)
 - 💬 [XDA Forums Thread](https://xdaforums.com/t/root-alternative-shizuku-wireless-adb-dhizuku-non-root-apps-thread.4692215/)
 - 🐥 [Telegram Channel](https://t.me/shizuku_zh)
-- 🐛 [Report Issues](https://github.com/RikkaApps/Shizuku/issues)
+- 🐛 [Report Issues](https://github.com/RikkaПриложениеs/Shizuku/issues)
 
-### App Discovery
+### Приложение Discovery
 
 - 📱 [Shizuku on Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 - 🛍️ [Shizuku on F-Droid](https://f-droid.org/packages/moe.shizuku.privileged.api/)
 - 🔎 [GitHub Shizuku Projects](https://github.com/search?q=Shizuku+Android&type=repositories)
 
 ### Tutorials & Guides
-- 🎬 [Video: Top Shizuku Apps 2025](https://www.youtube.com/watch?v=HpMUdvphiio)
-- 📝 [Technastic: Best Shizuku Apps](https://technastic.com/best-shizuku-apps-mods-android/)
+- 🎬 [Video: Top Shizuku Приложениеs 2025](https://www.youtube.com/watch?v=HpMUdvphiio)
+- 📝 [Technastic: Best Shizuku Приложениеs](https://technastic.com/best-shizuku-apps-mods-android/)
 - 💱 [Mobile Hacker: Shizuku Guide](https://www.mobile-hacker.com/2025/07/14/shizuku-unlocking-advanced-android-capabilities-without-root/)
 
 ---
 
-## 🌐 Android Power-User Ecosystem
+## 🌐 Экосистема для энтузиастов Android
 
 Explore our curated network of Android power-user tools, no-root alternatives, web companions, and open-source application repositories:
 
-* 🚀 **[Best Shizuku Apps (No Root)](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root)** — Curated catalog of Android apps utilizing Shizuku & Wireless ADB for rootless system control and debloating.
-* 🛡️ **[Best Root Apps for Android](https://github.com/krishna3163/best-root-apps-for-android)** — 500+ curated root apps, Magisk/KernelSU/APatch modules, and rooting guides.
-* ⚡ **[Shizuku Web Portal](https://github.com/krishna3163/shizuku-web)** ([Live App](https://shizuku-web.onrender.com)) — Modern PostHog-styled web companion, ADB setup wizard, and app directory.
-* 📱 **[Awesome Android App Repositories](https://github.com/krishna3163/awesome-android-app-repositories)** — Constantly updated catalog of open-source Android apps, utilities, and developer tools.
+* 🚀 **[Best Shizuku Приложениеs (No Root)](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root)** — Curated catalog of Android apps utilizing Shizuku & Wireless ADB for rootless system control and debloating.
+* 🛡️ **[Best Root Приложениеs for Android](https://github.com/krishna3163/best-root-apps-for-android)** — 500+ curated root apps, Magisk/KernelSU/APatch modules, and rooting guides.
+* ⚡ **[Shizuku Web Portal](https://github.com/krishna3163/shizuku-web)** ([Live Приложение](https://shizuku-web.onrender.com)) — Modern PostHog-styled web companion, ADB setup wizard, and app directory.
+* 📱 **[Awesome Android Приложение Repositories](https://github.com/krishna3163/awesome-android-app-repositories)** — Constantly updated catalog of open-source Android apps, utilities, and developer tools.
 
 ---
 
-## 📬 Connect with Maintainer
+## 📬 Связаться с автором и соцсети
 
-Have questions, suggestions, or want to collaborate? Connect directly:
+Есть вопросы, предложения или идеи для сотрудничества? Напишите автору напрямую:
 
 - ✈️ **Telegram**: [@kk3163019](https://t.me/kk3163019)
 - 📸 **Instagram**: [@krishna.0858](https://www.instagram.com/krishna.0858/?hl=en)
@@ -1039,7 +1042,7 @@ Have questions, suggestions, or want to collaborate? Connect directly:
 
 ---
 
-## 🤝 Join the Community
+## 🤝 Присоединиться к сообществу
 
 Want to help grow this project into a large community resource? You can:
 
@@ -1086,7 +1089,7 @@ Want to help grow this project into a large community resource? You can:
 
 ---
 
-## 🔄 Automatic APK Updates
+## 🔄 Автоматическое обновление APK
 
 This repository automatically synchronizes APK releases from upstream GitHub repositories every 6 hours using GitHub Actions. When a new stable release is published by the original developer, the APK is:
 
@@ -1100,7 +1103,7 @@ APK files are **never modified** — the SHA-256 of the mirrored APK always matc
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Отказ от ответственности
 
 This repository is an automated mirror/index of APK releases from their respective upstream projects. All applications belong to their original developers. APK files are distributed **without modification** whenever possible.
 
@@ -1110,7 +1113,7 @@ For source code, licenses, changelogs, issues, and official project information,
 
 ---
 
-## License
+## Лицензия
 
 This list is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -1118,13 +1121,13 @@ This list is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/
 
 <div align="center">
 
-### 💖 Show Your Support
+### 💖 Поддержите проект
 
 If you find this list helpful, please consider:
 - ⭐ Starring this repository
 - 👁️ Watching for updates
 - 🔀 Sharing with the Android community
 
-**Made with ❤️ for the Android community**
+**Сделано с любовью ❤️ для сообщества Android**
 
 </div>

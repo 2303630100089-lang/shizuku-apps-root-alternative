@@ -670,6 +670,15 @@ def build_html():
     (site_dir / "index.html").write_text(html_content, encoding="utf-8")
     print(f"Built {len(entries)} app cards with PostHog retro theme")
 
+    try:
+        from feed_generator import generate_feeds
+        from fdroid_repo import build_fdroid_repository
+        generate_feeds(site_dir)
+        build_fdroid_repository(site_dir / "fdroid" / "repo", "https://krishna3163.github.io/best_shizuku_apps_for_android_no_root/fdroid/repo")
+        print("Generated feeds (obtainium.json, releases.atom) and F-Droid repository index.")
+    except Exception as exc:
+        print(f"Notice: feed/fdroid generation: {exc}")
+
 
 if __name__ == "__main__":
     build_html()
