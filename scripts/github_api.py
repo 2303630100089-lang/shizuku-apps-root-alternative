@@ -53,6 +53,9 @@ class GitHubAPI:
         """Sleep if we're close to hitting the rate limit."""
         if self._remaining is not None and self._remaining < 5 and self._reset:
             wait = max(0, self._reset - time.time()) + 1
+            if wait > 60:
+                logger.warning("GitHub API rate limit exhausted (reset in %.0fs). Supply GITHUB_TOKEN for 5,000 req/hr.", wait)
+                return
             logger.warning("Rate limit nearly exhausted (%d remaining). Sleeping %.0fs.", self._remaining, wait)
             time.sleep(wait)
 
