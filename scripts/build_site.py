@@ -14,6 +14,13 @@ HEADING = re.compile(r"^(#{2,3})\s+(.+)$")
 
 def parse_catalog() -> list[dict]:
     content = README.read_text(encoding="utf-8")
+    # Exclude auto-generated download, update, discovery, and stats sections
+    content = re.sub(
+        r"<!-- (AUTO-DISCOVERED-SHIZUKU-APPS|AUTO-GENERATED-APPS|RECENT-UPDATES|STATS-GRAPH)[^>]* -->.*?<!-- \1[^>]* -->",
+        "",
+        content,
+        flags=re.DOTALL,
+    )
     entries = []
     current_category = "General"
     is_top_picks = False

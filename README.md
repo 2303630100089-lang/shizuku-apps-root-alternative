@@ -95,6 +95,9 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 <details id="-table-of-contents">
 <summary><h2>📑 Table of Contents</h2></summary>
 
+- [Recently Updated Apps](#recent-updates)
+- [APK Downloads](#apk-downloads)
+- [Catalog Analytics](#catalog-analytics)
 - [Apps](#apps)
   - [AI agents](#ai-agents)
   - [Android TV](#android-tv)
@@ -183,6 +186,29 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 <!-- AUTO-DISCOVERED-SHIZUKU-APPS:END -->
 
+<!-- RECENT-UPDATES-START -->
+
+<details id="recent-updates">
+<summary><h2>🔥 Recently Updated Apps</h2></summary>
+
+> Automatically synced from upstream releases. Shows the latest new versions.
+
+| App | Developer | Version | Released | APK | Upstream |
+|:---|:---|:---|:---|:---|:---|
+| ⚡ **Dragon-Launcher** | Elnix90 | `4.3.0` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dragon-launcher-4.3.0) | [Upstream](https://github.com/Elnix90/Dragon-Launcher/releases) |
+| ⚡ **de1984** | dorumrr | `v2.7.8` | 2026-09-27 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.8) | [Upstream](https://github.com/dorumrr/de1984/releases) |
+| ⚡ **WG Tunnel** | wgtunnel | `5.7.5` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.5) | [Upstream](https://github.com/wgtunnel/wgtunnel/releases) |
+| ⚡ **PrivacyFlip** | dorumrr | `v2.1.9` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/privacyflip-v2.1.9) | [Upstream](https://github.com/dorumrr/privacyflip/releases) |
+| ⚡ **Morphe Manager** | MorpheApp | `v1.32.0` | 2026-09-24 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/morphe-manager-v1.32.0) | [Upstream](https://github.com/MorpheApp/morphe-manager/releases) |
+| ⚡ **DetoxDroid** | flxapps | `v2.8.2` | 2026-09-22 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/detoxdroid-v2.8.2) | [Upstream](https://github.com/flxapps/DetoxDroid/releases) |
+| ⚡ **KeyMapper** | keymapperorg | `v4.5.0` | 2026-09-21 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/keymapper-v4.5.0) | [Upstream](https://github.com/keymapperorg/KeyMapper/releases) |
+| ⚡ **Neo-Store** | NeoApplications | `1.3.0` | 2026-09-20 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/neo-store-1.3.0) | [Upstream](https://github.com/NeoApplications/Neo-Store/releases) |
+| ⚡ **Aniyomi** | aniyomiorg | `v0.18.2.1` | 2026-09-14 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/aniyomi-v0.18.2.1) | [Upstream](https://github.com/aniyomiorg/aniyomi/releases) |
+| ⚡ **Obtainium** | ImranR98 | `v1.6.17` | 2026-09-13 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/obtainium-v1.6.17) | [Upstream](https://github.com/ImranR98/Obtainium/releases) |
+
+</details>
+<!-- RECENT-UPDATES-END -->
+
 <!-- AUTO-GENERATED-APPS-START -->
 
 <details id="apk-downloads">
@@ -243,6 +269,37 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 </details>
 <!-- AUTO-GENERATED-APPS-END -->
+
+<!-- STATS-GRAPH-START -->
+
+<details id="catalog-analytics">
+<summary><h2>📊 Catalog Analytics & Distribution</h2></summary>
+
+> Visual overview of the 239 apps across 25 categories in this repository.
+
+<p align="center">
+  <img src="assets/category-distribution.svg" alt="Category Distribution" width="100%" />
+</p>
+
+<details>
+<summary><b>📈 Interactive Mermaid Chart</b></summary>
+
+```mermaid
+pie title App Category Breakdown
+    "Customization" : 33
+    "Vendor-specific" : 22
+    "Network" : 19
+    "Development utilities" : 17
+    "Installer & app stores" : 17
+    "Software management" : 15
+    "Games" : 13
+    "Other Categories" : 103
+```
+
+</details>
+
+</details>
+<!-- STATS-GRAPH-END -->
 
 ## Apps
 

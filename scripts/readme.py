@@ -17,6 +17,17 @@ README_PATH = ROOT / "README.md"
 START_MARKER = "<!-- AUTO-GENERATED-APPS-START -->"
 END_MARKER = "<!-- AUTO-GENERATED-APPS-END -->"
 
+try:
+    from recent_updates import (
+        START_MARKER as RECENT_START_MARKER,
+        END_MARKER as RECENT_END_MARKER,
+        generate_recent_updates_table,
+    )
+except ImportError:
+    RECENT_START_MARKER = "<!-- RECENT-UPDATES-START -->"
+    RECENT_END_MARKER = "<!-- RECENT-UPDATES-END -->"
+    generate_recent_updates_table = None
+
 
 def _get_mirror_repo() -> str:
     """Try to detect the mirror repository from environment or git remote."""
@@ -135,10 +146,17 @@ def update_readme(
 
     new_content = content[:start_idx] + "\n" + table + content[end_idx:]
 
+    # Also update recent updates section if present
+    if generate_recent_updates_table and RECENT_START_MARKER in new_content and RECENT_END_MARKER in new_content:
+        r_start = new_content.index(RECENT_START_MARKER) + len(RECENT_START_MARKER)
+        r_end = new_content.index(RECENT_END_MARKER)
+        recent_table = generate_recent_updates_table(releases_db, apps_config)
+        new_content = new_content[:r_start] + "\n" + recent_table + new_content[r_end:]
+
     if new_content == content:
         logger.info("README.md is already up-to-date.")
         return False
 
     README_PATH.write_text(new_content, encoding="utf-8")
-    logger.info("README.md updated with latest APK download table.")
+    logger.info("README.md updated with latest APK download table and recent updates.")
     return True

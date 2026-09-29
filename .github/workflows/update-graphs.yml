@@ -1,0 +1,48 @@
+name: Update catalog graphs and recent updates
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - data/releases.json
+      - config/apps.json
+      - scripts/graph.py
+      - scripts/recent_updates.py
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: graph-automation
+  cancel-in-progress: false
+
+jobs:
+  update-graphs:
+    name: Generate graphs & recent updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update recent releases index
+        run: python scripts/recent_updates.py
+
+      - name: Generate category distribution graph & stats
+        run: python scripts/graph.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/
+          git diff --cached --quiet || git commit -m "chore: update catalog graphs and recent updates [skip ci]"
+          git push
