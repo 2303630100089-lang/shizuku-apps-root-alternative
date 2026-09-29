@@ -17,45 +17,45 @@
   </defs>
   <rect width="860" height="474" rx="12" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5" />
   <text x="30" y="42" fill="#58a6ff" font-size="20" font-weight="700">📊 Shizuku Catalog Analytics</text>
-  <text x="30" y="66" fill="#8b949e" font-size="13">Curated App Category Distribution · 239 Apps across 25 Categories</text>
+  <text x="30" y="66" fill="#8b949e" font-size="13">Curated App Category Distribution · 430 Apps across 25 Categories</text>
   <rect x="710" y="26" width="120" height="26" rx="13" fill="#238636" fill-opacity="0.25" stroke="#2ea043" stroke-width="1" />
-  <text x="770" y="43" fill="#3fb950" font-size="12" font-weight="600" text-anchor="middle">🔓 91.6% FOSS</text>
-  <text x="240" y="116" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Customization</text>
+  <text x="770" y="43" fill="#3fb950" font-size="12" font-weight="600" text-anchor="middle">🔓 87.9% FOSS</text>
+  <text x="240" y="116" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Vendor-specific</text>
   <rect x="250" y="100" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="100" width="165" height="22" rx="6" fill="url(#barGrad0)" />
-  <text x="722" y="116" fill="#8b949e" font-size="12" font-weight="600">33 <tspan fill="#6e7681" font-weight="400">(13.8%)</tspan></text>
-  <text x="240" y="152" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Vendor-specific</text>
+  <rect x="250" y="100" width="121" height="22" rx="6" fill="url(#barGrad0)" />
+  <text x="722" y="116" fill="#8b949e" font-size="12" font-weight="600">49 <tspan fill="#6e7681" font-weight="400">(11.4%)</tspan></text>
+  <text x="240" y="152" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Customization</text>
   <rect x="250" y="136" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="136" width="110" height="22" rx="6" fill="url(#barGrad1)" />
-  <text x="722" y="152" fill="#8b949e" font-size="12" font-weight="600">22 <tspan fill="#6e7681" font-weight="400">(9.2%)</tspan></text>
+  <rect x="250" y="136" width="118" height="22" rx="6" fill="url(#barGrad1)" />
+  <text x="722" y="152" fill="#8b949e" font-size="12" font-weight="600">48 <tspan fill="#6e7681" font-weight="400">(11.2%)</tspan></text>
   <text x="240" y="188" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Network</text>
   <rect x="250" y="172" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="172" width="95" height="22" rx="6" fill="url(#barGrad2)" />
-  <text x="722" y="188" fill="#8b949e" font-size="12" font-weight="600">19 <tspan fill="#6e7681" font-weight="400">(7.9%)</tspan></text>
-  <text x="240" y="224" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Development utilities</text>
+  <rect x="250" y="172" width="71" height="22" rx="6" fill="url(#barGrad2)" />
+  <text x="722" y="188" fill="#8b949e" font-size="12" font-weight="600">29 <tspan fill="#6e7681" font-weight="400">(6.7%)</tspan></text>
+  <text x="240" y="224" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Installer &amp; app stores</text>
   <rect x="250" y="208" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="208" width="85" height="22" rx="6" fill="url(#barGrad3)" />
-  <text x="722" y="224" fill="#8b949e" font-size="12" font-weight="600">17 <tspan fill="#6e7681" font-weight="400">(7.1%)</tspan></text>
-  <text x="240" y="260" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Installer &amp; app stores</text>
+  <rect x="250" y="208" width="66" height="22" rx="6" fill="url(#barGrad3)" />
+  <text x="722" y="224" fill="#8b949e" font-size="12" font-weight="600">27 <tspan fill="#6e7681" font-weight="400">(6.3%)</tspan></text>
+  <text x="240" y="260" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Development utilities</text>
   <rect x="250" y="244" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="244" width="85" height="22" rx="6" fill="url(#barGrad4)" />
-  <text x="722" y="260" fill="#8b949e" font-size="12" font-weight="600">17 <tspan fill="#6e7681" font-weight="400">(7.1%)</tspan></text>
+  <rect x="250" y="244" width="64" height="22" rx="6" fill="url(#barGrad4)" />
+  <text x="722" y="260" fill="#8b949e" font-size="12" font-weight="600">26 <tspan fill="#6e7681" font-weight="400">(6.0%)</tspan></text>
   <text x="240" y="296" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Software management</text>
   <rect x="250" y="280" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="280" width="75" height="22" rx="6" fill="url(#barGrad5)" />
-  <text x="722" y="296" fill="#8b949e" font-size="12" font-weight="600">15 <tspan fill="#6e7681" font-weight="400">(6.3%)</tspan></text>
-  <text x="240" y="332" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Games</text>
+  <rect x="250" y="280" width="59" height="22" rx="6" fill="url(#barGrad5)" />
+  <text x="722" y="296" fill="#8b949e" font-size="12" font-weight="600">24 <tspan fill="#6e7681" font-weight="400">(5.6%)</tspan></text>
+  <text x="240" y="332" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Miscellaneous</text>
   <rect x="250" y="316" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="316" width="65" height="22" rx="6" fill="url(#barGrad6)" />
-  <text x="722" y="332" fill="#8b949e" font-size="12" font-weight="600">13 <tspan fill="#6e7681" font-weight="400">(5.4%)</tspan></text>
-  <text x="240" y="368" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Power management</text>
+  <rect x="250" y="316" width="51" height="22" rx="6" fill="url(#barGrad6)" />
+  <text x="722" y="332" fill="#8b949e" font-size="12" font-weight="600">21 <tspan fill="#6e7681" font-weight="400">(4.9%)</tspan></text>
+  <text x="240" y="368" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">File management</text>
   <rect x="250" y="352" width="460" height="22" rx="6" fill="#21262d" />
-  <rect x="250" y="352" width="55" height="22" rx="6" fill="url(#barGrad7)" />
-  <text x="722" y="368" fill="#8b949e" font-size="12" font-weight="600">11 <tspan fill="#6e7681" font-weight="400">(4.6%)</tspan></text>
+  <rect x="250" y="352" width="49" height="22" rx="6" fill="url(#barGrad7)" />
+  <text x="722" y="368" fill="#8b949e" font-size="12" font-weight="600">20 <tspan fill="#6e7681" font-weight="400">(4.7%)</tspan></text>
   <text x="240" y="404" fill="#c9d1d9" font-size="13" font-weight="500" text-anchor="end">Other Categories (17)</text>
   <rect x="250" y="388" width="460" height="22" rx="6" fill="#21262d" />
   <rect x="250" y="388" width="460" height="22" rx="6" fill="url(#barGrad8)" />
-  <text x="722" y="404" fill="#8b949e" font-size="12" font-weight="600">92 <tspan fill="#6e7681" font-weight="400">(38.5%)</tspan></text>
+  <text x="722" y="404" fill="#8b949e" font-size="12" font-weight="600">186 <tspan fill="#6e7681" font-weight="400">(43.3%)</tspan></text>
   <line x1="30" y1="424" x2="830" y2="424" stroke="#30363d" stroke-width="1" stroke-dasharray="4" />
   <text x="30" y="449" fill="#8b949e" font-size="12">⚡ <tspan fill="#f0883e" font-weight="600">No-Root Required</tspan> via Wireless ADB</text>
   <text x="430" y="449" fill="#8b949e" font-size="12" text-anchor="middle">📦 <tspan fill="#58a6ff" font-weight="600">Automated APK Sync</tspan> Every 6 Hours</text>

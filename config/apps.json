@@ -7,8 +7,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Mythara",
@@ -17,8 +23,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "OmniPrompt",
@@ -27,8 +39,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Neo-Store",
@@ -37,8 +55,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "ShizuTools",
@@ -47,8 +71,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Mihon",
@@ -57,8 +87,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Amarok-Hider",
@@ -67,8 +103,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Hail",
@@ -77,8 +119,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Canta",
@@ -87,8 +135,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "LogFox",
@@ -97,8 +151,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Obtainium",
@@ -107,8 +167,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Blocker",
@@ -117,8 +183,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "ColorBlendr",
@@ -127,8 +199,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "LinkSheet",
@@ -137,8 +215,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "TapTap",
@@ -147,8 +231,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Smartspacer",
@@ -157,8 +247,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "KeyMapper",
@@ -167,8 +263,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "SDMaid-SE",
@@ -177,8 +279,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Droid-ify",
@@ -187,8 +295,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "InstallWithOptions",
@@ -197,8 +311,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "RootlessJamesDSP",
@@ -207,8 +327,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "PrivacyFlip",
@@ -217,8 +343,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "FireWall Blocks",
@@ -227,8 +359,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Amply",
@@ -237,8 +375,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Dhizuku",
@@ -247,8 +391,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "LSPatch",
@@ -257,8 +407,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Extendroid",
@@ -267,8 +423,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "DetoxDroid",
@@ -277,8 +439,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "aShell You",
@@ -287,8 +455,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "AutoJs6",
@@ -297,8 +471,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Aniyomi",
@@ -307,8 +487,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "DSU-Sideloader",
@@ -317,8 +503,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "ShizuWall",
@@ -327,8 +519,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "OwnDroid",
@@ -337,8 +535,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "WG Tunnel",
@@ -347,8 +551,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "LibChecker",
@@ -357,8 +567,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "SAI",
@@ -367,8 +583,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Dragon-Launcher",
@@ -377,8 +599,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Better Internet Tiles",
@@ -387,8 +615,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Cosmic-IDE",
@@ -397,8 +631,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "InstallerX-Revived",
@@ -407,8 +647,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "ReTerminal",
@@ -417,8 +663,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "UpgradeAll",
@@ -427,8 +679,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Package Manager",
@@ -437,8 +695,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "FreezeYou",
@@ -447,8 +711,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "EnforceDoze",
@@ -457,8 +727,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "de1984",
@@ -467,8 +743,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "AppLock",
@@ -477,8 +759,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Tarnhelm",
@@ -487,8 +775,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "System UI Tuner",
@@ -497,8 +791,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Morphe Manager",
@@ -507,8 +807,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "MicroG-RE",
@@ -517,8 +823,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Morphe AutoBuilds",
@@ -527,8 +839,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "Athena",
@@ -537,8 +855,14 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     },
     {
       "name": "ShizukuPlus",
@@ -547,17 +871,595 @@
       "enabled": true,
       "shizuku": true,
       "release_strategy": "latest-stable",
-      "asset_patterns": [".*\\.apk$"],
-      "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"]
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Porter",
+      "slug": "porter",
+      "repository": "d4rken-org/porter",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "shevery",
+      "slug": "shevery",
+      "repository": "HmnDev-Tech/shevery",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Shizako",
+      "slug": "shizako",
+      "repository": "xm1437/Shizako",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Aether",
+      "slug": "aether",
+      "repository": "Zhou-Shilin/Aether",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "AndroidHarness",
+      "slug": "androidharness",
+      "repository": "Sanuu7/AndroidHarness",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "AutoXiaoer",
+      "slug": "autoxiaoer",
+      "repository": "Joy-word/AutoXiaoer",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "ClawGUI",
+      "slug": "clawgui",
+      "repository": "ZJU-REAL/ClawGUI",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Hermes Agent",
+      "slug": "hermes-agent",
+      "repository": "adybag14-cyber/hermes-agent",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "OmniBot",
+      "slug": "omnibot",
+      "repository": "omnimind-ai/OmniBot",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "OpenCyvis",
+      "slug": "opencyvis",
+      "repository": "opencyvis/opencyvis-phone",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "OpenDroid",
+      "slug": "opendroid",
+      "repository": "yashab-cyber/opendroid",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "OpenMinis",
+      "slug": "openminis",
+      "repository": "OpenMinis/OpenMinis",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "roubao",
+      "slug": "roubao",
+      "repository": "Turbo1123/roubao",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Zafiro",
+      "slug": "zafiro",
+      "repository": "niki914/zafiro",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Flywheel",
+      "slug": "flywheel",
+      "repository": "Benjamin-Wiegand/Flywheel",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "TVPilot",
+      "slug": "tvpilot",
+      "repository": "mahmutaunal/TVPilot",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "allEQ",
+      "slug": "alleq",
+      "repository": "omixin/allEQ",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Castix",
+      "slug": "castix",
+      "repository": "elhizazi1/Castix",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Volume++",
+      "slug": "volume-plus-plus",
+      "repository": "noel-digital-fan/volume_plus_plus",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Argus",
+      "slug": "argus",
+      "repository": "JackRushante/argus",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "AutoSlide",
+      "slug": "autoslide",
+      "repository": "tianxing-ovo/AutoSlide",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "flowpilot",
+      "slug": "flowpilot",
+      "repository": "emi-ran/flowpilot",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "IMD",
+      "slug": "imd",
+      "repository": "soul-99/SU_IMD",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "NexaFlow",
+      "slug": "nexaflow",
+      "repository": "Alaa91H/NexaFlow",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Nothing Modes",
+      "slug": "nothing-modes",
+      "repository": "Dvorinka/Nothing_Modes",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "OpenTasker",
+      "slug": "opentasker",
+      "repository": "SysAdminDoc/OpenTasker",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Service-Keeper",
+      "slug": "service-keeper",
+      "repository": "shaunkleyn/Service-Keeper",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "vFlow",
+      "slug": "vflow",
+      "repository": "ChaoMixian/vFlow",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "CallVault",
+      "slug": "callvault",
+      "repository": "madkongo/CallVault",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "GhostMode",
+      "slug": "ghostmode",
+      "repository": "Foxlape/GhostMode",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "KDE Connect (Shizuku)",
+      "slug": "kdeconnect-shizuku",
+      "repository": "Batestinha/kdeconnect-android-shizuku",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "KettuManager",
+      "slug": "kettumanager",
+      "repository": "C0C0B01/KettuManager",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Root-My-Galaxy",
+      "slug": "root-my-galaxy",
+      "repository": "BuSung-dev/Root-My-Galaxy",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Root-My-Pixel",
+      "slug": "root-my-pixel",
+      "repository": "alex193a/Root-My-Pixel",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "ReSukiSU",
+      "slug": "resukisu",
+      "repository": "ReSukiSU/ReSukiSU",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {
     "enabled": true,
     "shizuku": true,
     "release_strategy": "latest-stable",
-    "asset_patterns": [".*\\.apk$"],
-    "exclude_patterns": [".*debug.*", ".*unsigned.*", ".*test.*"],
-    "preferred_architectures": ["universal", "arm64-v8a", "armeabi-v7a", "x86_64", "x86"],
+    "asset_patterns": [
+      ".*\\.apk$"
+    ],
+    "exclude_patterns": [
+      ".*debug.*",
+      ".*unsigned.*",
+      ".*test.*"
+    ],
+    "preferred_architectures": [
+      "universal",
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64",
+      "x86"
+    ],
     "fallback_to_previous_release_with_apk": false
   }
 }
