@@ -19,6 +19,7 @@
 <br>
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-0A66C2?style=for-the-badge&logo=github)](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/discussions)
 [![Telegram Chat](https://img.shields.io/badge/Telegram-Community%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk3163019)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Search%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krishna0858bot)
 
 **发现最优质的 Shizuku 应用，无需 Root 即可自定义安卓、精简系统预装、管理应用权限、增强隐私保护并实现自动化操作。**
 
@@ -1054,6 +1055,7 @@ Looking to connect with other Android power users, ask setup questions, troubles
 | :--- | :--- | :--- |
 | 💬 **GitHub Discussions** | [👉 **Open Discussions Forum**](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/discussions) | Q&A, app showcases, device compatibility reports, and feature requests. |
 | ✈️ **Telegram 社区交流群** | [👉 **Join Telegram @kk3163019**](https://t.me/kk3163019) | Real-time chat with maintainer [@kk3163019](https://t.me/kk3163019) and Android modding enthusiasts. |
+| 🤖 **Telegram Search Bot** | [👉 **@krishna0858bot**](https://t.me/krishna0858bot) | Query 540+ apps, APK mirrors, and download links instantly from Telegram. |
 | 💡 **应用名称 Suggestions** | [👉 **Submit New 应用名称**](../../issues/new?template=app-suggestion.yml) | Suggest new Shizuku apps via our automated issue-to-PR bot. |
 | 🐛 **Bug & Link Reports** | [👉 **Open an Issue**](../../issues) | Report broken download links, outdated versions, or catalog errors. |
 
