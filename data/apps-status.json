@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-09-29T17:31:43.273388+00:00",
+    "last_checked": "2026-09-30T17:28:28.353576+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-09-30T03:34:02.827208+00:00",
+    "last_checked": "2026-09-30T17:27:40.065835+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-09-29T17:34:32.974961+00:00",
+    "last_checked": "2026-09-30T17:28:20.438458+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-09-29T17:32:10.382148+00:00"
+    "last_checked": "2026-09-30T17:27:52.701416+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -872,5 +872,105 @@
     "last_checked": "2026-09-30T03:35:34.430637+00:00",
     "latest_version": "v2.1.4",
     "last_synced": "2026-09-30T03:35:34.430637+00:00"
+  },
+  "dsh-deepseek-harness-android-mobile-enhance": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:23.014125+00:00",
+    "latest_version": "1",
+    "last_synced": "2026-09-30T17:27:23.014125+00:00"
+  },
+  "wolfi-terminal": {
+    "status": "no-apk",
+    "last_checked": "2026-09-30T17:27:23.487280+00:00",
+    "latest_version": "latest"
+  },
+  "haval-trip": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:27.701902+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-09-30T17:27:27.701902+00:00"
+  },
+  "ai-agent": {
+    "status": "no-apk",
+    "last_checked": "2026-09-30T17:27:28.135119+00:00",
+    "latest_version": "ci-run-234"
+  },
+  "xhizuku": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:31.912745+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-09-30T17:27:31.912745+00:00"
+  },
+  "gms-keeper": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:35.882631+00:00",
+    "latest_version": "v1.7",
+    "last_synced": "2026-09-30T17:27:35.882631+00:00"
+  },
+  "bugbane": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:39.632513+00:00",
+    "latest_version": "0.2.3-beta",
+    "last_synced": "2026-09-30T17:27:39.632513+00:00"
+  },
+  "dnd-syncer": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:48.228129+00:00",
+    "latest_version": "v1.0.19",
+    "last_synced": "2026-09-30T17:27:48.228129+00:00"
+  },
+  "amino-app": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:27:52.282925+00:00",
+    "latest_version": "v13.7.0.r1391-amino",
+    "last_synced": "2026-09-30T17:27:52.282925+00:00"
+  },
+  "deepseek-harness-android": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:10.616559+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-09-30T17:28:10.616559+00:00"
+  },
+  "equalizer314": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:14.795311+00:00",
+    "latest_version": "Equalizer314-v0.0.21-beta",
+    "last_synced": "2026-09-30T17:28:14.795311+00:00"
+  },
+  "yaowanggu-trainer": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:19.788317+00:00",
+    "latest_version": "v0.1.6",
+    "last_synced": "2026-09-30T17:28:19.788317+00:00"
+  },
+  "triggerdeck": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:24.093406+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-09-30T17:28:24.093406+00:00"
+  },
+  "tapoff": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:27.732432+00:00",
+    "latest_version": "v1.9",
+    "last_synced": "2026-09-30T17:28:27.732432+00:00"
+  },
+  "voidstrap": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:34.237248+00:00",
+    "latest_version": "v1.1.2.6",
+    "last_synced": "2026-09-30T17:28:34.237248+00:00"
+  },
+  "lucent": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:43.297555+00:00",
+    "latest_version": "v3.0.5",
+    "last_synced": "2026-09-30T17:28:43.297555+00:00"
+  },
+  "scrcpyforandroid": {
+    "status": "synced",
+    "last_checked": "2026-09-30T17:28:53.850757+00:00",
+    "latest_version": "v0.6.8-quic",
+    "last_synced": "2026-09-30T17:28:53.850757+00:00"
   }
 }

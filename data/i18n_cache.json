@@ -951,7 +951,23 @@
     "shiaho777": "夏霍777",
     "carlelieser": "卡勒利瑟",
     "qpst4": "qpst4",
-    "Private preview of a Samsung-style notification island with persistent bubbles, camera ring effects, and per-app haptics. Based on Expressive Cutout.": "三星风格的通知岛的私人预览，具有持续的气泡、相机环效果和每个应用程序的触觉。基于富有表现力的剪纸。"
+    "Private preview of a Samsung-style notification island with persistent bubbles, camera ring effects, and per-app haptics. Based on Expressive Cutout.": "三星风格的通知岛的私人预览，具有持续的气泡、相机环效果和每个应用程序的触觉。基于富有表现力的剪纸。",
+    "Discover and track Android apps powered by Shizuku, updated daily from GitHub.": "发现和跟踪由 Shizuku 提供支持的 Android 应用程序，每天从 GitHub 更新。",
+    "ScrcpyForAndroid fork with SSH tunnel mode for secure adb connection": "ScrcpyForAndroid fork 具有 SSH 隧道模式，用于安全 adb 连接",
+    "AI Agent for Android - Forked from AAswordman/Operit": "Android 版 AI 代理 - 从 AAswordman/Operit 分叉",
+    "药王谷修改器 · 用 Shizuku 直接改《药王谷女修修炼手札》存档（捏脸/五官/属性），无需 root/GG": "药王谷修改器·用雫直接改《药王谷女修修炼手札》文档（捏脸/五官/属性），薰根/GG",
+    "Parametric EQ & heavy audio control app for android using DynamicsProcessing API": "使用 DynamicsProcessing API 的 Android 参数均衡器和重型音频控制应用程序",
+    "Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)": "Wolfi + Alpine + void arch + debian - Android 终端（带有滚动 APK 版本的 ReTerminal 分支）",
+    "Stop Apps — accessibility-only Android app that force-stops selected apps (no root/Shizuku). Public CI mirror with emulator tests.": "停止应用程序 — 仅限辅助功能的 Android 应用程序，可强制停止选定的应用程序（无 root/Shizuku）。带有模拟器测试的公共 CI 镜像。",
+    "Double-tap to turn your Android screen off, without leaving accessibility on. Plus wallpapers drawn around your camera hole.": "轻按两次可关闭 Android 屏幕，但不保持辅助功能打开。加上在相机孔周围绘制的壁纸。",
+    "ゲーミングスマホのショルダートリガーと電源ボタンに機能やアプリを割り当てる Android アプリ (非公式)": "ゲーミングマホのショルダートリガーと电源ボタンに机能やアプuriを割り当てる Android apeuri (非公式)",
+    "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.": "Voidstrap 是 Bloxstrap 的简单而高级的分支，具有高级定制和改进功能。",
+    "Nightzuku fork to be update to date and few tweaks from me": "Nightzuku 分叉将进行最新更新，并且我会进行一些调整",
+    "对于DeepSeek Harness Mobile(把 DeepSeek Harness 完整装进安卓手机：内嵌 Node.js 运行时 + 官方 Web UI，开箱即用的独立 App) 的增强版：支持文件/文件夹导入、插件安装、UI 切换，并增强 Android/Termux 兼容性、稳定性与移动端体验。": "对于DeepSeek Harness Mobile（把DeepSeek Harness完整装进安卓手机：内嵌Node.js运行时+ Web UI，开箱即用的独立App）的增强版本：支持文件/文件夹官方导入、插件安装、UI切换，并增强Android/Termux兼容性、稳定性与移动端体验。",
+    "该程序是一个独立的 Capacitor Android 应用，用于管理本机 DeepSeek Harness Ubuntu 用户空间。它提供运行时安装与重置、Ubuntu 终端、可选的 Shizuku 设备 Shell 访问、设置，以及仅限回环地址的内嵌 Harness Web 界面。": "该程序是一个独立的 Capacitor Android 应用程序，用于管理本机 DeepSeek Harness Ubuntu 用户空间。它提供运行时安装与重置、Ubuntu 终端、可选的 Shizuku 设备 Shell 访问、设置，以及仅限回环地址的内嵌 Harness Web 界面。",
+    "Sync Do Not Disturb, theater and bedtime modes between Android phone and Wear OS watch": "在 Android 手机和 Wear OS 手表之间同步勿扰模式、剧院模式和就寝模式",
+    "On-device Android forensics tookit": "设备上的 Android 取证 takeit",
+    "Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.": "通过一键优化提升游戏性能、解锁 FPS 并减少 Windows 10/11 上的延迟。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -1905,6 +1921,22 @@
     "banuee": "бануэ",
     "shiaho777": "Шиахо777",
     "Private preview of a Samsung-style notification island with persistent bubbles, camera ring effects, and per-app haptics. Based on Expressive Cutout.": "Частный предварительный просмотр острова уведомлений в стиле Samsung с постоянными пузырьками, эффектами кольца камеры и тактильными ощущениями для каждого приложения. На основе выразительного выреза.",
-    "qpst4": "qpst4"
+    "qpst4": "qpst4",
+    "AI Agent for Android - Forked from AAswordman/Operit": "AI Agent для Android — ответвление от AAswordman/Operit",
+    "Discover and track Android apps powered by Shizuku, updated daily from GitHub.": "Находите и отслеживайте приложения Android на базе Shizuku, которые ежедневно обновляются на GitHub.",
+    "药王谷修改器 · 用 Shizuku 直接改《药王谷女修修炼手札》存档（捏脸/五官/属性），无需 root/GG": "药王谷修改器 · 用 Сидзуку 直接改《药王谷女修修炼手札》存档（捏脸/五官/属性）,无需 root/GG",
+    "ScrcpyForAndroid fork with SSH tunnel mode for secure adb connection": "Форк ScrcpyForAndroid с режимом SSH-туннеля для безопасного соединения с adb",
+    "Double-tap to turn your Android screen off, without leaving accessibility on. Plus wallpapers drawn around your camera hole.": "Дважды коснитесь, чтобы выключить экран Android, не оставляя специальных возможностей включенными. Плюс обои, нарисованные вокруг отверстия камеры.",
+    "Wolfi + Alpine + void arch + debian -  Android terminal (ReTerminal fork with rolling APK releases)": "Wolfi + Alpine + void Arch + debian — терминал Android (форк ReTerminal с периодическими выпусками APK)",
+    "Stop Apps — accessibility-only Android app that force-stops selected apps (no root/Shizuku). Public CI mirror with emulator tests.": "Stop Apps — Android-приложение только для специальных возможностей, которое принудительно останавливает выбранные приложения (без root/Shizuku). Публичное зеркало CI с тестами эмулятора.",
+    "Parametric EQ & heavy audio control app for android using DynamicsProcessing API": "Приложение параметрического эквалайзера и управления тяжелым звуком для Android с использованием API DynamicsProcessing",
+    "ゲーミングスマホのショルダートリガーと電源ボタンに機能やアプリを割り当てる Android アプリ (非公式)": "Приложение для Androidアプリ (非公式)",
+    "对于DeepSeek Harness Mobile(把 DeepSeek Harness 完整装进安卓手机：内嵌 Node.js 运行时 + 官方 Web UI，开箱即用的独立 App) 的增强版：支持文件/文件夹导入、插件安装、UI 切换，并增强 Android/Termux 兼容性、稳定性与移动端体验。": "Приложение DeepSeek Harness Mobile (можно использовать DeepSeek Harness 完整装进安卓手机: 内嵌 Node.js 运行时 + веб-интерфейс пользователя, приложение App) Изображение: 支持文件/文件夹导入、插件安装、UI 切换, 并增强 Android/Termux兼容性、稳定性与移动端体验。",
+    "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.": "Voidstrap — это простой, но продвинутый форк Bloxstrap, с расширенными возможностями настройки и улучшениями.",
+    "Nightzuku fork to be update to date and few tweaks from me": "Вилка Nightzuku будет обновлена ​​до настоящего времени, и я внес несколько изменений.",
+    "Sync Do Not Disturb, theater and bedtime modes between Android phone and Wear OS watch": "Синхронизируйте режимы «Не беспокоить», «Театр» и «Сон» между телефоном Android и часами с ОС Wear.",
+    "该程序是一个独立的 Capacitor Android 应用，用于管理本机 DeepSeek Harness Ubuntu 用户空间。它提供运行时安装与重置、Ubuntu 终端、可选的 Shizuku 设备 Shell 访问、设置，以及仅限回环地址的内嵌 Harness Web 界面。": "该程序是一个独立的 Capacitor Android 应用,用于管理本机 DeepSeek Harness Ubuntu用户空间。它提供运行时安装与重置、Ubuntu 终端、可选的 Shizuku 设备 Shell访问、设置，以及仅限回环地址的内嵌 Harness Web 界面。",
+    "Boost gaming performance with one-click optimization, unlock FPS, and reduce lag on Windows 10/11.": "Повысьте производительность в играх с помощью оптимизации в один клик, разблокируйте FPS и уменьшите задержку в Windows 10/11.",
+    "On-device Android forensics tookit": "Экспертиза Android на устройстве прошла"
   }
 }
