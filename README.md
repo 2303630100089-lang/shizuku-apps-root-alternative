@@ -290,16 +290,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **yuki** | carlelieser | `android-v1.10.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yuki-android-v1.10.0) | [Upstream](https://github.com/carlelieser/yuki/releases) |
+| ⚡ **RePair** | bassembaraya | `v1.0.16` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/repair-v1.0.16) | [Upstream](https://github.com/bassembaraya/RePair/releases) |
+| ⚡ **merta** | banuee | `v0.9.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/merta-v0.9.0) | [Upstream](https://github.com/banuee/merta/releases) |
+| ⚡ **io.github.kvmy666.duostatusbar** | Xposed-Modules-Repo | `12-1.3.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/io-github-kvmy666-duostatusbar-12-1.3.0) | [Upstream](https://github.com/Xposed-Modules-Repo/io.github.kvmy666.duostatusbar/releases) |
+| ⚡ **XGesture** | qpst4 | `v1.30.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/xgesture-v1.30.0) | [Upstream](https://github.com/qpst4/XGesture/releases) |
+| ⚡ **CODM_booster** | carljohntruya-art | `v1.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/codm-booster-v1.0) | [Upstream](https://github.com/carljohntruya-art/CODM_booster/releases) |
 | ⚡ **OpenMinis** | OpenMinis | `1.14` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.14) | [Upstream](https://github.com/OpenMinis/OpenMinis/releases) |
-| ⚡ **Nothing Modes** | Dvorinka | `v0.19.6` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/nothing-modes-v0.19.6) | [Upstream](https://github.com/Dvorinka/Nothing_Modes/releases) |
-| ⚡ **CallVault** | madkongo | `v2.4.3` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/callvault-v2.4.3) | [Upstream](https://github.com/madkongo/CallVault/releases) |
-| ⚡ **Dragon-Launcher** | Elnix90 | `4.3.0` | 2026-09-28 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dragon-launcher-4.3.0) | [Upstream](https://github.com/Elnix90/Dragon-Launcher/releases) |
-| ⚡ **Zafiro** | niki914 | `v10-1.4.2` | 2026-09-27 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/zafiro-v10-1.4.2) | [Upstream](https://github.com/niki914/zafiro/releases) |
-| ⚡ **GhostMode** | Foxlape | `v0.2.0` | 2026-09-27 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ghostmode-v0.2.0) | [Upstream](https://github.com/Foxlape/GhostMode/releases) |
-| ⚡ **de1984** | dorumrr | `v2.7.8` | 2026-09-27 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/de1984-v2.7.8) | [Upstream](https://github.com/dorumrr/de1984/releases) |
-| ⚡ **Hermes Agent** | adybag14-cyber | `v0.13.158` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/hermes-agent-v0.13.158) | [Upstream](https://github.com/adybag14-cyber/hermes-agent/releases) |
-| ⚡ **OpenTasker** | SysAdminDoc | `v0.2.94` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/opentasker-v0.2.94) | [Upstream](https://github.com/SysAdminDoc/OpenTasker/releases) |
-| ⚡ **WG Tunnel** | wgtunnel | `5.7.5` | 2026-09-26 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/wg-tunnel-5.7.5) | [Upstream](https://github.com/wgtunnel/wgtunnel/releases) |
+| ⚡ **LogSleuth** | shiaho777 | `v0.3.2` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/logsleuth-v0.3.2) | [Upstream](https://github.com/shiaho777/LogSleuth/releases) |
+| ⚡ **Haven** | GlassHaven | `v5.89.15` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haven-v5.89.15) | [Upstream](https://github.com/GlassHaven/Haven/releases) |
+| ⚡ **admin_tool** | joyfoxg | `v1.0.1` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/admin-tool-v1.0.1) | [Upstream](https://github.com/joyfoxg/admin_tool/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
