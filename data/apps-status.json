@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-09-29T17:34:48.391299+00:00",
+    "last_checked": "2026-09-30T03:34:02.827208+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -399,7 +399,7 @@
   },
   "zafiro": {
     "status": "no-update",
-    "last_checked": "2026-09-29T17:18:54.483509+00:00",
+    "last_checked": "2026-09-30T03:34:12.679095+00:00",
     "latest_version": "v10-1.4.2",
     "last_synced": "2026-09-29T11:54:17.590595+00:00"
   },
@@ -758,5 +758,119 @@
   "bigbirdui": {
     "status": "no-apk",
     "last_checked": "2026-09-29T17:36:14.336276+00:00"
+  },
+  "amino": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:33:35.974096+00:00",
+    "latest_version": "v13.7.0.r1382-amino",
+    "last_synced": "2026-09-30T03:33:35.974096+00:00"
+  },
+  "novabaic": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:33:42.563102+00:00",
+    "latest_version": "v0.1.11",
+    "last_synced": "2026-09-30T03:33:42.563102+00:00"
+  },
+  "actionmental": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:33:46.170413+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-09-30T03:33:46.170413+00:00"
+  },
+  "gearslip": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:33:51.140172+00:00",
+    "latest_version": "v0.0.05-alpha",
+    "last_synced": "2026-09-30T03:33:51.140172+00:00"
+  },
+  "loli-ai": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:33:58.562634+00:00",
+    "latest_version": "v2.2.1",
+    "last_synced": "2026-09-30T03:33:58.562634+00:00"
+  },
+  "stayturgid": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:34:02.294655+00:00",
+    "latest_version": "agent-v0.9.9",
+    "last_synced": "2026-09-30T03:34:02.294655+00:00"
+  },
+  "mobilelm": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:34:11.531718+00:00",
+    "latest_version": "0.5.1",
+    "last_synced": "2026-09-30T03:34:11.531718+00:00"
+  },
+  "root-my-galaxy-ultra": {
+    "status": "no-apk",
+    "last_checked": "2026-09-30T03:34:11.880079+00:00",
+    "latest_version": "1.0-3"
+  },
+  "project-hyper-island-pro": {
+    "status": "no-apk",
+    "last_checked": "2026-09-30T03:34:12.290520+00:00",
+    "latest_version": "ci-462"
+  },
+  "mp-manager": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:34:17.364570+00:00",
+    "latest_version": "1.0.9",
+    "last_synced": "2026-09-30T03:34:17.364570+00:00"
+  },
+  "gamecore": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:34:21.368625+00:00",
+    "latest_version": "V3.6.1",
+    "last_synced": "2026-09-30T03:34:21.368625+00:00"
+  },
+  "dsh-folk": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:34:29.473002+00:00",
+    "latest_version": "v1.9.5",
+    "last_synced": "2026-09-30T03:34:29.473002+00:00"
+  },
+  "terminalappplus": {
+    "status": "no-apk",
+    "last_checked": "2026-09-30T03:34:29.812609+00:00"
+  },
+  "dsha": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:35:08.213287+00:00",
+    "latest_version": "v0.1.7-rc2",
+    "last_synced": "2026-09-30T03:35:08.213287+00:00"
+  },
+  "gt-30-pro-custom-backlight": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:35:12.430221+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-09-30T03:35:12.430221+00:00"
+  },
+  "flcode": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:35:19.968801+00:00",
+    "latest_version": "v1.21",
+    "last_synced": "2026-09-30T03:35:19.968801+00:00"
+  },
+  "galaxy-island": {
+    "status": "no-apk",
+    "last_checked": "2026-09-30T03:35:20.445106+00:00"
+  },
+  "svt-mdm-android": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:35:24.622767+00:00",
+    "latest_version": "v0.8.2",
+    "last_synced": "2026-09-30T03:35:24.622767+00:00"
+  },
+  "ceditneuro": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:35:30.987466+00:00",
+    "latest_version": "v0.75.0",
+    "last_synced": "2026-09-30T03:35:30.987466+00:00"
+  },
+  "gamemappermind": {
+    "status": "synced",
+    "last_checked": "2026-09-30T03:35:34.430637+00:00",
+    "latest_version": "v2.1.4",
+    "last_synced": "2026-09-30T03:35:34.430637+00:00"
   }
 }

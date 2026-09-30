@@ -4869,5 +4869,325 @@
     ],
     "mirror_release_tag": "back-screen-wallpaper-v1.2",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/back-screen-wallpaper-v1.2"
+  },
+  "amino": {
+    "source_repository": "AMINODa/aMiNo",
+    "source_release_id": 399523009,
+    "source_tag": "v13.7.0.r1382-amino",
+    "source_published_at": "2026-09-29T20:58:04Z",
+    "synced_at": "2026-09-30T03:33:35.974067+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599208009,
+        "filename": "aMiNo-v13.7.0.r1382-release.apk",
+        "original_filename": "aMiNo-v13.7.0.r1382-release.apk",
+        "sha256": "237cc1a64f7338b0a3d6981fca153e80758c8a562d60b25a87359a88b39cf5c1",
+        "file_size": 3967462,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "amino-v13.7.0.r1382-amino",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/amino-v13.7.0.r1382-amino"
+  },
+  "novabaic": {
+    "source_repository": "Verlintas/NovaBAIC",
+    "source_release_id": 399692815,
+    "source_tag": "v0.1.11",
+    "source_published_at": "2026-09-30T03:22:12Z",
+    "synced_at": "2026-09-30T03:33:42.563081+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599923245,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "1bb73a66f3aab96e67072fcf4aac3585ee9439208bc1b9c1fb6ed642be743753",
+        "file_size": 46484243,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "novabaic-v0.1.11",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/novabaic-v0.1.11"
+  },
+  "actionmental": {
+    "source_repository": "SylvainAtelier/Actionmental",
+    "source_release_id": 387648200,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-09-12T17:37:38Z",
+    "synced_at": "2026-09-30T03:33:46.170391+00:00",
+    "assets": [
+      {
+        "source_asset_id": 559668145,
+        "filename": "actionmental_1.0.0_android_release.apk",
+        "original_filename": "actionmental_1.0.0_android_release.apk",
+        "sha256": "93b7cc17ed2efaa089bf1fb784118105e4a3f13a034d22f89032c6727adc0467",
+        "file_size": 3065265,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "actionmental-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/actionmental-v1.0.0"
+  },
+  "gearslip": {
+    "source_repository": "Seb3thehacker/gearslip",
+    "source_release_id": 397565656,
+    "source_tag": "v0.0.05-alpha",
+    "source_published_at": "2026-09-27T08:24:07Z",
+    "synced_at": "2026-09-30T03:33:51.140151+00:00",
+    "assets": [
+      {
+        "source_asset_id": 592480410,
+        "filename": "Gearslip-release.apk",
+        "original_filename": "Gearslip-release.apk",
+        "sha256": "b7b464920326c34f5a617d283f627cc1e5c4533507e8424b725ae55635632ed9",
+        "file_size": 33091980,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gearslip-v0.0.05-alpha",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gearslip-v0.0.05-alpha"
+  },
+  "loli-ai": {
+    "source_repository": "Lucky2356/loli_ai",
+    "source_release_id": 399692267,
+    "source_tag": "v2.2.1",
+    "source_published_at": "2026-09-30T03:20:43Z",
+    "synced_at": "2026-09-30T03:33:58.562613+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599921005,
+        "filename": "loli-2.2.1-release.apk",
+        "original_filename": "loli-2.2.1-release.apk",
+        "sha256": "8eb53a68cb8c518a8040a9b4cce8e0582e842516957b811dad75c36309f0e976",
+        "file_size": 84592658,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "loli-ai-v2.2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/loli-ai-v2.2.1"
+  },
+  "stayturgid": {
+    "source_repository": "djbclark/stayturgid",
+    "source_release_id": 399670304,
+    "source_tag": "agent-v0.9.9",
+    "source_published_at": "2026-09-30T02:31:00Z",
+    "synced_at": "2026-09-30T03:34:02.294635+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599839000,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "338409e659100a383d551c235f177dca05e051763b885b47f40d051c16ea6d18",
+        "file_size": 3775780,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "stayturgid-agent-v0.9.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/stayturgid-agent-v0.9.9"
+  },
+  "mobilelm": {
+    "source_repository": "dollarbr/mobileLM",
+    "source_release_id": 399667087,
+    "source_tag": "0.5.1",
+    "source_published_at": "2026-09-30T02:23:23Z",
+    "synced_at": "2026-09-30T03:34:11.531693+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599824498,
+        "filename": "mobilelm-0.5.1-arm64-v8a.apk",
+        "original_filename": "mobilelm-0.5.1-arm64-v8a.apk",
+        "sha256": "4e95ce72632864dabd7dde5886a5709c8e62611ec5189d92e6e8aeedde3963de",
+        "file_size": 82871867,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "mobilelm-0.5.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mobilelm-0.5.1"
+  },
+  "mp-manager": {
+    "source_repository": "AbdurazaaqMohammed/MP-Manager",
+    "source_release_id": 397029664,
+    "source_tag": "1.0.9",
+    "source_published_at": "2026-09-26T02:04:16Z",
+    "synced_at": "2026-09-30T03:34:17.364547+00:00",
+    "assets": [
+      {
+        "source_asset_id": 589711180,
+        "filename": "MP-Manager.1.0.9.apk",
+        "original_filename": "MP-Manager.1.0.9.apk",
+        "sha256": "e1e22673ac5627a46c782baae7d025517f2b8b847ab71081b5c1f9af43049bc8",
+        "file_size": 24504759,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "mp-manager-1.0.9",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mp-manager-1.0.9"
+  },
+  "gamecore": {
+    "source_repository": "Dreamucxe/GameCore",
+    "source_release_id": 399443124,
+    "source_tag": "V3.6.1",
+    "source_published_at": "2026-09-29T19:05:00Z",
+    "synced_at": "2026-09-30T03:34:21.368604+00:00",
+    "assets": [
+      {
+        "source_asset_id": 598991044,
+        "filename": "GameCore.apk",
+        "original_filename": "GameCore.apk",
+        "sha256": "afcfdce9eef31176339a94c3e841e097bf1d45ff609245fd2d4df3319497d62a",
+        "file_size": 13099669,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "gamecore-V3.6.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gamecore-V3.6.1"
+  },
+  "dsh-folk": {
+    "source_repository": "IPF-Sinon/DSH-Folk",
+    "source_release_id": 397168293,
+    "source_tag": "v1.9.5",
+    "source_published_at": "2026-09-26T09:10:55Z",
+    "synced_at": "2026-09-30T03:34:29.472980+00:00",
+    "assets": [
+      {
+        "source_asset_id": 590327686,
+        "filename": "DSH-Folk-1.9.5-arm64-v8a.apk",
+        "original_filename": "DSH-Folk-1.9.5-arm64-v8a.apk",
+        "sha256": "42106177e8c0f3863e2fd1dd61d174676856359551c0f82487613d22bae6b6d5",
+        "file_size": 18337116,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 590327958,
+        "filename": "DSH-Folk-1.9.5-x86_64.apk",
+        "original_filename": "DSH-Folk-1.9.5-x86_64.apk",
+        "sha256": "60ee2a8c57a09d8a8d8be7498d48d85e1b99523c879bd7e456b66abf74641671",
+        "file_size": 18116017,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "dsh-folk-v1.9.5",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dsh-folk-v1.9.5"
+  },
+  "dsha": {
+    "source_repository": "DSH-APP/DSHA",
+    "source_release_id": 398274234,
+    "source_tag": "v0.1.7-rc2",
+    "source_published_at": "2026-09-28T13:35:22Z",
+    "synced_at": "2026-09-30T03:35:08.213267+00:00",
+    "assets": [
+      {
+        "source_asset_id": 595471700,
+        "filename": "dsha-0.1.7-rc2.apk",
+        "original_filename": "dsha-0.1.7-rc2.apk",
+        "sha256": "f8115ddffa119479f6378653b78e9adb1b23b5abf819a3f0f2602463f64d9b75",
+        "file_size": 273621504,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 595471688,
+        "filename": "dsha-0.1.7-rc2low.apk",
+        "original_filename": "dsha-0.1.7-rc2low.apk",
+        "sha256": "b7b778291239a09149c712327c52cb5257001df4448bfb04d5b1ea04db43e64b",
+        "file_size": 349864634,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "dsha-v0.1.7-rc2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dsha-v0.1.7-rc2"
+  },
+  "gt-30-pro-custom-backlight": {
+    "source_repository": "alphingj/GT-30-Pro-Custom-Backlight",
+    "source_release_id": 399436395,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-09-29T18:56:11Z",
+    "synced_at": "2026-09-30T03:35:12.430201+00:00",
+    "assets": [
+      {
+        "source_asset_id": 598967078,
+        "filename": "GT.30.apk",
+        "original_filename": "GT.30.apk",
+        "sha256": "efa433cbcfbea0f440f000e5aaf4b27511e7702e71fde17a4043f572267f5080",
+        "file_size": 12147753,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "gt-30-pro-custom-backlight-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gt-30-pro-custom-backlight-v1.0.0"
+  },
+  "flcode": {
+    "source_repository": "lixfl/FLcode",
+    "source_release_id": 399691798,
+    "source_tag": "v1.21",
+    "source_published_at": "2026-09-30T03:19:22Z",
+    "synced_at": "2026-09-30T03:35:19.968781+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599919285,
+        "filename": "fenglingcode-v1.21.apk",
+        "original_filename": "fenglingcode-v1.21.apk",
+        "sha256": "4e2f69b8962bc85e9b2ed72fe45463c2e38039232fe8b1edee144d74ddb26ea1",
+        "file_size": 35279402,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "flcode-v1.21",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/flcode-v1.21"
+  },
+  "svt-mdm-android": {
+    "source_repository": "adrianoftyriel/SVT-MDM-Android",
+    "source_release_id": 363286907,
+    "source_tag": "v0.8.2",
+    "source_published_at": "2026-07-31T19:38:01Z",
+    "synced_at": "2026-09-30T03:35:24.622747+00:00",
+    "assets": [
+      {
+        "source_asset_id": 497092760,
+        "filename": "svt-mdm-0.8.2.apk",
+        "original_filename": "svt-mdm-0.8.2.apk",
+        "sha256": "c0626faecd6eed14dc14b685cb1d6360298b56d83bc48230b49b5033b26be116",
+        "file_size": 10484774,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "svt-mdm-android-v0.8.2",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/svt-mdm-android-v0.8.2"
+  },
+  "ceditneuro": {
+    "source_repository": "hvkeyn/CEditNeuro",
+    "source_release_id": 399676053,
+    "source_tag": "v0.75.0",
+    "source_published_at": "2026-09-30T02:43:21Z",
+    "synced_at": "2026-09-30T03:35:30.987446+00:00",
+    "assets": [
+      {
+        "source_asset_id": 599860029,
+        "filename": "CEditNeuro-0.75.0.apk",
+        "original_filename": "CEditNeuro-0.75.0.apk",
+        "sha256": "b920dd2dbf7e6d3ab3567cd6ef5eecc2b2722a5c2136454e7fa775d243b17128",
+        "file_size": 39725907,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ceditneuro-v0.75.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ceditneuro-v0.75.0"
+  },
+  "gamemappermind": {
+    "source_repository": "NanoMindExplorer/GameMapperMind",
+    "source_release_id": 363452775,
+    "source_tag": "v2.1.4",
+    "source_published_at": "2026-08-01T06:49:49Z",
+    "synced_at": "2026-09-30T03:35:34.430617+00:00",
+    "assets": [
+      {
+        "source_asset_id": 497662080,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "2e30fe7ae57fad47e52294880763272d6a13678ff033a5f32e72889711a48508",
+        "file_size": 2024997,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "gamemappermind-v2.1.4",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gamemappermind-v2.1.4"
   }
 }
