@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-09-30T17:27:40.065835+00:00",
+    "last_checked": "2026-10-01T03:38:56.003102+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -332,10 +332,10 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "no-update",
-    "last_checked": "2026-09-29T17:18:43.822470+00:00",
-    "latest_version": "zako3.02",
-    "last_synced": "2026-09-29T11:52:18.448576+00:00"
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:20.475631+00:00",
+    "latest_version": "zako3.12",
+    "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
   "aether": {
     "status": "no-update",
@@ -972,5 +972,102 @@
     "last_checked": "2026-09-30T17:28:53.850757+00:00",
     "latest_version": "v0.6.8-quic",
     "last_synced": "2026-09-30T17:28:53.850757+00:00"
+  },
+  "otomo-app": {
+    "status": "no-apk",
+    "last_checked": "2026-10-01T03:38:13.304613+00:00"
+  },
+  "mslx-app-android": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:19.528367+00:00",
+    "latest_version": "v1.7.7-Beta",
+    "last_synced": "2026-10-01T03:38:19.528367+00:00"
+  },
+  "thermal-monitor-snapdragon": {
+    "status": "no-apk",
+    "last_checked": "2026-10-01T03:38:20.732548+00:00"
+  },
+  "patcher-build": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:28.648244+00:00",
+    "latest_version": "260111",
+    "last_synced": "2026-10-01T03:38:28.648244+00:00"
+  },
+  "ghostlock-app": {
+    "status": "no-apk",
+    "last_checked": "2026-10-01T03:38:28.930999+00:00"
+  },
+  "phoneguard": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:31.435544+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-10-01T03:38:31.435544+00:00"
+  },
+  "yachiyo-claw": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:39.171274+00:00",
+    "latest_version": "v0.0.21",
+    "last_synced": "2026-10-01T03:38:39.171274+00:00"
+  },
+  "statusbar-hider": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:41.669669+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-01T03:38:41.669669+00:00"
+  },
+  "gkme": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:45.224339+00:00",
+    "latest_version": "4.3.0",
+    "last_synced": "2026-10-01T03:38:45.224339+00:00"
+  },
+  "deepseek-harness-local-android": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:52.612779+00:00",
+    "latest_version": "v1.2.35",
+    "last_synced": "2026-10-01T03:38:52.612779+00:00"
+  },
+  "fcm-helper": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:38:55.674770+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-01T03:38:55.674770+00:00"
+  },
+  "ccm-android": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:39:00.631350+00:00",
+    "latest_version": "build-221",
+    "last_synced": "2026-10-01T03:39:00.631350+00:00"
+  },
+  "android-guru-agent": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:39:56.645528+00:00",
+    "latest_version": "v1.4.4.7",
+    "last_synced": "2026-10-01T03:39:56.645528+00:00"
+  },
+  "project-v7": {
+    "status": "no-apk",
+    "last_checked": "2026-10-01T03:39:57.082540+00:00",
+    "latest_version": "v1.33.0"
+  },
+  "azurpilot-for-android": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:55:54.361397+00:00",
+    "latest_version": "azurpilot-android-latest",
+    "last_synced": "2026-10-01T03:55:54.361397+00:00"
+  },
+  "bloo": {
+    "status": "no-apk",
+    "last_checked": "2026-10-01T03:55:55.657502+00:00"
+  },
+  "stellashell": {
+    "status": "no-apk",
+    "last_checked": "2026-10-01T03:55:55.956456+00:00"
+  },
+  "untether": {
+    "status": "synced",
+    "last_checked": "2026-10-01T03:55:58.719749+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-10-01T03:55:58.719749+00:00"
   }
 }

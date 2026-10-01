@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 388883152,
-    "source_tag": "zako3.02",
-    "source_published_at": "2026-09-15T05:16:26Z",
-    "synced_at": "2026-09-29T11:52:18.448536+00:00",
+    "source_release_id": 400594022,
+    "source_tag": "zako3.12",
+    "source_published_at": "2026-10-01T02:14:25Z",
+    "synced_at": "2026-10-01T03:38:20.475609+00:00",
     "assets": [
       {
-        "source_asset_id": 564965618,
-        "filename": "shizako-vzako3.02-release.apk",
-        "original_filename": "shizako-vzako3.02-release.apk",
-        "sha256": "6ec606cfae91b4df90f8fa1b27e4f768152a79692723355c5d1cd024180d05d0",
-        "file_size": 8233422,
+        "source_asset_id": 602249773,
+        "filename": "shizako-vzako3.12-release.apk",
+        "original_filename": "shizako-vzako3.12-release.apk",
+        "sha256": "6ffabe82dc798f576bd84f7c0a3f505d768f24435b2ff45579d2c5c736c16012",
+        "file_size": 8242129,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.02",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.02"
+    "mirror_release_tag": "shizako-zako3.12",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.12"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -5498,5 +5498,561 @@
     ],
     "mirror_release_tag": "scrcpyforandroid-v0.6.8-quic",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpyforandroid-v0.6.8-quic"
+  },
+  "mslx-app-android": {
+    "source_repository": "WLudy1012/MSLX_APP-Android",
+    "source_release_id": 397162971,
+    "source_tag": "v1.7.7-Beta",
+    "source_published_at": "2026-09-26T08:50:55Z",
+    "synced_at": "2026-10-01T03:38:19.528346+00:00",
+    "assets": [
+      {
+        "source_asset_id": 590296218,
+        "filename": "app-release-lite.apk",
+        "original_filename": "app-release-lite.apk",
+        "sha256": "dbc724ece2e917714e141e5cc84be80f719f640baf6947f0d2066f2e8d5b39db",
+        "file_size": 11165455,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 590296212,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "f840ebaa556942c3878d695b7bbb8e5c7cc430f8ea50e47ebf7bdac7ca72a059",
+        "file_size": 49231948,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mslx-app-android-v1.7.7-Beta",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/mslx-app-android-v1.7.7-Beta"
+  },
+  "patcher-build": {
+    "source_repository": "gramnaters/patcher-build",
+    "source_release_id": 388024148,
+    "source_tag": "260111",
+    "source_published_at": "2026-09-13T20:24:42Z",
+    "synced_at": "2026-10-01T03:38:28.648221+00:00",
+    "assets": [
+      {
+        "source_asset_id": 561872295,
+        "filename": "JioHotstar-Premium-v26.08.31.3-arm64.apk",
+        "original_filename": "JioHotstar-Premium-v26.08.31.3-arm64.apk",
+        "sha256": "eaf2ad3110d3a66e2119e58c5d8e75041bed4b434a862885e7dca8ae62602de0",
+        "file_size": 178545390,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "patcher-build-260111",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/patcher-build-260111"
+  },
+  "phoneguard": {
+    "source_repository": "Maheshlee007/phoneguard",
+    "source_release_id": 400512493,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-09-30T23:37:52Z",
+    "synced_at": "2026-10-01T03:38:31.435524+00:00",
+    "assets": [
+      {
+        "source_asset_id": 602015270,
+        "filename": "phoneguard-v0.4.0.apk",
+        "original_filename": "phoneguard-v0.4.0.apk",
+        "sha256": "fd009e7b4afadf3ff6b7db202a632a3825176b4fa2df47a16e26d9bdcaa665de",
+        "file_size": 2426685,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "phoneguard-v0.4.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/phoneguard-v0.4.0"
+  },
+  "yachiyo-claw": {
+    "source_repository": "Wayne1145/yachiyo-claw",
+    "source_release_id": 400288139,
+    "source_tag": "v0.0.21",
+    "source_published_at": "2026-09-30T17:40:46Z",
+    "synced_at": "2026-10-01T03:38:39.171252+00:00",
+    "assets": [
+      {
+        "source_asset_id": 601465731,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "3c7de1b91dbcf9f8aed658c758e728241bff2a12e33de43ce4bb444961017719",
+        "file_size": 175447533,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "yachiyo-claw-v0.0.21",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yachiyo-claw-v0.0.21"
+  },
+  "statusbar-hider": {
+    "source_repository": "YoannDev90/StatusBar-Hider",
+    "source_release_id": 397282429,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-09-26T15:16:51Z",
+    "synced_at": "2026-10-01T03:38:41.669645+00:00",
+    "assets": [
+      {
+        "source_asset_id": 590892068,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "da168d5067389139660f48972af9fc3b4918bedcbc20d054c05135a50fc8a9ac",
+        "file_size": 44862,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "statusbar-hider-v1.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/statusbar-hider-v1.1.0"
+  },
+  "gkme": {
+    "source_repository": "4zyz4/GKME",
+    "source_release_id": 399821423,
+    "source_tag": "4.3.0",
+    "source_published_at": "2026-09-30T07:51:34Z",
+    "synced_at": "2026-10-01T03:38:45.224319+00:00",
+    "assets": [
+      {
+        "source_asset_id": 600341361,
+        "filename": "GKME-4.3.0.apk",
+        "original_filename": "GKME-4.3.0.apk",
+        "sha256": "6d3d945c9da88d7cdbddb6d0e26022a690c85a442041d12c6cec747907d70a82",
+        "file_size": 16088804,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gkme-4.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gkme-4.3.0"
+  },
+  "deepseek-harness-local-android": {
+    "source_repository": "Soodok/Deepseek-Harness-Local-Android",
+    "source_release_id": 400619296,
+    "source_tag": "v1.2.35",
+    "source_published_at": "2026-10-01T03:13:59Z",
+    "synced_at": "2026-10-01T03:38:52.612759+00:00",
+    "assets": [
+      {
+        "source_asset_id": 602327110,
+        "filename": "dsh-mobile-v1.2.35-arm64-v8a.apk",
+        "original_filename": "dsh-mobile-v1.2.35-arm64-v8a.apk",
+        "sha256": "61bafa29717fa53cffaf6c4ebb10dd1a9abbaefcf0f6220d6e4ba69983c0b34b",
+        "file_size": 163776296,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "deepseek-harness-local-android-v1.2.35",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/deepseek-harness-local-android-v1.2.35"
+  },
+  "fcm-helper": {
+    "source_repository": "largebatata/FCM-Helper",
+    "source_release_id": 400628915,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-01T03:33:22Z",
+    "synced_at": "2026-10-01T03:38:55.674750+00:00",
+    "assets": [
+      {
+        "source_asset_id": 602351334,
+        "filename": "FCM-Helper-1.0.1.apk",
+        "original_filename": "FCM-Helper-1.0.1.apk",
+        "sha256": "c1fef5c815a4ea9eb2a30ca126cc0badb420272ad855d8b3c7a96c1785ba1a16",
+        "file_size": 2032882,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "fcm-helper-v1.0.1",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fcm-helper-v1.0.1"
+  },
+  "ccm-android": {
+    "source_repository": "wzy-20130517/ccm-android",
+    "source_release_id": 400619077,
+    "source_tag": "build-221",
+    "source_published_at": "2026-10-01T03:13:31Z",
+    "synced_at": "2026-10-01T03:39:00.631327+00:00",
+    "assets": [
+      {
+        "source_asset_id": 602326251,
+        "filename": "CCM-221.apk",
+        "original_filename": "CCM-221.apk",
+        "sha256": "dae3e80747469101b173560500b8a90288a6b02c5ad80f8ab45fc8ee3f4b1aba",
+        "file_size": 48741629,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ccm-android-build-221",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/ccm-android-build-221"
+  },
+  "android-guru-agent": {
+    "source_repository": "AceGuru-mjh/Android-Guru-Agent",
+    "source_release_id": 400596817,
+    "source_tag": "v1.4.4.7",
+    "source_published_at": "2026-10-01T02:20:22Z",
+    "synced_at": "2026-10-01T03:39:56.645509+00:00",
+    "assets": [
+      {
+        "source_asset_id": 602257729,
+        "filename": "ApexAgent-v1.4.4.7-release-arm64-35b981e0.apk",
+        "original_filename": "ApexAgent-v1.4.4.7-release-arm64-35b981e0.apk",
+        "sha256": "6ebd93647ad843b514e57fba964305bcafbc1a0a4a1c99cfd2e43fde7588dd7c",
+        "file_size": 334005068,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 602257732,
+        "filename": "ApexAgent-v1.4.4.7-release-universal-35b981e0.apk",
+        "original_filename": "ApexAgent-v1.4.4.7-release-universal-35b981e0.apk",
+        "sha256": "b4e860ca14374523000c6f5a4a1f45a93071e8b2c7d4766c4f96bf54c6475b8e",
+        "file_size": 948891468,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-guru-agent-v1.4.4.7",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/android-guru-agent-v1.4.4.7"
+  },
+  "azurpilot-for-android": {
+    "source_repository": "wess09/AzurPilot-for-Android",
+    "source_release_id": 396803260,
+    "source_tag": "azurpilot-android-latest",
+    "source_published_at": "2026-09-25T17:35:05Z",
+    "synced_at": "2026-10-01T03:55:54.361364+00:00",
+    "assets": [
+      {
+        "source_asset_id": 589113110,
+        "filename": "AzurPilot-Android-1.0.116-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.116-full.apk",
+        "sha256": "25bdc96a43f17f6a45881ba6c46f11d5bc0de1c69f8ed4f2cf55b305e27e48d2",
+        "file_size": 883447496,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589113106,
+        "filename": "AzurPilot-Android-1.0.116-update.apk",
+        "original_filename": "AzurPilot-Android-1.0.116-update.apk",
+        "sha256": "a6a7d97eb83f9d9c41b26d61d23c372912b997c52af53d4512682cf616d316ef",
+        "file_size": 8293822,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589362895,
+        "filename": "AzurPilot-Android-1.0.117-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.117-full.apk",
+        "sha256": "0c5f894c6be5c4257b7e6dc68b38d32b950ae9a54800f5873025fb21a8c07654",
+        "file_size": 883454631,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589362894,
+        "filename": "AzurPilot-Android-1.0.117-update.apk",
+        "original_filename": "AzurPilot-Android-1.0.117-update.apk",
+        "sha256": "f5c4b5df2880cf5b594286b061daca2a9ee51359e2464c17e9260d7955e5cfa3",
+        "file_size": 8294276,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589461135,
+        "filename": "AzurPilot-Android-1.0.118-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.118-full.apk",
+        "sha256": "2abec2b457070832586b8c9166a464257a499c6d15dccbf2c0621e3bb5ded80e",
+        "file_size": 883563934,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589461136,
+        "filename": "AzurPilot-Android-1.0.118-update.apk",
+        "original_filename": "AzurPilot-Android-1.0.118-update.apk",
+        "sha256": "75aca7016106c5408679ef1f1953e31f5f0fa938df607d227d9f90ab5f348045",
+        "file_size": 8356796,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589534848,
+        "filename": "AzurPilot-Android-1.0.119-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.119-full.apk",
+        "sha256": "cda5351bc14193f8c76a9fd63e943217bfb3279606bbd74d9b60d9ef98f51d23",
+        "file_size": 883579164,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589534851,
+        "filename": "AzurPilot-Android-1.0.119-update.apk",
+        "original_filename": "AzurPilot-Android-1.0.119-update.apk",
+        "sha256": "2590689d452d5bdb57a817b5c0bfd2f31ccd2b73633ea2cb850e040c8f0e0e1c",
+        "file_size": 8371729,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589913331,
+        "filename": "AzurPilot-Android-1.0.120-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.120-full.apk",
+        "sha256": "304dc0a994eddbefae2156f1035c2558249efede501e3409d7c18c54cf527fc0",
+        "file_size": 884008370,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589913332,
+        "filename": "AzurPilot-Android-1.0.120-update.apk",
+        "original_filename": "AzurPilot-Android-1.0.120-update.apk",
+        "sha256": "6e19ec283a05003f84cdd5fac2ccd3cabe95467ec2d20371c14a6387c2480f28",
+        "file_size": 8805429,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 590239175,
+        "filename": "AzurPilot-Android-1.0.122-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.122-arm64-v8a-full.apk",
+        "sha256": "a2883f67e904781a3cfc9df41943db5d2b09b979d5ffec4b37b8bc62470eefc0",
+        "file_size": 886157780,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 590239174,
+        "filename": "AzurPilot-Android-1.0.122-update.apk",
+        "original_filename": "AzurPilot-Android-1.0.122-update.apk",
+        "sha256": "9d8b4e65f7dd20f89a0f738f857bc10d24726ed824992aff4998d2c047d7d553",
+        "file_size": 10213803,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 590239190,
+        "filename": "AzurPilot-Android-1.0.122-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.0.122-x86_64-full.apk",
+        "sha256": "32e2b050732cfa975586ce9dc59b744626a8a6417dbad879ac23a0029ec13632",
+        "file_size": 939964654,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 590384491,
+        "filename": "AzurPilot-Android-1.1.131-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.1.131-arm64-v8a-full.apk",
+        "sha256": "1a17f8596b653a74f33a4a544ab5702061df57323749d6ed37fe25d7ab43a29e",
+        "file_size": 886144048,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 590384490,
+        "filename": "AzurPilot-Android-1.1.131-update.apk",
+        "original_filename": "AzurPilot-Android-1.1.131-update.apk",
+        "sha256": "905211bc270ed0543cd24c4ef5d6502268ac8e19683ddd1df58f1a92569e032f",
+        "file_size": 10213800,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 590384508,
+        "filename": "AzurPilot-Android-1.1.131-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.1.131-x86_64-full.apk",
+        "sha256": "9c5cef5ca278609ae447e21c3e5343dca9646960a61797fb2f14e33fe6489171",
+        "file_size": 939976968,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 592625844,
+        "filename": "AzurPilot-Android-1.2.0-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.0-arm64-v8a-full.apk",
+        "sha256": "15ddab0d27f138af5ba8e167f553e41e09cc1af4325cd12e6e2c46c7bdbef6ae",
+        "file_size": 887157013,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 592625846,
+        "filename": "AzurPilot-Android-1.2.0-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.0-update.apk",
+        "sha256": "040361264b08b5a1173a581e8b4aac6514e94debbe6e2a14076c0e2001cd3574",
+        "file_size": 10213790,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 592625869,
+        "filename": "AzurPilot-Android-1.2.0-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.0-x86_64-full.apk",
+        "sha256": "21027b0f940a79b0796cecf4643a2925b8c694e474f38dab4a9f303960c1356a",
+        "file_size": 939600170,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 595781067,
+        "filename": "AzurPilot-Android-1.2.11-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.11-arm64-v8a-full.apk",
+        "sha256": "900a2b6e3ce7709bca43383cca72f4c4cd227d9fc4263ba61fc5a00876432872",
+        "file_size": 888917081,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 595781066,
+        "filename": "AzurPilot-Android-1.2.11-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.11-update.apk",
+        "sha256": "2560bc1a88ce19d1a301c6ff2b6500fa3f1d933cc8c4feb665d94a32f0a72df1",
+        "file_size": 10280927,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 595781098,
+        "filename": "AzurPilot-Android-1.2.11-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.11-x86_64-full.apk",
+        "sha256": "a96e5e360b16ec914a13e0db7d90196d60f84516e58b315edb7af1fafc418b08",
+        "file_size": 939800530,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 600350738,
+        "filename": "AzurPilot-Android-1.2.34-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.34-arm64-v8a-full.apk",
+        "sha256": "79818165bbe917e2f2943b7a1985a6e2ef71a70b47e1972aacf823a60d030499",
+        "file_size": 892834731,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 600350745,
+        "filename": "AzurPilot-Android-1.2.34-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.34-update.apk",
+        "sha256": "5d80cd50b42deb8998e2d110222c634886d66bea56fcd5388a0a244792eaf8dc",
+        "file_size": 11412812,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 600350775,
+        "filename": "AzurPilot-Android-1.2.34-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.34-x86_64-full.apk",
+        "sha256": "88249f3003f2fc100445bfad93f62bc3c2fc1bc0be0fc32aa9455ccc4efa6ad1",
+        "file_size": 943615833,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 600382379,
+        "filename": "AzurPilot-Android-1.2.38-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.38-arm64-v8a-full.apk",
+        "sha256": "98495ceccb78e175bfb77155eb4a2129005504764f41c224c143c770f83aa882",
+        "file_size": 892842479,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 600382371,
+        "filename": "AzurPilot-Android-1.2.38-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.38-update.apk",
+        "sha256": "37d91708c4a24b049c2b5f85e0a8d8817813d4b21f5bca79e75c3845bae33966",
+        "file_size": 11427734,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 600382381,
+        "filename": "AzurPilot-Android-1.2.38-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.38-x86_64-full.apk",
+        "sha256": "ade5653f854191b70044c36e12f033c688bc539dfb03d67065ae457df711dd69",
+        "file_size": 943617045,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 600414306,
+        "filename": "AzurPilot-Android-1.2.39-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.39-arm64-v8a-full.apk",
+        "sha256": "ad071bc3e7fd4b286a730db77981dc0171c5033c41890fd17befc19f70137b6c",
+        "file_size": 892856198,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 600414292,
+        "filename": "AzurPilot-Android-1.2.39-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.39-update.apk",
+        "sha256": "5f5831041c77ef35ead9303db5172f9694f1d318fb7bdefe091cf1fdcc696426",
+        "file_size": 11428857,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 600414320,
+        "filename": "AzurPilot-Android-1.2.39-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.39-x86_64-full.apk",
+        "sha256": "20b9c0e4d006cdfda2d28bf1b5d5e9f7804def823b2566b710c40cb7c5ce26a2",
+        "file_size": 943645949,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 594778376,
+        "filename": "AzurPilot-Android-1.2.4-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.4-arm64-v8a-full.apk",
+        "sha256": "faef5fa23343a567129029ae55d0e6e2c291c9e48fc846a66d825ae37427a2b9",
+        "file_size": 888847689,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 594778380,
+        "filename": "AzurPilot-Android-1.2.4-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.4-update.apk",
+        "sha256": "4b9583bd88823c39fec8817b20a39cc2a31dd9210b0f6b430ae42793086f73a6",
+        "file_size": 10244673,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 594778411,
+        "filename": "AzurPilot-Android-1.2.4-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.4-x86_64-full.apk",
+        "sha256": "1af41c630efa587be72343bc377ac3a442c04432d4bf9aea0f66c88ac765064b",
+        "file_size": 939794616,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 601749963,
+        "filename": "AzurPilot-Android-1.2.42-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.42-arm64-v8a-full.apk",
+        "sha256": "bbddf83ea5040e453c32c9e17acb9e1f2c2900d74ece52cd122b8f3dd0f21aba",
+        "file_size": 892988598,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 601749957,
+        "filename": "AzurPilot-Android-1.2.42-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.42-update.apk",
+        "sha256": "e49a851f92aeac82f171248ba113b62f79de0cb57321504e19ef3910b04eb91b",
+        "file_size": 11446000,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 601749965,
+        "filename": "AzurPilot-Android-1.2.42-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.42-x86_64-full.apk",
+        "sha256": "940269316290ab96c2b639847df036ee11b606ab7861f1ce6f292bdc1db2abc5",
+        "file_size": 943802697,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 602354621,
+        "filename": "AzurPilot-Android-1.2.47-arm64-v8a-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.47-arm64-v8a-full.apk",
+        "sha256": "e56d9aae0e7926aeaf1d72dd998276a1f1cb9200689c5388478f9c43df404998",
+        "file_size": 893374943,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 602354619,
+        "filename": "AzurPilot-Android-1.2.47-update.apk",
+        "original_filename": "AzurPilot-Android-1.2.47-update.apk",
+        "sha256": "2634ed7c11e89b8167f8402de78af0ef50c9891d1a23ee4176e466ae02dc9e6a",
+        "file_size": 11832887,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 602354627,
+        "filename": "AzurPilot-Android-1.2.47-x86_64-full.apk",
+        "original_filename": "AzurPilot-Android-1.2.47-x86_64-full.apk",
+        "sha256": "ac38d89c1a4daa8e8c3873aa7a46995a68548437f038990f510ec1e5d32a277a",
+        "file_size": 944206654,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "azurpilot-for-android-azurpilot-android-latest",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/azurpilot-for-android-azurpilot-android-latest"
+  },
+  "untether": {
+    "source_repository": "ImOstrovskiy/untether",
+    "source_release_id": 400435960,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-09-30T21:05:22Z",
+    "synced_at": "2026-10-01T03:55:58.719729+00:00",
+    "assets": [
+      {
+        "source_asset_id": 601798318,
+        "filename": "Untether-0.2.0.apk",
+        "original_filename": "Untether-0.2.0.apk",
+        "sha256": "2df3e2d2f99d350205e35c9d6d80779f0725dbe7a1f375084c80eee86ef96266",
+        "file_size": 2040601,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "untether-v0.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/untether-v0.2.0"
   }
 }
