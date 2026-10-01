@@ -256,16 +256,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **yuki** | carlelieser | `android-v1.10.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yuki-android-v1.10.0) | [Upstream](https://github.com/carlelieser/yuki/releases) |
-| ⚡ **RePair** | bassembaraya | `v1.0.16` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/repair-v1.0.16) | [Upstream](https://github.com/bassembaraya/RePair/releases) |
-| ⚡ **merta** | banuee | `v0.9.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/merta-v0.9.0) | [Upstream](https://github.com/banuee/merta/releases) |
-| ⚡ **io.github.kvmy666.duostatusbar** | Xposed-Modules-Repo | `12-1.3.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/io-github-kvmy666-duostatusbar-12-1.3.0) | [Upstream](https://github.com/Xposed-Modules-Repo/io.github.kvmy666.duostatusbar/releases) |
-| ⚡ **XGesture** | qpst4 | `v1.30.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/xgesture-v1.30.0) | [Upstream](https://github.com/qpst4/XGesture/releases) |
-| ⚡ **CODM_booster** | carljohntruya-art | `v1.0` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/codm-booster-v1.0) | [Upstream](https://github.com/carljohntruya-art/CODM_booster/releases) |
-| ⚡ **OpenMinis** | OpenMinis | `1.14` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/openminis-1.14) | [Upstream](https://github.com/OpenMinis/OpenMinis/releases) |
-| ⚡ **LogSleuth** | shiaho777 | `v0.3.2` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/logsleuth-v0.3.2) | [Upstream](https://github.com/shiaho777/LogSleuth/releases) |
-| ⚡ **Haven** | GlassHaven | `v5.89.15` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haven-v5.89.15) | [Upstream](https://github.com/GlassHaven/Haven/releases) |
-| ⚡ **admin_tool** | joyfoxg | `v1.0.1` | 2026-09-29 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/admin-tool-v1.0.1) | [Upstream](https://github.com/joyfoxg/admin_tool/releases) |
+| ⚡ **aMiNo-App** | AMINODa | `v13.7.0.r1391-amino` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/amino-app-v13.7.0.r1391-amino) | [Upstream](https://github.com/AMINODa/aMiNo-App/releases) |
+| ⚡ **TriggerDeck** | DoLonaAnd | `v1.0.1` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/triggerdeck-v1.0.1) | [Upstream](https://github.com/DoLonaAnd/TriggerDeck/releases) |
+| ⚡ **gms-keeper** | 27trongninh-cole | `v1.7` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gms-keeper-v1.7) | [Upstream](https://github.com/27trongninh-cole/gms-keeper/releases) |
+| ⚡ **haval-trip** | hugolumazzini | `v1.0.2` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haval-trip-v1.0.2) | [Upstream](https://github.com/hugolumazzini/haval-trip/releases) |
+| ⚡ **yaowanggu-trainer** | Pheobe-Southwood | `v0.1.6` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/yaowanggu-trainer-v0.1.6) | [Upstream](https://github.com/Pheobe-Southwood/yaowanggu-trainer/releases) |
+| ⚡ **Equalizer314** | bearinmindcat | `Equalizer314-v0.0.21-beta` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/equalizer314-Equalizer314-v0.0.21-beta) | [Upstream](https://github.com/bearinmindcat/Equalizer314/releases) |
+| ⚡ **scrcpyforandroid** | yzy806806 | `v0.6.8-quic` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/scrcpyforandroid-v0.6.8-quic) | [Upstream](https://github.com/yzy806806/scrcpyforandroid/releases) |
+| ⚡ **tapoff** | taseen-t | `v1.9` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/tapoff-v1.9) | [Upstream](https://github.com/taseen-t/tapoff/releases) |
+| ⚡ **dnd-syncer** | bazyak | `v1.0.19` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dnd-syncer-v1.0.19) | [Upstream](https://github.com/bazyak/dnd-syncer/releases) |
+| ⚡ **NovaBAIC** | Verlintas | `v0.1.11` | 2026-09-30 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/novabaic-v0.1.11) | [Upstream](https://github.com/Verlintas/NovaBAIC/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
