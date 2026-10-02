@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-01T17:53:07.322325+00:00",
+    "last_checked": "2026-10-02T03:39:30.003972+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -1163,5 +1163,183 @@
     "last_checked": "2026-10-01T17:54:18.495942+00:00",
     "latest_version": "26.0930",
     "last_synced": "2026-10-01T17:54:18.495942+00:00"
+  },
+  "catsmoker-app": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:05.999294+00:00",
+    "latest_version": "7-2.0.1",
+    "last_synced": "2026-10-02T03:38:05.999294+00:00"
+  },
+  "centuryplay": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:09.179670+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-10-02T03:38:09.179670+00:00"
+  },
+  "diauto": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:12.326913+00:00",
+    "latest_version": "v0.3.11",
+    "last_synced": "2026-10-02T03:38:12.326913+00:00"
+  },
+  "picofacialbridge": {
+    "status": "no-apk",
+    "last_checked": "2026-10-02T03:38:12.697273+00:00",
+    "latest_version": "v0.3.0"
+  },
+  "gimi": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:31.959933+00:00",
+    "latest_version": "v0.10.0",
+    "last_synced": "2026-10-02T03:38:31.959933+00:00"
+  },
+  "hotspot-channel-setter": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:40.202109+00:00",
+    "latest_version": "1.1.1",
+    "last_synced": "2026-10-02T03:38:40.202109+00:00"
+  },
+  "talon": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:51.793003+00:00",
+    "latest_version": "v5.32.0",
+    "last_synced": "2026-10-02T03:38:51.793003+00:00"
+  },
+  "duo-open": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:38:56.911481+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-10-02T03:38:56.911481+00:00"
+  },
+  "aimbuddy": {
+    "status": "no-apk",
+    "last_checked": "2026-10-02T03:38:57.216532+00:00"
+  },
+  "tern": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:01.960551+00:00",
+    "latest_version": "v0.2.2",
+    "last_synced": "2026-10-02T03:39:01.960551+00:00"
+  },
+  "adofai-key-viewer-mobile": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:04.758975+00:00",
+    "latest_version": "1.2.0",
+    "last_synced": "2026-10-02T03:39:04.758975+00:00"
+  },
+  "fern": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:07.472313+00:00",
+    "latest_version": "v1.8.4",
+    "last_synced": "2026-10-02T03:39:07.472313+00:00"
+  },
+  "codectweaker": {
+    "status": "no-apk",
+    "last_checked": "2026-10-02T03:39:07.803255+00:00",
+    "latest_version": "v8.8"
+  },
+  "intentx": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:10.584692+00:00",
+    "latest_version": "26.09.0882685",
+    "last_synced": "2026-10-02T03:39:10.584692+00:00"
+  },
+  "betternightlight": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:13.445576+00:00",
+    "latest_version": "v1.0.4",
+    "last_synced": "2026-10-02T03:39:13.445576+00:00"
+  },
+  "finevolume": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:16.289947+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-10-02T03:39:16.289947+00:00"
+  },
+  "hyperos-wallet-shortcut": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:18.728238+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-02T03:39:18.728238+00:00"
+  },
+  "oneui-theme-engine": {
+    "status": "no-apk",
+    "last_checked": "2026-10-02T03:39:19.015077+00:00"
+  },
+  "mi-back-screen": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:23.731263+00:00",
+    "latest_version": "v1.4",
+    "last_synced": "2026-10-02T03:39:23.731263+00:00"
+  },
+  "lockperm": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:26.807009+00:00",
+    "latest_version": "450-4.5.0",
+    "last_synced": "2026-10-02T03:39:26.807009+00:00"
+  },
+  "adb-application-manager": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:29.578107+00:00",
+    "latest_version": "v4.7",
+    "last_synced": "2026-10-02T03:39:29.578107+00:00"
+  },
+  "thor-pathfinder": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:32.794831+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-02T03:39:32.794831+00:00"
+  },
+  "yutu-toolbox": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:36.895887+00:00",
+    "latest_version": "v0.1.5",
+    "last_synced": "2026-10-02T03:39:36.895887+00:00"
+  },
+  "pieces-android-companion-seamless": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:40.633097+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-02T03:39:40.633097+00:00"
+  },
+  "gsplit": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:44.565262+00:00",
+    "latest_version": "31000",
+    "last_synced": "2026-10-02T03:39:44.565262+00:00"
+  },
+  "devbay-launcher": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:47.403779+00:00",
+    "latest_version": "v2.0.4",
+    "last_synced": "2026-10-02T03:39:47.403779+00:00"
+  },
+  "ex-astris-save-editor": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:50.373221+00:00",
+    "latest_version": "v1.8.1",
+    "last_synced": "2026-10-02T03:39:50.373221+00:00"
+  },
+  "edgegesture": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:53.490098+00:00",
+    "latest_version": "5.2.1",
+    "last_synced": "2026-10-02T03:39:53.490098+00:00"
+  },
+  "galaxy-auto-brightness-offset": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:56.243926+00:00",
+    "latest_version": "v1.4.1",
+    "last_synced": "2026-10-02T03:39:56.243926+00:00"
+  },
+  "duo-fold-live": {
+    "status": "synced",
+    "last_checked": "2026-10-02T03:39:59.850663+00:00",
+    "latest_version": "ci-63-1",
+    "last_synced": "2026-10-02T03:39:59.850663+00:00"
+  },
+  "anythingmobile": {
+    "status": "no-apk",
+    "last_checked": "2026-10-02T03:40:00.213539+00:00"
   }
 }
