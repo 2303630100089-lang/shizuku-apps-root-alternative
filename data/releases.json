@@ -6945,5 +6945,214 @@
     ],
     "mirror_release_tag": "duo-fold-live-ci-63-1",
     "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/duo-fold-live-ci-63-1"
+  },
+  "pulse-battery": {
+    "source_repository": "kreza6173-pixel/pulse-battery",
+    "source_release_id": 401639113,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-02T08:12:49Z",
+    "synced_at": "2026-10-03T04:57:18.155911+00:00",
+    "assets": [
+      {
+        "source_asset_id": 605173882,
+        "filename": "pulse-battery-v1.0.0.apk",
+        "original_filename": "pulse-battery-v1.0.0.apk",
+        "sha256": "80374bed1b585cec2285dc1531b2f96f7f64791a4e0c05b4ab6f95aedc297e24",
+        "file_size": 8264381,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pulse-battery-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pulse-battery-v1.0.0"
+  },
+  "lmt-launcher-revived": {
+    "source_repository": "Psycoguana/LMT-Launcher-Revived",
+    "source_release_id": 402299552,
+    "source_tag": "v4.0.0",
+    "source_published_at": "2026-10-03T03:17:53Z",
+    "synced_at": "2026-10-03T04:57:21.155242+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607037614,
+        "filename": "LMT-Launcher-Revived-4.0.0.apk",
+        "original_filename": "LMT-Launcher-Revived-4.0.0.apk",
+        "sha256": "2c8d2f721000b74acd8b435ec9dec48e0303a289141ba22593fb3dc267b6a287",
+        "file_size": 6632668,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lmt-launcher-revived-v4.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lmt-launcher-revived-v4.0.0"
+  },
+  "shizelite": {
+    "source_repository": "TheShadyRainbow4/ShizElite",
+    "source_release_id": 402305487,
+    "source_tag": "v15.7.34",
+    "source_published_at": "2026-10-03T03:31:54Z",
+    "synced_at": "2026-10-03T04:57:24.362725+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607056413,
+        "filename": "ShizElite_moe.shizuku.privileged.api_15.7.34.apk",
+        "original_filename": "ShizElite_moe.shizuku.privileged.api_15.7.34.apk",
+        "sha256": "bbbad755c4b366511e9809e3b4b8a37fe041836d30b5b2695fd2e12e60c1f41e",
+        "file_size": 15542046,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shizelite-v15.7.34",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizelite-v15.7.34"
+  },
+  "netcontrol": {
+    "source_repository": "mimbasher/NetControl",
+    "source_release_id": 402040177,
+    "source_tag": "v2.8",
+    "source_published_at": "2026-10-02T17:59:15Z",
+    "synced_at": "2026-10-03T04:57:27.217827+00:00",
+    "assets": [
+      {
+        "source_asset_id": 606174322,
+        "filename": "NetControl.apk",
+        "original_filename": "NetControl.apk",
+        "sha256": "3ab7c8b75452f1300df6ba084d78e930c0c8eea9184bb6050f33bfea8fb19b09",
+        "file_size": 4614635,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "netcontrol-v2.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/netcontrol-v2.8"
+  },
+  "split-sideloader": {
+    "source_repository": "wdchocopie/split-sideloader",
+    "source_release_id": 402331134,
+    "source_tag": "v1.5.2",
+    "source_published_at": "2026-10-03T04:45:16Z",
+    "synced_at": "2026-10-03T04:57:30.532680+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607153765,
+        "filename": "SplitSideloader-1.5.2.apk",
+        "original_filename": "SplitSideloader-1.5.2.apk",
+        "sha256": "30150d1b513cbf6845e0d2817b248f5c8f83400167ce2c8e69d721288870dcee",
+        "file_size": 11421055,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "split-sideloader-v1.5.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/split-sideloader-v1.5.2"
+  },
+  "gkd-xa": {
+    "source_repository": "84593320z/GKD-XA",
+    "source_release_id": 402300100,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-03T03:18:04Z",
+    "synced_at": "2026-10-03T04:57:34.107725+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607039317,
+        "filename": "GKD-XA-v1.3.0.apk",
+        "original_filename": "GKD-XA-v1.3.0.apk",
+        "sha256": "958f27a60478b9ee6dc4fe6e7c00d589491035569c996b339b100f4457d4291c",
+        "file_size": 5727351,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gkd-xa-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gkd-xa-v1.3.0"
+  },
+  "vanillify": {
+    "source_repository": "AndSni/vanillify",
+    "source_release_id": 401743402,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-02T11:01:05Z",
+    "synced_at": "2026-10-03T04:57:37.345145+00:00",
+    "assets": [
+      {
+        "source_asset_id": 605416983,
+        "filename": "Vanillify.apk",
+        "original_filename": "Vanillify.apk",
+        "sha256": "3dd1613c03fe4a0201a7d74d156450345ff11ea1cda3a78fbb6214bbf3e3dc3c",
+        "file_size": 1724777,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vanillify-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vanillify-v0.1.0"
+  },
+  "dsha-zzy": {
+    "source_repository": "zzy89216-gif/DSHA-zzy",
+    "source_release_id": 402330912,
+    "source_tag": "v0.1.7-rc2-zzy.8",
+    "source_published_at": "2026-10-03T04:44:46Z",
+    "synced_at": "2026-10-03T04:57:57.016953+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607152677,
+        "filename": "DSHA-zzy-0.1.7-rc2-zzy.8.apk",
+        "original_filename": "DSHA-zzy-0.1.7-rc2-zzy.8.apk",
+        "sha256": "f63e49d279f3505aea736f25b1f19e8ba0c0d0a348b1e490769475bf51d52647",
+        "file_size": 395671502,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "dsha-zzy-v0.1.7-rc2-zzy.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsha-zzy-v0.1.7-rc2-zzy.8"
+  },
+  "housamoembedtrans": {
+    "source_repository": "Quartewe/HousamoEmbedTrans",
+    "source_release_id": 402327959,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-10-03T04:34:52Z",
+    "synced_at": "2026-10-03T04:58:00.546792+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607140767,
+        "filename": "HousamoEmbedTrans-v1.0.2-arm64-v8a.apk",
+        "original_filename": "HousamoEmbedTrans-v1.0.2-arm64-v8a.apk",
+        "sha256": "00a3d34ec3bb94509cae089cf482b0b3c058a27fa8502a186504ad6d7e0d9061",
+        "file_size": 15946293,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "housamoembedtrans-v1.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/housamoembedtrans-v1.0.2"
+  },
+  "readycast": {
+    "source_repository": "serifpersia/readycast",
+    "source_release_id": 402238355,
+    "source_tag": "latest",
+    "source_published_at": "2026-10-03T00:21:48Z",
+    "synced_at": "2026-10-03T04:58:05.581145+00:00",
+    "assets": [
+      {
+        "source_asset_id": 606774999,
+        "filename": "com.serifpersia.readycast-1.0.0-release.apk",
+        "original_filename": "com.serifpersia.readycast-1.0.0-release.apk",
+        "sha256": "2a8fd030684b7554f53851afa14b0c0eba4a0a061fcc8da38250559ae27312aa",
+        "file_size": 22351491,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "readycast-latest",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/readycast-latest"
+  },
+  "volume-keys": {
+    "source_repository": "xuanwei130-netizen/Volume-keys",
+    "source_release_id": 402332150,
+    "source_tag": "v1.0-release",
+    "source_published_at": "2026-10-03T04:48:44Z",
+    "synced_at": "2026-10-03T04:58:08.636480+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607158623,
+        "filename": "VolKeyHook-1.0-release.apk",
+        "original_filename": "VolKeyHook-1.0-release.apk",
+        "sha256": "1d17dbde3baafb7b76b85d26b9725a3f6216feef92bd25db6362e72394def6c2",
+        "file_size": 4832894,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "volume-keys-v1.0-release",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volume-keys-v1.0-release"
   }
 }

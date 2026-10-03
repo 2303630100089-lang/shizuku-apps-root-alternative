@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-02T03:39:30.003972+00:00",
+    "last_checked": "2026-10-03T04:58:00.937775+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -1341,5 +1341,89 @@
   "anythingmobile": {
     "status": "no-apk",
     "last_checked": "2026-10-02T03:40:00.213539+00:00"
+  },
+  "pulse-battery": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:18.155939+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-03T04:57:18.155939+00:00"
+  },
+  "lmt-launcher-revived": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:21.155263+00:00",
+    "latest_version": "v4.0.0",
+    "last_synced": "2026-10-03T04:57:21.155263+00:00"
+  },
+  "shizelite": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:24.362747+00:00",
+    "latest_version": "v15.7.34",
+    "last_synced": "2026-10-03T04:57:24.362747+00:00"
+  },
+  "netcontrol": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:27.217875+00:00",
+    "latest_version": "v2.8",
+    "last_synced": "2026-10-03T04:57:27.217875+00:00"
+  },
+  "split-sideloader": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:30.532702+00:00",
+    "latest_version": "v1.5.2",
+    "last_synced": "2026-10-03T04:57:30.532702+00:00"
+  },
+  "deepseekharness": {
+    "status": "no-apk",
+    "last_checked": "2026-10-03T04:57:30.835139+00:00"
+  },
+  "signalscope": {
+    "status": "no-apk",
+    "last_checked": "2026-10-03T04:57:31.148576+00:00"
+  },
+  "gkd-xa": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:34.107746+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-10-03T04:57:34.107746+00:00"
+  },
+  "rikkaminis": {
+    "status": "no-apk",
+    "last_checked": "2026-10-03T04:57:34.397245+00:00"
+  },
+  "vanillify": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:37.345165+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-03T04:57:37.345165+00:00"
+  },
+  "dsha-zzy": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:57:57.016977+00:00",
+    "latest_version": "v0.1.7-rc2-zzy.8",
+    "last_synced": "2026-10-03T04:57:57.016977+00:00"
+  },
+  "housamoembedtrans": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:58:00.546816+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-10-03T04:58:00.546816+00:00"
+  },
+  "": {
+    "status": "failed",
+    "last_checked": "2026-10-03T04:58:02.150778+00:00",
+    "latest_version": "v1.0.1",
+    "error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/repos/2303630100089-lang/shizuku-apps-root-alternative/releases"
+  },
+  "readycast": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:58:05.581165+00:00",
+    "latest_version": "latest",
+    "last_synced": "2026-10-03T04:58:05.581165+00:00"
+  },
+  "volume-keys": {
+    "status": "synced",
+    "last_checked": "2026-10-03T04:58:08.636500+00:00",
+    "latest_version": "v1.0-release",
+    "last_synced": "2026-10-03T04:58:08.636500+00:00"
   }
 }
