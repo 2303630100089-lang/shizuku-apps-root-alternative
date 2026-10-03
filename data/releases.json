@@ -7154,5 +7154,359 @@
     ],
     "mirror_release_tag": "volume-keys-v1.0-release",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volume-keys-v1.0-release"
+  },
+  "android-ram-cleaner": {
+    "source_repository": "ardia-kun/android-ram-cleaner",
+    "source_release_id": 402565539,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-03T15:12:08Z",
+    "synced_at": "2026-10-03T16:05:35.458627+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608015033,
+        "filename": "RamCacheCleaner-1.2.0.apk",
+        "original_filename": "RamCacheCleaner-1.2.0.apk",
+        "sha256": "8082d990c619f44656ea0ac414e8fbe73ef09c6d7bb00acfb4fc6f272c443a2f",
+        "file_size": 1101258,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-ram-cleaner-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-ram-cleaner-v1.2.0"
+  },
+  "zink": {
+    "source_repository": "Ranaco/zink",
+    "source_release_id": 402394413,
+    "source_tag": "v1.0.3",
+    "source_published_at": "2026-10-03T07:43:25Z",
+    "synced_at": "2026-10-03T16:05:39.038253+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607390537,
+        "filename": "zInk.apk",
+        "original_filename": "zInk.apk",
+        "sha256": "20c0e56fe1a52061a1c4253221da119e17d09987d85148da2a8eff107284e10a",
+        "file_size": 2387162,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "zink-v1.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zink-v1.0.3"
+  },
+  "fullscreen": {
+    "source_repository": "pixxel-dev/Fullscreen",
+    "source_release_id": 402582243,
+    "source_tag": "v1.2.2-build155",
+    "source_published_at": "2026-10-03T15:56:23Z",
+    "synced_at": "2026-10-03T16:05:43.635990+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608084375,
+        "filename": "FlymeTweak-v1.2.2-build155.apk",
+        "original_filename": "FlymeTweak-v1.2.2-build155.apk",
+        "sha256": "f9ef780ef53d3fbdc0e6ac1044b1aa3de4e0d4abcb665739454b8828e6c4f575",
+        "file_size": 12137984,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "fullscreen-v1.2.2-build155",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fullscreen-v1.2.2-build155"
+  },
+  "appperms": {
+    "source_repository": "xykal/AppPerms",
+    "source_release_id": 396845517,
+    "source_tag": "v1.8.0",
+    "source_published_at": "2026-09-25T18:42:42Z",
+    "synced_at": "2026-10-03T16:05:54.120137+00:00",
+    "assets": [
+      {
+        "source_asset_id": 588997716,
+        "filename": "AppsPerms-1.8.0-stable-arm64-v8a-release.apk",
+        "original_filename": "AppsPerms-1.8.0-stable-arm64-v8a-release.apk",
+        "sha256": "c7e83326a75b405bbb698be172e583333a5f149adb2906882153a2caf88beb80",
+        "file_size": 2314608,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 588997713,
+        "filename": "AppsPerms-1.8.0-stable-armeabi-v7a-release.apk",
+        "original_filename": "AppsPerms-1.8.0-stable-armeabi-v7a-release.apk",
+        "sha256": "c7e83326a75b405bbb698be172e583333a5f149adb2906882153a2caf88beb80",
+        "file_size": 2314608,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 588997718,
+        "filename": "AppsPerms-1.8.0-stable-universal-release.apk",
+        "original_filename": "AppsPerms-1.8.0-stable-universal-release.apk",
+        "sha256": "c7e83326a75b405bbb698be172e583333a5f149adb2906882153a2caf88beb80",
+        "file_size": 2314608,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 588997714,
+        "filename": "AppsPerms-1.8.0-stable-x86-release.apk",
+        "original_filename": "AppsPerms-1.8.0-stable-x86-release.apk",
+        "sha256": "c7e83326a75b405bbb698be172e583333a5f149adb2906882153a2caf88beb80",
+        "file_size": 2314608,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 588997719,
+        "filename": "AppsPerms-1.8.0-stable-x86_64-release.apk",
+        "original_filename": "AppsPerms-1.8.0-stable-x86_64-release.apk",
+        "sha256": "c7e83326a75b405bbb698be172e583333a5f149adb2906882153a2caf88beb80",
+        "file_size": 2314608,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "appperms-v1.8.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appperms-v1.8.0"
+  },
+  "bluetooth-disabler": {
+    "source_repository": "alcovaibe/Bluetooth-disabler",
+    "source_release_id": 399370503,
+    "source_tag": "1.0.6",
+    "source_published_at": "2026-09-29T17:29:28Z",
+    "synced_at": "2026-10-03T16:05:57.992124+00:00",
+    "assets": [
+      {
+        "source_asset_id": 598781341,
+        "filename": "BluetoothDisable-v1.0.6.apk",
+        "original_filename": "BluetoothDisable-v1.0.6.apk",
+        "sha256": "81e80a23368958eca4ceefda24fedaae54539b028ac16b37a894fee0eff0ae4c",
+        "file_size": 8909702,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "bluetooth-disabler-1.0.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bluetooth-disabler-1.0.6"
+  },
+  "quest-home-switcher": {
+    "source_repository": "nikitat21/Quest-Home-Switcher",
+    "source_release_id": 402540210,
+    "source_tag": "v2.1.5",
+    "source_published_at": "2026-10-03T14:51:40Z",
+    "synced_at": "2026-10-03T16:06:13.605572+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607917624,
+        "filename": "Quest-Home-Switcher-2.1.5.apk",
+        "original_filename": "Quest-Home-Switcher-2.1.5.apk",
+        "sha256": "80f1bf946e0e764247b2c76aa6f7e331c5452621e920275e96ff8b9c748af76e",
+        "file_size": 143590554,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "quest-home-switcher-v2.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quest-home-switcher-v2.1.5"
+  },
+  "ets-tools": {
+    "source_repository": "KLP-KULIPA-24/ETS-TOOLS",
+    "source_release_id": 402571064,
+    "source_tag": "V0.8.1",
+    "source_published_at": "2026-10-03T15:32:17Z",
+    "synced_at": "2026-10-03T16:06:22.460326+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608038123,
+        "filename": "ETS-TOOLS-Android-0.8.1.apk",
+        "original_filename": "ETS-TOOLS-Android-0.8.1.apk",
+        "sha256": "2e43f21274e79ae3eda7ad31bc548af0065ee6440d3ef39a1e2ea5dc4a40cbaf",
+        "file_size": 82122803,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ets-tools-V0.8.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ets-tools-V0.8.1"
+  },
+  "nibnya-revamped": {
+    "source_repository": "Sapifur/Nibnya-revamped",
+    "source_release_id": 402585690,
+    "source_tag": "v0.2",
+    "source_published_at": "2026-10-03T16:05:58Z",
+    "synced_at": "2026-10-03T16:06:25.994159+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608098773,
+        "filename": "Nbt-editor.apk",
+        "original_filename": "Nbt-editor.apk",
+        "sha256": "0779bb51f6a0696b7c901c2540f7d27174082a160580dca2875672ff5145e5f5",
+        "file_size": 3690454,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "nibnya-revamped-v0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nibnya-revamped-v0.2"
+  },
+  "deepseek-harness-android-app": {
+    "source_repository": "woaiys3/deepseek-harness-android-app",
+    "source_release_id": 402493406,
+    "source_tag": "v1.17.3",
+    "source_published_at": "2026-10-03T12:01:10Z",
+    "synced_at": "2026-10-03T16:07:09.953786+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607743377,
+        "filename": "DeepSeekHarness-compat-v1.17.3.apk",
+        "original_filename": "DeepSeekHarness-compat-v1.17.3.apk",
+        "sha256": "db098754442688737f16c1f0f7dcbfe75ac862ee3929a6f5a45f13fdfa6865ba",
+        "file_size": 250209715,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 607742590,
+        "filename": "DeepSeekHarness-lite-v1.17.3.apk",
+        "original_filename": "DeepSeekHarness-lite-v1.17.3.apk",
+        "sha256": "e73888d07e4b405bcd394784531cd53bf5c3c969325f915c6d9c1809521fa65b",
+        "file_size": 156853743,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 607741686,
+        "filename": "DeepSeekHarness-official-v1.17.3.apk",
+        "original_filename": "DeepSeekHarness-official-v1.17.3.apk",
+        "sha256": "26b1b92c24678d717cc15a8d85d6ec76c43b079e1f0ac76a563250aa384b5841",
+        "file_size": 156857839,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "deepseek-harness-android-app-v1.17.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-app-v1.17.3"
+  },
+  "folkpatch": {
+    "source_repository": "LyraVoid/FolkPatch",
+    "source_release_id": 397017793,
+    "source_tag": "115051",
+    "source_published_at": "2026-09-26T01:22:07Z",
+    "synced_at": "2026-10-03T16:07:14.805971+00:00",
+    "assets": [
+      {
+        "source_asset_id": 589645937,
+        "filename": "FolkPatch_115051_680a6028_on_main-release.apk",
+        "original_filename": "FolkPatch_115051_680a6028_on_main-release.apk",
+        "sha256": "1c6a4020ad81fc7f3c1c685f7f8b5c5e2e15a9712d57d06f69f5816048f2eb93",
+        "file_size": 11391172,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "folkpatch-115051",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/folkpatch-115051"
+  },
+  "nearestplane": {
+    "source_repository": "Blueangelman36/NearestPlane",
+    "source_release_id": 402584121,
+    "source_tag": "v1.11",
+    "source_published_at": "2026-10-03T16:01:05Z",
+    "synced_at": "2026-10-03T16:07:19.138239+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608096259,
+        "filename": "nearest-plane-1.11.apk",
+        "original_filename": "nearest-plane-1.11.apk",
+        "sha256": "73cb7a5a8f216e61316d8026976c865cdbfc2816716ceeed4d7363351ddfa015",
+        "file_size": 11394928,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nearestplane-v1.11",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nearestplane-v1.11"
+  },
+  "maapocket": {
+    "source_repository": "Koishi-Marisa/MaaPocket",
+    "source_release_id": 402548124,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-03T14:30:43Z",
+    "synced_at": "2026-10-03T16:08:05.670056+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608095560,
+        "filename": "MaaPocket-endfield-arm64-v8a.apk",
+        "original_filename": "MaaPocket-endfield-arm64-v8a.apk",
+        "sha256": "5b783439e313cae39cd48deba224f106823eedb427751f5c57d0117955e0efa5",
+        "file_size": 105905344,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 608095559,
+        "filename": "MaaPocket-endfield-x86_64.apk",
+        "original_filename": "MaaPocket-endfield-x86_64.apk",
+        "sha256": "3bf7eeb661ec50111be224b30213499339285daa51174e90ccf82da658552850",
+        "file_size": 107946791,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 608095562,
+        "filename": "MaaPocket-hsr-arm64-v8a.apk",
+        "original_filename": "MaaPocket-hsr-arm64-v8a.apk",
+        "sha256": "3cf4738de87e88ae138e9ee16f9012f34c95f45582de93caed20a643c98bfa8e",
+        "file_size": 73778306,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 608095558,
+        "filename": "MaaPocket-hsr-x86_64.apk",
+        "original_filename": "MaaPocket-hsr-x86_64.apk",
+        "sha256": "e4632d0454bc674eec71b3e2502f6fd2d884d5dd1ea7787a932b84466e076a44",
+        "file_size": 74333712,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 608095563,
+        "filename": "MaaPocket-zzz-arm64-v8a.apk",
+        "original_filename": "MaaPocket-zzz-arm64-v8a.apk",
+        "sha256": "df6be264467c69ce5df97a16a1d794eb7d1c6c56866b4fbb4e79a306cd50caa2",
+        "file_size": 70266151,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 608095660,
+        "filename": "MaaPocket-zzz-x86_64.apk",
+        "original_filename": "MaaPocket-zzz-x86_64.apk",
+        "sha256": "9ea4f453faad565c1232fcef0ff66b448b30def15c30b6d0ac5c83cc981bf1d1",
+        "file_size": 70821553,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "maapocket-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/maapocket-v0.1.0"
+  },
+  "juicetext": {
+    "source_repository": "qiuminal/juicetext",
+    "source_release_id": 402581136,
+    "source_tag": "v0.3.3",
+    "source_published_at": "2026-10-03T15:53:33Z",
+    "synced_at": "2026-10-03T16:08:09.658463+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608078975,
+        "filename": "juicetext-0.3.3-release.apk",
+        "original_filename": "juicetext-0.3.3-release.apk",
+        "sha256": "cc043343c1ef73328a23ddf82fc81ebad29739eb56d5d02853a625fd17d3eb37",
+        "file_size": 3330328,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "juicetext-v0.3.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/juicetext-v0.3.3"
+  },
+  "pixelcomfort": {
+    "source_repository": "WEITERFUNKEN-Thomas/pixelcomfort",
+    "source_release_id": 402422397,
+    "source_tag": "v1.4",
+    "source_published_at": "2026-10-03T08:56:07Z",
+    "synced_at": "2026-10-03T16:08:13.361709+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607490053,
+        "filename": "PixelComfort-v1.4.apk",
+        "original_filename": "PixelComfort-v1.4.apk",
+        "sha256": "a06cce946e0d26ccf91664ad4499d3593bcf339239e5a56a3dfa9a9b7dc50ba0",
+        "file_size": 8496349,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pixelcomfort-v1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelcomfort-v1.4"
   }
 }
