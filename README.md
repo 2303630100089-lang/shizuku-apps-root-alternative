@@ -298,16 +298,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **BTSharing** | biliboobrian | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/btsharing-v1.0) | [Upstream](https://github.com/biliboobrian/BTSharing/releases) |
-| ⚡ **root-my-s24** | NanoTurtle1145 | `v3.5.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/root-my-s24-v3.5.0) | [Upstream](https://github.com/NanoTurtle1145/root-my-s24/releases) |
-| ⚡ **DSHHarness** | deepsleep520 | `v1.0beta6` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dshharness-v1.0beta6) | [Upstream](https://github.com/deepsleep520/DSHHarness/releases) |
-| ⚡ **liteflight** | leobarua | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/liteflight-v1.0) | [Upstream](https://github.com/leobarua/liteflight/releases) |
-| ⚡ **Benimaru** | Benimaru-x1k | `v2.1` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/benimaru-v2.1) | [Upstream](https://github.com/Benimaru-x1k/Benimaru/releases) |
-| ⚡ **droidtop** | Xtratter | `v1.12.1` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/droidtop-v1.12.1) | [Upstream](https://github.com/Xtratter/droidtop/releases) |
-| ⚡ **AndroMac** | anilmetin0 | `v1.4.0` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/andromac-v1.4.0) | [Upstream](https://github.com/anilmetin0/AndroMac/releases) |
-| ⚡ **dougao** | hulubo2014 | `v1.3.2` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/dougao-v1.3.2) | [Upstream](https://github.com/hulubo2014/dougao/releases) |
-| ⚡ **SysReadout-Launcher** | AndSni | `v0.2.3` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/sysreadout-launcher-v0.2.3) | [Upstream](https://github.com/AndSni/SysReadout-Launcher/releases) |
-| ⚡ **FCM-Helper** | largebatata | `v1.0.1` | 2026-10-01 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/fcm-helper-v1.0.1) | [Upstream](https://github.com/largebatata/FCM-Helper/releases) |
+| ⚡ **Yutu-Toolbox** | guanhan01 | `v0.1.5` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yutu-toolbox-v0.1.5) | [Upstream](https://github.com/guanhan01/Yutu-Toolbox/releases) |
+| ⚡ **HyperOS-Wallet-Shortcut** | YourFavStav | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperos-wallet-shortcut-v1.0.0) | [Upstream](https://github.com/YourFavStav/HyperOS-Wallet-Shortcut/releases) |
+| ⚡ **lockperm** | sunilxsk | `450-4.5.0` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lockperm-450-4.5.0) | [Upstream](https://github.com/sunilxsk/lockperm/releases) |
+| ⚡ **ADB-Application-Manager** | Bingblop | `v4.7` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-application-manager-v4.7) | [Upstream](https://github.com/Bingblop/ADB-Application-Manager/releases) |
+| ⚡ **mi-back-screen** | totallynotkasai | `v1.4` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mi-back-screen-v1.4) | [Upstream](https://github.com/totallynotkasai/mi-back-screen/releases) |
+| ⚡ **BTSharing** | biliboobrian | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/btsharing-v1.0) | [Upstream](https://github.com/biliboobrian/BTSharing/releases) |
+| ⚡ **root-my-s24** | NanoTurtle1145 | `v3.5.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/root-my-s24-v3.5.0) | [Upstream](https://github.com/NanoTurtle1145/root-my-s24/releases) |
+| ⚡ **DSHHarness** | deepsleep520 | `v1.0beta6` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshharness-v1.0beta6) | [Upstream](https://github.com/deepsleep520/DSHHarness/releases) |
+| ⚡ **liteflight** | leobarua | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/liteflight-v1.0) | [Upstream](https://github.com/leobarua/liteflight/releases) |
+| ⚡ **tern** | munzzyy | `v0.2.2` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tern-v0.2.2) | [Upstream](https://github.com/munzzyy/tern/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
