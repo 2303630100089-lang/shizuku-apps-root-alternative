@@ -260,16 +260,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Yutu-Toolbox** | guanhan01 | `v0.1.5` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yutu-toolbox-v0.1.5) | [Upstream](https://github.com/guanhan01/Yutu-Toolbox/releases) |
-| ⚡ **HyperOS-Wallet-Shortcut** | YourFavStav | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperos-wallet-shortcut-v1.0.0) | [Upstream](https://github.com/YourFavStav/HyperOS-Wallet-Shortcut/releases) |
-| ⚡ **lockperm** | sunilxsk | `450-4.5.0` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lockperm-450-4.5.0) | [Upstream](https://github.com/sunilxsk/lockperm/releases) |
-| ⚡ **ADB-Application-Manager** | Bingblop | `v4.7` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-application-manager-v4.7) | [Upstream](https://github.com/Bingblop/ADB-Application-Manager/releases) |
-| ⚡ **mi-back-screen** | totallynotkasai | `v1.4` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mi-back-screen-v1.4) | [Upstream](https://github.com/totallynotkasai/mi-back-screen/releases) |
-| ⚡ **BTSharing** | biliboobrian | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/btsharing-v1.0) | [Upstream](https://github.com/biliboobrian/BTSharing/releases) |
-| ⚡ **root-my-s24** | NanoTurtle1145 | `v3.5.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/root-my-s24-v3.5.0) | [Upstream](https://github.com/NanoTurtle1145/root-my-s24/releases) |
-| ⚡ **DSHHarness** | deepsleep520 | `v1.0beta6` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshharness-v1.0beta6) | [Upstream](https://github.com/deepsleep520/DSHHarness/releases) |
-| ⚡ **liteflight** | leobarua | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/liteflight-v1.0) | [Upstream](https://github.com/leobarua/liteflight/releases) |
-| ⚡ **tern** | munzzyy | `v0.2.2` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tern-v0.2.2) | [Upstream](https://github.com/munzzyy/tern/releases) |
+| ⚡ **Nibnya-revamped** | Sapifur | `v0.2` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nibnya-revamped-v0.2) | [Upstream](https://github.com/Sapifur/Nibnya-revamped/releases) |
+| ⚡ **NearestPlane** | Blueangelman36 | `v1.11` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nearestplane-v1.11) | [Upstream](https://github.com/Blueangelman36/NearestPlane/releases) |
+| ⚡ **Fullscreen** | pixxel-dev | `v1.2.2-build155` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fullscreen-v1.2.2-build155) | [Upstream](https://github.com/pixxel-dev/Fullscreen/releases) |
+| ⚡ **juicetext** | qiuminal | `v0.3.3` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/juicetext-v0.3.3) | [Upstream](https://github.com/qiuminal/juicetext/releases) |
+| ⚡ **ETS-TOOLS** | KLP-KULIPA-24 | `V0.8.1` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ets-tools-V0.8.1) | [Upstream](https://github.com/KLP-KULIPA-24/ETS-TOOLS/releases) |
+| ⚡ **android-ram-cleaner** | ardia-kun | `v1.2.0` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-ram-cleaner-v1.2.0) | [Upstream](https://github.com/ardia-kun/android-ram-cleaner/releases) |
+| ⚡ **Quest-Home-Switcher** | nikitat21 | `v2.1.5` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quest-home-switcher-v2.1.5) | [Upstream](https://github.com/nikitat21/Quest-Home-Switcher/releases) |
+| ⚡ **MaaPocket** | Koishi-Marisa | `v0.1.0` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/maapocket-v0.1.0) | [Upstream](https://github.com/Koishi-Marisa/MaaPocket/releases) |
+| ⚡ **deepseek-harness-android-app** | woaiys3 | `v1.17.3` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-app-v1.17.3) | [Upstream](https://github.com/woaiys3/deepseek-harness-android-app/releases) |
+| ⚡ **pixelcomfort** | WEITERFUNKEN-Thomas | `v1.4` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelcomfort-v1.4) | [Upstream](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
