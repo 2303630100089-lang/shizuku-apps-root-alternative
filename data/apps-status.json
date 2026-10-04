@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-03T16:05:58.400544+00:00",
+    "last_checked": "2026-10-04T05:30:10.490082+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -1522,5 +1522,58 @@
     "last_checked": "2026-10-03T16:08:13.361726+00:00",
     "latest_version": "v1.4",
     "last_synced": "2026-10-03T16:08:13.361726+00:00"
+  },
+  "lightspeed": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:29:56.876919+00:00",
+    "latest_version": "v1.0.3",
+    "last_synced": "2026-10-04T05:29:56.876919+00:00"
+  },
+  "mx3buttonmapper": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:29:59.797163+00:00",
+    "latest_version": "v0.0.46",
+    "last_synced": "2026-10-04T05:29:59.797163+00:00"
+  },
+  "ztrackpad": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:30:02.313954+00:00",
+    "latest_version": "v0.6.0",
+    "last_synced": "2026-10-04T05:30:02.313954+00:00"
+  },
+  "hotspot-scheduler": {
+    "status": "no-apk",
+    "last_checked": "2026-10-04T05:30:02.646845+00:00",
+    "latest_version": "build-28"
+  },
+  "md-helper-adb": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:30:05.925780+00:00",
+    "latest_version": "v1.0.26100419",
+    "last_synced": "2026-10-04T05:30:05.925780+00:00"
+  },
+  "shitu-android": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:30:10.127341+00:00",
+    "latest_version": "v0.1.2",
+    "last_synced": "2026-10-04T05:30:10.127341+00:00"
+  },
+  "root-my-galaxy-next": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:30:14.183930+00:00",
+    "latest_version": "v0.10.1",
+    "last_synced": "2026-10-04T05:30:14.183930+00:00"
+  },
+  "turbospaceoptimizer-zip": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:30:18.001358+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-04T05:30:18.001358+00:00"
+  },
+  "moonclicker": {
+    "status": "synced",
+    "last_checked": "2026-10-04T05:30:31.798190+00:00",
+    "latest_version": "v0.2.2",
+    "last_synced": "2026-10-04T05:30:31.798190+00:00"
   }
 }

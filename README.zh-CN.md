@@ -202,6 +202,15 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[MoonClicker](https://github.com/kuomartin/MoonClicker)** | MoonClicker 是一款专为 Android 设计的 Lua 控制与后台自动化工具：利用 Shizuku 建立了独立的虚拟显示器（Virtual Display），在不占用萤幕的情况下后台执行目标应用程序、填充/密钥事件，并绕过线性执行的 Lua 脚本流程驱动，支持基于 OpenCV 的本机端高效图像模板与 VS Code 开发调试。 | MIT | [GitHub 源码](https://github.com/kuomartin/MoonClicker) • [下载发布](https://github.com/kuomartin/MoonClicker/releases) |
+| **[TurboSpaceOptimizer.zip](https://github.com/Boungen-Bml/TurboSpaceOptimizer.zip)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Boungen-Bml/TurboSpaceOptimizer.zip) • [下载发布](https://github.com/Boungen-Bml/TurboSpaceOptimizer.zip/releases) |
+| **[Root-My-Galaxy-Next](https://github.com/ProofPage/Root-My-Galaxy-Next)** | 使用可选择的每个版本 DirtyFrag 设备有效负载来 Root My Galaxy Next Android 分叉。 | Apache-2.0 | [GitHub 源码](https://github.com/ProofPage/Root-My-Galaxy-Next) • [下载发布](https://github.com/ProofPage/Root-My-Galaxy-Next/releases) |
+| **[shitu-android](https://github.com/Landslide3154/shitu-android)** | 拾图Shitu——借Shizuku把Android/data里的图片自动搬到目标目录的Android App（设计阶段） | See project | [GitHub 源码](https://github.com/Landslide3154/shitu-android) • [下载发布](https://github.com/Landslide3154/shitu-android/releases) |
+| **[md-helper-adb](https://github.com/chamr94/md-helper-adb)** | 授予 MacroDroid adb 权限并通过无线调试在手机上安装官方 Helper - 无需 PC。 / 무선 디버깅으로 PC 版 MacroDroid adb 권한 주기 | Apache-2.0 | [GitHub 源码](https://github.com/chamr94/md-helper-adb) • [下载发布](https://github.com/chamr94/md-helper-adb/releases) |
+| **[hotspot-scheduler](https://github.com/nullvexer/hotspot-scheduler)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/nullvexer/hotspot-scheduler) • [下载发布](https://github.com/nullvexer/hotspot-scheduler/releases) |
+| **[ztrackpad](https://github.com/jan5o7o/ztrackpad)** | So7o Z 触控板：浮动触控板 + 指针、浮动窗口选择器、屏幕按键面板以及您可以看到和驱动的虚拟显示屏 - 适用于 Android，在 Galaxy Z Fold 4 上的 Termux 中内置于设备上。专为可折叠设备设计。需要雫。 | MIT | [GitHub 源码](https://github.com/jan5o7o/ztrackpad) • [下载发布](https://github.com/jan5o7o/ztrackpad/releases) |
+| **[MX3ButtonMapper](https://github.com/evilbunny2008/MX3ButtonMapper)** | Android 辅助功能服务，用于重新映射 MX3 式空中鼠标遥控器上的硬件按钮 | Unlicense | [GitHub 源码](https://github.com/evilbunny2008/MX3ButtonMapper) • [下载发布](https://github.com/evilbunny2008/MX3ButtonMapper/releases) |
+| **[Lightspeed](https://github.com/SBFlabs/Lightspeed)** | 适用于 Android 的高级太空主题手势、遥测和系统平台。 | See project | [GitHub 源码](https://github.com/SBFlabs/Lightspeed) • [下载发布](https://github.com/SBFlabs/Lightspeed/releases) |
 | **[EnforceDoze](https://github.com/Akylas/EnforceDoze)** | 屏幕关闭后立即启用打瞌睡模式并关闭运动感应以获得最佳电池寿命 | GPL-3.0 | [GitHub 源码](https://github.com/Akylas/EnforceDoze) • [下载发布](https://github.com/Akylas/EnforceDoze/releases) |
 | **[pixelcomfort](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort)** | 暂停相机和照片中的 Pixel 舒适视图（眼睛舒适度），通过 Wi-Fi 切换私人 DNS – 通过 Shizuku | MIT | [GitHub 源码](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort) • [下载发布](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort/releases) |
 | **[juicetext](https://github.com/qiuminal/juicetext)** | 纯Android文本编辑器 | LGPL-2.1 | [GitHub 源码](https://github.com/qiuminal/juicetext) • [下载发布](https://github.com/qiuminal/juicetext/releases) |
@@ -263,16 +272,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Yutu-Toolbox** | 关汉01 | `v0.1.5` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yutu-toolbox-v0.1.5) | [Upstream](https://github.com/guanhan01/Yutu-Toolbox/releases) |
-| ⚡ **HyperOS-Wallet-Shortcut** | 你最喜欢的斯塔夫 | `v1.0.0` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperos-wallet-shortcut-v1.0.0) | [Upstream](https://github.com/YourFavStav/HyperOS-Wallet-Shortcut/releases) |
-| ⚡ **lockperm** | 苏尼尔斯克 | `450-4.5.0` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lockperm-450-4.5.0) | [Upstream](https://github.com/sunilxsk/lockperm/releases) |
-| ⚡ **ADB-Application-Manager** | 宾布洛普 | `v4.7` | 2026-10-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-application-manager-v4.7) | [Upstream](https://github.com/Bingblop/ADB-Application-Manager/releases) |
-| ⚡ **mi-back-screen** | 完全不是卡西 | `v1.4` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mi-back-screen-v1.4) | [Upstream](https://github.com/totallynotkasai/mi-back-screen/releases) |
-| ⚡ **BTSharing** | 比利布布里安 | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/btsharing-v1.0) | [Upstream](https://github.com/biliboobrian/BTSharing/releases) |
-| ⚡ **root-my-s24** | 纳米龟1145 | `v3.5.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/root-my-s24-v3.5.0) | [Upstream](https://github.com/NanoTurtle1145/root-my-s24/releases) |
-| ⚡ **DSHHarness** | 深度睡眠520 | `v1.0beta6` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshharness-v1.0beta6) | [Upstream](https://github.com/deepsleep520/DSHHarness/releases) |
-| ⚡ **liteflight** | 莱奥巴鲁阿 | `v1.0` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/liteflight-v1.0) | [Upstream](https://github.com/leobarua/liteflight/releases) |
-| ⚡ **tern** | 蒙兹伊 | `v0.2.2` | 2026-10-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tern-v0.2.2) | [Upstream](https://github.com/munzzyy/tern/releases) |
+| ⚡ **Nibnya-revamped** | 乌桕 | `v0.2` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nibnya-revamped-v0.2) | [Upstream](https://github.com/Sapifur/Nibnya-revamped/releases) |
+| ⚡ **NearestPlane** | 蓝色天使人36 | `v1.11` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nearestplane-v1.11) | [Upstream](https://github.com/Blueangelman36/NearestPlane/releases) |
+| ⚡ **Fullscreen** | 像素开发 | `v1.2.2-build155` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fullscreen-v1.2.2-build155) | [Upstream](https://github.com/pixxel-dev/Fullscreen/releases) |
+| ⚡ **juicetext** | 丘米纳尔 | `v0.3.3` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/juicetext-v0.3.3) | [Upstream](https://github.com/qiuminal/juicetext/releases) |
+| ⚡ **ETS-TOOLS** | KLP-KULIPA-24 | `V0.8.1` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ets-tools-V0.8.1) | [Upstream](https://github.com/KLP-KULIPA-24/ETS-TOOLS/releases) |
+| ⚡ **android-ram-cleaner** | 阿尔迪亚君 | `v1.2.0` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-ram-cleaner-v1.2.0) | [Upstream](https://github.com/ardia-kun/android-ram-cleaner/releases) |
+| ⚡ **Quest-Home-Switcher** | 尼基塔21 | `v2.1.5` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quest-home-switcher-v2.1.5) | [Upstream](https://github.com/nikitat21/Quest-Home-Switcher/releases) |
+| ⚡ **MaaPocket** | 小石魔理沙 | `v0.1.0` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/maapocket-v0.1.0) | [Upstream](https://github.com/Koishi-Marisa/MaaPocket/releases) |
+| ⚡ **deepseek-harness-android-app** | 哇伊斯3 | `v1.17.3` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-app-v1.17.3) | [Upstream](https://github.com/woaiys3/deepseek-harness-android-app/releases) |
+| ⚡ **pixelcomfort** | 魏特芬肯-托马斯 | `v1.4` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelcomfort-v1.4) | [Upstream](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

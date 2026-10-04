@@ -7508,5 +7508,181 @@
     ],
     "mirror_release_tag": "pixelcomfort-v1.4",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelcomfort-v1.4"
+  },
+  "lightspeed": {
+    "source_repository": "SBFlabs/Lightspeed",
+    "source_release_id": 400388938,
+    "source_tag": "v1.0.3",
+    "source_published_at": "2026-09-30T19:53:39Z",
+    "synced_at": "2026-10-04T05:29:56.876888+00:00",
+    "assets": [
+      {
+        "source_asset_id": 601706750,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "7087ab0190bbe4dd4391249a94b8f08960104e95143b6754572344f328a3fb48",
+        "file_size": 2954197,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lightspeed-v1.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lightspeed-v1.0.3"
+  },
+  "mx3buttonmapper": {
+    "source_repository": "evilbunny2008/MX3ButtonMapper",
+    "source_release_id": 402850331,
+    "source_tag": "v0.0.46",
+    "source_published_at": "2026-10-04T05:09:23Z",
+    "synced_at": "2026-10-04T05:29:59.797142+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609176412,
+        "filename": "MX3ButtonMapper-0.0.46.apk",
+        "original_filename": "MX3ButtonMapper-0.0.46.apk",
+        "sha256": "516bf40ceae8d10fbe3280732fb737825e49fb09ca4513a0e1f2eb00506452c9",
+        "file_size": 1398991,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mx3buttonmapper-v0.0.46",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mx3buttonmapper-v0.0.46"
+  },
+  "ztrackpad": {
+    "source_repository": "jan5o7o/ztrackpad",
+    "source_release_id": 402837959,
+    "source_tag": "v0.6.0",
+    "source_published_at": "2026-10-04T04:19:39Z",
+    "synced_at": "2026-10-04T05:30:02.313931+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609108555,
+        "filename": "ztrackpad.apk",
+        "original_filename": "ztrackpad.apk",
+        "sha256": "3b0bbafa978d3b4c8a11a3bae6aa72114602b7f514aed1cd18f242ba7360ff12",
+        "file_size": 119849,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "ztrackpad-v0.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ztrackpad-v0.6.0"
+  },
+  "md-helper-adb": {
+    "source_repository": "chamr94/md-helper-adb",
+    "source_release_id": 402787231,
+    "source_tag": "v1.0.26100419",
+    "source_published_at": "2026-10-04T02:24:06Z",
+    "synced_at": "2026-10-04T05:30:05.925754+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608964975,
+        "filename": "mdadb.apk",
+        "original_filename": "mdadb.apk",
+        "sha256": "e2622761c3c409cb54901bbfb1d97f6dac273a6db4e56db3b1837736b5204f4a",
+        "file_size": 12920727,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "md-helper-adb-v1.0.26100419",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/md-helper-adb-v1.0.26100419"
+  },
+  "shitu-android": {
+    "source_repository": "Landslide3154/shitu-android",
+    "source_release_id": 402855852,
+    "source_tag": "v0.1.2",
+    "source_published_at": "2026-10-04T05:24:51Z",
+    "synced_at": "2026-10-04T05:30:10.127314+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609193277,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "be6c4487a8fc9accebc501b1ef624e63cf930614cca3cc1f96d106d6f0578223",
+        "file_size": 27529487,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shitu-android-v0.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shitu-android-v0.1.2"
+  },
+  "root-my-galaxy-next": {
+    "source_repository": "ProofPage/Root-My-Galaxy-Next",
+    "source_release_id": 402850680,
+    "source_tag": "v0.10.1",
+    "source_published_at": "2026-10-04T05:10:32Z",
+    "synced_at": "2026-10-04T05:30:14.183907+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609174457,
+        "filename": "RootMyGalaxyNext-0.10.1.apk",
+        "original_filename": "RootMyGalaxyNext-0.10.1.apk",
+        "sha256": "7053b4ed1b9a4d04ae8c4de5f71145171fc5be5e2f30b955f28d4bb22f0cf190",
+        "file_size": 6822503,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "root-my-galaxy-next-v0.10.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/root-my-galaxy-next-v0.10.1"
+  },
+  "turbospaceoptimizer-zip": {
+    "source_repository": "Boungen-Bml/TurboSpaceOptimizer.zip",
+    "source_release_id": 392950331,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-09-21T12:42:51Z",
+    "synced_at": "2026-10-04T05:30:18.001334+00:00",
+    "assets": [
+      {
+        "source_asset_id": 590808761,
+        "filename": "TurboSpace-Optimizer-v1.8.0.apk",
+        "original_filename": "TurboSpace-Optimizer-v1.8.0.apk",
+        "sha256": "21e32b7a85098434517761167d14e25bdca6f84cc6956cb69463b6e6a80adb8f",
+        "file_size": 16737952,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "turbospaceoptimizer-zip-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turbospaceoptimizer-zip-v1.0.0"
+  },
+  "moonclicker": {
+    "source_repository": "kuomartin/MoonClicker",
+    "source_release_id": 397086186,
+    "source_tag": "v0.2.2",
+    "source_published_at": "2026-09-26T05:12:21Z",
+    "synced_at": "2026-10-04T05:30:31.798166+00:00",
+    "assets": [
+      {
+        "source_asset_id": 589934434,
+        "filename": "MoonClicker-v0.2.2-arm64-v8a.apk",
+        "original_filename": "MoonClicker-v0.2.2-arm64-v8a.apk",
+        "sha256": "0144999cb5a6005299ec297faa36654fd59bb13282d18180bc24476dc7cb620c",
+        "file_size": 12108611,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 589934435,
+        "filename": "MoonClicker-v0.2.2-universal.apk",
+        "original_filename": "MoonClicker-v0.2.2-universal.apk",
+        "sha256": "93a5a71fe1a4fdc44a7e1f50af44fb828f8b1c81716785776ee16cf345421bcc",
+        "file_size": 69635762,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 589934438,
+        "filename": "MoonClicker-v0.2.2-x86.apk",
+        "original_filename": "MoonClicker-v0.2.2-x86.apk",
+        "sha256": "1f27296a022eca38c6bcf095bf826fb0ed926deab3fc37f114978b431e6c85f8",
+        "file_size": 24778945,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 589934436,
+        "filename": "MoonClicker-v0.2.2-x86_64.apk",
+        "original_filename": "MoonClicker-v0.2.2-x86_64.apk",
+        "sha256": "195423f759b74631e7227ab8cc71eeaee8b1b7b98d9ecf6fec3f7cc4b3449fb7",
+        "file_size": 37653626,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "moonclicker-v0.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moonclicker-v0.2.2"
   }
 }
