@@ -7684,5 +7684,170 @@
     ],
     "mirror_release_tag": "moonclicker-v0.2.2",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moonclicker-v0.2.2"
+  },
+  "toolz": {
+    "source_repository": "freroxx/toolz",
+    "source_release_id": 402145078,
+    "source_tag": "v1.1.6",
+    "source_published_at": "2026-10-02T20:59:03Z",
+    "synced_at": "2026-10-04T16:45:36.863544+00:00",
+    "assets": [
+      {
+        "source_asset_id": 606466836,
+        "filename": "toolz-app-arm64-v8a.apk",
+        "original_filename": "toolz-app-arm64-v8a.apk",
+        "sha256": "93c584d2743162493e9963deecad101fa4910e20b25d5f29d32ee97e28ce0241",
+        "file_size": 172937076,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 606466352,
+        "filename": "toolz-app-armeabi-v7a.apk",
+        "original_filename": "toolz-app-armeabi-v7a.apk",
+        "sha256": "4a5a681396da6bc638a1beb178f439204f882b1019dbb16e14ba15ba6d43ba1c",
+        "file_size": 152486401,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 606464910,
+        "filename": "toolz-app-x86.apk",
+        "original_filename": "toolz-app-x86.apk",
+        "sha256": "f5c153a598d5700117e92d1e376bb2d3ef68bb2dfd856c8219893070a766996b",
+        "file_size": 179710134,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 606465555,
+        "filename": "toolz-app-x86_64.apk",
+        "original_filename": "toolz-app-x86_64.apk",
+        "sha256": "fd8caa0bde3c9842ee866c70ed864ffd007f2ef783d8cbc234ff288203039e59",
+        "file_size": 187749667,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "toolz-v1.1.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/toolz-v1.1.6"
+  },
+  "nc-media-provider": {
+    "source_repository": "keithvassallomt/nc-media-provider",
+    "source_release_id": 403089415,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-04T15:47:26Z",
+    "synced_at": "2026-10-04T16:45:40.014421+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610119807,
+        "filename": "nc-media-provider-v0.1.0.apk",
+        "original_filename": "nc-media-provider-v0.1.0.apk",
+        "sha256": "c93392365c338d375e2233f73d82dadfa530c75458ee9dfa9da77bcbc89336a6",
+        "file_size": 4111938,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "nc-media-provider-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nc-media-provider-v0.1.0"
+  },
+  "novadesk": {
+    "source_repository": "dashen9178/NovaDesk",
+    "source_release_id": 403099848,
+    "source_tag": "v2.7",
+    "source_published_at": "2026-10-04T16:13:19Z",
+    "synced_at": "2026-10-04T16:45:43.672929+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610157098,
+        "filename": "NovaDesk-2.7.apk",
+        "original_filename": "NovaDesk-2.7.apk",
+        "sha256": "a18e0e5747985df52230782c9d77082109c9ac8b73bdf5c0cd40fc3455340e42",
+        "file_size": 4054538,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "novadesk-v2.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novadesk-v2.7"
+  },
+  "netpilot": {
+    "source_repository": "katiusu/NetPilot",
+    "source_release_id": 403111435,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-04T16:43:42Z",
+    "synced_at": "2026-10-04T16:45:48.681869+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610204799,
+        "filename": "NetPilot-1.1.0-2026100500-release.apk",
+        "original_filename": "NetPilot-1.1.0-2026100500-release.apk",
+        "sha256": "b02b94a009b47a2ce1e177024c2c275dcd2e81d66fd73c3f73306ff4e0b18eb0",
+        "file_size": 33108729,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "netpilot-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/netpilot-v1.1.0"
+  },
+  "smart-explorer": {
+    "source_repository": "b1ue-man/smart-explorer",
+    "source_release_id": 402880122,
+    "source_tag": "v0.5.170",
+    "source_published_at": "2026-10-04T06:35:45Z",
+    "synced_at": "2026-10-04T16:45:56.335259+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609292274,
+        "filename": "smart-explorer-android.apk",
+        "original_filename": "smart-explorer-android.apk",
+        "sha256": "ca2ecaa73755692a558abc91bc8a30a9f220fcda137a99c2541be01f9d937281",
+        "file_size": 66222679,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "smart-explorer-v0.5.170",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smart-explorer-v0.5.170"
+  },
+  "coloros-blur-enhance": {
+    "source_repository": "wisely-leo/ColorOS_Blur_Enhance",
+    "source_release_id": 403103201,
+    "source_tag": "v44.2",
+    "source_published_at": "2026-10-04T16:21:58Z",
+    "synced_at": "2026-10-04T16:45:59.108388+00:00",
+    "assets": [
+      {
+        "source_asset_id": 610173583,
+        "filename": "ColorOSBlurEnhance-v44.2.apk",
+        "original_filename": "ColorOSBlurEnhance-v44.2.apk",
+        "sha256": "0b43cdaa84e8466e05d2bf6a2f10ba779053b880b0033765b126474e9bedfd21",
+        "file_size": 168769,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "coloros-blur-enhance-v44.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/coloros-blur-enhance-v44.2"
+  },
+  "uma-android-automation": {
+    "source_repository": "steve1316/uma-android-automation",
+    "source_release_id": 377560815,
+    "source_tag": "v5.8.8",
+    "source_published_at": "2026-08-27T04:35:44Z",
+    "synced_at": "2026-10-04T16:46:13.615013+00:00",
+    "assets": [
+      {
+        "source_asset_id": 531743674,
+        "filename": "v5.8.8-UmaAndroidAutomation-arm64-v8a-release.apk",
+        "original_filename": "v5.8.8-UmaAndroidAutomation-arm64-v8a-release.apk",
+        "sha256": "f0c18e794f90c1d5f9b4163bcf0fbec0623e91ffd74af91cf57dd470771ebad7",
+        "file_size": 104878063,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 531735827,
+        "filename": "v5.8.8-UmaAndroidAutomation-x86_64-release.apk",
+        "original_filename": "v5.8.8-UmaAndroidAutomation-x86_64-release.apk",
+        "sha256": "743106b3c8cfe3ee4b406ebe30c7dbca268d19f27e9ee74f090b1975c5336753",
+        "file_size": 114622856,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "uma-android-automation-v5.8.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/uma-android-automation-v5.8.8"
   }
 }

@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-03T16:05:31.944070+00:00",
+    "last_checked": "2026-10-04T16:46:14.046383+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-04T05:30:10.490082+00:00",
+    "last_checked": "2026-10-04T16:45:48.986732+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-03T16:08:13.962553+00:00",
+    "last_checked": "2026-10-04T16:44:57.068210+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-03T16:05:31.612358+00:00"
+    "last_checked": "2026-10-04T16:45:40.313340+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-03T16:05:59.547352+00:00",
+    "last_checked": "2026-10-04T16:45:49.583390+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -1575,5 +1575,51 @@
     "last_checked": "2026-10-04T05:30:31.798190+00:00",
     "latest_version": "v0.2.2",
     "last_synced": "2026-10-04T05:30:31.798190+00:00"
+  },
+  "toolz": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:45:36.863568+00:00",
+    "latest_version": "v1.1.6",
+    "last_synced": "2026-10-04T16:45:36.863568+00:00"
+  },
+  "nc-media-provider": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:45:40.014443+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-04T16:45:40.014443+00:00"
+  },
+  "novadesk": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:45:43.672950+00:00",
+    "latest_version": "v2.7",
+    "last_synced": "2026-10-04T16:45:43.672950+00:00"
+  },
+  "netpilot": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:45:48.681886+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-04T16:45:48.681886+00:00"
+  },
+  "smart-explorer": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:45:56.335280+00:00",
+    "latest_version": "v0.5.170",
+    "last_synced": "2026-10-04T16:45:56.335280+00:00"
+  },
+  "coloros-blur-enhance": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:45:59.108407+00:00",
+    "latest_version": "v44.2",
+    "last_synced": "2026-10-04T16:45:59.108407+00:00"
+  },
+  "uma-android-automation": {
+    "status": "synced",
+    "last_checked": "2026-10-04T16:46:13.615033+00:00",
+    "latest_version": "v5.8.8",
+    "last_synced": "2026-10-04T16:46:13.615033+00:00"
+  },
+  "castku": {
+    "status": "no-apk",
+    "last_checked": "2026-10-04T16:46:14.375836+00:00"
   }
 }
