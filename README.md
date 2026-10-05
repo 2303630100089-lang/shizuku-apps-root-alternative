@@ -258,16 +258,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Nibnya-revamped** | Sapifur | `v0.2` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nibnya-revamped-v0.2) | [Upstream](https://github.com/Sapifur/Nibnya-revamped/releases) |
-| ⚡ **NearestPlane** | Blueangelman36 | `v1.11` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nearestplane-v1.11) | [Upstream](https://github.com/Blueangelman36/NearestPlane/releases) |
-| ⚡ **Fullscreen** | pixxel-dev | `v1.2.2-build155` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fullscreen-v1.2.2-build155) | [Upstream](https://github.com/pixxel-dev/Fullscreen/releases) |
-| ⚡ **juicetext** | qiuminal | `v0.3.3` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/juicetext-v0.3.3) | [Upstream](https://github.com/qiuminal/juicetext/releases) |
-| ⚡ **ETS-TOOLS** | KLP-KULIPA-24 | `V0.8.1` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ets-tools-V0.8.1) | [Upstream](https://github.com/KLP-KULIPA-24/ETS-TOOLS/releases) |
-| ⚡ **android-ram-cleaner** | ardia-kun | `v1.2.0` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-ram-cleaner-v1.2.0) | [Upstream](https://github.com/ardia-kun/android-ram-cleaner/releases) |
-| ⚡ **Quest-Home-Switcher** | nikitat21 | `v2.1.5` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quest-home-switcher-v2.1.5) | [Upstream](https://github.com/nikitat21/Quest-Home-Switcher/releases) |
-| ⚡ **MaaPocket** | Koishi-Marisa | `v0.1.0` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/maapocket-v0.1.0) | [Upstream](https://github.com/Koishi-Marisa/MaaPocket/releases) |
-| ⚡ **deepseek-harness-android-app** | woaiys3 | `v1.17.3` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-app-v1.17.3) | [Upstream](https://github.com/woaiys3/deepseek-harness-android-app/releases) |
-| ⚡ **pixelcomfort** | WEITERFUNKEN-Thomas | `v1.4` | 2026-10-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelcomfort-v1.4) | [Upstream](https://github.com/WEITERFUNKEN-Thomas/pixelcomfort/releases) |
+| ⚡ **NetPilot** | katiusu | `v1.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/netpilot-v1.1.0) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
+| ⚡ **ColorOS_Blur_Enhance** | wisely-leo | `v44.2` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/coloros-blur-enhance-v44.2) | [Upstream](https://github.com/wisely-leo/ColorOS_Blur_Enhance/releases) |
+| ⚡ **NovaDesk** | dashen9178 | `v2.7` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novadesk-v2.7) | [Upstream](https://github.com/dashen9178/NovaDesk/releases) |
+| ⚡ **nc-media-provider** | keithvassallomt | `v0.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nc-media-provider-v0.1.0) | [Upstream](https://github.com/keithvassallomt/nc-media-provider/releases) |
+| ⚡ **smart-explorer** | b1ue-man | `v0.5.170` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smart-explorer-v0.5.170) | [Upstream](https://github.com/b1ue-man/smart-explorer/releases) |
+| ⚡ **shitu-android** | Landslide3154 | `v0.1.2` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shitu-android-v0.1.2) | [Upstream](https://github.com/Landslide3154/shitu-android/releases) |
+| ⚡ **Root-My-Galaxy-Next** | ProofPage | `v0.10.1` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/root-my-galaxy-next-v0.10.1) | [Upstream](https://github.com/ProofPage/Root-My-Galaxy-Next/releases) |
+| ⚡ **MX3ButtonMapper** | evilbunny2008 | `v0.0.46` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mx3buttonmapper-v0.0.46) | [Upstream](https://github.com/evilbunny2008/MX3ButtonMapper/releases) |
+| ⚡ **ztrackpad** | jan5o7o | `v0.6.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ztrackpad-v0.6.0) | [Upstream](https://github.com/jan5o7o/ztrackpad/releases) |
+| ⚡ **md-helper-adb** | chamr94 | `v1.0.26100419` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/md-helper-adb-v1.0.26100419) | [Upstream](https://github.com/chamr94/md-helper-adb/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
