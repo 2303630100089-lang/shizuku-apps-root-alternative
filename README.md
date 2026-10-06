@@ -242,16 +242,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **FixRedirectStorage** | xxz3312 | `v0.19` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fixredirectstorage-v0.19) | [Upstream](https://github.com/xxz3312/FixRedirectStorage/releases) |
+| ⚡ **ink-recents** | equwal | `v0.1.3` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ink-recents-v0.1.3) | [Upstream](https://github.com/equwal/ink-recents/releases) |
+| ⚡ **ink-dim** | equwal | `v0.1.3` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ink-dim-v0.1.3) | [Upstream](https://github.com/equwal/ink-dim/releases) |
+| ⚡ **Hackmons-Controller** | isleep2late | `apps` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hackmons-controller-apps) | [Upstream](https://github.com/isleep2late/Hackmons-Controller/releases) |
+| ⚡ **void-apps** | kreza6173-pixel | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/void-apps-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/void-apps/releases) |
+| ⚡ **AppOpsShizuku** | pikatchu2k3 | `v1.16.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appopsshizuku-v1.16.0) | [Upstream](https://github.com/pikatchu2k3/AppOpsShizuku/releases) |
+| ⚡ **android-keymapper** | kladenets-codes | `v1.1` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-keymapper-v1.1) | [Upstream](https://github.com/kladenets-codes/android-keymapper/releases) |
+| ⚡ **SonderIcons** | Verisonder | `v1.2.1` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sondericons-v1.2.1) | [Upstream](https://github.com/Verisonder/SonderIcons/releases) |
 | ⚡ **NetPilot** | katiusu | `v1.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/netpilot-v1.1.0) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
 | ⚡ **ColorOS_Blur_Enhance** | wisely-leo | `v44.2` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/coloros-blur-enhance-v44.2) | [Upstream](https://github.com/wisely-leo/ColorOS_Blur_Enhance/releases) |
-| ⚡ **NovaDesk** | dashen9178 | `v2.7` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novadesk-v2.7) | [Upstream](https://github.com/dashen9178/NovaDesk/releases) |
-| ⚡ **nc-media-provider** | keithvassallomt | `v0.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nc-media-provider-v0.1.0) | [Upstream](https://github.com/keithvassallomt/nc-media-provider/releases) |
-| ⚡ **smart-explorer** | b1ue-man | `v0.5.170` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smart-explorer-v0.5.170) | [Upstream](https://github.com/b1ue-man/smart-explorer/releases) |
-| ⚡ **shitu-android** | Landslide3154 | `v0.1.2` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shitu-android-v0.1.2) | [Upstream](https://github.com/Landslide3154/shitu-android/releases) |
-| ⚡ **Root-My-Galaxy-Next** | ProofPage | `v0.10.1` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/root-my-galaxy-next-v0.10.1) | [Upstream](https://github.com/ProofPage/Root-My-Galaxy-Next/releases) |
-| ⚡ **MX3ButtonMapper** | evilbunny2008 | `v0.0.46` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mx3buttonmapper-v0.0.46) | [Upstream](https://github.com/evilbunny2008/MX3ButtonMapper/releases) |
-| ⚡ **ztrackpad** | jan5o7o | `v0.6.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ztrackpad-v0.6.0) | [Upstream](https://github.com/jan5o7o/ztrackpad/releases) |
-| ⚡ **md-helper-adb** | chamr94 | `v1.0.26100419` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/md-helper-adb-v1.0.26100419) | [Upstream](https://github.com/chamr94/md-helper-adb/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
