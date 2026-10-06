@@ -8296,5 +8296,289 @@
     ],
     "mirror_release_tag": "game-boost-v1.0.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-boost-v1.0.1"
+  },
+  "activitylauncher": {
+    "source_repository": "ActivityLauncher/ActivityLauncher",
+    "source_release_id": 351119699,
+    "source_tag": "2.4.1",
+    "source_published_at": "2026-07-08T18:47:32Z",
+    "synced_at": "2026-10-06T18:14:45.736742+00:00",
+    "assets": [
+      {
+        "source_asset_id": 470555745,
+        "filename": "app-oss-noads-release.apk",
+        "original_filename": "app-oss-noads-release.apk",
+        "sha256": "f93c4e1a21f37f3ae5713ec94897907d12c292e62f57c6720c404c7e1d0f22ca",
+        "file_size": 3407233,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "activitylauncher-2.4.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/activitylauncher-2.4.1"
+  },
+  "brightcontrol": {
+    "source_repository": "gi-os/BrightControl",
+    "source_release_id": 404999878,
+    "source_tag": "v4.41.303",
+    "source_published_at": "2026-10-06T17:55:21Z",
+    "synced_at": "2026-10-06T18:14:52.005858+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616240019,
+        "filename": "LightControl-v4.41.303.apk",
+        "original_filename": "LightControl-v4.41.303.apk",
+        "sha256": "bb1baced7081ef170fdcf62577fcfb98f7960023e2019398f2904b6296caa0c7",
+        "file_size": 28716638,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "brightcontrol-v4.41.303",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brightcontrol-v4.41.303"
+  },
+  "kcode": {
+    "source_repository": "meteor149/kcode",
+    "source_release_id": 402931240,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-04T09:01:28Z",
+    "synced_at": "2026-10-06T18:15:04.182979+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609490004,
+        "filename": "kcode-v0.2.0-android.apk",
+        "original_filename": "kcode-v0.2.0-android.apk",
+        "sha256": "74db974101509cdff6ec7f0cadc247c982c6855ab8207c779b93ef11ef127733",
+        "file_size": 111927359,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kcode-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kcode-v0.2.0"
+  },
+  "tunnels": {
+    "source_repository": "StrongHorse44/Tunnels",
+    "source_release_id": 404999281,
+    "source_tag": "v0.1.4",
+    "source_published_at": "2026-10-06T17:54:28Z",
+    "synced_at": "2026-10-06T18:15:12.588784+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616237679,
+        "filename": "tunnels-0.1.4.apk",
+        "original_filename": "tunnels-0.1.4.apk",
+        "sha256": "910471d9ade3cde5273a1d3ed9309fafcde05060c42c482ce99770d17c691934",
+        "file_size": 54799067,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tunnels-v0.1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tunnels-v0.1.4"
+  },
+  "notiguard": {
+    "source_repository": "Liuchijang/NotiGuard",
+    "source_release_id": 404485855,
+    "source_tag": "v2.1",
+    "source_published_at": "2026-10-06T08:35:06Z",
+    "synced_at": "2026-10-06T18:15:17.531702+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614962887,
+        "filename": "NotiGuard-v2.1.apk",
+        "original_filename": "NotiGuard-v2.1.apk",
+        "sha256": "f2f1968719beec07eceb7eb61aa53a5af59a4c22c3d975040cfb260176124072",
+        "file_size": 10849167,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "notiguard-v2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/notiguard-v2.1"
+  },
+  "flutter-agent-harness": {
+    "source_repository": "IstiN/flutter_agent_harness",
+    "source_release_id": 404938485,
+    "source_tag": "v1.0.519",
+    "source_published_at": "2026-10-06T16:34:06Z",
+    "synced_at": "2026-10-06T18:16:10.002847+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616071858,
+        "filename": "app-god-release.apk",
+        "original_filename": "app-god-release.apk",
+        "sha256": "40d55afc7e9ac5798156b110c2a3def10a40cc03ebc4fee2034023bbf3362ac6",
+        "file_size": 274432946,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      },
+      {
+        "source_asset_id": 616071534,
+        "filename": "app-store-release.apk",
+        "original_filename": "app-store-release.apk",
+        "sha256": "66e88759cde74a1355336e7367f5c58f3bfea2e63cbf0b66846ff9d391425bc0",
+        "file_size": 274398750,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "flutter-agent-harness-v1.0.519",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flutter-agent-harness-v1.0.519"
+  },
+  "mkm": {
+    "source_repository": "zenithblue-oss/mkm",
+    "source_release_id": 346375225,
+    "source_tag": "v1.7",
+    "source_published_at": "2026-06-29T16:11:09Z",
+    "synced_at": "2026-10-06T18:16:14.841527+00:00",
+    "assets": [
+      {
+        "source_asset_id": 461283526,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ce354899850c83f11f7062d184072e47037d3ac9091c1b4ef3fc1411173284b5",
+        "file_size": 15475720,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mkm-v1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mkm-v1.7"
+  },
+  "termux-ultra": {
+    "source_repository": "TiG-Kira/Termux-Ultra",
+    "source_release_id": 404564423,
+    "source_tag": "3.3.5.R7",
+    "source_published_at": "2026-10-06T10:08:16Z",
+    "synced_at": "2026-10-06T18:16:57.682335+00:00",
+    "assets": [
+      {
+        "source_asset_id": 615166363,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "176b4599aec62987df11e6df739cccd1450252e81a30d2746f4c77acead40449",
+        "file_size": 85504086,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 615166504,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "f3c45301c25a78eb343987fb80eb54e16e62e78f125a419ed86b5702edc82e69",
+        "file_size": 84876944,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 615166629,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "f3e2a11468493bb09d07da477d34f58e3436426e2a25025d122bb56819024012",
+        "file_size": 91452133,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 615166761,
+        "filename": "app-x86-release.apk",
+        "original_filename": "app-x86-release.apk",
+        "sha256": "64281c379be79610415ad5348c741ab217dbbc5ab8f10ffee09d65c466feb2a2",
+        "file_size": 85747316,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 615166880,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "91113f2a00b46dee7d10db9d4fe85b5e1b20efa1b92ef2e2c9e1f6d972d21c5c",
+        "file_size": 85880877,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "termux-ultra-3.3.5.R7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/termux-ultra-3.3.5.R7"
+  },
+  "hermes-agent-android": {
+    "source_repository": "l3ad3r1/Hermes-Agent-Android",
+    "source_release_id": 404882413,
+    "source_tag": "v1.1.5",
+    "source_published_at": "2026-10-06T15:27:48Z",
+    "synced_at": "2026-10-06T18:17:03.917451+00:00",
+    "assets": [
+      {
+        "source_asset_id": 615897370,
+        "filename": "hermes-agent-v1.1.5.apk",
+        "original_filename": "hermes-agent-v1.1.5.apk",
+        "sha256": "f4278516f70ddf95ee81a36c35dadf62bdb2ab8d3cf30ddca2045fd00896b694",
+        "file_size": 32271976,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hermes-agent-android-v1.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-agent-android-v1.1.5"
+  },
+  "gf2-krpatch": {
+    "source_repository": "hohofught/gf2-krpatch",
+    "source_release_id": 405012411,
+    "source_tag": "v2.3",
+    "source_published_at": "2026-10-06T18:11:55Z",
+    "synced_at": "2026-10-06T18:17:09.912625+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616278177,
+        "filename": "snqx-krpatch-v2.3-native-arm64.apk",
+        "original_filename": "snqx-krpatch-v2.3-native-arm64.apk",
+        "sha256": "d3a1f906b7c8979991fcd63c5e290ea6b0491126f7fb478b587d32a253b19def",
+        "file_size": 2782859,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 616278172,
+        "filename": "snqx-krpatch-v2.3.apk",
+        "original_filename": "snqx-krpatch-v2.3.apk",
+        "sha256": "f7f22f52bcb83064a8ee09b4f64963ea6e51b3fc3ccb9b181e38583a0f1e6da2",
+        "file_size": 2444650,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gf2-krpatch-v2.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gf2-krpatch-v2.3"
+  },
+  "open-android-dex": {
+    "source_repository": "dotnetdreamer/open-android-dex",
+    "source_release_id": 384668947,
+    "source_tag": "v0.3.21",
+    "source_published_at": "2026-09-08T11:23:57Z",
+    "synced_at": "2026-10-06T18:17:18.728196+00:00",
+    "assets": [
+      {
+        "source_asset_id": 550366476,
+        "filename": "LinuxOnDroid-v0.3.21.apk",
+        "original_filename": "LinuxOnDroid-v0.3.21.apk",
+        "sha256": "2dc81b182173cc06178385b4dba6f09e4c1cafb1375334bf9e1a6158edd9edac",
+        "file_size": 1167758,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 550366567,
+        "filename": "OpenAndroidDeX-Launcher-v0.3.21.apk",
+        "original_filename": "OpenAndroidDeX-Launcher-v0.3.21.apk",
+        "sha256": "69851ca22aa39e05cbd4c11203c8497038672c8b3bfa89119195787832a083e9",
+        "file_size": 25768272,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "open-android-dex-v0.3.21",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/open-android-dex-v0.3.21"
+  },
+  "essentialkeytools": {
+    "source_repository": "KoukeNeko/EssentialKeyTools",
+    "source_release_id": 403720085,
+    "source_tag": "v1.0.18",
+    "source_published_at": "2026-10-05T13:03:30Z",
+    "synced_at": "2026-10-06T18:17:23.038301+00:00",
+    "assets": [
+      {
+        "source_asset_id": 612599015,
+        "filename": "EssentialKeyTools-v1.0.18.apk",
+        "original_filename": "EssentialKeyTools-v1.0.18.apk",
+        "sha256": "76825306409229d66f92de19373036cb83b5680d5016a1d2ea899b44959c4d70",
+        "file_size": 2701908,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "essentialkeytools-v1.0.18",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/essentialkeytools-v1.0.18"
   }
 }

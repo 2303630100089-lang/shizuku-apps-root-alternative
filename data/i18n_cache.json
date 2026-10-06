@@ -1168,7 +1168,18 @@
     "Change per-app languages on Android with Root or Shizuku. Material 3 Expressive interface, predictive back, and system-language display.": "使用 Root 或 Shizuku 更改 Android 上每个应用程序的语言。 Material 3 富有表现力的界面、预测性反馈和系统语言显示。",
     "P2P Android app update sync over LAN. Auto-discovery, version comparison, Split APK (.apks) support, delegates to 3rd-party installers. No Root/Shizuku. Built with Kotlin & Compose Material You.": "通过 LAN 同步 P2P Android 应用程序更新。自动发现、版本比较、拆分 APK (.apks) 支持、委托给第 3 方安装程序。无根/雫。使用 Kotlin 构建并 Compose Material You。",
     "Let coding agents drive an Android phone, several at once on their own virtual displays, without root.": "让编码代理在自己的虚拟显示器上同时驱动一部 Android 手机，无需 root。",
-    "Verisonder": "维里森德尔"
+    "Verisonder": "维里森德尔",
+    "Termux App Rebuild - Make Termux Great Again!": "Termux 应用程序重建 - 让 Termux 再次伟大！",
+    "Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends": "Fa——工厂代理。适用于 Dart 和 Flutter 的跨平台 AI 代理工具 — 流提供程序、带工具的代理循环、会话持久性、压缩；后端代理模式：FA后台产品Go backends",
+    "Hermes Agent Android App": "爱马仕代理 Android 应用程序",
+    "Redmi Game Toolbox 10.4.5 port — Shizuku FPS curve and vendor-neutral Android backend": "Redmi Game Toolbox 10.4.5 端口 — Shizuku FPS 曲线和供应商中立的 Android 后端",
+    "Android app that monitors and automatically restarts background services, accessibility services, and notification listeners killed by the system, using Shizuku for privileged access.": "Android 应用程序可监控并自动重新启动被系统杀死的后台服务、辅助服务和通知侦听器，使用 Shizuku 进行特权访问。",
+    "Phigros script created by Chat GPT": "由 Chat GPT 创建的 Phgros 脚本",
+    "Turn any android phone into Desktop class experience using cable or wireless": "使用有线或无线将任何 Android 手机变成桌面级体验",
+    "Fix delayed notifications on Xiaomi HyperOS China ROM. FCM Guard keeps GMS unrestricted, plus toggleable background tweaks via Shizuku.": "修复小米 HyperOS China ROM 上的延迟通知。 FCM Guard 使 GMS 不受限制，并可通过 Shizuku 进行可切换的背景调整。",
+    "Minimal Android kernel management and system monitoring application": "最小的Android内核管理和系统监控应用程序",
+    "The Light Phone III brightness wheel and camera button, working inside apps Light did not make": "Light Phone III 亮度轮和相机按钮，在 Light 未制作的应用程序内工作",
+    "GF2 Exilium (CN) Korean patch installer - Shizuku + Material You": "GF2 Exilium (CN) 韩国补丁安装程序 - Shizuku + Material You"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2339,6 +2350,17 @@
     "Self-hosted Android TV app compilation automation with wireless ADB, an idle-aware queue, and a friendly dashboard.": "Самостоятельная автоматизация компиляции приложений Android TV с помощью беспроводного ADB, очереди с отслеживанием простоя и удобной информационной панели.",
     "Change per-app languages on Android with Root or Shizuku. Material 3 Expressive interface, predictive back, and system-language display.": "Измените язык каждого приложения на Android с помощью Root или Shizuku. Материал 3 Выразительный интерфейс, интеллектуальная задняя панель и отображение на системном языке.",
     "P2P Android app update sync over LAN. Auto-discovery, version comparison, Split APK (.apks) support, delegates to 3rd-party installers. No Root/Shizuku. Built with Kotlin & Compose Material You.": "Обновления приложений P2P для Android синхронизируются по локальной сети. Автоматическое обнаружение, сравнение версий, поддержка Split APK (.apks), делегирование сторонним установщикам. Нет корня/Шизуку. Создано на Kotlin и Compose Material You.",
-    "Let coding agents drive an Android phone, several at once on their own virtual displays, without root.": "Позвольте агентам кодирования управлять телефоном Android, несколькими одновременно, на своих виртуальных дисплеях без рута."
+    "Let coding agents drive an Android phone, several at once on their own virtual displays, without root.": "Позвольте агентам кодирования управлять телефоном Android, несколькими одновременно, на своих виртуальных дисплеях без рута.",
+    "Hermes Agent Android App": "Android-приложение «Гермес Агент»",
+    "Termux App Rebuild - Make Termux Great Again!": "Перестройка приложения Termux — сделайте Termux снова великим!",
+    "Turn any android phone into Desktop class experience using cable or wireless": "Превратите любой телефон Android в настольный компьютер с помощью кабеля или беспроводной связи",
+    "Redmi Game Toolbox 10.4.5 port — Shizuku FPS curve and vendor-neutral Android backend": "Порт Redmi Game Toolbox 10.4.5 — кривая Shizuku FPS и независимый от поставщика серверный интерфейс Android",
+    "Fa - Factory Agent. Cross-platform AI agent harness for Dart and Flutter — streaming providers, agent loop with tools, session persistence, compaction; backend agent mode: fa behind product Go backends": "Фа - агент фабрики. Кроссплатформенный агент AI для Dart и Flutter — поставщики потоковой передачи, цикл агента с инструментами, сохранение сеансов, сжатие; Режим бэкэнд-агента: fa за продуктом Go бэкэнды",
+    "Android app that monitors and automatically restarts background services, accessibility services, and notification listeners killed by the system, using Shizuku for privileged access.": "Приложение Android, которое отслеживает и автоматически перезапускает фоновые службы, службы специальных возможностей и прослушиватели уведомлений, отключенные системой, с использованием Shizuku для привилегированного доступа.",
+    "Phigros script created by Chat GPT": "Скрипт Phigros, созданный Chat GPT",
+    "Minimal Android kernel management and system monitoring application": "Минимальное приложение для управления ядром Android и мониторинга системы",
+    "GF2 Exilium (CN) Korean patch installer - Shizuku + Material You": "GF2 Exilium (CN) Корейский установщик патчей - Shizuku + Material You",
+    "Fix delayed notifications on Xiaomi HyperOS China ROM. FCM Guard keeps GMS unrestricted, plus toggleable background tweaks via Shizuku.": "Исправлены задержки уведомлений в прошивке Xiaomi HyperOS China. FCM Guard сохраняет неограниченные возможности GMS, а также позволяет переключать фоновые настройки через Shizuku.",
+    "The Light Phone III brightness wheel and camera button, working inside apps Light did not make": "Колесо яркости Light Phone III и кнопка камеры, работа внутри приложений. Лайт не делал"
   }
 }

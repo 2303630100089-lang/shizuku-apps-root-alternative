@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-06T05:59:09.780457+00:00",
+    "last_checked": "2026-10-06T18:15:13.242571+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-06T05:59:10.451012+00:00",
+    "last_checked": "2026-10-06T18:14:52.652131+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-06T05:59:05.681568+00:00"
+    "last_checked": "2026-10-06T18:17:10.822840+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-06T05:59:11.879750+00:00",
+    "last_checked": "2026-10-06T18:17:10.520095+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-09-29T17:19:01.472185+00:00",
+    "last_checked": "2026-10-06T18:14:40.785662+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -684,8 +684,8 @@
     "last_synced": "2026-09-29T17:34:37.024450+00:00"
   },
   "komi-store": {
-    "status": "synced",
-    "last_checked": "2026-09-29T17:34:42.471330+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-06T18:14:39.940259+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -1781,5 +1781,89 @@
     "last_checked": "2026-10-06T05:59:34.408979+00:00",
     "latest_version": "v1.0.1",
     "last_synced": "2026-10-06T05:59:34.408979+00:00"
+  },
+  "phigros-script": {
+    "status": "no-apk",
+    "last_checked": "2026-10-06T18:14:39.140866+00:00"
+  },
+  "equalizer-app": {
+    "status": "no-apk",
+    "last_checked": "2026-10-06T18:14:40.255185+00:00"
+  },
+  "activitylauncher": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:14:45.736764+00:00",
+    "latest_version": "2.4.1",
+    "last_synced": "2026-10-06T18:14:45.736764+00:00"
+  },
+  "brightcontrol": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:14:52.005878+00:00",
+    "latest_version": "v4.41.303",
+    "last_synced": "2026-10-06T18:14:52.005878+00:00"
+  },
+  "kcode": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:15:04.183005+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-10-06T18:15:04.183005+00:00"
+  },
+  "helix-agent": {
+    "status": "no-apk",
+    "last_checked": "2026-10-06T18:15:04.633805+00:00"
+  },
+  "tunnels": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:15:12.588808+00:00",
+    "latest_version": "v0.1.4",
+    "last_synced": "2026-10-06T18:15:12.588808+00:00"
+  },
+  "notiguard": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:15:17.531723+00:00",
+    "latest_version": "v2.1",
+    "last_synced": "2026-10-06T18:15:17.531723+00:00"
+  },
+  "flutter-agent-harness": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:16:10.002872+00:00",
+    "latest_version": "v1.0.519",
+    "last_synced": "2026-10-06T18:16:10.002872+00:00"
+  },
+  "mkm": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:16:14.841547+00:00",
+    "latest_version": "v1.7",
+    "last_synced": "2026-10-06T18:16:14.841547+00:00"
+  },
+  "termux-ultra": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:16:57.682363+00:00",
+    "latest_version": "3.3.5.R7",
+    "last_synced": "2026-10-06T18:16:57.682363+00:00"
+  },
+  "hermes-agent-android": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:17:03.917468+00:00",
+    "latest_version": "v1.1.5",
+    "last_synced": "2026-10-06T18:17:03.917468+00:00"
+  },
+  "gf2-krpatch": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:17:09.912644+00:00",
+    "latest_version": "v2.3",
+    "last_synced": "2026-10-06T18:17:09.912644+00:00"
+  },
+  "open-android-dex": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:17:18.728219+00:00",
+    "latest_version": "v0.3.21",
+    "last_synced": "2026-10-06T18:17:18.728219+00:00"
+  },
+  "essentialkeytools": {
+    "status": "synced",
+    "last_checked": "2026-10-06T18:17:23.038324+00:00",
+    "latest_version": "v1.0.18",
+    "last_synced": "2026-10-06T18:17:23.038324+00:00"
   }
 }
