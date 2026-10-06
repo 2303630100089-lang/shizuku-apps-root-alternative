@@ -8071,5 +8071,230 @@
     ],
     "mirror_release_tag": "rootrealm-V1.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rootrealm-V1.1.0"
+  },
+  "mediarescue": {
+    "source_repository": "everythingfreee/MediaRescue",
+    "source_release_id": 398853499,
+    "source_tag": "v1.0.9",
+    "source_published_at": "2026-09-29T06:02:52Z",
+    "synced_at": "2026-10-06T05:58:48.887334+00:00",
+    "assets": [
+      {
+        "source_asset_id": 597375748,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "fb9aec12b4c2e45bf06d112218483f981b4038475b134e7bd9b6d781eea28b93",
+        "file_size": 73488882,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      },
+      {
+        "source_asset_id": 597391988,
+        "filename": "MediaRescuePlayStoreSigned1.0.9.apk",
+        "original_filename": "MediaRescuePlayStoreSigned1.0.9.apk",
+        "sha256": "6d12e605b9f80159c8a1d24ed997de03cefafdee5765db06bb435803689473e9",
+        "file_size": 73578092,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mediarescue-v1.0.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mediarescue-v1.0.9"
+  },
+  "audioscope": {
+    "source_repository": "ibrahim91015/AudioScope",
+    "source_release_id": 404334739,
+    "source_tag": "v0.5.2",
+    "source_published_at": "2026-10-06T05:04:50Z",
+    "synced_at": "2026-10-06T05:58:53.877173+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614542327,
+        "filename": "AudioScope-0.5.2.apk",
+        "original_filename": "AudioScope-0.5.2.apk",
+        "sha256": "55022b7d222221dd51dafdef31355274a4107665af5601d345a05286963db8dc",
+        "file_size": 24619154,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "audioscope-v0.5.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioscope-v0.5.2"
+  },
+  "droidperf": {
+    "source_repository": "fortifying/DroidPerf",
+    "source_release_id": 402930015,
+    "source_tag": "release",
+    "source_published_at": "2026-10-04T08:56:11Z",
+    "synced_at": "2026-10-06T05:58:57.596799+00:00",
+    "assets": [
+      {
+        "source_asset_id": 609508098,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "6e8ed3661f673ab0875350d8139acae836a4eebe915837730338dc8cd7609932",
+        "file_size": 1951344,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "droidperf-release",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidperf-release"
+  },
+  "device-watch": {
+    "source_repository": "jrs8205/Device-Watch",
+    "source_release_id": 402542237,
+    "source_tag": "v1.7.0",
+    "source_published_at": "2026-10-03T14:14:45Z",
+    "synced_at": "2026-10-06T05:59:01.253107+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607926064,
+        "filename": "Device-Watch-v1.7.0-release-signed.apk",
+        "original_filename": "Device-Watch-v1.7.0-release-signed.apk",
+        "sha256": "b5227ce192231e1b41ca8f4b69fc6700e459e874dfd949e17b309609170ed135",
+        "file_size": 4395392,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "device-watch-v1.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/device-watch-v1.7.0"
+  },
+  "adb-cloner": {
+    "source_repository": "udmodz0/adb-cloner",
+    "source_release_id": 402388863,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-03T07:38:07Z",
+    "synced_at": "2026-10-06T05:59:05.277686+00:00",
+    "assets": [
+      {
+        "source_asset_id": 607377050,
+        "filename": "CloneSpace-v1.0.0.apk",
+        "original_filename": "CloneSpace-v1.0.0.apk",
+        "sha256": "cfae4eda9496c9c24d129d00c9ca8b4be35c04a3d3f1cbb5885d66660741f9d7",
+        "file_size": 17128500,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "adb-cloner-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-cloner-v1.0.0"
+  },
+  "keytab": {
+    "source_repository": "piot5/keytab",
+    "source_release_id": 402055378,
+    "source_tag": "v0.16",
+    "source_published_at": "2026-10-02T18:22:59Z",
+    "synced_at": "2026-10-06T05:59:09.192965+00:00",
+    "assets": [
+      {
+        "source_asset_id": 606211635,
+        "filename": "KeyTab-0.16.apk",
+        "original_filename": "KeyTab-0.16.apk",
+        "sha256": "04d0d6eb3ac322aa22a97937b853e6d9352582be9a8c4305360ccff2197921af",
+        "file_size": 2370774,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "keytab-v0.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/keytab-v0.16"
+  },
+  "autobridge": {
+    "source_repository": "guitar-dev-io/autobridge",
+    "source_release_id": 404231796,
+    "source_tag": "v0.4.22",
+    "source_published_at": "2026-10-06T01:57:10Z",
+    "synced_at": "2026-10-06T05:59:17.560075+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614169404,
+        "filename": "app-lab-release.apk",
+        "original_filename": "app-lab-release.apk",
+        "sha256": "606f1a5e4e3e0116bd1443a9b5df0071d2771bf1a4af6c90c61e850b03df7cdf",
+        "file_size": 6923069,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 614169402,
+        "filename": "app-personal-release.apk",
+        "original_filename": "app-personal-release.apk",
+        "sha256": "772fded904ae97796adcedac9676426d14e4f8a599df034e1f0f1582d579f62f",
+        "file_size": 6923069,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "autobridge-v0.4.22",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autobridge-v0.4.22"
+  },
+  "messageaihelper": {
+    "source_repository": "SWSP-Git/messageAIHelper",
+    "source_release_id": 404311680,
+    "source_tag": "1.1.1",
+    "source_published_at": "2026-10-06T04:26:46Z",
+    "synced_at": "2026-10-06T05:59:21.191894+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614473880,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "0a9833496566972a286e5ef26a836ad3840052ccf9152782a0913abd1b2864fc",
+        "file_size": 5520367,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "messageaihelper-1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messageaihelper-1.1.1"
+  },
+  "easypocketmd": {
+    "source_repository": "sunhouy/EasyPocketMD",
+    "source_release_id": 403345905,
+    "source_tag": "v2.9.11",
+    "source_published_at": "2026-10-05T03:38:57Z",
+    "synced_at": "2026-10-06T05:59:26.021560+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611385300,
+        "filename": "easypocketmd-2.9.11-android.apk",
+        "original_filename": "easypocketmd-2.9.11-android.apk",
+        "sha256": "82e5ab118d332071812a4224b8d1ac5e8958d03f465e5f59d753e7a5193493f5",
+        "file_size": 20317935,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "easypocketmd-v2.9.11",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/easypocketmd-v2.9.11"
+  },
+  "parallel-root": {
+    "source_repository": "aadarwal/parallel-root",
+    "source_release_id": 404253849,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-06T02:36:35Z",
+    "synced_at": "2026-10-06T05:59:29.215546+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614248266,
+        "filename": "parallel-root-bridge.apk",
+        "original_filename": "parallel-root-bridge.apk",
+        "sha256": "5ad888b0ef139107c382a92d567ba09a4ea81eb16e5ac9cd6fb0325dd0fb4532",
+        "file_size": 16811,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "parallel-root-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/parallel-root-v0.1.0"
+  },
+  "game-boost": {
+    "source_repository": "bkrohit940-hub/game-boost",
+    "source_release_id": 404338355,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-06T05:11:51Z",
+    "synced_at": "2026-10-06T05:59:34.408959+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614556141,
+        "filename": "GameBoost.apk",
+        "original_filename": "GameBoost.apk",
+        "sha256": "2a7ecdbe592ad9071b4aed238d2aa1efd9e1b47bb35038c4fbd70334f5e65f09",
+        "file_size": 20331013,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "game-boost-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-boost-v1.0.1"
   }
 }

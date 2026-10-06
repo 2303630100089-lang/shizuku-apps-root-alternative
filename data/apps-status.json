@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-04T16:46:14.046383+00:00",
+    "last_checked": "2026-10-06T05:59:09.780457+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -230,7 +230,7 @@
   },
   "cosmic-ide": {
     "status": "no-update",
-    "last_checked": "2026-10-05T05:13:37.114646+00:00",
+    "last_checked": "2026-10-06T05:59:11.290163+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-08-22T12:01:45.113268+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-04T16:44:57.068210+00:00",
+    "last_checked": "2026-10-06T05:59:10.451012+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-04T16:45:40.313340+00:00"
+    "last_checked": "2026-10-06T05:59:05.681568+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-04T16:45:49.583390+00:00",
+    "last_checked": "2026-10-06T05:59:11.879750+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -1701,5 +1701,85 @@
     "last_checked": "2026-10-05T05:14:03.843559+00:00",
     "latest_version": "V1.1.0",
     "last_synced": "2026-10-05T05:14:03.843559+00:00"
+  },
+  "mediarescue": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:58:48.887361+00:00",
+    "latest_version": "v1.0.9",
+    "last_synced": "2026-10-06T05:58:48.887361+00:00"
+  },
+  "audioscope": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:58:53.877192+00:00",
+    "latest_version": "v0.5.2",
+    "last_synced": "2026-10-06T05:58:53.877192+00:00"
+  },
+  "androidmonitor-preview": {
+    "status": "no-apk",
+    "last_checked": "2026-10-06T05:58:54.305795+00:00"
+  },
+  "droidperf": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:58:57.596819+00:00",
+    "latest_version": "release",
+    "last_synced": "2026-10-06T05:58:57.596819+00:00"
+  },
+  "device-watch": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:01.253128+00:00",
+    "latest_version": "v1.7.0",
+    "last_synced": "2026-10-06T05:59:01.253128+00:00"
+  },
+  "adb-cloner": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:05.277706+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-06T05:59:05.277706+00:00"
+  },
+  "keytab": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:09.192991+00:00",
+    "latest_version": "v0.16",
+    "last_synced": "2026-10-06T05:59:09.192991+00:00"
+  },
+  "agentpaw": {
+    "status": "no-apk",
+    "last_checked": "2026-10-06T05:59:10.810062+00:00",
+    "latest_version": "v0.1.2"
+  },
+  "youki-users": {
+    "status": "no-apk",
+    "last_checked": "2026-10-06T05:59:12.233676+00:00",
+    "latest_version": "1.0"
+  },
+  "autobridge": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:17.560096+00:00",
+    "latest_version": "v0.4.22",
+    "last_synced": "2026-10-06T05:59:17.560096+00:00"
+  },
+  "messageaihelper": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:21.191917+00:00",
+    "latest_version": "1.1.1",
+    "last_synced": "2026-10-06T05:59:21.191917+00:00"
+  },
+  "easypocketmd": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:26.021579+00:00",
+    "latest_version": "v2.9.11",
+    "last_synced": "2026-10-06T05:59:26.021579+00:00"
+  },
+  "parallel-root": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:29.215564+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-06T05:59:29.215564+00:00"
+  },
+  "game-boost": {
+    "status": "synced",
+    "last_checked": "2026-10-06T05:59:34.408979+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-06T05:59:34.408979+00:00"
   }
 }
