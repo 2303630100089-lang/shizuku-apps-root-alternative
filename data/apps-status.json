@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-06T18:15:13.242571+00:00",
+    "last_checked": "2026-10-07T18:49:32.127926+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-06T18:14:52.652131+00:00",
+    "last_checked": "2026-10-07T18:47:51.593322+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-06T18:17:10.822840+00:00"
+    "last_checked": "2026-10-07T18:47:51.827176+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-06T18:17:10.520095+00:00",
+    "last_checked": "2026-10-07T18:49:06.139204+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-06T18:14:40.785662+00:00",
+    "last_checked": "2026-10-07T18:48:06.052187+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-06T18:14:39.940259+00:00",
+    "last_checked": "2026-10-07T18:50:04.996928+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -1937,5 +1937,121 @@
     "last_checked": "2026-10-07T05:33:58.457948+00:00",
     "latest_version": "v13.7.0.r2002",
     "last_synced": "2026-10-07T05:33:58.457948+00:00"
+  },
+  "airsim": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:47:55.549811+00:00",
+    "latest_version": "v0.9.1",
+    "last_synced": "2026-10-07T18:47:55.549811+00:00"
+  },
+  "samsung-s24-battery-life": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:48:02.001555+00:00",
+    "latest_version": "v2.6",
+    "last_synced": "2026-10-07T18:48:02.001555+00:00"
+  },
+  "wearsc": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:48:05.534020+00:00",
+    "latest_version": "v3.3",
+    "last_synced": "2026-10-07T18:48:05.534020+00:00"
+  },
+  "flip-ctl": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:48:09.432593+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-07T18:48:09.432593+00:00"
+  },
+  "mooncast": {
+    "status": "no-apk",
+    "last_checked": "2026-10-07T18:48:09.780149+00:00"
+  },
+  "s25edge-battery": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:48:17.003912+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-07T18:48:17.003912+00:00"
+  },
+  "antigravity-android": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:48:30.260084+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-10-07T18:48:30.260084+00:00"
+  },
+  "phone-agent": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:00.302856+00:00",
+    "latest_version": "v0.7.94",
+    "last_synced": "2026-10-07T18:49:00.302856+00:00"
+  },
+  "work-profile-switch-android": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:05.568304+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-07T18:49:05.568304+00:00"
+  },
+  "emutran": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:09.702626+00:00",
+    "latest_version": "v0.3.4",
+    "last_synced": "2026-10-07T18:49:09.702626+00:00"
+  },
+  "prismspace": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:13.171435+00:00",
+    "latest_version": "v0.1.9",
+    "last_synced": "2026-10-07T18:49:13.171435+00:00"
+  },
+  "filemanager": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:31.609153+00:00",
+    "latest_version": "V1.0.0",
+    "last_synced": "2026-10-07T18:49:31.609153+00:00"
+  },
+  "flymefreeform": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:35.704597+00:00",
+    "latest_version": "v1.0.5",
+    "last_synced": "2026-10-07T18:49:35.704597+00:00"
+  },
+  "talkto": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:43.412499+00:00",
+    "latest_version": "v1.1.94",
+    "last_synced": "2026-10-07T18:49:43.412499+00:00"
+  },
+  "mod-loader": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:47.458059+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-07T18:49:47.458059+00:00"
+  },
+  "echoroute": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:50.830744+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-07T18:49:50.830744+00:00"
+  },
+  "hilight-custom": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:54.535872+00:00",
+    "latest_version": "v1.0.20",
+    "last_synced": "2026-10-07T18:49:54.535872+00:00"
+  },
+  "dollhouse": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:49:58.734557+00:00",
+    "latest_version": "v0.0.4",
+    "last_synced": "2026-10-07T18:49:58.734557+00:00"
+  },
+  "xiaohypercleaner": {
+    "status": "no-apk",
+    "last_checked": "2026-10-07T18:49:59.070621+00:00"
+  },
+  "veyra": {
+    "status": "synced",
+    "last_checked": "2026-10-07T18:50:04.024520+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-07T18:50:04.024520+00:00"
   }
 }
