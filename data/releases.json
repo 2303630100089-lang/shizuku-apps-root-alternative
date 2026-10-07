@@ -8580,5 +8580,257 @@
     ],
     "mirror_release_tag": "essentialkeytools-v1.0.18",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/essentialkeytools-v1.0.18"
+  },
+  "device-check": {
+    "source_repository": "TeaPieyyds/device-check",
+    "source_release_id": 403412194,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-05T06:09:09Z",
+    "synced_at": "2026-10-07T05:32:30.527649+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611682754,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "8523fa2e8c8d60b8da33d6f3eca79cb015b240384f5cded52d0998190fe085dd",
+        "file_size": 676537,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "device-check-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/device-check-v1.0.0"
+  },
+  "warden": {
+    "source_repository": "prskid1000/Warden",
+    "source_release_id": 397505406,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-09-27T04:14:14Z",
+    "synced_at": "2026-10-07T05:32:35.845587+00:00",
+    "assets": [
+      {
+        "source_asset_id": 592487192,
+        "filename": "warden-v0.1.0-release.apk",
+        "original_filename": "warden-v0.1.0-release.apk",
+        "sha256": "79bb5a4f384565e2bb2ff4851f2a4e5090b493dbc046c4a4a6828430c686413f",
+        "file_size": 19042881,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "warden-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/warden-v0.1.0"
+  },
+  "hciscope": {
+    "source_repository": "kellyiscute/hciscope",
+    "source_release_id": 405059111,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-06T19:12:47Z",
+    "synced_at": "2026-10-07T05:32:39.643254+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616416365,
+        "filename": "hciscope-1.0.0.apk",
+        "original_filename": "hciscope-1.0.0.apk",
+        "sha256": "e5dc239b497f5389768a6e27cb66774c692adb9a0b3a0c9d872c0cc16eef8ff3",
+        "file_size": 6554468,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hciscope-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hciscope-v1.0.0"
+  },
+  "zorvai": {
+    "source_repository": "Quor-a/ZorvAI",
+    "source_release_id": 403316210,
+    "source_tag": "v1.1.3",
+    "source_published_at": "2026-10-05T02:24:57Z",
+    "synced_at": "2026-10-07T05:33:06.781566+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611638262,
+        "filename": "arm64-v8a-v1.1.3-release.apk",
+        "original_filename": "arm64-v8a-v1.1.3-release.apk",
+        "sha256": "50721b4b11b770d804b8641e53e8b40d8cb4445f7eb87485a7ab843c1e6e72e0",
+        "file_size": 385653774,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "zorvai-v1.1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zorvai-v1.1.3"
+  },
+  "shizuposed": {
+    "source_repository": "Sharif-bot-cmd/ShizuPosed",
+    "source_release_id": 405401756,
+    "source_tag": "1.0.1",
+    "source_published_at": "2026-10-07T05:14:00Z",
+    "synced_at": "2026-10-07T05:33:10.740575+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617652070,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "3c452a46795a0d896f6a3bbf817906ac5b78d8ce117bf8dcc24f7df1d6f50210",
+        "file_size": 10614436,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shizuposed-1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuposed-1.0.1"
+  },
+  "turbo-optimizer": {
+    "source_repository": "barrydash21-beep/turbo-optimizer",
+    "source_release_id": 405390821,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-07T04:53:03Z",
+    "synced_at": "2026-10-07T05:33:14.017430+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617611391,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "d3675b2f36fbb3bd244d3b9140b1e6551eb019e34434125fee9c328a5a6c0f64",
+        "file_size": 1049020,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "turbo-optimizer-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turbo-optimizer-v1.2.0"
+  },
+  "drivedeck-releases": {
+    "source_repository": "bajohy-totb/drivedeck-releases",
+    "source_release_id": 403499052,
+    "source_tag": "v1.2.1",
+    "source_published_at": "2026-10-05T08:10:59Z",
+    "synced_at": "2026-10-07T05:33:19.356008+00:00",
+    "assets": [
+      {
+        "source_asset_id": 611930127,
+        "filename": "DriveDeck-1.2.1.apk",
+        "original_filename": "DriveDeck-1.2.1.apk",
+        "sha256": "988c59260ca2c5230ee8d70040b95597041567b25fc1674c0a2ef86a41948652",
+        "file_size": 21194296,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "drivedeck-releases-v1.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drivedeck-releases-v1.2.1"
+  },
+  "pi-web-mobile": {
+    "source_repository": "XiaoLrrr/pi-web-mobile",
+    "source_release_id": 405101780,
+    "source_tag": "v0.1.3",
+    "source_published_at": "2026-10-06T20:09:36Z",
+    "synced_at": "2026-10-07T05:33:35.086993+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616537923,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "098334360f7ec204d7bda1862a1efedb685e29b68877033be6e850e79066a0de",
+        "file_size": 79189524,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 616537925,
+        "filename": "pi-web-mobile-v0.1.3.apk",
+        "original_filename": "pi-web-mobile-v0.1.3.apk",
+        "sha256": "098334360f7ec204d7bda1862a1efedb685e29b68877033be6e850e79066a0de",
+        "file_size": 79189524,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pi-web-mobile-v0.1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pi-web-mobile-v0.1.3"
+  },
+  "aabrowser": {
+    "source_repository": "fcaronte/AABrowser",
+    "source_release_id": 404118965,
+    "source_tag": "2.1",
+    "source_published_at": "2026-10-05T21:52:20Z",
+    "synced_at": "2026-10-07T05:33:42.733210+00:00",
+    "assets": [
+      {
+        "source_asset_id": 613697126,
+        "filename": "AABrowser-v2.1.apk",
+        "original_filename": "AABrowser-v2.1.apk",
+        "sha256": "b3ea226f20010e967d36a08508a747d1cda921cf0dca307ee71e1198f50be6da",
+        "file_size": 63346865,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "aabrowser-2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aabrowser-2.1"
+  },
+  "bocongcu-limi": {
+    "source_repository": "dun04/Bocongcu_Limi",
+    "source_release_id": 403520625,
+    "source_tag": "v1.3.2.1.ntd",
+    "source_published_at": "2026-10-05T08:41:03Z",
+    "synced_at": "2026-10-07T05:33:47.394545+00:00",
+    "assets": [
+      {
+        "source_asset_id": 616742827,
+        "filename": "Limi-v1.3.2.1.ntd.apk",
+        "original_filename": "Limi-v1.3.2.1.ntd.apk",
+        "sha256": "076633063d6e63b45991ca9b4ee14b6bb6fdbe55f21c106792358723bfd8c928",
+        "file_size": 17403203,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "bocongcu-limi-v1.3.2.1.ntd",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bocongcu-limi-v1.3.2.1.ntd"
+  },
+  "taskbarstatsmobile": {
+    "source_repository": "ericbruggema/TaskBarStatsMobile",
+    "source_release_id": 405399564,
+    "source_tag": "v0.4.1",
+    "source_published_at": "2026-10-07T05:08:53Z",
+    "synced_at": "2026-10-07T05:33:50.723754+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617641874,
+        "filename": "TaskBarStatsMobile0.4.1.apk",
+        "original_filename": "TaskBarStatsMobile0.4.1.apk",
+        "sha256": "7707f693052036102fffa0f438b7d1a2b94ce70aa181edf807e9b570b7ce23e5",
+        "file_size": 1116451,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "taskbarstatsmobile-v0.4.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taskbarstatsmobile-v0.4.1"
+  },
+  "shizukux": {
+    "source_repository": "qianyumeng0228/ShizukuX",
+    "source_release_id": 393709772,
+    "source_tag": "v13.7.0.r2002",
+    "source_published_at": "2026-09-22T12:21:28Z",
+    "synced_at": "2026-10-07T05:33:58.457925+00:00",
+    "assets": [
+      {
+        "source_asset_id": 581341575,
+        "filename": "ShizukuX-Compat-Hub-v13.7.0.r2002.apk",
+        "original_filename": "ShizukuX-Compat-Hub-v13.7.0.r2002.apk",
+        "sha256": "32107fed9a1bf9f630f2b2220dd2a0ff4df9f9c431cd7c5a7a9ebe63cc061dbf",
+        "file_size": 650903,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 581341576,
+        "filename": "ShizukuX-Drop-In-v13.7.0.r2002.apk",
+        "original_filename": "ShizukuX-Drop-In-v13.7.0.r2002.apk",
+        "sha256": "054674413d566a008136a4820f68e1d204e8f0de016d322a995f3b369ac36a58",
+        "file_size": 12155126,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 581341577,
+        "filename": "ShizukuX-v13.7.0.r2002.apk",
+        "original_filename": "ShizukuX-v13.7.0.r2002.apk",
+        "sha256": "5e14405d447202b404c7b7db57e6f9e28176d1abd8cfe4ab04cc8d52e2f4ae96",
+        "file_size": 12155368,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shizukux-v13.7.0.r2002",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizukux-v13.7.0.r2002"
   }
 }

@@ -1865,5 +1865,77 @@
     "last_checked": "2026-10-06T18:17:23.038324+00:00",
     "latest_version": "v1.0.18",
     "last_synced": "2026-10-06T18:17:23.038324+00:00"
+  },
+  "device-check": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:32:30.527713+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-07T05:32:30.527713+00:00"
+  },
+  "warden": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:32:35.845611+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-07T05:32:35.845611+00:00"
+  },
+  "hciscope": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:32:39.643276+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-07T05:32:39.643276+00:00"
+  },
+  "zorvai": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:06.781585+00:00",
+    "latest_version": "v1.1.3",
+    "last_synced": "2026-10-07T05:33:06.781585+00:00"
+  },
+  "shizuposed": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:10.740602+00:00",
+    "latest_version": "1.0.1",
+    "last_synced": "2026-10-07T05:33:10.740602+00:00"
+  },
+  "turbo-optimizer": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:14.017449+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-10-07T05:33:14.017449+00:00"
+  },
+  "drivedeck-releases": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:19.356029+00:00",
+    "latest_version": "v1.2.1",
+    "last_synced": "2026-10-07T05:33:19.356029+00:00"
+  },
+  "pi-web-mobile": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:35.087017+00:00",
+    "latest_version": "v0.1.3",
+    "last_synced": "2026-10-07T05:33:35.087017+00:00"
+  },
+  "aabrowser": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:42.733229+00:00",
+    "latest_version": "2.1",
+    "last_synced": "2026-10-07T05:33:42.733229+00:00"
+  },
+  "bocongcu-limi": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:47.394563+00:00",
+    "latest_version": "v1.3.2.1.ntd",
+    "last_synced": "2026-10-07T05:33:47.394563+00:00"
+  },
+  "taskbarstatsmobile": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:50.723772+00:00",
+    "latest_version": "v0.4.1",
+    "last_synced": "2026-10-07T05:33:50.723772+00:00"
+  },
+  "shizukux": {
+    "status": "synced",
+    "last_checked": "2026-10-07T05:33:58.457948+00:00",
+    "latest_version": "v13.7.0.r2002",
+    "last_synced": "2026-10-07T05:33:58.457948+00:00"
   }
 }
