@@ -261,16 +261,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **FixRedirectStorage** | xxz3312 | `v0.19` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fixredirectstorage-v0.19) | [Upstream](https://github.com/xxz3312/FixRedirectStorage/releases) |
-| ⚡ **ink-recents** | equwal | `v0.1.3` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ink-recents-v0.1.3) | [Upstream](https://github.com/equwal/ink-recents/releases) |
-| ⚡ **ink-dim** | equwal | `v0.1.3` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ink-dim-v0.1.3) | [Upstream](https://github.com/equwal/ink-dim/releases) |
-| ⚡ **Hackmons-Controller** | isleep2late | `apps` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hackmons-controller-apps) | [Upstream](https://github.com/isleep2late/Hackmons-Controller/releases) |
-| ⚡ **void-apps** | kreza6173-pixel | `v1.0.0` | 2026-10-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/void-apps-v1.0.0) | [Upstream](https://github.com/kreza6173-pixel/void-apps/releases) |
-| ⚡ **AppOpsShizuku** | pikatchu2k3 | `v1.16.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appopsshizuku-v1.16.0) | [Upstream](https://github.com/pikatchu2k3/AppOpsShizuku/releases) |
-| ⚡ **android-keymapper** | kladenets-codes | `v1.1` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-keymapper-v1.1) | [Upstream](https://github.com/kladenets-codes/android-keymapper/releases) |
-| ⚡ **SonderIcons** | Verisonder | `v1.2.1` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sondericons-v1.2.1) | [Upstream](https://github.com/Verisonder/SonderIcons/releases) |
-| ⚡ **NetPilot** | katiusu | `v1.1.0` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/netpilot-v1.1.0) | [Upstream](https://github.com/katiusu/NetPilot/releases) |
-| ⚡ **ColorOS_Blur_Enhance** | wisely-leo | `v44.2` | 2026-10-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/coloros-blur-enhance-v44.2) | [Upstream](https://github.com/wisely-leo/ColorOS_Blur_Enhance/releases) |
+| ⚡ **gf2-krpatch** | hohofught | `v2.3` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gf2-krpatch-v2.3) | [Upstream](https://github.com/hohofught/gf2-krpatch/releases) |
+| ⚡ **BrightControl** | gi-os | `v4.41.303` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brightcontrol-v4.41.303) | [Upstream](https://github.com/gi-os/BrightControl/releases) |
+| ⚡ **Tunnels** | StrongHorse44 | `v0.1.4` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tunnels-v0.1.4) | [Upstream](https://github.com/StrongHorse44/Tunnels/releases) |
+| ⚡ **flutter_agent_harness** | IstiN | `v1.0.519` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flutter-agent-harness-v1.0.519) | [Upstream](https://github.com/IstiN/flutter_agent_harness/releases) |
+| ⚡ **Hermes-Agent-Android** | l3ad3r1 | `v1.1.5` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-agent-android-v1.1.5) | [Upstream](https://github.com/l3ad3r1/Hermes-Agent-Android/releases) |
+| ⚡ **Termux-Ultra** | TiG-Kira | `3.3.5.R7` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/termux-ultra-3.3.5.R7) | [Upstream](https://github.com/TiG-Kira/Termux-Ultra/releases) |
+| ⚡ **NotiGuard** | Liuchijang | `v2.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/notiguard-v2.1) | [Upstream](https://github.com/Liuchijang/NotiGuard/releases) |
+| ⚡ **game-boost** | bkrohit940-hub | `v1.0.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-boost-v1.0.1) | [Upstream](https://github.com/bkrohit940-hub/game-boost/releases) |
+| ⚡ **AudioScope** | ibrahim91015 | `v0.5.2` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioscope-v0.5.2) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
+| ⚡ **messageAIHelper** | SWSP-Git | `1.1.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messageaihelper-1.1.1) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
