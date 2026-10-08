@@ -1236,7 +1236,18 @@
     "Android No-Root Linux Runtime · Native Agent Harness · PTY Terminal · Workspace & Tool Ecosystem": "Android 无根 Linux 运行时 · 本机代理框架 · PTY 终端 · 工作空间和工具生态系统",
     "崩坏：星穹铁道安卓版自动化助手": "崩坏：星穹铁道安卓版自动化助手",
     "Custom Waze themes, report icon sizing, badge selector and moods; nightly releases for use with Morphe": "自定义位智主题、报告图标大小、徽章选择器和心情；与 Morphe 一起使用的夜间版本",
-    "An external display window manager for Android that feels like an extension of your phone.": "适用于 Android 的外部显示窗口管理器，感觉就像手机的扩展。"
+    "An external display window manager for Android that feels like an extension of your phone.": "适用于 Android 的外部显示窗口管理器，感觉就像手机的扩展。",
+    "Toggle the enforced camera shutter sound through Shizuku": "通过 Shizuku 切换强制相机快门声音",
+    "Clone, install and merge Android apps right on the phone: second copies with auto-updates, split APK installer, APKS export and split merging. No root.": "直接在手机上克隆、安装和合并 Android 应用程序：具有自动更新功能的第二个副本、拆分 APK 安装程序、APKS 导出和拆分合并。无根。",
+    "Open-source wireless ADB bridge between a Mac and an Android phone. macOS tray app, Android client, and a WebSocket gateway.": "Mac 和 Android 手机之间的开源无线 ADB 桥接器。 macOS 托盘应用程序、Android 客户端和 WebSocket 网关。",
+    "Offline Android security audit tool. 54 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "离线Android安全审计工具。跨多个权限级别（base、ADB、Shizuku、root）的 54 项只读检查、0-100 分数和保存的报告。注重隐私，无需互联网许可，零遥测，完全本地化。",
+    "Curated list of awesome Android apps making use of Shizuku": "利用 Shizuku 的精彩 Android 应用精选列表",
+    "把 pi coding agent 装进安卓手机：扩展生态和电脑上完全一样——直接用自然语言让 AI 自己搜、自己写、自己装扩展、技能和主题。": "把pi编码代理安装进安卓手机：扩展生态和电脑上完全一样——直接用自然语言让AI自己搜、自己写、自己安装扩展、技能和主题。",
+    "Adaptive Performance para Android: pré-carregamento inteligente dos apps usados recentemente, ajuste por RAM e temperatura, e economia automática abaixo de 50%.": "Android 的自适应性能：使用最近的智能应用程序进行预配置，调整 RAM 和温度，自动经济性降低 50%。",
+    "轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）": "轻量Android自动点击器：多点独立连点+拖动定位+悬浮窗控制+四层紧急停止+Shizuku一键授权（稀疏Root）",
+    "ROBINHOOD55 tools portfolio — a live GitHub Pages catalog of open-source Android, Linux and web tools. Wireless ADB, Wi-Fi file transfer, offline-first apps. Command palette, dark/light theme, live GitHub API.": "ROBINHOOD55 工具组合 — 开源 Android、Linux 和 Web 工具的实时 GitHub Pages 目录。无线 ADB、Wi-Fi 文件传输、离线优先应用程序。命令调色板、深色/浅色主题、实时 GitHub API。",
+    "S Pen mouse emulation for selected Android apps via Shizuku, without root.": "通过 Shizuku 对选定的 Android 应用程序进行 S Pen 鼠标模拟，无需 root。",
+    "Callrex - on-device call recording with AI transcription and summary (nothing-style UI). Records both sides of phone AND VoIP calls, transcribes with whisper.cpp, summarizes with Gemma. 100% on-device.": "Callrex - 设备上的通话录音，带有 AI 转录和摘要（无风格 UI）。记录电话和 VoIP 呼叫的双方，使用耳语.cpp 进行转录，使用 Gemma 进行总结。 100% 在设备上。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2475,6 +2486,17 @@
     "Instant-Hotspot clone for the Light Phone III: wakes the phone hotspot when a paired iPad is near.": "Клон Instant-Hotspot для Light Phone III: активирует точку доступа телефона, когда рядом находится сопряженный iPad.",
     "An external display window manager for Android that feels like an extension of your phone.": "Менеджер окон внешнего дисплея для Android, который выглядит как расширение вашего телефона.",
     "Yaseen91479": "Ясин91479",
-    "Custom Waze themes, report icon sizing, badge selector and moods; nightly releases for use with Morphe": "Пользовательские темы Waze, размер значков отчетов, выбор значков и настроений; ночные выпуски для использования с Morphe"
+    "Custom Waze themes, report icon sizing, badge selector and moods; nightly releases for use with Morphe": "Пользовательские темы Waze, размер значков отчетов, выбор значков и настроений; ночные выпуски для использования с Morphe",
+    "Open-source wireless ADB bridge between a Mac and an Android phone. macOS tray app, Android client, and a WebSocket gateway.": "Беспроводной мост ADB с открытым исходным кодом между Mac и телефоном Android. Приложение macOS в лотке, клиент Android и шлюз WebSocket.",
+    "Toggle the enforced camera shutter sound through Shizuku": "Переключить звук принудительного затвора камеры через Шизуку",
+    "Offline Android security audit tool. 54 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "Автономный инструмент аудита безопасности Android. 54 проверки только для чтения на нескольких уровнях привилегий (базовый, ADB, Shizuku, root), оценка 0–100 и сохраненные отчеты. Ориентирован на конфиденциальность, без разрешения в Интернет, без телеметрии, полностью локально.",
+    "Clone, install and merge Android apps right on the phone: second copies with auto-updates, split APK installer, APKS export and split merging. No root.": "Клонируйте, устанавливайте и объединяйте приложения Android прямо на телефоне: вторые копии с автоматическими обновлениями, разделенный установщик APK, экспорт APKS и разделенное объединение. Нет корня.",
+    "Adaptive Performance para Android: pré-carregamento inteligente dos apps usados recentemente, ajuste por RAM e temperatura, e economia automática abaixo de 50%.": "Адаптивная производительность для Android: интеллектуальная настройка недавно использованных приложений, настройка оперативной памяти и температуры, а также автоматическая экономия до 50%.",
+    "把 pi coding agent 装进安卓手机：扩展生态和电脑上完全一样——直接用自然语言让 AI 自己搜、自己写、自己装扩展、技能和主题。": "把 агент пи-кодирования自己搜、自己写、自己装扩展、技能和主题。",
+    "Curated list of awesome Android apps making use of Shizuku": "Кураторский список потрясающих приложений для Android, использующих Shizuku",
+    "轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）": "轻量 Android 自动点击器:多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku一键授权（无需 Корень）",
+    "Callrex - on-device call recording with AI transcription and summary (nothing-style UI). Records both sides of phone AND VoIP calls, transcribes with whisper.cpp, summarizes with Gemma. 100% on-device.": "Callrex — запись разговоров на устройстве с расшифровкой и сводкой AI (пользовательский интерфейс в стиле «ничего»). Записывает телефонные и VoIP-звонки с обеих сторон, расшифровывает с помощью vanilla cpp, подводит итоги с помощью Джеммы. 100% на устройстве.",
+    "ROBINHOOD55 tools portfolio — a live GitHub Pages catalog of open-source Android, Linux and web tools. Wireless ADB, Wi-Fi file transfer, offline-first apps. Command palette, dark/light theme, live GitHub API.": "Портфель инструментов ROBINHOOD55 — действующий каталог GitHub Pages с открытым исходным кодом для Android, Linux и веб-инструментов. Беспроводной ADB, передача файлов по Wi-Fi, приложения, работающие в автономном режиме. Палитра команд, темная/светлая тема, действующий API GitHub.",
+    "S Pen mouse emulation for selected Android apps via Shizuku, without root.": "Эмуляция мыши S Pen для некоторых приложений Android через Shizuku без рута."
   }
 }

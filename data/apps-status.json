@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-07T18:49:32.127926+00:00",
+    "last_checked": "2026-10-08T18:46:43.371175+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-07T18:47:51.593322+00:00",
+    "last_checked": "2026-10-08T18:45:42.574095+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-07T18:47:51.827176+00:00"
+    "last_checked": "2026-10-08T18:45:55.168942+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-07T18:49:06.139204+00:00",
+    "last_checked": "2026-10-08T18:46:38.832160+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-07T18:48:06.052187+00:00",
+    "last_checked": "2026-10-08T18:46:33.988587+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-07T18:50:04.996928+00:00",
+    "last_checked": "2026-10-08T18:46:33.461201+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -2129,5 +2129,70 @@
     "last_checked": "2026-10-08T05:41:52.917256+00:00",
     "latest_version": "v1.4",
     "last_synced": "2026-10-08T05:41:52.917256+00:00"
+  },
+  "whisper-feed": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:45:41.957932+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-10-08T18:45:41.957932+00:00"
+  },
+  "droynis": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:45:46.597580+00:00",
+    "latest_version": "v0.12.0",
+    "last_synced": "2026-10-08T18:45:46.597580+00:00"
+  },
+  "callrex": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:45:54.855700+00:00",
+    "latest_version": "v2.4.10",
+    "last_synced": "2026-10-08T18:45:54.855700+00:00"
+  },
+  "rikkahub-agent-pure": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:08.686890+00:00",
+    "latest_version": "v2.5.3-pure.3",
+    "last_synced": "2026-10-08T18:46:08.686890+00:00"
+  },
+  "adaptive-performance": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:12.528677+00:00",
+    "latest_version": "v1.9.3",
+    "last_synced": "2026-10-08T18:46:12.528677+00:00"
+  },
+  "pi-android": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:25.826772+00:00",
+    "latest_version": "v0.1.1",
+    "last_synced": "2026-10-08T18:46:25.826772+00:00"
+  },
+  "android-call-recorder-app": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:32.453451+00:00",
+    "latest_version": "v1.0.5",
+    "last_synced": "2026-10-08T18:46:32.453451+00:00"
+  },
+  "datathrottle": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:38.259055+00:00",
+    "latest_version": "v0.2.1",
+    "last_synced": "2026-10-08T18:46:38.259055+00:00"
+  },
+  "autoclicker": {
+    "status": "no-apk",
+    "last_checked": "2026-10-08T18:46:39.249693+00:00",
+    "latest_version": "v1.5.0"
+  },
+  "nfc-share": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:42.886380+00:00",
+    "latest_version": "v2.0.1",
+    "last_synced": "2026-10-08T18:46:42.886380+00:00"
+  },
+  "shuttersoundtoggle": {
+    "status": "synced",
+    "last_checked": "2026-10-08T18:46:47.304436+00:00",
+    "latest_version": "v1.2",
+    "last_synced": "2026-10-08T18:46:47.304436+00:00"
   }
 }
