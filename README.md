@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **gf2-krpatch** | hohofught | `v2.3` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gf2-krpatch-v2.3) | [Upstream](https://github.com/hohofught/gf2-krpatch/releases) |
-| ⚡ **BrightControl** | gi-os | `v4.41.303` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brightcontrol-v4.41.303) | [Upstream](https://github.com/gi-os/BrightControl/releases) |
-| ⚡ **Tunnels** | StrongHorse44 | `v0.1.4` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tunnels-v0.1.4) | [Upstream](https://github.com/StrongHorse44/Tunnels/releases) |
-| ⚡ **flutter_agent_harness** | IstiN | `v1.0.519` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flutter-agent-harness-v1.0.519) | [Upstream](https://github.com/IstiN/flutter_agent_harness/releases) |
-| ⚡ **Hermes-Agent-Android** | l3ad3r1 | `v1.1.5` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-agent-android-v1.1.5) | [Upstream](https://github.com/l3ad3r1/Hermes-Agent-Android/releases) |
-| ⚡ **Termux-Ultra** | TiG-Kira | `3.3.5.R7` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/termux-ultra-3.3.5.R7) | [Upstream](https://github.com/TiG-Kira/Termux-Ultra/releases) |
-| ⚡ **NotiGuard** | Liuchijang | `v2.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/notiguard-v2.1) | [Upstream](https://github.com/Liuchijang/NotiGuard/releases) |
-| ⚡ **game-boost** | bkrohit940-hub | `v1.0.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-boost-v1.0.1) | [Upstream](https://github.com/bkrohit940-hub/game-boost/releases) |
-| ⚡ **AudioScope** | ibrahim91015 | `v0.5.2` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioscope-v0.5.2) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
-| ⚡ **messageAIHelper** | SWSP-Git | `1.1.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messageaihelper-1.1.1) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
+| ⚡ **EchoRoute** | Yaseen91479 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/echoroute-v1.0) | [Upstream](https://github.com/Yaseen91479/EchoRoute/releases) |
+| ⚡ **AirSIM** | kai-wu-cortex | `v0.9.1` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/airsim-v0.9.1) | [Upstream](https://github.com/kai-wu-cortex/AirSIM/releases) |
+| ⚡ **FlymeFreeform** | m-secret | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
+| ⚡ **Dollhouse** | Farewell-coder | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
+| ⚡ **samsung_s24_battery_life** | mich-de | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
+| ⚡ **s25edge_battery** | mich-de | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
+| ⚡ **flip-ctl** | RakinRkz | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
+| ⚡ **phone-agent** | huanghao680 | `v0.7.94` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-agent-v0.7.94) | [Upstream](https://github.com/huanghao680/phone-agent/releases) |
+| ⚡ **Mod-Loader** | Kohlrabenschwarz | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
+| ⚡ **hilight-custom** | filcorti | `v1.0.20` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hilight-custom-v1.0.20) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
