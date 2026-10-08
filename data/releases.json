@@ -9190,5 +9190,214 @@
     ],
     "mirror_release_tag": "veyra-v1.0.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/veyra-v1.0.0"
+  },
+  "lateral": {
+    "source_repository": "CB-Soft/LATERAL_",
+    "source_release_id": 384472714,
+    "source_tag": "v0.2.3",
+    "source_published_at": "2026-09-08T05:46:23Z",
+    "synced_at": "2026-10-08T05:40:55.664269+00:00",
+    "assets": [
+      {
+        "source_asset_id": 549946212,
+        "filename": "LATERAL_-0.2.3-sdk-free.apk",
+        "original_filename": "LATERAL_-0.2.3-sdk-free.apk",
+        "sha256": "391c42ecacd932477843c920a57f1ff2be9e95bbfa5a2c3af0e976b69792bd8e",
+        "file_size": 30210066,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "lateral-v0.2.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lateral-v0.2.3"
+  },
+  "waze-custom-patches": {
+    "source_repository": "aaayd/waze-custom-patches",
+    "source_release_id": 406431779,
+    "source_tag": "waze-5.25.0.1-1030736-patches-1.15",
+    "source_published_at": "2026-10-08T05:04:31Z",
+    "synced_at": "2026-10-08T05:41:10.142059+00:00",
+    "assets": [
+      {
+        "source_asset_id": 620786261,
+        "filename": "waze-5.25.0.1-patched-arm64.apk",
+        "original_filename": "waze-5.25.0.1-patched-arm64.apk",
+        "sha256": "c97c2d9e9e7989eade2af9b889c38e97a463ec2a57433896008512fd70e61f1e",
+        "file_size": 233982562,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "waze-custom-patches-waze-5.25.0.1-1030736-patches-1.15",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/waze-custom-patches-waze-5.25.0.1-1030736-patches-1.15"
+  },
+  "taixu": {
+    "source_repository": "wkbin/taixu",
+    "source_release_id": 400255284,
+    "source_tag": "v0.20.0",
+    "source_published_at": "2026-09-30T16:55:39Z",
+    "synced_at": "2026-10-08T05:41:14.630893+00:00",
+    "assets": [
+      {
+        "source_asset_id": 601394896,
+        "filename": "TaiXu-arm64-v0.20.0.apk",
+        "original_filename": "TaiXu-arm64-v0.20.0.apk",
+        "sha256": "56509a8babc10353b33866e15548ca5176cbb481f6a6748746a0463db6839fb5",
+        "file_size": 21097055,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "taixu-v0.20.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taixu-v0.20.0"
+  },
+  "spotshift": {
+    "source_repository": "BoraSarang/SpotShift",
+    "source_release_id": 404317049,
+    "source_tag": "v0.5.0",
+    "source_published_at": "2026-10-06T04:37:07Z",
+    "synced_at": "2026-10-08T05:41:18.372420+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614489960,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "77e269b2a04c324d5db871b49da3f74066d636fb5fed94fb6c645afdb8425c8c",
+        "file_size": 12308876,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "spotshift-v0.5.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotshift-v0.5.0"
+  },
+  "a-injector": {
+    "source_repository": "PetaBYT3/A-Injector",
+    "source_release_id": 406440367,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-08T05:16:33Z",
+    "synced_at": "2026-10-08T05:41:21.808499+00:00",
+    "assets": [
+      {
+        "source_asset_id": 620808316,
+        "filename": "A.Injector.apk",
+        "original_filename": "A.Injector.apk",
+        "sha256": "f268f27e114798da40ba09d504738ccbf74793275d70eb951b935bd76676337c",
+        "file_size": 6428356,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "a-injector-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/a-injector-v1.0.1"
+  },
+  "seagull-devstudio": {
+    "source_repository": "caogenfunan123/seagull-devstudio",
+    "source_release_id": 406379907,
+    "source_tag": "apk-37721462404",
+    "source_published_at": "2026-10-08T03:27:05Z",
+    "synced_at": "2026-10-08T05:41:35.677483+00:00",
+    "assets": [
+      {
+        "source_asset_id": 620596816,
+        "filename": "dsh-mobile-apk-v0.13.4-seagull-arm64.apk",
+        "original_filename": "dsh-mobile-apk-v0.13.4-seagull-arm64.apk",
+        "sha256": "6b8086630bab40f1ab9ed21b9d2f6e77cce6e7e965456e6a442abad99357074d",
+        "file_size": 252359287,
+        "architecture": "arm64"
+      }
+    ],
+    "mirror_release_tag": "seagull-devstudio-apk-37721462404",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/seagull-devstudio-apk-37721462404"
+  },
+  "brighthotspot": {
+    "source_repository": "gi-os/BrightHotspot",
+    "source_release_id": 388846290,
+    "source_tag": "v1.0.7",
+    "source_published_at": "2026-09-15T03:20:55Z",
+    "synced_at": "2026-10-08T05:41:39.488575+00:00",
+    "assets": [
+      {
+        "source_asset_id": 564779633,
+        "filename": "BrightHotspot-v1.0.7.apk",
+        "original_filename": "BrightHotspot-v1.0.7.apk",
+        "sha256": "f94fe28fa479391f27ff59957b4165d360f056de8d235870bab70b9e0575913b",
+        "file_size": 18325390,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "brighthotspot-v1.0.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brighthotspot-v1.0.7"
+  },
+  "priv-kit-flutter-plugin": {
+    "source_repository": "runoob-coder/priv-kit-flutter-plugin",
+    "source_release_id": 406169366,
+    "source_tag": "v0.0.10",
+    "source_published_at": "2026-10-07T21:13:48Z",
+    "synced_at": "2026-10-08T05:41:42.980534+00:00",
+    "assets": [
+      {
+        "source_asset_id": 619838986,
+        "filename": "priv_kit_example-v0.0.10.apk",
+        "original_filename": "priv_kit_example-v0.0.10.apk",
+        "sha256": "1c9150fc0012e70670e0d162f8a36785a02bd4fa2f8dfdc66bd1d69ac4cf3192",
+        "file_size": 8075805,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "priv-kit-flutter-plugin-v0.0.10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/priv-kit-flutter-plugin-v0.0.10"
+  },
+  "logcat-live-wallpaper": {
+    "source_repository": "YasserNull/logcat-live-wallpaper",
+    "source_release_id": 405561791,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-07T08:49:20Z",
+    "synced_at": "2026-10-08T05:41:46.355434+00:00",
+    "assets": [
+      {
+        "source_asset_id": 618119962,
+        "filename": "logcat-live-wallpaper-v1.0.0.apk",
+        "original_filename": "logcat-live-wallpaper-v1.0.0.apk",
+        "sha256": "1c33d3f4038237460be6507007da5427dad966cb5d224b9b8bc95b0d6209efd9",
+        "file_size": 1607392,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "logcat-live-wallpaper-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/logcat-live-wallpaper-v1.0.0"
+  },
+  "lingxi-chat": {
+    "source_repository": "54188jk/lingxi-chat",
+    "source_release_id": 406442721,
+    "source_tag": "v1.170",
+    "source_published_at": "2026-10-08T05:19:14Z",
+    "synced_at": "2026-10-08T05:41:49.607305+00:00",
+    "assets": [
+      {
+        "source_asset_id": 620814514,
+        "filename": "lingxi-v1.170.apk",
+        "original_filename": "lingxi-v1.170.apk",
+        "sha256": "36e3671f8ccec03f13af7c8d44ab0d7cff02195a915587241111bb57ce08b023",
+        "file_size": 2725128,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lingxi-chat-v1.170",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lingxi-chat-v1.170"
+  },
+  "noti-keeper": {
+    "source_repository": "quangtrang1111/noti-keeper",
+    "source_release_id": 405513266,
+    "source_tag": "v1.4",
+    "source_published_at": "2026-10-07T07:51:51Z",
+    "synced_at": "2026-10-08T05:41:52.917237+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617993365,
+        "filename": "NotiKeeper-v1.4.apk",
+        "original_filename": "NotiKeeper-v1.4.apk",
+        "sha256": "0aa6c7a8ce232012ca30177bf890e61c889cda6fde7547fc137276f9ce9c168e",
+        "file_size": 13319,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "noti-keeper-v1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/noti-keeper-v1.4"
   }
 }

@@ -2053,5 +2053,81 @@
     "last_checked": "2026-10-07T18:50:04.024520+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-07T18:50:04.024520+00:00"
+  },
+  "lateral": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:40:55.664294+00:00",
+    "latest_version": "v0.2.3",
+    "last_synced": "2026-10-08T05:40:55.664294+00:00"
+  },
+  "waze-custom-patches": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:10.142092+00:00",
+    "latest_version": "waze-5.25.0.1-1030736-patches-1.15",
+    "last_synced": "2026-10-08T05:41:10.142092+00:00"
+  },
+  "taixu": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:14.630909+00:00",
+    "latest_version": "v0.20.0",
+    "last_synced": "2026-10-08T05:41:14.630909+00:00"
+  },
+  "spotshift": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:18.372442+00:00",
+    "latest_version": "v0.5.0",
+    "last_synced": "2026-10-08T05:41:18.372442+00:00"
+  },
+  "a-injector": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:21.808525+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-08T05:41:21.808525+00:00"
+  },
+  "march7thassistant-for-android": {
+    "status": "no-apk",
+    "last_checked": "2026-10-08T05:41:22.174612+00:00",
+    "latest_version": "v1.0.12-beta"
+  },
+  "seagull-devstudio": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:35.677500+00:00",
+    "latest_version": "apk-37721462404",
+    "last_synced": "2026-10-08T05:41:35.677500+00:00"
+  },
+  "brighthotspot": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:39.488594+00:00",
+    "latest_version": "v1.0.7",
+    "last_synced": "2026-10-08T05:41:39.488594+00:00"
+  },
+  "priv-kit-flutter-plugin": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:42.980551+00:00",
+    "latest_version": "v0.0.10",
+    "last_synced": "2026-10-08T05:41:42.980551+00:00"
+  },
+  "logcat-live-wallpaper": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:46.355451+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-08T05:41:46.355451+00:00"
+  },
+  "lingxi-chat": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:49.607333+00:00",
+    "latest_version": "v1.170",
+    "last_synced": "2026-10-08T05:41:49.607333+00:00"
+  },
+  "game-launcher": {
+    "status": "no-apk",
+    "last_checked": "2026-10-08T05:41:50.128286+00:00",
+    "latest_version": "v19.9.4-PRO"
+  },
+  "noti-keeper": {
+    "status": "synced",
+    "last_checked": "2026-10-08T05:41:52.917256+00:00",
+    "latest_version": "v1.4",
+    "last_synced": "2026-10-08T05:41:52.917256+00:00"
   }
 }

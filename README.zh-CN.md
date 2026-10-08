@@ -202,6 +202,19 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[noti-keeper](https://github.com/quangtrang1111/noti-keeper)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/quangtrang1111/noti-keeper) • [下载发布](https://github.com/quangtrang1111/noti-keeper/releases) |
+| **[Game-Launcher](https://github.com/willygailo/Game-Launcher)** | 🚀 Ang pinaka - 强大的 Android 手机游戏性能助推器！ | MIT | [GitHub 源码](https://github.com/willygailo/Game-Launcher) • [下载发布](https://github.com/willygailo/Game-Launcher/releases) |
+| **[lingxi-chat](https://github.com/54188jk/lingxi-chat)** | ？？人工智能 - ？？？？？人工智能 ？？？？ | See project | [GitHub 源码](https://github.com/54188jk/lingxi-chat) • [下载发布](https://github.com/54188jk/lingxi-chat/releases) |
+| **[logcat-live-wallpaper](https://github.com/YasserNull/logcat-live-wallpaper)** | LogCat Live Wall 是一款动态壁纸应用程序，可在屏幕上显示 Logcat 输出，并具有丰富的自定义选项。 | GPL-3.0 | [GitHub 源码](https://github.com/YasserNull/logcat-live-wallpaper) • [下载发布](https://github.com/YasserNull/logcat-live-wallpaper/releases) |
+| **[priv-kit-flutter-plugin](https://github.com/runoob-coder/priv-kit-flutter-plugin)** | 该插件基于 Flutter 构建，通过平台通道将 Priv Kit 的 Android 运行时 priv-core 无缝桥接到 Dart 端。 | MIT | [GitHub 源码](https://github.com/runoob-coder/priv-kit-flutter-plugin) • [下载发布](https://github.com/runoob-coder/priv-kit-flutter-plugin/releases) |
+| **[BrightHotspot](https://github.com/gi-os/BrightHotspot)** | Light Phone III 的即时热点克隆：当配对的 iPad 靠近时唤醒手机热点。 | MIT | [GitHub 源码](https://github.com/gi-os/BrightHotspot) • [下载发布](https://github.com/gi-os/BrightHotspot/releases) |
+| **[seagull-devstudio](https://github.com/caogenfunan123/seagull-devstudio)** | Seagull DevStudio - 海鸥全能开发者运行时 fork (Ubuntu PROot + APK 反向/构建 + root 操作) | MIT | [GitHub 源码](https://github.com/caogenfunan123/seagull-devstudio) • [下载发布](https://github.com/caogenfunan123/seagull-devstudio/releases) |
+| **[March7thAssistant-for-Android](https://github.com/biirekha857-star/March7thAssistant-for-Android)** | 崩坏：星穹铁道安卓版自动化助手 | AGPL-3.0 | [GitHub 源码](https://github.com/biirekha857-star/March7thAssistant-for-Android) • [下载发布](https://github.com/biirekha857-star/March7thAssistant-for-Android/releases) |
+| **[A-Injector](https://github.com/PetaBYT3/A-Injector)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/PetaBYT3/A-Injector) • [下载发布](https://github.com/PetaBYT3/A-Injector/releases) |
+| **[SpotShift](https://github.com/BoraSarang/SpotShift)** | 주기마다 모바일 네트워크 IP를 바꾸는 Android앱 | MIT | [GitHub 源码](https://github.com/BoraSarang/SpotShift) • [下载发布](https://github.com/BoraSarang/SpotShift/releases) |
+| **[taixu](https://github.com/wkbin/taixu)** | Android 无根 Linux 运行时 · 本机代理框架 · PTY 终端 · 工作空间和工具生态系统 | GPL-3.0 | [GitHub 源码](https://github.com/wkbin/taixu) • [下载发布](https://github.com/wkbin/taixu/releases) |
+| **[waze-custom-patches](https://github.com/aaayd/waze-custom-patches)** | 自定义位智主题、报告图标大小、徽章选择器和心情；与 Morphe 一起使用的夜间版本 | GPL-3.0 | [GitHub 源码](https://github.com/aaayd/waze-custom-patches) • [下载发布](https://github.com/aaayd/waze-custom-patches/releases) |
+| **[LATERAL_](https://github.com/CB-Soft/LATERAL_)** | 适用于 Android 的外部显示窗口管理器，感觉就像手机的扩展。 | Apache-2.0 | [GitHub 源码](https://github.com/CB-Soft/LATERAL_) • [下载发布](https://github.com/CB-Soft/LATERAL_/releases) |
 | **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
 | **[Veyra](https://github.com/ctrl-mietze/Veyra)** | 韦拉 | See project | [GitHub 源码](https://github.com/ctrl-mietze/Veyra) • [下载发布](https://github.com/ctrl-mietze/Veyra/releases) |
 | **[XiaoHyperCleaner](https://github.com/elthebestdevelopman-cyber/XiaoHyperCleaner)** | Настройка 小米 / 红米 / Poco： отключение сервисов аналитики и параметров MIUI / HyperOS через локальный ADB，без root | GPL-3.0 | [GitHub 源码](https://github.com/elthebestdevelopman-cyber/XiaoHyperCleaner) • [下载发布](https://github.com/elthebestdevelopman-cyber/XiaoHyperCleaner/releases) |
@@ -269,16 +282,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **gf2-krpatch** | 霍霍夫特 | `v2.3` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gf2-krpatch-v2.3) | [Upstream](https://github.com/hohofught/gf2-krpatch/releases) |
-| ⚡ **BrightControl** | 吉欧斯 | `v4.41.303` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brightcontrol-v4.41.303) | [Upstream](https://github.com/gi-os/BrightControl/releases) |
-| ⚡ **Tunnels** | 强马44 | `v0.1.4` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tunnels-v0.1.4) | [Upstream](https://github.com/StrongHorse44/Tunnels/releases) |
-| ⚡ **flutter_agent_harness** | 伊斯蒂恩 | `v1.0.519` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flutter-agent-harness-v1.0.519) | [Upstream](https://github.com/IstiN/flutter_agent_harness/releases) |
-| ⚡ **Hermes-Agent-Android** | l3ad3r1 | `v1.1.5` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-agent-android-v1.1.5) | [Upstream](https://github.com/l3ad3r1/Hermes-Agent-Android/releases) |
-| ⚡ **Termux-Ultra** | TiG基拉 | `3.3.5.R7` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/termux-ultra-3.3.5.R7) | [Upstream](https://github.com/TiG-Kira/Termux-Ultra/releases) |
-| ⚡ **NotiGuard** | 六池江 | `v2.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/notiguard-v2.1) | [Upstream](https://github.com/Liuchijang/NotiGuard/releases) |
-| ⚡ **game-boost** | bkrohit940-集线器 | `v1.0.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-boost-v1.0.1) | [Upstream](https://github.com/bkrohit940-hub/game-boost/releases) |
-| ⚡ **AudioScope** | 易卜拉欣91015 | `v0.5.2` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioscope-v0.5.2) | [Upstream](https://github.com/ibrahim91015/AudioScope/releases) |
-| ⚡ **messageAIHelper** | SWSP-Git | `1.1.1` | 2026-10-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messageaihelper-1.1.1) | [Upstream](https://github.com/SWSP-Git/messageAIHelper/releases) |
+| ⚡ **EchoRoute** | 亚辛91479 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/echoroute-v1.0) | [Upstream](https://github.com/Yaseen91479/EchoRoute/releases) |
+| ⚡ **AirSIM** | 开悟皮质 | `v0.9.1` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/airsim-v0.9.1) | [Upstream](https://github.com/kai-wu-cortex/AirSIM/releases) |
+| ⚡ **FlymeFreeform** | m-秘密 | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
+| ⚡ **Dollhouse** | 告别编码员 | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
+| ⚡ **samsung_s24_battery_life** | 米希德 | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
+| ⚡ **s25edge_battery** | 米希德 | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
+| ⚡ **flip-ctl** | 拉金·克兹 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
+| ⚡ **phone-agent** | 黄浩680 | `v0.7.94` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-agent-v0.7.94) | [Upstream](https://github.com/huanghao680/phone-agent/releases) |
+| ⚡ **Mod-Loader** | 科尔拉本施瓦茨 | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
+| ⚡ **hilight-custom** | 菲尔科尔蒂 | `v1.0.20` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hilight-custom-v1.0.20) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
