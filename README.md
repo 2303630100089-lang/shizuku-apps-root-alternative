@@ -262,16 +262,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **EchoRoute** | Yaseen91479 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/echoroute-v1.0) | [Upstream](https://github.com/Yaseen91479/EchoRoute/releases) |
-| ⚡ **AirSIM** | kai-wu-cortex | `v0.9.1` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/airsim-v0.9.1) | [Upstream](https://github.com/kai-wu-cortex/AirSIM/releases) |
-| ⚡ **FlymeFreeform** | m-secret | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
-| ⚡ **Dollhouse** | Farewell-coder | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
-| ⚡ **samsung_s24_battery_life** | mich-de | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
-| ⚡ **s25edge_battery** | mich-de | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
-| ⚡ **flip-ctl** | RakinRkz | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
-| ⚡ **phone-agent** | huanghao680 | `v0.7.94` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-agent-v0.7.94) | [Upstream](https://github.com/huanghao680/phone-agent/releases) |
-| ⚡ **Mod-Loader** | Kohlrabenschwarz | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
-| ⚡ **hilight-custom** | filcorti | `v1.0.20` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hilight-custom-v1.0.20) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
+| ⚡ **nfc-share** | hubble658 | `v2.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nfc-share-v2.0.1) | [Upstream](https://github.com/hubble658/nfc-share/releases) |
+| ⚡ **callrex** | RYUK8853 | `v2.4.10` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callrex-v2.4.10) | [Upstream](https://github.com/RYUK8853/callrex/releases) |
+| ⚡ **DataThrottle** | zaochuan5854 | `v0.2.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datathrottle-v0.2.1) | [Upstream](https://github.com/zaochuan5854/DataThrottle/releases) |
+| ⚡ **android-call-recorder-app** | SanjarbekSaminjonov | `v1.0.5` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-call-recorder-app-v1.0.5) | [Upstream](https://github.com/SanjarbekSaminjonov/android-call-recorder-app/releases) |
+| ⚡ **rikkahub-agent-pure** | wuyhong715 | `v2.5.3-pure.3` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rikkahub-agent-pure-v2.5.3-pure.3) | [Upstream](https://github.com/wuyhong715/rikkahub-agent-pure/releases) |
+| ⚡ **ShutterSoundToggle** | soralis0912 | `v1.2` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shuttersoundtoggle-v1.2) | [Upstream](https://github.com/soralis0912/ShutterSoundToggle/releases) |
+| ⚡ **adaptive-performance** | langraficagr-collab | `v1.9.3` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptive-performance-v1.9.3) | [Upstream](https://github.com/langraficagr-collab/adaptive-performance/releases) |
+| ⚡ **droynis** | capitan0n | `v0.12.0` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droynis-v0.12.0) | [Upstream](https://github.com/capitan0n/droynis/releases) |
+| ⚡ **lingxi-chat** | 54188jk | `v1.170` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lingxi-chat-v1.170) | [Upstream](https://github.com/54188jk/lingxi-chat/releases) |
+| ⚡ **A-Injector** | PetaBYT3 | `v1.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/a-injector-v1.0.1) | [Upstream](https://github.com/PetaBYT3/A-Injector/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
