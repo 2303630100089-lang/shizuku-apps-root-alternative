@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:46:43.371175+00:00",
+    "last_checked": "2026-10-09T18:16:31.972026+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:45:42.574095+00:00",
+    "last_checked": "2026-10-09T18:16:30.787430+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-08T18:45:55.168942+00:00"
+    "last_checked": "2026-10-09T18:16:31.663365+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:46:38.832160+00:00",
+    "last_checked": "2026-10-09T18:16:31.324610+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:46:33.988587+00:00",
+    "last_checked": "2026-10-09T18:16:18.353010+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-08T18:46:33.461201+00:00",
+    "last_checked": "2026-10-09T18:16:03.203540+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -2232,5 +2232,52 @@
   "surface-duo-ime-notebook": {
     "status": "no-apk",
     "last_checked": "2026-10-09T05:45:31.013836+00:00"
+  },
+  "atlayaswitch": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:02.529674+00:00",
+    "latest_version": "v1.9.5",
+    "last_synced": "2026-10-09T18:16:02.529674+00:00"
+  },
+  "fold-fit": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:08.827286+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-10-09T18:16:08.827286+00:00"
+  },
+  "aadisplay-duoscreen": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:12.915897+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-09T18:16:12.915897+00:00"
+  },
+  "turbouro": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:17.757473+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-09T18:16:17.757473+00:00"
+  },
+  "lynk": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:22.423585+00:00",
+    "latest_version": "v0.1.1.90",
+    "last_synced": "2026-10-09T18:16:22.423585+00:00"
+  },
+  "orpheus": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:29.655971+00:00",
+    "latest_version": "v0.3.1",
+    "last_synced": "2026-10-09T18:16:29.655971+00:00"
+  },
+  "nextjs-chat": {
+    "status": "no-apk",
+    "last_checked": "2026-10-09T18:16:30.117631+00:00",
+    "latest_version": "pc-v1.0.8"
+  },
+  "gososmed-mobile-agent": {
+    "status": "synced",
+    "last_checked": "2026-10-09T18:16:37.032219+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-10-09T18:16:37.032219+00:00"
   }
 }

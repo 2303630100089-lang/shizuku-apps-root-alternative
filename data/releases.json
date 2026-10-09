@@ -9708,5 +9708,154 @@
     ],
     "mirror_release_tag": "izukijs-v1.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/izukijs-v1.1.0"
+  },
+  "atlayaswitch": {
+    "source_repository": "Morfyuum/AtlayaSwitch",
+    "source_release_id": 408042463,
+    "source_tag": "v1.9.5",
+    "source_published_at": "2026-10-09T15:20:37Z",
+    "synced_at": "2026-10-09T18:16:02.529638+00:00",
+    "assets": [
+      {
+        "source_asset_id": 625374821,
+        "filename": "AtlayaSwitch-1.9.5-release.apk",
+        "original_filename": "AtlayaSwitch-1.9.5-release.apk",
+        "sha256": "d4ede8611531bb78b64aad7240e46546c5c869588b7f6c694ab2228c8ce754db",
+        "file_size": 7172769,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "atlayaswitch-v1.9.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/atlayaswitch-v1.9.5"
+  },
+  "fold-fit": {
+    "source_repository": "lab-ok/fold_fit",
+    "source_release_id": 408159965,
+    "source_tag": "1.0",
+    "source_published_at": "2026-10-09T17:35:48Z",
+    "synced_at": "2026-10-09T18:16:08.827269+00:00",
+    "assets": [
+      {
+        "source_asset_id": 625646153,
+        "filename": "FoldFit-1.0.1.apk",
+        "original_filename": "FoldFit-1.0.1.apk",
+        "sha256": "15372f8f5440a746a5ea54ace7dc216effcc7b3c094819072f3f42edc3c35c8e",
+        "file_size": 19460481,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "fold-fit-1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fold-fit-1.0"
+  },
+  "aadisplay-duoscreen": {
+    "source_repository": "leolionart/AADisplay-DuoScreen",
+    "source_release_id": 407992373,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-09T14:24:10Z",
+    "synced_at": "2026-10-09T18:16:12.915879+00:00",
+    "assets": [
+      {
+        "source_asset_id": 625198903,
+        "filename": "DuoScreen-AA-v1.0.0.apk",
+        "original_filename": "DuoScreen-AA-v1.0.0.apk",
+        "sha256": "bc7e9ce015636998d6d3698ddd9cdc6aa5b1f7fb0c6a6d784e0f248ec97e6fa9",
+        "file_size": 12551679,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "aadisplay-duoscreen-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aadisplay-duoscreen-v1.0.0"
+  },
+  "turbouro": {
+    "source_repository": "lavenderpoet607/TurboUro",
+    "source_release_id": 407900495,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-09T14:22:53Z",
+    "synced_at": "2026-10-09T18:16:17.757451+00:00",
+    "assets": [
+      {
+        "source_asset_id": 624933120,
+        "filename": "TurboUro.apk",
+        "original_filename": "TurboUro.apk",
+        "sha256": "3542fec406d60f2a442ddd94330e5ca258f93aef4842929dfa9b58e925f447d4",
+        "file_size": 14745643,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "turbouro-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turbouro-v1.0.0"
+  },
+  "lynk": {
+    "source_repository": "pixxel-dev/Lynk",
+    "source_release_id": 408010581,
+    "source_tag": "v0.1.1.90",
+    "source_published_at": "2026-10-09T14:44:45Z",
+    "synced_at": "2026-10-09T18:16:22.423562+00:00",
+    "assets": [
+      {
+        "source_asset_id": 625254279,
+        "filename": "Lynk_0.1.1.90.apk",
+        "original_filename": "Lynk_0.1.1.90.apk",
+        "sha256": "d5665700016ea850f113fabbbb51000604f2d7cec1166180a8de26ce9cc89925",
+        "file_size": 5796401,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lynk-v0.1.1.90",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lynk-v0.1.1.90"
+  },
+  "orpheus": {
+    "source_repository": "right-ward/orpheus",
+    "source_release_id": 407341772,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-10-08T23:29:04Z",
+    "synced_at": "2026-10-09T18:16:29.655949+00:00",
+    "assets": [
+      {
+        "source_asset_id": 623295146,
+        "filename": "orpheus-v0.3.1-android-aarch64.apk",
+        "original_filename": "orpheus-v0.3.1-android-aarch64.apk",
+        "sha256": "d10f3f40a868439fc8aa22a6433c7ed37b19fbe62d77d0686aefb37213bbc1f2",
+        "file_size": 62546,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 623295145,
+        "filename": "orpheus-v0.3.1-android-armv7.apk",
+        "original_filename": "orpheus-v0.3.1-android-armv7.apk",
+        "sha256": "194ac988785a87b9eeeae90b3e080d9ec9e290317fe3bb2d05ef935ba9fb1790",
+        "file_size": 62546,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 623295144,
+        "filename": "orpheus-v0.3.1-android-x86_64.apk",
+        "original_filename": "orpheus-v0.3.1-android-x86_64.apk",
+        "sha256": "9e5c3e793574571e742c14ad59530d7822005fca192560a64a956689b478d0cf",
+        "file_size": 62546,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "orpheus-v0.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orpheus-v0.3.1"
+  },
+  "gososmed-mobile-agent": {
+    "source_repository": "dedy45/gososmed-mobile-agent",
+    "source_release_id": 407910571,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-09T12:50:31Z",
+    "synced_at": "2026-10-09T18:16:37.032195+00:00",
+    "assets": [
+      {
+        "source_asset_id": 624963506,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "8db88d8a1087f27eeddccd474038a6373726a3a634baba10305c083fb3bc4254",
+        "file_size": 18269343,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gososmed-mobile-agent-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gososmed-mobile-agent-v1.2.0"
   }
 }
