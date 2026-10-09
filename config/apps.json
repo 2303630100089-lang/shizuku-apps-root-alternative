@@ -6079,6 +6079,118 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "android-mcp-server",
+      "slug": "android-mcp-server",
+      "repository": "qazmko72/android-mcp-server",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Orchestella-Studio",
+      "slug": "orchestella-studio",
+      "repository": "Nyzeep/Orchestella-Studio",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "TextCascade",
+      "slug": "textcascade",
+      "repository": "long45343/TextCascade",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Bridge",
+      "slug": "bridge",
+      "repository": "Bonevane/Bridge",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "handlive",
+      "slug": "handlive",
+      "repository": "HandLive/handlive",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "IzukiJS",
+      "slug": "izukijs",
+      "repository": "BUGJI/IzukiJS",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "surface-duo-ime-notebook",
+      "slug": "surface-duo-ime-notebook",
+      "repository": "johnjohn1977/surface-duo-ime-notebook",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {

@@ -9597,5 +9597,116 @@
     ],
     "mirror_release_tag": "shuttersoundtoggle-v1.2",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shuttersoundtoggle-v1.2"
+  },
+  "android-mcp-server": {
+    "source_repository": "qazmko72/android-mcp-server",
+    "source_release_id": 379554727,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-08-31T06:43:01Z",
+    "synced_at": "2026-10-09T05:45:07.525497+00:00",
+    "assets": [
+      {
+        "source_asset_id": 537593448,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "313d0754a94dac7e3b24744a3de82c7548f6daa8d289a16de03b059b627b4030",
+        "file_size": 7939421,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-mcp-server-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-mcp-server-v1.0.0"
+  },
+  "orchestella-studio": {
+    "source_repository": "Nyzeep/Orchestella-Studio",
+    "source_release_id": 405469721,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-10-07T06:57:19Z",
+    "synced_at": "2026-10-09T05:45:11.850379+00:00",
+    "assets": [
+      {
+        "source_asset_id": 617863973,
+        "filename": "Orchestella-v0.4.0.apk",
+        "original_filename": "Orchestella-v0.4.0.apk",
+        "sha256": "117d68358a6132f796235a24de82d5eb9e3454a87f7e75057bb30e0af230380a",
+        "file_size": 30327420,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "orchestella-studio-v0.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orchestella-studio-v0.4.0"
+  },
+  "textcascade": {
+    "source_repository": "long45343/TextCascade",
+    "source_release_id": 407556080,
+    "source_tag": "v2.5.1",
+    "source_published_at": "2026-10-09T05:42:26Z",
+    "synced_at": "2026-10-09T05:45:14.445687+00:00",
+    "assets": [
+      {
+        "source_asset_id": 624021950,
+        "filename": "TextCascade-v2.5.1-release.apk",
+        "original_filename": "TextCascade-v2.5.1-release.apk",
+        "sha256": "09fc8c38a11f9284c30fb9fa85f35ff214548b86bdef75e1cc0d79617c6e2388",
+        "file_size": 1960480,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "textcascade-v2.5.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/textcascade-v2.5.1"
+  },
+  "bridge": {
+    "source_repository": "Bonevane/Bridge",
+    "source_release_id": 407376484,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-09T00:32:12Z",
+    "synced_at": "2026-10-09T05:45:18.931313+00:00",
+    "assets": [
+      {
+        "source_asset_id": 623410914,
+        "filename": "Bridge-0.3.0.apk",
+        "original_filename": "Bridge-0.3.0.apk",
+        "sha256": "18806f70c974434afb055a1b3f6f63c5a042fc0699e999be3e95def70aee9fb5",
+        "file_size": 45260892,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bridge-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridge-v0.3.0"
+  },
+  "izukijs": {
+    "source_repository": "BUGJI/IzukiJS",
+    "source_release_id": 407105368,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-08T17:43:24Z",
+    "synced_at": "2026-10-09T05:45:30.730904+00:00",
+    "assets": [
+      {
+        "source_asset_id": 622545598,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "9532fe586afb075e25962a5eeaf3f5f5114b3736623dbc4bf2a01618c274e93c",
+        "file_size": 46921864,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 622545597,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "cfe77fb4574d963616ec85c27b9ca888068851567321321de002d7afb0b712a7",
+        "file_size": 32989804,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 622545594,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "137436e7422582d6ee2b052ed97a6f42a79f5229786d454682d0ccb58227abdf",
+        "file_size": 83397966,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "izukijs-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/izukijs-v1.1.0"
   }
 }

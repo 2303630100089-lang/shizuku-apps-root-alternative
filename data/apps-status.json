@@ -2194,5 +2194,43 @@
     "last_checked": "2026-10-08T18:46:47.304436+00:00",
     "latest_version": "v1.2",
     "last_synced": "2026-10-08T18:46:47.304436+00:00"
+  },
+  "android-mcp-server": {
+    "status": "synced",
+    "last_checked": "2026-10-09T05:45:07.525524+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-09T05:45:07.525524+00:00"
+  },
+  "orchestella-studio": {
+    "status": "synced",
+    "last_checked": "2026-10-09T05:45:11.850403+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-10-09T05:45:11.850403+00:00"
+  },
+  "textcascade": {
+    "status": "synced",
+    "last_checked": "2026-10-09T05:45:14.445708+00:00",
+    "latest_version": "v2.5.1",
+    "last_synced": "2026-10-09T05:45:14.445708+00:00"
+  },
+  "bridge": {
+    "status": "synced",
+    "last_checked": "2026-10-09T05:45:18.931336+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-09T05:45:18.931336+00:00"
+  },
+  "handlive": {
+    "status": "no-apk",
+    "last_checked": "2026-10-09T05:45:19.233490+00:00"
+  },
+  "izukijs": {
+    "status": "synced",
+    "last_checked": "2026-10-09T05:45:30.730927+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-09T05:45:30.730927+00:00"
+  },
+  "surface-duo-ime-notebook": {
+    "status": "no-apk",
+    "last_checked": "2026-10-09T05:45:31.013836+00:00"
   }
 }

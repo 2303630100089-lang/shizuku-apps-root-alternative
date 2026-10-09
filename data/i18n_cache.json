@@ -1247,7 +1247,23 @@
     "轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）": "轻量Android自动点击器：多点独立连点+拖动定位+悬浮窗控制+四层紧急停止+Shizuku一键授权（稀疏Root）",
     "ROBINHOOD55 tools portfolio — a live GitHub Pages catalog of open-source Android, Linux and web tools. Wireless ADB, Wi-Fi file transfer, offline-first apps. Command palette, dark/light theme, live GitHub API.": "ROBINHOOD55 工具组合 — 开源 Android、Linux 和 Web 工具的实时 GitHub Pages 目录。无线 ADB、Wi-Fi 文件传输、离线优先应用程序。命令调色板、深色/浅色主题、实时 GitHub API。",
     "S Pen mouse emulation for selected Android apps via Shizuku, without root.": "通过 Shizuku 对选定的 Android 应用程序进行 S Pen 鼠标模拟，无需 root。",
-    "Callrex - on-device call recording with AI transcription and summary (nothing-style UI). Records both sides of phone AND VoIP calls, transcribes with whisper.cpp, summarizes with Gemma. 100% on-device.": "Callrex - 设备上的通话录音，带有 AI 转录和摘要（无风格 UI）。记录电话和 VoIP 呼叫的双方，使用耳语.cpp 进行转录，使用 Gemma 进行总结。 100% 在设备上。"
+    "Callrex - on-device call recording with AI transcription and summary (nothing-style UI). Records both sides of phone AND VoIP calls, transcribes with whisper.cpp, summarizes with Gemma. 100% on-device.": "Callrex - 设备上的通话录音，带有 AI 转录和摘要（无风格 UI）。记录电话和 VoIP 呼叫的双方，使用耳语.cpp 进行转录，使用 Gemma 进行总结。 100% 在设备上。",
+    "Non-root notebook-style Android IME and touchpad for Microsoft Surface Duo 1": "适用于 Microsoft Surface Duo 1 的免 root 笔记本式 Android IME 和触摸板",
+    "langraficagr-collab": "langraficagr 协作",
+    "hubble658": "哈勃658",
+    "54188jk": "54188jk",
+    "Documentation hub of HandLive, the open source project that brings ecosystem-native features such as Apple Handoff to Android: specification, plan and design system (English and Vietnamese)": "HandLive 的文档中心，该开源项目将 Apple Handoff 等生态系统原生功能引入 Android：规范、规划和设计系统（英语和越南语）",
+    "capitan0n": "船长0n",
+    "RYUK8853": "RYUK8853",
+    "PetaBYT3": "PetaBYT3",
+    "See and control your Android phone from your Mac (or Windows), over any network, even when it's locked.": "即使手机处于锁定状态，也可以通过任何网络从 Mac（或 Windows）查看和控制您的 Android 手机。",
+    "A text-only Clipboard Sync client for Android，Develop via codex-app/TRAEWork/Zcode，v0.x Compatible With Clipcascade": "Android 纯文本剪贴板同步客户端，通过 codex-app/TRAEWork/Zcode 开发，v0.x 兼容 Clipcascade",
+    "A secure native Android MCP server: use phone capabilities through MCP without a computer, ADB, or cloud backend.": "安全的本机 Android MCP 服务器：通过 MCP 使用电话功能，无需计算机、ADB 或云后端。",
+    "wuyhong715": "五红715",
+    "soralis0912": "索拉力斯0912",
+    "zaochuan5854": "枣川5854",
+    "Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困": "Android 自动化脚本运行时 · 使用 QuickJS 脚本，支持 / Shizuku / Root / 蓝牙 HID 多驱动设备，内置找图找色、OCR 与 AI Agent 脱困",
+    "SanjarbekSaminjonov": "桑贾贝克·萨明乔诺夫"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2497,6 +2513,22 @@
     "轻量 Android 自动点击器：多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku 一键授权（无需 Root）": "轻量 Android 自动点击器:多点独立连点 + 拖动定位 + 悬浮窗控制 + 四层紧急停止 + Shizuku一键授权（无需 Корень）",
     "Callrex - on-device call recording with AI transcription and summary (nothing-style UI). Records both sides of phone AND VoIP calls, transcribes with whisper.cpp, summarizes with Gemma. 100% on-device.": "Callrex — запись разговоров на устройстве с расшифровкой и сводкой AI (пользовательский интерфейс в стиле «ничего»). Записывает телефонные и VoIP-звонки с обеих сторон, расшифровывает с помощью vanilla cpp, подводит итоги с помощью Джеммы. 100% на устройстве.",
     "ROBINHOOD55 tools portfolio — a live GitHub Pages catalog of open-source Android, Linux and web tools. Wireless ADB, Wi-Fi file transfer, offline-first apps. Command palette, dark/light theme, live GitHub API.": "Портфель инструментов ROBINHOOD55 — действующий каталог GitHub Pages с открытым исходным кодом для Android, Linux и веб-инструментов. Беспроводной ADB, передача файлов по Wi-Fi, приложения, работающие в автономном режиме. Палитра команд, темная/светлая тема, действующий API GitHub.",
-    "S Pen mouse emulation for selected Android apps via Shizuku, without root.": "Эмуляция мыши S Pen для некоторых приложений Android через Shizuku без рута."
+    "S Pen mouse emulation for selected Android apps via Shizuku, without root.": "Эмуляция мыши S Pen для некоторых приложений Android через Shizuku без рута.",
+    "Non-root notebook-style Android IME and touchpad for Microsoft Surface Duo 1": "Android IME и сенсорная панель в стиле ноутбука без root для Microsoft Surface Duo 1",
+    "hubble658": "Хаббл658",
+    "langraficagr-collab": "langraficagr-коллаборация",
+    "54188jk": "54188jk",
+    "Documentation hub of HandLive, the open source project that brings ecosystem-native features such as Apple Handoff to Android: specification, plan and design system (English and Vietnamese)": "Центр документации HandLive, проекта с открытым исходным кодом, который переносит в Android такие функции экосистемы, как Apple Handoff: спецификация, план и система проектирования (английский и вьетнамский языки).",
+    "RYUK8853": "РЮК8853",
+    "PetaBYT3": "ПетаBYT3",
+    "capitan0n": "капитан0н",
+    "See and control your Android phone from your Mac (or Windows), over any network, even when it's locked.": "Просматривайте и управляйте своим телефоном Android с Mac (или Windows) по любой сети, даже если он заблокирован.",
+    "A text-only Clipboard Sync client for Android，Develop via codex-app/TRAEWork/Zcode，v0.x Compatible With Clipcascade": "Клиент синхронизации буфера обмена только для текста для Android, разработка через codex-app/TRAEWork/Zcode, v0.x, совместимая с Clipcascade",
+    "zaochuan5854": "zaochuan5854",
+    "wuyhong715": "wuyhong715",
+    "A secure native Android MCP server: use phone capabilities through MCP without a computer, ADB, or cloud backend.": "Безопасный собственный сервер Android MCP: используйте возможности телефона через MCP без компьютера, ADB или облачного бэкэнда.",
+    "Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID 多后端驱动设备，内置找图找色、OCR 与 AI Agent 脱困": "Android 自动化脚本运行时 · 用 QuickJS 写脚本，无障碍 / Shizuku / Root / 蓝牙 HID多后端驱动设备, 内置找图找色、OCR 与 AI Agent 脱困",
+    "SanjarbekSaminjonov": "Санжарбек Саминжонов",
+    "soralis0912": "soralis0912"
   }
 }

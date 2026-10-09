@@ -202,6 +202,13 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[surface-duo-ime-notebook](https://github.com/johnjohn1977/surface-duo-ime-notebook)** | 适用于 Microsoft Surface Duo 1 的免 root 笔记本式 Android IME 和触摸板 | LGPL-2.1 | [GitHub 源码](https://github.com/johnjohn1977/surface-duo-ime-notebook) • [下载发布](https://github.com/johnjohn1977/surface-duo-ime-notebook/releases) |
+| **[IzukiJS](https://github.com/BUGJI/IzukiJS)** | Android 自动化脚本运行时 · 使用 QuickJS 脚本，支持 / Shizuku / Root / 蓝牙 HID 多驱动设备，内置找图找色、OCR 与 AI Agent 脱困 | GPL-3.0 | [GitHub 源码](https://github.com/BUGJI/IzukiJS) • [下载发布](https://github.com/BUGJI/IzukiJS/releases) |
+| **[handlive](https://github.com/HandLive/handlive)** | HandLive 的文档中心，该开源项目将 Apple Handoff 等生态系统原生功能引入 Android：规范、规划和设计系统（英语和越南语） | Apache-2.0 | [GitHub 源码](https://github.com/HandLive/handlive) • [下载发布](https://github.com/HandLive/handlive/releases) |
+| **[Bridge](https://github.com/Bonevane/Bridge)** | 即使手机处于锁定状态，也可以通过任何网络从 Mac（或 Windows）查看和控制您的 Android 手机。 | Apache-2.0 | [GitHub 源码](https://github.com/Bonevane/Bridge) • [下载发布](https://github.com/Bonevane/Bridge/releases) |
+| **[TextCascade](https://github.com/long45343/TextCascade)** | Android 纯文本剪贴板同步客户端，通过 codex-app/TRAEWork/Zcode 开发，v0.x 兼容 Clipcascade | GPL-3.0 | [GitHub 源码](https://github.com/long45343/TextCascade) • [下载发布](https://github.com/long45343/TextCascade/releases) |
+| **[Orchestella-Studio](https://github.com/Nyzeep/Orchestella-Studio)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/Nyzeep/Orchestella-Studio) • [下载发布](https://github.com/Nyzeep/Orchestella-Studio/releases) |
+| **[android-mcp-server](https://github.com/qazmko72/android-mcp-server)** | 安全的本机 Android MCP 服务器：通过 MCP 使用电话功能，无需计算机、ADB 或云后端。 | MIT | [GitHub 源码](https://github.com/qazmko72/android-mcp-server) • [下载发布](https://github.com/qazmko72/android-mcp-server/releases) |
 | **[ShutterSoundToggle](https://github.com/soralis0912/ShutterSoundToggle)** | 通过 Shizuku 切换强制相机快门声音 | See project | [GitHub 源码](https://github.com/soralis0912/ShutterSoundToggle) • [下载发布](https://github.com/soralis0912/ShutterSoundToggle/releases) |
 | **[Shizuku](https://github.com/thedjchi/Shizuku)** | 通过以 app_process 启动的 Java 进程，直接使用普通应用程序中具有 adb/root 权限的系统 API。 | Apache-2.0 | [GitHub 源码](https://github.com/thedjchi/Shizuku) • [下载发布](https://github.com/thedjchi/Shizuku/releases) |
 | **[nfc-share](https://github.com/hubble658/nfc-share)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/hubble658/nfc-share) • [下载发布](https://github.com/hubble658/nfc-share/releases) |
@@ -265,16 +272,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **EchoRoute** | 亚辛91479 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/echoroute-v1.0) | [Upstream](https://github.com/Yaseen91479/EchoRoute/releases) |
-| ⚡ **AirSIM** | 开悟皮质 | `v0.9.1` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/airsim-v0.9.1) | [Upstream](https://github.com/kai-wu-cortex/AirSIM/releases) |
-| ⚡ **FlymeFreeform** | m-秘密 | `v1.0.5` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flymefreeform-v1.0.5) | [Upstream](https://github.com/m-secret/FlymeFreeform/releases) |
-| ⚡ **Dollhouse** | 告别编码员 | `v0.0.4` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dollhouse-v0.0.4) | [Upstream](https://github.com/Farewell-coder/Dollhouse/releases) |
-| ⚡ **samsung_s24_battery_life** | 米希德 | `v2.6` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/samsung-s24-battery-life-v2.6) | [Upstream](https://github.com/mich-de/samsung_s24_battery_life/releases) |
-| ⚡ **s25edge_battery** | 米希德 | `v1.0.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/s25edge-battery-v1.0.0) | [Upstream](https://github.com/mich-de/s25edge_battery/releases) |
-| ⚡ **flip-ctl** | 拉金·克兹 | `v1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flip-ctl-v1.0) | [Upstream](https://github.com/RakinRkz/flip-ctl/releases) |
-| ⚡ **phone-agent** | 黄浩680 | `v0.7.94` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-agent-v0.7.94) | [Upstream](https://github.com/huanghao680/phone-agent/releases) |
-| ⚡ **Mod-Loader** | 科尔拉本施瓦茨 | `v1.1.0` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mod-loader-v1.1.0) | [Upstream](https://github.com/Kohlrabenschwarz/Mod-Loader/releases) |
-| ⚡ **hilight-custom** | 菲尔科尔蒂 | `v1.0.20` | 2026-10-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hilight-custom-v1.0.20) | [Upstream](https://github.com/filcorti/hilight-custom/releases) |
+| ⚡ **nfc-share** | 哈勃658 | `v2.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nfc-share-v2.0.1) | [Upstream](https://github.com/hubble658/nfc-share/releases) |
+| ⚡ **callrex** | RYUK8853 | `v2.4.10` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callrex-v2.4.10) | [Upstream](https://github.com/RYUK8853/callrex/releases) |
+| ⚡ **DataThrottle** | 枣川5854 | `v0.2.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datathrottle-v0.2.1) | [Upstream](https://github.com/zaochuan5854/DataThrottle/releases) |
+| ⚡ **android-call-recorder-app** | 桑贾贝克·萨明乔诺夫 | `v1.0.5` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-call-recorder-app-v1.0.5) | [Upstream](https://github.com/SanjarbekSaminjonov/android-call-recorder-app/releases) |
+| ⚡ **rikkahub-agent-pure** | 五红715 | `v2.5.3-pure.3` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rikkahub-agent-pure-v2.5.3-pure.3) | [Upstream](https://github.com/wuyhong715/rikkahub-agent-pure/releases) |
+| ⚡ **ShutterSoundToggle** | 索拉力斯0912 | `v1.2` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shuttersoundtoggle-v1.2) | [Upstream](https://github.com/soralis0912/ShutterSoundToggle/releases) |
+| ⚡ **adaptive-performance** | langraficagr 协作 | `v1.9.3` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptive-performance-v1.9.3) | [Upstream](https://github.com/langraficagr-collab/adaptive-performance/releases) |
+| ⚡ **droynis** | 船长0n | `v0.12.0` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droynis-v0.12.0) | [Upstream](https://github.com/capitan0n/droynis/releases) |
+| ⚡ **lingxi-chat** | 54188jk | `v1.170` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lingxi-chat-v1.170) | [Upstream](https://github.com/54188jk/lingxi-chat/releases) |
+| ⚡ **A-Injector** | PetaBYT3 | `v1.0.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/a-injector-v1.0.1) | [Upstream](https://github.com/PetaBYT3/A-Injector/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
