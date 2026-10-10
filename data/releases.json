@@ -9857,5 +9857,132 @@
     ],
     "mirror_release_tag": "gososmed-mobile-agent-v1.2.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gososmed-mobile-agent-v1.2.0"
+  },
+  "simhub": {
+    "source_repository": "blackkcold/simhub",
+    "source_release_id": 408656047,
+    "source_tag": "v0.13.1",
+    "source_published_at": "2026-10-10T04:48:30Z",
+    "synced_at": "2026-10-10T05:28:38.839935+00:00",
+    "assets": [
+      {
+        "source_asset_id": 627027972,
+        "filename": "simhub-agent-v0.13.1-release.apk",
+        "original_filename": "simhub-agent-v0.13.1-release.apk",
+        "sha256": "741888e777819183748309a382ac31c7837997f24ba8583d9ce24e88cd019aa5",
+        "file_size": 3544475,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "simhub-v0.13.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simhub-v0.13.1"
+  },
+  "android-terminal": {
+    "source_repository": "ChimeraAnt-DEV/Android-Terminal",
+    "source_release_id": 408602615,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-10-10T03:35:54Z",
+    "synced_at": "2026-10-10T05:28:45.013180+00:00",
+    "assets": [
+      {
+        "source_asset_id": 626904940,
+        "filename": "ChimeraTerminal-v1.1.1-arm64-v8a.apk",
+        "original_filename": "ChimeraTerminal-v1.1.1-arm64-v8a.apk",
+        "sha256": "b14dea28cdd669448b7b2711851365c6477e30a75cc394cd27c17eaaca0019cc",
+        "file_size": 5625687,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 626904938,
+        "filename": "ChimeraTerminal-v1.1.1-armeabi-v7a.apk",
+        "original_filename": "ChimeraTerminal-v1.1.1-armeabi-v7a.apk",
+        "sha256": "e2b0805ea2860c71447ca01aa4980403c3b32ca4dc2ded9ad92141f8ea4e6ab9",
+        "file_size": 5606443,
+        "architecture": "armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "android-terminal-v1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-terminal-v1.1.1"
+  },
+  "palleria": {
+    "source_repository": "yunfie-twitter/Palleria",
+    "source_release_id": 405551305,
+    "source_tag": "v6.6.0",
+    "source_published_at": "2026-10-07T09:34:01Z",
+    "synced_at": "2026-10-10T05:29:08.747431+00:00",
+    "assets": [
+      {
+        "source_asset_id": 618092643,
+        "filename": "Palleria-v6.6.0-release-arm64-v8a.apk",
+        "original_filename": "Palleria-v6.6.0-release-arm64-v8a.apk",
+        "sha256": "b602b893cd8bc08313924c1aa5746f3d70869594a9edd0fbe023069a83563999",
+        "file_size": 60111028,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 618092642,
+        "filename": "Palleria-v6.6.0-release-armeabi-v7a.apk",
+        "original_filename": "Palleria-v6.6.0-release-armeabi-v7a.apk",
+        "sha256": "93c509356e7c0a4cd89f64f9696986d95975c23a558bf987edc402cf16c5eddd",
+        "file_size": 57620322,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 618092637,
+        "filename": "Palleria-v6.6.0-release-universal.apk",
+        "original_filename": "Palleria-v6.6.0-release-universal.apk",
+        "sha256": "8df145eb7e73897515940bfe6ba48c7c6e39136df3378809085a0a2a07d599c5",
+        "file_size": 74973313,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      },
+      {
+        "source_asset_id": 618092641,
+        "filename": "Palleria-v6.6.0-release-x86_64.apk",
+        "original_filename": "Palleria-v6.6.0-release-x86_64.apk",
+        "sha256": "57c4c656b52cde8e9610a8b3328cbf3e2b711667084d767d10599467e48a0c11",
+        "file_size": 60225959,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "palleria-v6.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/palleria-v6.6.0"
+  },
+  "apk-toolbox": {
+    "source_repository": "bl3xand/APK-Toolbox",
+    "source_release_id": 408475569,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-10T01:04:23Z",
+    "synced_at": "2026-10-10T05:29:14.884885+00:00",
+    "assets": [
+      {
+        "source_asset_id": 626632784,
+        "filename": "APK-Toolbox-1.1.0.apk",
+        "original_filename": "APK-Toolbox-1.1.0.apk",
+        "sha256": "3d63c258d62c559223cc3851a52f9aa0a50b63bcaa5e2bcee224a055c7ddc902",
+        "file_size": 29560968,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "apk-toolbox-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/apk-toolbox-v1.1.0"
+  },
+  "debian-on-s23-ultra": {
+    "source_repository": "tingao/debian-on-s23-ultra",
+    "source_release_id": 408207228,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-09T18:16:18Z",
+    "synced_at": "2026-10-10T05:29:19.758086+00:00",
+    "assets": [
+      {
+        "source_asset_id": 626482284,
+        "filename": "AutoRoot.apk",
+        "original_filename": "AutoRoot.apk",
+        "sha256": "2f43653cfb18bd36420ec87f49b5ed8280265580f9d2458bb55c2214562d6a41",
+        "file_size": 14928409,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "debian-on-s23-ultra-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debian-on-s23-ultra-v1.0.0"
   }
 }

@@ -1272,7 +1272,23 @@
     "Agent GoSosmed BYOD mobile agent: APK Android (AccessibilityService) connect outbound ke GoSosmed agenthub untuk kontrol HP real tanpa adb/PC": "代理 GoSosmed BYOD 移动代理：APK Android (AccessibilityService) 连接出站 ke GoSosmed agenthub untuk kontrol HP real tanpa adb/PC",
     "Preserve your Android environment through destructive system changes.": "通过破坏性的系统更改来保护您的 Android 环境。",
     "Activity+ for Android: which app is responsible, and what to do about it. No internet permission.": "Android 的 Activity+：哪个应用程序负责，以及如何处理它。没有互联网许可。",
-    "Android SDK to automate other apps headlessly on a hidden virtual display via Shizuku. Keyboard-free typing and clicking through accessibility, read-back verified actions, and guards that keep your real screen (display 0) untouched.": "Android SDK 可通过 Shizuku 在隐藏的虚拟显示屏上无头自动化其他应用程序。无需键盘的输入和点击可访问性、回读验证的操作以及保持真实屏幕（显示 0）不受影响的防护装置。"
+    "Android SDK to automate other apps headlessly on a hidden virtual display via Shizuku. Keyboard-free typing and clicking through accessibility, read-back verified actions, and guards that keep your real screen (display 0) untouched.": "Android SDK 可通过 Shizuku 在隐藏的虚拟显示屏上无头自动化其他应用程序。无需键盘的输入和点击可访问性、回读验证的操作以及保持真实屏幕（显示 0）不受影响的防护装置。",
+    "keyviewer for android": "适用于 Android 的键盘查看器",
+    "lab-ok": "实验室正常",
+    "leolionart": "莱奥里奥艺术",
+    "Morfyuum": "莫菲尤姆",
+    "right-ward": "右倾",
+    "lavenderpoet607": "薰衣草诗人607",
+    "Powerful and fast terminal for android.": "强大而快速的 Android 终端。",
+    "Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.": "直接在手机上跟踪、克隆、安装和合并 Android 应用程序：直接从 GitHub、F-Droid 和其他来源更新、应用程序的第二个副本、拆分 APK 安装程序、APKS 导出和拆分合并。无根。",
+    "A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is locked, so an app re-establishes root after every reboot: Shizuku, CVE-2026-43499, KernelSU Next late-load, then a Debian chroot with sshd. One APK, quickstart, chroot bootstrap, and notes on everything that did not work.": "运行 Debian 13 作为服务器的 Samsung Galaxy S23 Ultra。引导加载程序被锁定，因此应用程序在每次重新启动后都会重新建立 root：Shizuku、CVE-2026-43499、KernelSU Next 后期加载，然后使用 sshd 进行 Debian chroot。一个 APK、快速入门、chroot 引导程序以及所有不起作用的注释。",
+    "dedy45": "德迪45",
+    "Bonevane": "博内瓦内",
+    "BUGJI": "布格吉",
+    "Standalone Android PRoot engine without Termux runtime dependencies": "独立的 Android PROot 引擎，没有 Termux 运行时依赖项",
+    "Palleria is a free and open-source Android application that provides a modern, fast and comfortable Pixiv browsing experience.": "Palleria 是一款免费开源 Android 应用程序，可提供现代、快速且舒适的 Pixiv 浏览体验。",
+    "Comprehensive Android Dedicated Device (COSU) Kiosk Framework for Gospel Library (org.lds.ldssa) with Dhizuku & Lock Task Mode": "用于福音图书馆 (org.lds.ldssa) 的综合 Android 专用设备 (COSU) Kiosk 框架，具有 Dhizuku 和锁定任务模式",
+    "long45343": "长45343"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2547,6 +2563,22 @@
     "Preserve your Android environment through destructive system changes.": "Сохраните свою среду Android с помощью разрушительных изменений системы.",
     "Activity+ for Android: which app is responsible, and what to do about it. No internet permission.": "Activity+ для Android: какое приложение за это отвечает и что с этим делать. Нет разрешения на доступ в Интернет.",
     "Agent GoSosmed BYOD mobile agent: APK Android (AccessibilityService) connect outbound ke GoSosmed agenthub untuk kontrol HP real tanpa adb/PC": "Мобильный агент GoSosmed BYOD: APK Android (AccessibilityService) для подключения исходящего трафика к GoSosmed Agenthub для контроля HP Real Tanpa Adb/ПК",
-    "Android SDK to automate other apps headlessly on a hidden virtual display via Shizuku. Keyboard-free typing and clicking through accessibility, read-back verified actions, and guards that keep your real screen (display 0) untouched.": "Android SDK для автоматической автоматизации других приложений на скрытом виртуальном дисплее через Shizuku. Ввод текста и нажатие клавиш без клавиатуры, специальные возможности, проверенные действия с обратным чтением и средства защиты, которые сохраняют ваш реальный экран (дисплей 0) нетронутым."
+    "Android SDK to automate other apps headlessly on a hidden virtual display via Shizuku. Keyboard-free typing and clicking through accessibility, read-back verified actions, and guards that keep your real screen (display 0) untouched.": "Android SDK для автоматической автоматизации других приложений на скрытом виртуальном дисплее через Shizuku. Ввод текста и нажатие клавиш без клавиатуры, специальные возможности, проверенные действия с обратным чтением и средства защиты, которые сохраняют ваш реальный экран (дисплей 0) нетронутым.",
+    "keyviewer for android": "кейвивер для андроид",
+    "Morfyuum": "Морфьюум",
+    "leolionart": "леолионарт",
+    "lab-ok": "лаборатория-ок",
+    "right-ward": "вправо",
+    "lavenderpoet607": "лавандапоэт607",
+    "Powerful and fast terminal for android.": "Мощный и быстрый терминал для Android.",
+    "Track, clone, install and merge Android apps right on the phone: updates straight from GitHub, F-Droid and other sources, second copies of apps, split APK installer, APKS export and split merging. No root.": "Отслеживайте, клонируйте, устанавливайте и объединяйте приложения Android прямо на телефоне: обновления прямо из GitHub, F-Droid и других источников, вторые копии приложений, разделенный установщик APK, экспорт APKS и разделенное объединение. Нет корня.",
+    "dedy45": "деди45",
+    "Bonevane": "Боневейн",
+    "BUGJI": "БУГДЖИ",
+    "A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is locked, so an app re-establishes root after every reboot: Shizuku, CVE-2026-43499, KernelSU Next late-load, then a Debian chroot with sshd. One APK, quickstart, chroot bootstrap, and notes on everything that did not work.": "Samsung Galaxy S23 Ultra под управлением Debian 13 в качестве сервера. Загрузчик заблокирован, поэтому приложение восстанавливает root после каждой перезагрузки: Shizuku, CVE-2026-43499, KernelSU. Следующая поздняя загрузка, затем chroot Debian с sshd. Один APK, краткое руководство, загрузочная программа chroot и заметки обо всем, что не сработало.",
+    "Standalone Android PRoot engine without Termux runtime dependencies": "Автономный движок Android PROot без зависимостей времени выполнения Termux",
+    "Comprehensive Android Dedicated Device (COSU) Kiosk Framework for Gospel Library (org.lds.ldssa) with Dhizuku & Lock Task Mode": "Комплексная платформа киоска для выделенных устройств Android (COSU) для Евангельской библиотеки (org.lds.ldssa) с Dhizuku и режимом блокировки задач",
+    "Palleria is a free and open-source Android application that provides a modern, fast and comfortable Pixiv browsing experience.": "Palleria — это бесплатное приложение для Android с открытым исходным кодом, которое обеспечивает современный, быстрый и удобный просмотр Pixiv.",
+    "long45343": "длинный45343"
   }
 }

@@ -2279,5 +2279,58 @@
     "last_checked": "2026-10-09T18:16:37.032219+00:00",
     "latest_version": "v1.2.0",
     "last_synced": "2026-10-09T18:16:37.032219+00:00"
+  },
+  "keyviewer-android": {
+    "status": "no-apk",
+    "last_checked": "2026-10-10T05:28:35.307573+00:00",
+    "latest_version": "v1.0.0"
+  },
+  "simhub": {
+    "status": "synced",
+    "last_checked": "2026-10-10T05:28:38.839957+00:00",
+    "latest_version": "v0.13.1",
+    "last_synced": "2026-10-10T05:28:38.839957+00:00"
+  },
+  "proot-distro-nolib": {
+    "status": "no-apk",
+    "last_checked": "2026-10-10T05:28:39.205015+00:00"
+  },
+  "android-terminal": {
+    "status": "synced",
+    "last_checked": "2026-10-10T05:28:45.013208+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-10-10T05:28:45.013208+00:00"
+  },
+  "private-vault-mobile": {
+    "status": "no-apk",
+    "last_checked": "2026-10-10T05:28:45.382841+00:00"
+  },
+  "palleria": {
+    "status": "synced",
+    "last_checked": "2026-10-10T05:29:08.747455+00:00",
+    "latest_version": "v6.6.0",
+    "last_synced": "2026-10-10T05:29:08.747455+00:00"
+  },
+  "android-cosu-kiosk": {
+    "status": "no-apk",
+    "last_checked": "2026-10-10T05:29:09.305279+00:00",
+    "latest_version": "v18"
+  },
+  "farrow": {
+    "status": "no-apk",
+    "last_checked": "2026-10-10T05:29:09.820321+00:00",
+    "latest_version": "v1.0.25"
+  },
+  "apk-toolbox": {
+    "status": "synced",
+    "last_checked": "2026-10-10T05:29:14.884910+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-10T05:29:14.884910+00:00"
+  },
+  "debian-on-s23-ultra": {
+    "status": "synced",
+    "last_checked": "2026-10-10T05:29:19.758122+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-10T05:29:19.758122+00:00"
   }
 }
