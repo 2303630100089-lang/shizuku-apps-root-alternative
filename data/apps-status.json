@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-09T18:16:31.972026+00:00",
+    "last_checked": "2026-10-10T17:14:58.767816+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-09T18:16:30.787430+00:00",
+    "last_checked": "2026-10-10T17:15:38.418748+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-09T18:16:31.663365+00:00"
+    "last_checked": "2026-10-10T17:15:48.787182+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-09T18:16:31.324610+00:00",
+    "last_checked": "2026-10-10T17:14:51.293623+00:00",
     "latest_version": "zako3.12",
     "last_synced": "2026-10-01T03:38:20.475631+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-09T18:16:18.353010+00:00",
+    "last_checked": "2026-10-10T17:14:59.266683+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-09T18:16:03.203540+00:00",
+    "last_checked": "2026-10-10T17:15:49.581355+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -927,9 +927,9 @@
   },
   "deepseek-harness-android": {
     "status": "synced",
-    "last_checked": "2026-09-30T17:28:10.616559+00:00",
-    "latest_version": "v0.2.0",
-    "last_synced": "2026-09-30T17:28:10.616559+00:00"
+    "last_checked": "2026-10-10T17:14:53.549377+00:00",
+    "latest_version": "v0.2.10",
+    "last_synced": "2026-10-10T17:14:53.549377+00:00"
   },
   "equalizer314": {
     "status": "synced",
@@ -2332,5 +2332,112 @@
     "last_checked": "2026-10-10T05:29:19.758122+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-10T05:29:19.758122+00:00"
+  },
+  "lock-escape": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:14:58.374116+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-10-10T17:14:58.374116+00:00"
+  },
+  "luwi": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:11.186159+00:00",
+    "latest_version": "v2.7.5",
+    "last_synced": "2026-10-10T17:15:11.186159+00:00"
+  },
+  "re-amachiromaker-android": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:15.555427+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-10T17:15:15.555427+00:00"
+  },
+  "network-scanner": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:18.595641+00:00",
+    "latest_version": "v1.1.10",
+    "last_synced": "2026-10-10T17:15:18.595641+00:00"
+  },
+  "jarvis-robotai": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:24.827895+00:00",
+    "latest_version": "v2.1.0",
+    "last_synced": "2026-10-10T17:15:24.827895+00:00"
+  },
+  "adaptivehz": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:27.685826+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-10T17:15:27.685826+00:00"
+  },
+  "jev-filter": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:30.232468+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-10-10T17:15:30.232468+00:00"
+  },
+  "verdroid": {
+    "status": "no-apk",
+    "last_checked": "2026-10-10T17:15:30.668370+00:00",
+    "latest_version": "v1.0.30"
+  },
+  "chargemode-quicktile": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:33.628871+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-10-10T17:15:33.628871+00:00"
+  },
+  "appdns": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:37.760732+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-10-10T17:15:37.760732+00:00"
+  },
+  "openliquidlauncher": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:41.491258+00:00",
+    "latest_version": "v1.7.0",
+    "last_synced": "2026-10-10T17:15:41.491258+00:00"
+  },
+  "physiboard": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:44.878312+00:00",
+    "latest_version": "v3.2.0",
+    "last_synced": "2026-10-10T17:15:44.878312+00:00"
+  },
+  "appman": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:15:48.516769+00:00",
+    "latest_version": "Latest",
+    "last_synced": "2026-10-10T17:15:48.516769+00:00"
+  },
+  "tachiyomix": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:16:15.840586+00:00",
+    "latest_version": "v1.0.3",
+    "last_synced": "2026-10-10T17:16:15.840586+00:00"
+  },
+  "hermes-mobile-app": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:16:18.807335+00:00",
+    "latest_version": "v0.8.9",
+    "last_synced": "2026-10-10T17:16:18.807335+00:00"
+  },
+  "activity-plus-android": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:16:21.823106+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-10T17:16:21.823106+00:00"
+  },
+  "g9control": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:16:24.597123+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-10T17:16:24.597123+00:00"
+  },
+  "ayn-thor-wifi-recovery": {
+    "status": "synced",
+    "last_checked": "2026-10-10T17:16:27.311697+00:00",
+    "latest_version": "v2.4",
+    "last_synced": "2026-10-10T17:16:27.311697+00:00"
   }
 }
