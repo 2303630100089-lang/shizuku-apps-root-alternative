@@ -269,16 +269,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **fold_fit** | lab-ok | `1.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fold-fit-1.0) | [Upstream](https://github.com/lab-ok/fold_fit/releases) |
-| ⚡ **AtlayaSwitch** | Morfyuum | `v1.9.5` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/atlayaswitch-v1.9.5) | [Upstream](https://github.com/Morfyuum/AtlayaSwitch/releases) |
-| ⚡ **Lynk** | pixxel-dev | `v0.1.1.90` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lynk-v0.1.1.90) | [Upstream](https://github.com/pixxel-dev/Lynk/releases) |
-| ⚡ **AADisplay-DuoScreen** | leolionart | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aadisplay-duoscreen-v1.0.0) | [Upstream](https://github.com/leolionart/AADisplay-DuoScreen/releases) |
-| ⚡ **TurboUro** | lavenderpoet607 | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turbouro-v1.0.0) | [Upstream](https://github.com/lavenderpoet607/TurboUro/releases) |
-| ⚡ **gososmed-mobile-agent** | dedy45 | `v1.2.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gososmed-mobile-agent-v1.2.0) | [Upstream](https://github.com/dedy45/gososmed-mobile-agent/releases) |
-| ⚡ **TextCascade** | long45343 | `v2.5.1` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/textcascade-v2.5.1) | [Upstream](https://github.com/long45343/TextCascade/releases) |
-| ⚡ **Bridge** | Bonevane | `v0.3.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridge-v0.3.0) | [Upstream](https://github.com/Bonevane/Bridge/releases) |
-| ⚡ **orpheus** | right-ward | `v0.3.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orpheus-v0.3.1) | [Upstream](https://github.com/right-ward/orpheus/releases) |
-| ⚡ **IzukiJS** | BUGJI | `v1.1.0` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/izukijs-v1.1.0) | [Upstream](https://github.com/BUGJI/IzukiJS/releases) |
+| ⚡ **OpenLiquidLauncher** | LinuxKernel44 | `v1.7.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openliquidlauncher-v1.7.0) | [Upstream](https://github.com/LinuxKernel44/OpenLiquidLauncher/releases) |
+| ⚡ **TachiyomiX** | zhzipu | `v1.0.3` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tachiyomix-v1.0.3) | [Upstream](https://github.com/zhzipu/TachiyomiX/releases) |
+| ⚡ **ayn-thor-wifi-recovery** | empy94 | `v2.4` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ayn-thor-wifi-recovery-v2.4) | [Upstream](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
+| ⚡ **jev-filter** | RedVad | `v1.1` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jev-filter-v1.1) | [Upstream](https://github.com/RedVad/jev-filter/releases) |
+| ⚡ **Luwi** | yuloong07-star | `v2.7.5` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/luwi-v2.7.5) | [Upstream](https://github.com/yuloong07-star/Luwi/releases) |
+| ⚡ **AppDNS** | Shishir-ip | `v2.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appdns-v2.0) | [Upstream](https://github.com/Shishir-ip/AppDNS/releases) |
+| ⚡ **RE-Amachiromaker-Android** | ynlp0624 | `v1.0.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/re-amachiromaker-android-v1.0.0) | [Upstream](https://github.com/ynlp0624/RE-Amachiromaker-Android/releases) |
+| ⚡ **ChargeMode-QuickTile** | bl3xand | `v1.0.2` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargemode-quicktile-v1.0.2) | [Upstream](https://github.com/bl3xand/ChargeMode-QuickTile/releases) |
+| ⚡ **AppMan** | utkarsh-naman | `Latest` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appman-Latest) | [Upstream](https://github.com/utkarsh-naman/AppMan/releases) |
+| ⚡ **AdaptiveHz** | shepard639 | `v1.1.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivehz-v1.1.0) | [Upstream](https://github.com/shepard639/AdaptiveHz/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
