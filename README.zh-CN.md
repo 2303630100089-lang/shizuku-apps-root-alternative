@@ -202,6 +202,17 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent)** | 🤖 完全运行在 Android 设备上的自主 AI 代理 — 109 个工具 · PROot Ubuntu 终端 · 仿生内存 (cs-mem) · BYO-LLM。没有服务器。没有电脑。 | See project | [GitHub 源码](https://github.com/Ultra-Guru/Android-Guru-Agent) • [下载发布](https://github.com/Ultra-Guru/Android-Guru-Agent/releases) |
+| **[superboox](https://github.com/rn-os/superboox)** | ONYX BOOX电子墨水平板电脑的Supernote风格快速访问面板。 | See project | [GitHub 源码](https://github.com/rn-os/superboox) • [下载发布](https://github.com/rn-os/superboox/releases) |
+| **[XiTing](https://github.com/ch1209498273/XiTing)** | 息屏听剧 · OPPO/ColorOS 黑屏听剧助手：悬浮黑幕 （背光物理关闭 ） +真息屏续播 +片尾保活。完全离线 ，无广告跳过。 | See project | [GitHub 源码](https://github.com/ch1209498273/XiTing) • [下载发布](https://github.com/ch1209498273/XiTing/releases) |
+| **[android-voice-sip-agent](https://github.com/sparkcyf/android-voice-sip-agent)** | 与 Shizuku 兼容的 Android 工具。 | GPL-2.0 | [GitHub 源码](https://github.com/sparkcyf/android-voice-sip-agent) • [下载发布](https://github.com/sparkcyf/android-voice-sip-agent/releases) |
+| **[mobile-agent](https://github.com/KYRIE66nb/mobile-agent)** | Android 端 AI 聊天 + 本地工具 Agent | Apache-2.0 | [GitHub 源码](https://github.com/KYRIE66nb/mobile-agent) • [下载发布](https://github.com/KYRIE66nb/mobile-agent/releases) |
+| **[pocket-flight](https://github.com/arusaha/pocket-flight)** | 适用于安卓系统的自动飞行模式行走、奔跑和徒步旅行：减少锁在口袋中的蜂窝无线电传输（ RF EMF ） ；解锁后重新连接。无线网络/蓝牙例外。Shizuku ，无根。 | See project | [GitHub 源码](https://github.com/arusaha/pocket-flight) • [下载发布](https://github.com/arusaha/pocket-flight/releases) |
+| **[ghostlock-app](https://github.com/alfzki/ghostlock-app)** | 通过 futex-PI waiter UAF (CVE-2026-43499) 进行 Android 内核提权，并中和 vivo/iQOO vr.ko | Apache-2.0 | [GitHub 源码](https://github.com/alfzki/ghostlock-app) • [下载发布](https://github.com/alfzki/ghostlock-app/releases) |
+| **[Curtain](https://github.com/z7ui/Curtain)** | 模仿三星幕布、游戏助推器的触控保护 | See project | [GitHub 源码](https://github.com/z7ui/Curtain) • [下载发布](https://github.com/z7ui/Curtain/releases) |
+| **[suixing](https://github.com/zeng6125-rgb/suixing)** | 随行 Suixing--AI Agent 手机端 （ Android · Kotlin + Compose ） ：读屏、点按、改文件、跑命令 ，纯本地、无云同步 | MIT | [GitHub 源码](https://github.com/zeng6125-rgb/suixing) • [下载发布](https://github.com/zeng6125-rgb/suixing/releases) |
+| **[shizuku-sam](https://github.com/WEIHEWU/shizuku-sam)** | 三星One UI 8.5增强型Shizuku和系统调整套件 | Apache-2.0 | [GitHub 源码](https://github.com/WEIHEWU/shizuku-sam) • [下载发布](https://github.com/WEIHEWU/shizuku-sam/releases) |
+| **[wrist-flight](https://github.com/arusaha/wrist-flight)** | 适用于Galaxy Watch和Wear OS的自动飞行模式，适用于全天候佩戴和就寝时间。磨损时开启；拆卸或充电时关闭。适合喜欢较少无线传输的人。Shizuku ，无需根。 | See project | [GitHub 源码](https://github.com/arusaha/wrist-flight) • [下载发布](https://github.com/arusaha/wrist-flight/releases) |
 | **[ayn-thor-wifi-recovery](https://github.com/empy94/ayn-thor-wifi-recovery)** | 离线 Wi-Fi 恢复并保存了 AYN Thor 的网络管理器。英语/法语 Android 应用程序，具有目标忘记-重新启动-重新连接工作流程。 | MIT | [GitHub 源码](https://github.com/empy94/ayn-thor-wifi-recovery) • [下载发布](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
 | **[G9Control](https://github.com/sudo-diego/G9Control)** | 用于在 Legion Y700 Gen 3 上配置 Legion G9 控制器的开源应用程序。 | GPL-3.0 | [GitHub 源码](https://github.com/sudo-diego/G9Control) • [下载发布](https://github.com/sudo-diego/G9Control/releases) |
 | **[activity-plus-android](https://github.com/robbyczgw-cla/activity-plus-android)** | Android 的 Activity+：哪个应用程序负责，以及如何处理它。没有互联网许可。 | MIT | [GitHub 源码](https://github.com/robbyczgw-cla/activity-plus-android) • [下载发布](https://github.com/robbyczgw-cla/activity-plus-android/releases) |
@@ -272,16 +283,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **fold_fit** | 实验室正常 | `1.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fold-fit-1.0) | [Upstream](https://github.com/lab-ok/fold_fit/releases) |
-| ⚡ **AtlayaSwitch** | 莫菲尤姆 | `v1.9.5` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/atlayaswitch-v1.9.5) | [Upstream](https://github.com/Morfyuum/AtlayaSwitch/releases) |
-| ⚡ **Lynk** | 像素开发 | `v0.1.1.90` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lynk-v0.1.1.90) | [Upstream](https://github.com/pixxel-dev/Lynk/releases) |
-| ⚡ **AADisplay-DuoScreen** | 莱奥里奥艺术 | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aadisplay-duoscreen-v1.0.0) | [Upstream](https://github.com/leolionart/AADisplay-DuoScreen/releases) |
-| ⚡ **TurboUro** | 薰衣草诗人607 | `v1.0.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turbouro-v1.0.0) | [Upstream](https://github.com/lavenderpoet607/TurboUro/releases) |
-| ⚡ **gososmed-mobile-agent** | 德迪45 | `v1.2.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gososmed-mobile-agent-v1.2.0) | [Upstream](https://github.com/dedy45/gososmed-mobile-agent/releases) |
-| ⚡ **TextCascade** | 长45343 | `v2.5.1` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/textcascade-v2.5.1) | [Upstream](https://github.com/long45343/TextCascade/releases) |
-| ⚡ **Bridge** | 博内瓦内 | `v0.3.0` | 2026-10-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridge-v0.3.0) | [Upstream](https://github.com/Bonevane/Bridge/releases) |
-| ⚡ **orpheus** | 右倾 | `v0.3.1` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orpheus-v0.3.1) | [Upstream](https://github.com/right-ward/orpheus/releases) |
-| ⚡ **IzukiJS** | 布格吉 | `v1.1.0` | 2026-10-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/izukijs-v1.1.0) | [Upstream](https://github.com/BUGJI/IzukiJS/releases) |
+| ⚡ **OpenLiquidLauncher** | LinuxKernel44 | `v1.7.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openliquidlauncher-v1.7.0) | [Upstream](https://github.com/LinuxKernel44/OpenLiquidLauncher/releases) |
+| ⚡ **TachiyomiX** | zhzipu | `v1.0.3` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tachiyomix-v1.0.3) | [Upstream](https://github.com/zhzipu/TachiyomiX/releases) |
+| ⚡ **ayn-thor-wifi-recovery** | empy94 | `v2.4` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ayn-thor-wifi-recovery-v2.4) | [Upstream](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
+| ⚡ **jev-filter** | RedVad | `v1.1` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jev-filter-v1.1) | [Upstream](https://github.com/RedVad/jev-filter/releases) |
+| ⚡ **Luwi** | yuloong07-star | `v2.7.5` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/luwi-v2.7.5) | [Upstream](https://github.com/yuloong07-star/Luwi/releases) |
+| ⚡ **AppDNS** | Shishir-ip | `v2.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appdns-v2.0) | [Upstream](https://github.com/Shishir-ip/AppDNS/releases) |
+| ⚡ **RE-Amachiromaker-Android** | ynlp0624 | `v1.0.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/re-amachiromaker-android-v1.0.0) | [Upstream](https://github.com/ynlp0624/RE-Amachiromaker-Android/releases) |
+| ⚡ **ChargeMode-QuickTile** | bl3xand | `v1.0.2` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargemode-quicktile-v1.0.2) | [Upstream](https://github.com/bl3xand/ChargeMode-QuickTile/releases) |
+| ⚡ **AppMan** | utkarsh-naman | `Latest` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appman-Latest) | [Upstream](https://github.com/utkarsh-naman/AppMan/releases) |
+| ⚡ **AdaptiveHz** | shepard639 | `v1.1.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivehz-v1.1.0) | [Upstream](https://github.com/shepard639/AdaptiveHz/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
