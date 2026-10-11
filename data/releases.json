@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 400594022,
-    "source_tag": "zako3.12",
-    "source_published_at": "2026-10-01T02:14:25Z",
-    "synced_at": "2026-10-01T03:38:20.475609+00:00",
+    "source_release_id": 409755962,
+    "source_tag": "zako3.13",
+    "source_published_at": "2026-10-11T15:37:03Z",
+    "synced_at": "2026-10-11T17:37:53.706739+00:00",
     "assets": [
       {
-        "source_asset_id": 602249773,
-        "filename": "shizako-vzako3.12-release.apk",
-        "original_filename": "shizako-vzako3.12-release.apk",
-        "sha256": "6ffabe82dc798f576bd84f7c0a3f505d768f24435b2ff45579d2c5c736c16012",
-        "file_size": 8242129,
+        "source_asset_id": 631115910,
+        "filename": "shizako-vzako3.13-release.apk",
+        "original_filename": "shizako-vzako3.13-release.apk",
+        "sha256": "07748dc283f8341f3eb9ea79e18fd6b6067843fc32bcca78b7092d24a3f8690f",
+        "file_size": 8241233,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.12",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizako-zako3.12"
+    "mirror_release_tag": "shizako-zako3.13",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.13"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -10499,5 +10499,119 @@
     ],
     "mirror_release_tag": "superboox-0.1.0-build.67",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/superboox-0.1.0-build.67"
+  },
+  "dashdazz": {
+    "source_repository": "olivia-hye/DashDazz",
+    "source_release_id": 409814365,
+    "source_tag": "v2.0.69",
+    "source_published_at": "2026-10-11T17:28:14Z",
+    "synced_at": "2026-10-11T17:37:34.774054+00:00",
+    "assets": [
+      {
+        "source_asset_id": 631352110,
+        "filename": "DashDazz-release.apk",
+        "original_filename": "DashDazz-release.apk",
+        "sha256": "baaeccf4945704fc2a21d6f4fd6943343e2c3004b64e51d7b2c69d4216245ebb",
+        "file_size": 2567851,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dashdazz-v2.0.69",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dashdazz-v2.0.69"
+  },
+  "aliucord": {
+    "source_repository": "Aliucord/Aliucord",
+    "source_release_id": 170614188,
+    "source_tag": "1.2.0",
+    "source_published_at": "2024-08-16T18:17:35Z",
+    "synced_at": "2026-10-11T17:37:39.243691+00:00",
+    "assets": [
+      {
+        "source_asset_id": 186412180,
+        "filename": "Installer-release.apk",
+        "original_filename": "Installer-release.apk",
+        "sha256": "caab2cb306cbe7e370ef40a9618bf96f06ce0d2ba0095cc4dd13ef2fb9ec2c22",
+        "file_size": 27211322,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "aliucord-1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aliucord-1.2.0"
+  },
+  "tetherbug": {
+    "source_repository": "xav-ie/Tetherbug",
+    "source_release_id": 409714675,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-11T14:21:23Z",
+    "synced_at": "2026-10-11T17:37:42.145742+00:00",
+    "assets": [
+      {
+        "source_asset_id": 630938834,
+        "filename": "tetherbug-v0.1.0.apk",
+        "original_filename": "tetherbug-v0.1.0.apk",
+        "sha256": "944f02b3124070e7963d24482d757947b9a45c339f0e6a8a498d7a76728b2a1d",
+        "file_size": 2266959,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tetherbug-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tetherbug-v0.1.0"
+  },
+  "haval": {
+    "source_repository": "trikiersteam/haval",
+    "source_release_id": 397773029,
+    "source_tag": "v0.3.4",
+    "source_published_at": "2026-09-27T19:04:13Z",
+    "synced_at": "2026-10-11T17:37:48.007784+00:00",
+    "assets": [
+      {
+        "source_asset_id": 593568683,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "14deda810737646090b3192035afc1396e153dfccb0f8ef8595fe8f3fc9a5f49",
+        "file_size": 44880700,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "haval-v0.3.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haval-v0.3.4"
+  },
+  "galaxy-optimization-advanced-tool": {
+    "source_repository": "lab-ok/galaxy-optimization-advanced-tool",
+    "source_release_id": 408159965,
+    "source_tag": "1.0",
+    "source_published_at": "2026-10-09T17:35:48Z",
+    "synced_at": "2026-10-11T17:37:51.531737+00:00",
+    "assets": [
+      {
+        "source_asset_id": 625646153,
+        "filename": "FoldFit-1.0.1.apk",
+        "original_filename": "FoldFit-1.0.1.apk",
+        "sha256": "15372f8f5440a746a5ea54ace7dc216effcc7b3c094819072f3f42edc3c35c8e",
+        "file_size": 19460481,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "galaxy-optimization-advanced-tool-1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-optimization-advanced-tool-1.0"
+  },
+  "dsh-whale-pet-android": {
+    "source_repository": "Dp-Holo/DSH-whale-pet-android",
+    "source_release_id": 396778259,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-09-25T16:54:30Z",
+    "synced_at": "2026-10-11T17:37:57.111398+00:00",
+    "assets": [
+      {
+        "source_asset_id": 588802352,
+        "filename": "whale-pet-release.apk",
+        "original_filename": "whale-pet-release.apk",
+        "sha256": "2590b7bc6295b4a69ed505048901e757b00a9b21c561bead5f1874ecda412484",
+        "file_size": 5421060,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dsh-whale-pet-android-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-whale-pet-android-v1.1"
   }
 }

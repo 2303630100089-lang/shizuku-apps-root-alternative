@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-10T17:14:58.767816+00:00",
+    "last_checked": "2026-10-11T17:37:42.599222+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-10T17:15:38.418748+00:00",
+    "last_checked": "2026-10-11T17:37:52.001017+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-10T17:15:48.787182+00:00"
+    "last_checked": "2026-10-11T17:37:43.616502+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -332,10 +332,10 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "no-update",
-    "last_checked": "2026-10-10T17:14:51.293623+00:00",
-    "latest_version": "zako3.12",
-    "last_synced": "2026-10-01T03:38:20.475631+00:00"
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:53.706759+00:00",
+    "latest_version": "zako3.13",
+    "last_synced": "2026-10-11T17:37:53.706759+00:00"
   },
   "aether": {
     "status": "no-update",
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-10T17:14:59.266683+00:00",
+    "last_checked": "2026-10-11T17:37:43.014370+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-10T17:15:49.581355+00:00",
+    "last_checked": "2026-10-11T17:37:52.635918+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -926,8 +926,8 @@
     "last_synced": "2026-09-30T17:27:52.282925+00:00"
   },
   "deepseek-harness-android": {
-    "status": "synced",
-    "last_checked": "2026-10-10T17:14:53.549377+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-11T17:37:57.718784+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T17:14:53.549377+00:00"
   },
@@ -2491,5 +2491,50 @@
     "last_checked": "2026-10-11T05:23:13.387340+00:00",
     "latest_version": "0.1.0-build.67",
     "last_synced": "2026-10-11T05:23:13.387340+00:00"
+  },
+  "dashdazz": {
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:34.774081+00:00",
+    "latest_version": "v2.0.69",
+    "last_synced": "2026-10-11T17:37:34.774081+00:00"
+  },
+  "vados-bubble": {
+    "status": "no-apk",
+    "last_checked": "2026-10-11T17:37:35.165943+00:00"
+  },
+  "aliucord": {
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:39.243710+00:00",
+    "latest_version": "1.2.0",
+    "last_synced": "2026-10-11T17:37:39.243710+00:00"
+  },
+  "tetherbug": {
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:42.145760+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-11T17:37:42.145760+00:00"
+  },
+  "solvit": {
+    "status": "no-apk",
+    "last_checked": "2026-10-11T17:37:43.365738+00:00",
+    "latest_version": "v0.15.2"
+  },
+  "haval": {
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:48.007805+00:00",
+    "latest_version": "v0.3.4",
+    "last_synced": "2026-10-11T17:37:48.007805+00:00"
+  },
+  "galaxy-optimization-advanced-tool": {
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:51.531754+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-10-11T17:37:51.531754+00:00"
+  },
+  "dsh-whale-pet-android": {
+    "status": "synced",
+    "last_checked": "2026-10-11T17:37:57.111456+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-10-11T17:37:57.111456+00:00"
   }
 }
