@@ -2536,5 +2536,33 @@
     "last_checked": "2026-10-11T17:37:57.111456+00:00",
     "latest_version": "v1.1",
     "last_synced": "2026-10-11T17:37:57.111456+00:00"
+  },
+  "sidekeypopup": {
+    "status": "synced",
+    "last_checked": "2026-10-12T05:34:27.966689+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-12T05:34:27.966689+00:00"
+  },
+  "mobileclaw": {
+    "status": "synced",
+    "last_checked": "2026-10-12T05:34:37.626754+00:00",
+    "latest_version": "v0.4.8",
+    "last_synced": "2026-10-12T05:34:37.626754+00:00"
+  },
+  "sunshine": {
+    "status": "synced",
+    "last_checked": "2026-10-12T05:34:47.494448+00:00",
+    "latest_version": "v2026.10.12.3",
+    "last_synced": "2026-10-12T05:34:47.494448+00:00"
+  },
+  "dev-mode-mobile": {
+    "status": "synced",
+    "last_checked": "2026-10-12T05:34:56.736059+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-12T05:34:56.736059+00:00"
+  },
+  "omalateral": {
+    "status": "no-apk",
+    "last_checked": "2026-10-12T05:34:56.999817+00:00"
   }
 }

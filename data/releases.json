@@ -10613,5 +10613,105 @@
     ],
     "mirror_release_tag": "dsh-whale-pet-android-v1.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-whale-pet-android-v1.1"
+  },
+  "sidekeypopup": {
+    "source_repository": "Angel-GP/SideKeyPopup",
+    "source_release_id": 409774708,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-10-12T05:09:39Z",
+    "synced_at": "2026-10-12T05:34:27.966661+00:00",
+    "assets": [
+      {
+        "source_asset_id": 632732590,
+        "filename": "SideKeyPopup-v1.0.apk",
+        "original_filename": "SideKeyPopup-v1.0.apk",
+        "sha256": "da643fae3771ac50719b741efb5d581608db13405fbc3e850fcda3712a10433a",
+        "file_size": 4529707,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "sidekeypopup-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sidekeypopup-v1.0"
+  },
+  "mobileclaw": {
+    "source_repository": "Justin-Emils/mobileclaw",
+    "source_release_id": 409706554,
+    "source_tag": "v0.4.8",
+    "source_published_at": "2026-10-11T14:06:38Z",
+    "synced_at": "2026-10-12T05:34:37.626734+00:00",
+    "assets": [
+      {
+        "source_asset_id": 630905871,
+        "filename": "mobileclaw-local-release.apk",
+        "original_filename": "mobileclaw-local-release.apk",
+        "sha256": "a3589a981b90f4e6affc1bdaf8a3d33486a200e493390bab947e6f4120fbf845",
+        "file_size": 108916622,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mobileclaw-v0.4.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mobileclaw-v0.4.8"
+  },
+  "sunshine": {
+    "source_repository": "nanaoniiiii/sunshine",
+    "source_release_id": 410029776,
+    "source_tag": "v2026.10.12.3",
+    "source_published_at": "2026-10-12T01:01:41Z",
+    "synced_at": "2026-10-12T05:34:47.494425+00:00",
+    "assets": [
+      {
+        "source_asset_id": 632244802,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "304fd073931f1c7513788c3cf7a389cb26e2b621b85457e9641d7b97799aedee",
+        "file_size": 15109182,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 632245867,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "c45d727a37e2184a23a764c7e4e7009e567cfc9de08c1704b38ab4b3a6ec28b1",
+        "file_size": 12182184,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 632248292,
+        "filename": "app-universal-release.apk",
+        "original_filename": "app-universal-release.apk",
+        "sha256": "038c47533ef8858599a400fb253866941256beb7104acd87bd09833222333229",
+        "file_size": 24146815,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "sunshine-v2026.10.12.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sunshine-v2026.10.12.3"
+  },
+  "dev-mode-mobile": {
+    "source_repository": "Ryderhxrzy/Dev-Mode-Mobile",
+    "source_release_id": 410176334,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-12T04:49:28Z",
+    "synced_at": "2026-10-12T05:34:56.736040+00:00",
+    "assets": [
+      {
+        "source_asset_id": 632694718,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "e6ae94c61c90cfcb38876cd99b630e81667869894d69ba714143c546840abd8e",
+        "file_size": 35211155,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 632694719,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "d4fcbba4b9d4643bac84ae6af3286eafe9a7e2ab13ced68c1e91721ad87100e4",
+        "file_size": 28738479,
+        "architecture": "armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "dev-mode-mobile-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dev-mode-mobile-v1.0.0"
   }
 }

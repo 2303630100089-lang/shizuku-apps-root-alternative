@@ -1331,7 +1331,19 @@
     "Hardware camera-ring light controller for Xiaomi HyperOS devices (POCO X8 Pro Max / Dash). Drives the RGB LED ring around the rear camera - smooth animations, music reaction, and notification alerts.": "小米HyperOS设备的硬件摄像头环灯控制器（ POCO X8 Pro Max/Dash ）。在后置摄像头周围驱动RGB LED环-平滑的动画、音乐反应和通知警报。",
     "A mod for the Discord Android App": "Discord Android应用程序的模块",
     "Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.": "让您的Android热点在macOS上表现得像iPhone一样：通过蓝牙LE自动启用、个人热点链接图标、计量连接。",
-    "通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.": "通过通过 Shizuku/真实改写系统调试状态的快捷开关工具root支持 调试、无线调试与开发者选项的开关真正可从桌面快捷方式或通知磁贴一键操作修改关闭调试后会常驻一条通知系统点一下即可恢复调支持「实时动态」状态栏胶囊。试状态切换的快捷工具，支持USB调试、无线调试和开发者选项切换。"
+    "通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.": "通过通过 Shizuku/真实改写系统调试状态的快捷开关工具root支持 调试、无线调试与开发者选项的开关真正可从桌面快捷方式或通知磁贴一键操作修改关闭调试后会常驻一条通知系统点一下即可恢复调支持「实时动态」状态栏胶囊。试状态切换的快捷工具，支持USB调试、无线调试和开发者选项切换。",
+    "Sunshine for Android": "Sunshine安卓版",
+    "xav-ie": "xav-ie",
+    "zeng6125-rgb": "zeng6125-rgb",
+    "rn-os": "rn-os",
+    "a Dex-like external window manager for android, incorporating omalauncher widgets and UI.": "a Dex-like external window manager for android, incorporating omalauncher widgets and UI.",
+    "An Android app that simplifies toggling Developer Options with a one-time ADB permission grant. Features home screen widgets, persistent notifications, and quick access to developer settings.": "通过一次性ADB权限授予简化切换开发人员选项的Android应用。具有主屏幕小部件、永久通知以及对开发人员设置的快速访问。",
+    "sparkcyf": "sparkcyf",
+    "AceGuru-mjh": "AceGuru-mjh",
+    "olivia-hye": "olivia-hye",
+    "arusaha": "arusaha",
+    "z7ui": "z7ui",
+    "WEIHEWU": "WEIHEWU"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2665,6 +2677,18 @@
     "Turns airplane mode on and off on a schedule, using Shizuku": "Включает и выключает режим полета по расписанию, используя Shizuku",
     "Hardware camera-ring light controller for Xiaomi HyperOS devices (POCO X8 Pro Max / Dash). Drives the RGB LED ring around the rear camera - smooth animations, music reaction, and notification alerts.": "Аппаратный контроллер освещения кольца камеры для устройств Xiaomi HyperOS (POCO X8 Pro Max / Dash). Управляет СВЕТОДИОДНЫМ кольцом RGB вокруг задней камеры - плавная анимация, музыкальная реакция и оповещения.",
     "Make your Android hotspot behave like an iPhone's on macOS: auto-enable over Bluetooth LE, Personal Hotspot link icon, metered connection.": "Заставьте свою точку доступа Android вести себя как iPhone на macOS: автоматическое включение через Bluetooth LE, значок ссылки личной точки доступа, измеренное соединение.",
-    "通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.": "通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。Инструмент ярлыка, который действительно изменяет переключение состояния отладки системы через Shizuku/root, поддерживая отладку USB, беспроводную отладку и переключение параметров разработчика."
+    "通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。A shortcut tool that truly modifies the system debug status toggle via Shizuku/root, supporting USB debugging, wireless debugging, and Developer Options toggles.": "通过 Shizuku / root 真实改写系统调试状态的快捷开关工具，支持 USB 调试、无线调试与开发者选项的开关，可从桌面快捷方式或通知磁贴一键操作；关闭调试后会常驻一条通知，点一下即可恢复，支持「实时动态」状态栏胶囊。Инструмент ярлыка, который действительно изменяет переключение состояния отладки системы через Shizuku/root, поддерживая отладку USB, беспроводную отладку и переключение параметров разработчика.",
+    "a Dex-like external window manager for android, incorporating omalauncher widgets and UI.": "dEX-подобный внешний оконный менеджер для Android, включающий виджеты omalauncher и пользовательский интерфейс.",
+    "Sunshine for Android": "Sunshine для Android",
+    "rn-os": "rn-os",
+    "sparkcyf": "sparkcyf",
+    "xav-ie": "xav-ie",
+    "zeng6125-rgb": "zeng6125-rgb",
+    "An Android app that simplifies toggling Developer Options with a one-time ADB permission grant. Features home screen widgets, persistent notifications, and quick access to developer settings.": "Приложение для Android, которое упрощает переключение опций разработчика с одноразовым разрешением ADB. Виджеты на главном экране, постоянные уведомления и быстрый доступ к настройкам разработчика.",
+    "AceGuru-mjh": "AceGuru-mjh",
+    "arusaha": "arusaha",
+    "olivia-hye": "olivia-hye",
+    "z7ui": "z7ui",
+    "WEIHEWU": "WEIHEWU"
   }
 }

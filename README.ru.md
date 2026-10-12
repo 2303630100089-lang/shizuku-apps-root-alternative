@@ -202,6 +202,11 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | Приложение | Описание и использование Shizuku | Лицензия | Ссылки |
 |:---|:---|:---|:---|
+| **[omalateral](https://github.com/cbarland/omalateral)** | dEX-подобный внешний оконный менеджер для Android, включающий виджеты omalauncher и пользовательский интерфейс. | Apache-2.0 | [Исходники GitHub](https://github.com/cbarland/omalateral) • [Скачать APK](https://github.com/cbarland/omalateral/releases) |
+| **[Dev-Mode-Mobile](https://github.com/Ryderhxrzy/Dev-Mode-Mobile)** | Приложение для Android, которое упрощает переключение опций разработчика с одноразовым разрешением ADB. Виджеты на главном экране, постоянные уведомления и быстрый доступ к настройкам разработчика. | See project | [Исходники GitHub](https://github.com/Ryderhxrzy/Dev-Mode-Mobile) • [Скачать APK](https://github.com/Ryderhxrzy/Dev-Mode-Mobile/releases) |
+| **[sunshine](https://github.com/nanaoniiiii/sunshine)** | Sunshine для Android | See project | [Исходники GitHub](https://github.com/nanaoniiiii/sunshine) • [Скачать APK](https://github.com/nanaoniiiii/sunshine/releases) |
+| **[mobileclaw](https://github.com/Justin-Emils/mobileclaw)** | Инструмент Android, совместимый с Shizuku. | See project | [Исходники GitHub](https://github.com/Justin-Emils/mobileclaw) • [Скачать APK](https://github.com/Justin-Emils/mobileclaw/releases) |
+| **[SideKeyPopup](https://github.com/Angel-GP/SideKeyPopup)** | Инструмент Android, совместимый с Shizuku. | LGPL-3.0 | [Исходники GitHub](https://github.com/Angel-GP/SideKeyPopup) • [Скачать APK](https://github.com/Angel-GP/SideKeyPopup/releases) |
 | **[deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)** | Скачать DeepSeek Harness 打包成能直接装的安卓 APK:不用 Termux、不用root、不用配环境。它还能在手机上自己编译、打包、签名、发布。 | MIT | [Исходники GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) • [Скачать APK](https://github.com/guzhou079-arch/deepseek-harness-android/releases) |
 | **[DSH-whale-pet-android](https://github.com/Dp-Holo/DSH-whale-pet-android)** | Инструмент Android, совместимый с Shizuku. | See project | [Исходники GitHub](https://github.com/Dp-Holo/DSH-whale-pet-android) • [Скачать APK](https://github.com/Dp-Holo/DSH-whale-pet-android/releases) |
 | **[Shizako](https://github.com/cr1437/Shizako)** | 猫耳看板娘的系统权限助手：不 Root 也能用特权 API，兼容 Shizuku-API 生态（官方 SDK 应用零改动直连）\| A catgirl-mascot privileged-API assistant for Android. Shizuku-API compatible — apps built on the official SDK connect unchanged. Apache-2.0 | Apache-2.0 | [GitHub](https://github.com/cr1437/Shizako) • [Releases](https://github.com/cr1437/Shizako/releases) |
@@ -255,16 +260,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **OpenLiquidLauncher** | LinuxKernel44 | `v1.7.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openliquidlauncher-v1.7.0) | [Upstream](https://github.com/LinuxKernel44/OpenLiquidLauncher/releases) |
-| ⚡ **TachiyomiX** | zhzipu | `v1.0.3` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tachiyomix-v1.0.3) | [Upstream](https://github.com/zhzipu/TachiyomiX/releases) |
-| ⚡ **ayn-thor-wifi-recovery** | empy94 | `v2.4` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ayn-thor-wifi-recovery-v2.4) | [Upstream](https://github.com/empy94/ayn-thor-wifi-recovery/releases) |
-| ⚡ **jev-filter** | RedVad | `v1.1` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jev-filter-v1.1) | [Upstream](https://github.com/RedVad/jev-filter/releases) |
-| ⚡ **Luwi** | yuloong07-star | `v2.7.5` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/luwi-v2.7.5) | [Upstream](https://github.com/yuloong07-star/Luwi/releases) |
-| ⚡ **AppDNS** | Шишир-ип | `v2.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appdns-v2.0) | [Upstream](https://github.com/Shishir-ip/AppDNS/releases) |
-| ⚡ **RE-Amachiromaker-Android** | ynlp0624 | `v1.0.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/re-amachiromaker-android-v1.0.0) | [Upstream](https://github.com/ynlp0624/RE-Amachiromaker-Android/releases) |
-| ⚡ **ChargeMode-QuickTile** | bl3xand | `v1.0.2` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargemode-quicktile-v1.0.2) | [Upstream](https://github.com/bl3xand/ChargeMode-QuickTile/releases) |
-| ⚡ **AppMan** | utkarsh-naman | `Latest` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appman-Latest) | [Upstream](https://github.com/utkarsh-naman/AppMan/releases) |
-| ⚡ **AdaptiveHz** | shepard639 | `v1.1.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivehz-v1.1.0) | [Upstream](https://github.com/shepard639/AdaptiveHz/releases) |
+| ⚡ **DashDazz** | olivia-hye | `v2.0.69` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dashdazz-v2.0.69) | [Upstream](https://github.com/olivia-hye/DashDazz/releases) |
+| ⚡ **Shizako** | xm1437 | `zako3.13` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.13) | [Upstream](https://github.com/xm1437/Shizako/releases) |
+| ⚡ **Tetherbug** | xav-ie | `v0.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tetherbug-v0.1.0) | [Upstream](https://github.com/xav-ie/Tetherbug/releases) |
+| ⚡ **superboox** | rn-os | `0.1.0-build.67` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/superboox-0.1.0-build.67) | [Upstream](https://github.com/rn-os/superboox/releases) |
+| ⚡ **suixing** | zeng6125-rgb | `v0.8.82` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/suixing-v0.8.82) | [Upstream](https://github.com/zeng6125-rgb/suixing/releases) |
+| ⚡ **Curtain** | z7ui | `V1.5` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/curtain-V1.5) | [Upstream](https://github.com/z7ui/Curtain/releases) |
+| ⚡ **shizuku-sam** | WEIHEWU | `v13.7.3` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-sam-v13.7.3) | [Upstream](https://github.com/WEIHEWU/shizuku-sam/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.9` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.9) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **pocket-flight** | arusaha | `v1.2` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-flight-v1.2) | [Upstream](https://github.com/arusaha/pocket-flight/releases) |
+| ⚡ **android-voice-sip-agent** | sparkcyf | `v0.1.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-voice-sip-agent-v0.1.0) | [Upstream](https://github.com/sparkcyf/android-voice-sip-agent/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
