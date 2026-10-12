@@ -1343,7 +1343,21 @@
     "olivia-hye": "olivia-hye",
     "arusaha": "arusaha",
     "z7ui": "z7ui",
-    "WEIHEWU": "WEIHEWU"
+    "WEIHEWU": "WEIHEWU",
+    "call-recorder-poco-m4-pro-4g-miel": "通话记录器-poco-m4-pro-4g-miel",
+    "An independent Android screen for AI agents, with authenticated MCP, live PiP and user takeover.": "用于 AI 代理的独立 Android 屏幕，具有经过身份验证的 MCP、实时画中画和用户接管。",
+    "Android WPA passphrase cracker — target-derived candidates, smart ranking, resumable runs, background queue. Apache-2.0.": "Android WPA 密码破解程序 — 目标衍生候选、智能排名、可恢复运行、后台队列。阿帕奇-2.0。",
+    "Let AI agents use your real Android phone through its accessibility service: screen tree with stable refs, taps, typing, gestures, notifications, apps. MCP server + hub + app.": "让 AI 代理通过其辅助服务使用您真正的 Android 手机：具有稳定参考、点击、打字、手势、通知、应用程序的屏幕树。 MCP 服务器 + 集线器 + 应用程序。",
+    "Shizuku fork with Material 3 Expressive and Android SDK 37 updates": "Shizuku 叉子带有 Material 3 Expressive 和 Android SDK 37 更新",
+    "Computer use for Android: an on-device agent and assistant that operates your phone via Shizuku, powered by your ChatGPT/Codex subscription": "Android 电脑使用：设备上的代理和助手，通过 Shizuku 操作您的手机，由您的 ChatGPT/Codex 订阅提供支持",
+    "Hexora — an open-source Android dual-pane file manager with ZIP/APK tools, a built-in editor, and customizable light and dark themes.": "Hexora — 一款开源 Android 双窗格文件管理器，带有 ZIP/APK 工具、内置编辑器以及可定制的浅色和深色主题。",
+    "Stream both screens of a dual-screen Android handheld (AYN Thor) to a Samsung Tizen or Android TV over Wi-Fi": "通过 Wi-Fi 将双屏 Android 手持设备 (AYN Thor) 的两个屏幕传输到 Samsung Tizen 或 Android TV",
+    "Patches for The Blockheads on modern Android devices": "现代 Android 设备上的 The Blockheads 补丁",
+    "Android WiFi/mobile-data auto-switch tool driven by Shizuku rules": "由 Shizuku 规则驱动的 Android WiFi/移动数据自动切换工具",
+    "Reads your Our Notes save on Android, iOS, Windows, macOS and Linux and shows everything it holds": "读取 Android、iOS、Windows、macOS 和 Linux 上保存的“我们的笔记”并显示其中包含的所有内容",
+    "Open any music link in your favorite app": "打开您喜爱的应用程序中的任何音乐链接",
+    "An Android weather app modelled on Apple Weather: animated skies, detail charts, widgets, alerts and Pixel At a Glance support via Smartspacer.": "一款以 Apple Weather 为蓝本的 Android 天气应用程序：动画天空、详细图表、小部件、警报以及通过 Smartspacer 提供的 Pixel At a Glance 支持。",
+    "See and monitor when apps access the Mic, Camera, and Location": "查看并监控应用程序何时访问麦克风、摄像头和位置"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2689,6 +2703,20 @@
     "arusaha": "arusaha",
     "olivia-hye": "olivia-hye",
     "z7ui": "z7ui",
-    "WEIHEWU": "WEIHEWU"
+    "WEIHEWU": "WEIHEWU",
+    "Let AI agents use your real Android phone through its accessibility service: screen tree with stable refs, taps, typing, gestures, notifications, apps. MCP server + hub + app.": "Позвольте агентам искусственного интеллекта использовать ваш настоящий телефон Android через службу специальных возможностей: дерево экрана со стабильными ссылками, касаниями, вводом текста, жестами, уведомлениями и приложениями. Сервер MCP + хаб + приложение.",
+    "An independent Android screen for AI agents, with authenticated MCP, live PiP and user takeover.": "Независимый экран Android для агентов ИИ с аутентифицированным MCP, интерактивным PiP и контролем пользователей.",
+    "Android WPA passphrase cracker — target-derived candidates, smart ranking, resumable runs, background queue. Apache-2.0.": "Взломщик парольных фраз Android WPA — кандидаты на основе целевых объектов, интеллектуальное ранжирование, возобновляемые запуски, фоновая очередь. Апач-2.0.",
+    "call-recorder-poco-m4-pro-4g-miel": "записывающее устройство-poco-m4-pro-4g-miel",
+    "Computer use for Android: an on-device agent and assistant that operates your phone via Shizuku, powered by your ChatGPT/Codex subscription": "Использование компьютера для Android: агент и помощник на устройстве, который управляет вашим телефоном через Shizuku на основе вашей подписки ChatGPT/Codex.",
+    "Shizuku fork with Material 3 Expressive and Android SDK 37 updates": "Форк Shizuku с обновлениями Material 3 Expressive и Android SDK 37",
+    "Hexora — an open-source Android dual-pane file manager with ZIP/APK tools, a built-in editor, and customizable light and dark themes.": "Hexora — двухпанельный файловый менеджер Android с открытым исходным кодом, инструментами ZIP/APK, встроенным редактором и настраиваемыми светлыми и темными темами.",
+    "Stream both screens of a dual-screen Android handheld (AYN Thor) to a Samsung Tizen or Android TV over Wi-Fi": "Потоковая передача обоих экранов портативного устройства Android с двумя экранами (AYN Thor) на телевизор Samsung Tizen или Android TV через Wi-Fi.",
+    "Patches for The Blockheads on modern Android devices": "Патчи для The Blockheads на современных Android-устройствах",
+    "Android WiFi/mobile-data auto-switch tool driven by Shizuku rules": "Инструмент автоматического переключения между Wi-Fi и мобильными данными Android, основанный на правилах Сидзуку",
+    "Reads your Our Notes save on Android, iOS, Windows, macOS and Linux and shows everything it holds": "Читает ваши сохранения «Наши заметки» на Android, iOS, Windows, macOS и Linux и показывает все, что в них есть.",
+    "See and monitor when apps access the Mic, Camera, and Location": "Просматривайте и отслеживайте, когда приложения получают доступ к микрофону, камере и местоположению.",
+    "An Android weather app modelled on Apple Weather: animated skies, detail charts, widgets, alerts and Pixel At a Glance support via Smartspacer.": "Приложение погоды для Android, созданное по образцу Apple Weather: анимированное небо, подробные диаграммы, виджеты, оповещения и поддержка Pixel At a Glance через Smartspacer.",
+    "Open any music link in your favorite app": "Откройте любую ссылку на музыку в любимом приложении."
   }
 }

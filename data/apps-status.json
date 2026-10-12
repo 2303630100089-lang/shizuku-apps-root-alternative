@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-11T17:37:42.599222+00:00",
+    "last_checked": "2026-10-12T21:12:04.251882+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-11T17:37:52.001017+00:00",
+    "last_checked": "2026-10-12T21:11:58.326820+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-11T17:37:43.616502+00:00"
+    "last_checked": "2026-10-12T21:12:27.657816+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -332,8 +332,8 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "synced",
-    "last_checked": "2026-10-11T17:37:53.706759+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-12T21:12:28.226997+00:00",
     "latest_version": "zako3.13",
     "last_synced": "2026-10-11T17:37:53.706759+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-11T17:37:43.014370+00:00",
+    "last_checked": "2026-10-12T21:12:13.775282+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-11T17:37:52.635918+00:00",
+    "last_checked": "2026-10-12T21:11:59.260993+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-11T17:37:57.718784+00:00",
+    "last_checked": "2026-10-12T21:12:04.897627+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T17:14:53.549377+00:00"
   },
@@ -2564,5 +2564,81 @@
   "omalateral": {
     "status": "no-apk",
     "last_checked": "2026-10-12T05:34:56.999817+00:00"
+  },
+  "android-use": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:11:17.181475+00:00",
+    "latest_version": "v0.5.0",
+    "last_synced": "2026-10-12T21:11:17.181475+00:00"
+  },
+  "haneoka-app": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:11:38.095675+00:00",
+    "latest_version": "v0.0.1",
+    "last_synced": "2026-10-12T21:11:38.095675+00:00"
+  },
+  "duobeam": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:11:42.954802+00:00",
+    "latest_version": "v0.8.3",
+    "last_synced": "2026-10-12T21:11:42.954802+00:00"
+  },
+  "koel": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:11:47.429453+00:00",
+    "latest_version": "v0.5.0",
+    "last_synced": "2026-10-12T21:11:47.429453+00:00"
+  },
+  "nightzuku": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:11:51.271927+00:00",
+    "latest_version": "v13.7.1.r53",
+    "last_synced": "2026-10-12T21:11:51.271927+00:00"
+  },
+  "android-virtual-screen": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:11:57.724937+00:00",
+    "latest_version": "v0.0.1",
+    "last_synced": "2026-10-12T21:11:57.724937+00:00"
+  },
+  "hexora": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:12:03.740722+00:00",
+    "latest_version": "v0.1.2",
+    "last_synced": "2026-10-12T21:12:03.740722+00:00"
+  },
+  "blockheads-android-patches": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:12:13.225063+00:00",
+    "latest_version": "1.0.4",
+    "last_synced": "2026-10-12T21:12:13.225063+00:00"
+  },
+  "mobilemcp": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:12:18.779481+00:00",
+    "latest_version": "v0.6.0",
+    "last_synced": "2026-10-12T21:12:18.779481+00:00"
+  },
+  "mcpserved": {
+    "status": "no-apk",
+    "last_checked": "2026-10-12T21:12:19.236197+00:00"
+  },
+  "crosstune": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:12:23.985591+00:00",
+    "latest_version": "v2.8.2",
+    "last_synced": "2026-10-12T21:12:23.985591+00:00"
+  },
+  "wpaforge": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:12:27.364914+00:00",
+    "latest_version": "v1.9.0",
+    "last_synced": "2026-10-12T21:12:27.364914+00:00"
+  },
+  "stratus": {
+    "status": "synced",
+    "last_checked": "2026-10-12T21:12:31.617921+00:00",
+    "latest_version": "v1.3",
+    "last_synced": "2026-10-12T21:12:31.617921+00:00"
   }
 }
