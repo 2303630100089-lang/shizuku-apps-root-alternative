@@ -269,16 +269,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **DashDazz** | olivia-hye | `v2.0.69` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dashdazz-v2.0.69) | [Upstream](https://github.com/olivia-hye/DashDazz/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.13` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.13) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **Tetherbug** | xav-ie | `v0.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tetherbug-v0.1.0) | [Upstream](https://github.com/xav-ie/Tetherbug/releases) |
-| ⚡ **superboox** | rn-os | `0.1.0-build.67` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/superboox-0.1.0-build.67) | [Upstream](https://github.com/rn-os/superboox/releases) |
-| ⚡ **suixing** | zeng6125-rgb | `v0.8.82` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/suixing-v0.8.82) | [Upstream](https://github.com/zeng6125-rgb/suixing/releases) |
-| ⚡ **Curtain** | z7ui | `V1.5` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/curtain-V1.5) | [Upstream](https://github.com/z7ui/Curtain/releases) |
-| ⚡ **shizuku-sam** | WEIHEWU | `v13.7.3` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-sam-v13.7.3) | [Upstream](https://github.com/WEIHEWU/shizuku-sam/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.9` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.9) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **pocket-flight** | arusaha | `v1.2` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-flight-v1.2) | [Upstream](https://github.com/arusaha/pocket-flight/releases) |
-| ⚡ **android-voice-sip-agent** | sparkcyf | `v0.1.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-voice-sip-agent-v0.1.0) | [Upstream](https://github.com/sparkcyf/android-voice-sip-agent/releases) |
+| ⚡ **crosstune** | astrovm | `v2.8.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.8.2) | [Upstream](https://github.com/astrovm/crosstune/releases) |
+| ⚡ **stratus** | Yigder | `v1.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3) | [Upstream](https://github.com/Yigder/stratus/releases) |
+| ⚡ **Hexora** | ZENINXOP | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
+| ⚡ **android-use** | Pegoku | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
+| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
+| ⚡ **Koel** | strider-ape | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
+| ⚡ **duobeam** | Gengaroshi | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
+| ⚡ **mobilemcp** | Magi-Labs | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
+| ⚡ **haneoka-app** | haneoka-gakuen | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
+| ⚡ **wpaforge** | wlmosv-png | `v1.9.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wpaforge-v1.9.0) | [Upstream](https://github.com/wlmosv-png/wpaforge/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
