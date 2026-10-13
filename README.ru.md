@@ -202,6 +202,11 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | Приложение | Описание и использование Shizuku | Лицензия | Ссылки |
 |:---|:---|:---|:---|
+| **[ghost-display](https://github.com/gitWRLD999/ghost-display)** | Второй экран Android для агентов: настоящие приложения, ввод с помощью скриншотов и независимый дисплей Shizuku. Предварительный просмотр Android 16. | See project | [Исходники GitHub](https://github.com/gitWRLD999/ghost-display) • [Скачать APK](https://github.com/gitWRLD999/ghost-display/releases) |
+| **[BatteryGuard](https://github.com/vanlinh0392-art/BatteryGuard)** | Инструмент Android, совместимый с Shizuku. | Apache-2.0 | [Исходники GitHub](https://github.com/vanlinh0392-art/BatteryGuard) • [Скачать APK](https://github.com/vanlinh0392-art/BatteryGuard/releases) |
+| **[clyde-android](https://github.com/Archerkattri/clyde-android)** | Клод с руками — Android-помощник, управляемый Клодом по вашей подписке, с контролируемым управлением устройством. Загрузите подписанный APK из Releases. | MIT | [Исходники GitHub](https://github.com/Archerkattri/clyde-android) • [Скачать APK](https://github.com/Archerkattri/clyde-android/releases) |
+| **[nfile](https://github.com/rakarmadi/nfile)** | Легкий файловый менеджер Android, оптимизированный для Galaxy S26: архивы 7-Zip, двойные панели SMB/SFTP/FTP/WebDAV, Shizuku и DeX. | MIT | [Исходники GitHub](https://github.com/rakarmadi/nfile) • [Скачать APK](https://github.com/rakarmadi/nfile/releases) |
+| **[PixelIMS_ru](https://github.com/taidaru/PixelIMS_ru)** | Инструмент Android, совместимый с Shizuku. | See project | [Исходники GitHub](https://github.com/taidaru/PixelIMS_ru) • [Скачать APK](https://github.com/taidaru/PixelIMS_ru/releases) |
 | **[stratus](https://github.com/Yigder/stratus)** | Приложение погоды для Android, созданное по образцу Apple Weather: анимированное небо, подробные диаграммы, виджеты, оповещения и поддержка Pixel At a Glance через Smartspacer. | See project | [Исходники GitHub](https://github.com/Yigder/stratus) • [Скачать APK](https://github.com/Yigder/stratus/releases) |
 | **[Shizako](https://github.com/cr1437/Shizako)** | 猫耳看板娘的系统权限助手：不 Root 也能用特权 API，兼容 Shizuku-API 生态（官方 SDK 应用零改动直连）\| A catgirl-mascot privileged-API assistant for Android. Shizuku-API compatible — apps built on the official SDK connect unchanged. Apache-2.0 | Apache-2.0 | [GitHub](https://github.com/cr1437/Shizako) • [Releases](https://github.com/cr1437/Shizako/releases) |
 | **[AppLock](https://github.com/aload0/AppLock)** | Мощный инструмент конфиденциальности для блокировки приложений от злоумышленников | MIT | [Исходники GitHub](https://github.com/aload0/AppLock) • [Скачать APK](https://github.com/aload0/AppLock/releases) |
@@ -272,16 +277,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **DashDazz** | olivia-hye | `v2.0.69` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dashdazz-v2.0.69) | [Upstream](https://github.com/olivia-hye/DashDazz/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.13` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.13) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **Tetherbug** | xav-ie | `v0.1.0` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tetherbug-v0.1.0) | [Upstream](https://github.com/xav-ie/Tetherbug/releases) |
-| ⚡ **superboox** | rn-os | `0.1.0-build.67` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/superboox-0.1.0-build.67) | [Upstream](https://github.com/rn-os/superboox/releases) |
-| ⚡ **suixing** | zeng6125-rgb | `v0.8.82` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/suixing-v0.8.82) | [Upstream](https://github.com/zeng6125-rgb/suixing/releases) |
-| ⚡ **Curtain** | z7ui | `V1.5` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/curtain-V1.5) | [Upstream](https://github.com/z7ui/Curtain/releases) |
-| ⚡ **shizuku-sam** | WEIHEWU | `v13.7.3` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-sam-v13.7.3) | [Upstream](https://github.com/WEIHEWU/shizuku-sam/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.9` | 2026-10-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.9) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **pocket-flight** | arusaha | `v1.2` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-flight-v1.2) | [Upstream](https://github.com/arusaha/pocket-flight/releases) |
-| ⚡ **android-voice-sip-agent** | sparkcyf | `v0.1.0` | 2026-10-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-voice-sip-agent-v0.1.0) | [Upstream](https://github.com/sparkcyf/android-voice-sip-agent/releases) |
+| ⚡ **crosstune** | астром | `v2.8.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.8.2) | [Upstream](https://github.com/astrovm/crosstune/releases) |
+| ⚡ **stratus** | Йигдер | `v1.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3) | [Upstream](https://github.com/Yigder/stratus/releases) |
+| ⚡ **Hexora** | ЗЕНИНКСОП | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
+| ⚡ **android-use** | Пегоку | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
+| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
+| ⚡ **Koel** | странствующая обезьяна | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
+| ⚡ **duobeam** | Генгароши | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
+| ⚡ **mobilemcp** | Маги-Лабс | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
+| ⚡ **haneoka-app** | Ханеока-гакуэн | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
+| ⚡ **wpaforge** | wlmosv-png | `v1.9.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wpaforge-v1.9.0) | [Upstream](https://github.com/wlmosv-png/wpaforge/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

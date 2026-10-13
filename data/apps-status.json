@@ -2640,5 +2640,31 @@
     "last_checked": "2026-10-12T21:12:31.617921+00:00",
     "latest_version": "v1.3",
     "last_synced": "2026-10-12T21:12:31.617921+00:00"
+  },
+  "pixelims-ru": {
+    "status": "synced",
+    "last_checked": "2026-10-13T06:31:08.546566+00:00",
+    "latest_version": "v1.0.0-ru",
+    "last_synced": "2026-10-13T06:31:08.546566+00:00"
+  },
+  "nfile": {
+    "status": "no-apk",
+    "last_checked": "2026-10-13T06:31:08.906634+00:00"
+  },
+  "clyde-android": {
+    "status": "synced",
+    "last_checked": "2026-10-13T06:31:22.206599+00:00",
+    "latest_version": "v0.1.52",
+    "last_synced": "2026-10-13T06:31:22.206599+00:00"
+  },
+  "batteryguard": {
+    "status": "synced",
+    "last_checked": "2026-10-13T06:31:26.136458+00:00",
+    "latest_version": "v1.0.28",
+    "last_synced": "2026-10-13T06:31:26.136458+00:00"
+  },
+  "ghost-display": {
+    "status": "no-apk",
+    "last_checked": "2026-10-13T06:31:26.521866+00:00"
   }
 }

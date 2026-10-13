@@ -10981,5 +10981,62 @@
     ],
     "mirror_release_tag": "stratus-v1.3",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3"
+  },
+  "pixelims-ru": {
+    "source_repository": "taidaru/PixelIMS_ru",
+    "source_release_id": 411182883,
+    "source_tag": "v1.0.0-ru",
+    "source_published_at": "2026-10-13T02:20:45Z",
+    "synced_at": "2026-10-13T06:31:08.546538+00:00",
+    "assets": [
+      {
+        "source_asset_id": 635618321,
+        "filename": "IMS-for-Pixel-ru-1.0.0-ru-pixel9-arm64.apk",
+        "original_filename": "IMS-for-Pixel-ru-1.0.0-ru-pixel9-arm64.apk",
+        "sha256": "cafcc3f76360b51c18f0550d58120270199578099bb615b6b2955f4f34447ee6",
+        "file_size": 46427925,
+        "architecture": "arm64"
+      }
+    ],
+    "mirror_release_tag": "pixelims-ru-v1.0.0-ru",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelims-ru-v1.0.0-ru"
+  },
+  "clyde-android": {
+    "source_repository": "Archerkattri/clyde-android",
+    "source_release_id": 344393410,
+    "source_tag": "v0.1.52",
+    "source_published_at": "2026-06-24T22:22:06Z",
+    "synced_at": "2026-10-13T06:31:22.206569+00:00",
+    "assets": [
+      {
+        "source_asset_id": 457052920,
+        "filename": "clyde-v0.1.52-arm64-embedded.apk",
+        "original_filename": "clyde-v0.1.52-arm64-embedded.apk",
+        "sha256": "2d6ca63ec87b3979e697b8c6302b407206ef729c789e59d336e327d7a603ee9f",
+        "file_size": 130569388,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "clyde-android-v0.1.52",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clyde-android-v0.1.52"
+  },
+  "batteryguard": {
+    "source_repository": "vanlinh0392-art/BatteryGuard",
+    "source_release_id": 407628988,
+    "source_tag": "v1.0.28",
+    "source_published_at": "2026-10-09T07:09:06Z",
+    "synced_at": "2026-10-13T06:31:26.136440+00:00",
+    "assets": [
+      {
+        "source_asset_id": 624197667,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "e7d39f7ea8e2581e40d1f7c527df5d92b4b94e56eed839ec3f3abdadc6348ba2",
+        "file_size": 4825646,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "batteryguard-v1.0.28",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batteryguard-v1.0.28"
   }
 }

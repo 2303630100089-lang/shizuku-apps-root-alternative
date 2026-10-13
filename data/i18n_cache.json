@@ -1357,7 +1357,20 @@
     "Reads your Our Notes save on Android, iOS, Windows, macOS and Linux and shows everything it holds": "读取 Android、iOS、Windows、macOS 和 Linux 上保存的“我们的笔记”并显示其中包含的所有内容",
     "Open any music link in your favorite app": "打开您喜爱的应用程序中的任何音乐链接",
     "An Android weather app modelled on Apple Weather: animated skies, detail charts, widgets, alerts and Pixel At a Glance support via Smartspacer.": "一款以 Apple Weather 为蓝本的 Android 天气应用程序：动画天空、详细图表、小部件、警报以及通过 Smartspacer 提供的 Pixel At a Glance 支持。",
-    "See and monitor when apps access the Mic, Camera, and Location": "查看并监控应用程序何时访问麦克风、摄像头和位置"
+    "See and monitor when apps access the Mic, Camera, and Location": "查看并监控应用程序何时访问麦克风、摄像头和位置",
+    "Magi-Labs": "Magi实验室",
+    "Gengaroshi": "元正",
+    "wlmosv-png": "wlmosv-png",
+    "A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.": "代理的第二个 Android 屏幕：真实的应用程序、屏幕截图驱动的输入和独立的 Shizuku 显示屏。 Android 16 预览版。",
+    "lejw0925": "lejw0925",
+    "Yigder": "伊格德尔",
+    "haneoka-gakuen": "羽冈学园",
+    "Claude, with hands — an Android assistant driven by Claude on your subscription, with supervised device control. Sideload the signed APK from Releases.": "Claude，用双手 — 一款由 Claude 在您的订阅中驱动的 Android 助手，具有受监督的设备控制功能。从发行版旁加载已签名的 APK。",
+    "Lightweight Android file manager optimized for Galaxy S26: 7-Zip archives, SMB/SFTP/FTP/WebDAV, Shizuku, and DeX dual panes.": "针对 Galaxy S26 优化的轻量级 Android 文件管理器：7-Zip 存档、SMB/SFTP/FTP/WebDAV、Shizuku 和 DeX 双窗格。",
+    "strider-ape": "黾猿",
+    "Pegoku": "佩格库",
+    "ZENINXOP": "泽宁克斯",
+    "astrovm": "星体"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2717,6 +2730,19 @@
     "Reads your Our Notes save on Android, iOS, Windows, macOS and Linux and shows everything it holds": "Читает ваши сохранения «Наши заметки» на Android, iOS, Windows, macOS и Linux и показывает все, что в них есть.",
     "See and monitor when apps access the Mic, Camera, and Location": "Просматривайте и отслеживайте, когда приложения получают доступ к микрофону, камере и местоположению.",
     "An Android weather app modelled on Apple Weather: animated skies, detail charts, widgets, alerts and Pixel At a Glance support via Smartspacer.": "Приложение погоды для Android, созданное по образцу Apple Weather: анимированное небо, подробные диаграммы, виджеты, оповещения и поддержка Pixel At a Glance через Smartspacer.",
-    "Open any music link in your favorite app": "Откройте любую ссылку на музыку в любимом приложении."
+    "Open any music link in your favorite app": "Откройте любую ссылку на музыку в любимом приложении.",
+    "wlmosv-png": "wlmosv-png",
+    "A second Android screen for agents: real apps, screenshot-driven input, and an independent Shizuku display. Android 16 preview.": "Второй экран Android для агентов: настоящие приложения, ввод с помощью скриншотов и независимый дисплей Shizuku. Предварительный просмотр Android 16.",
+    "Magi-Labs": "Маги-Лабс",
+    "Gengaroshi": "Генгароши",
+    "Claude, with hands — an Android assistant driven by Claude on your subscription, with supervised device control. Sideload the signed APK from Releases.": "Клод с руками — Android-помощник, управляемый Клодом по вашей подписке, с контролируемым управлением устройством. Загрузите подписанный APK из Releases.",
+    "haneoka-gakuen": "Ханеока-гакуэн",
+    "lejw0925": "lejw0925",
+    "Yigder": "Йигдер",
+    "Lightweight Android file manager optimized for Galaxy S26: 7-Zip archives, SMB/SFTP/FTP/WebDAV, Shizuku, and DeX dual panes.": "Легкий файловый менеджер Android, оптимизированный для Galaxy S26: архивы 7-Zip, двойные панели SMB/SFTP/FTP/WebDAV, Shizuku и DeX.",
+    "Pegoku": "Пегоку",
+    "strider-ape": "странствующая обезьяна",
+    "ZENINXOP": "ЗЕНИНКСОП",
+    "astrovm": "астром"
   }
 }
