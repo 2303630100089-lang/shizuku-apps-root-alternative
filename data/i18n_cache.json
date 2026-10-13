@@ -1370,7 +1370,20 @@
     "strider-ape": "黾猿",
     "Pegoku": "佩格库",
     "ZENINXOP": "泽宁克斯",
-    "astrovm": "星体"
+    "astrovm": "星体",
+    "EVA — Extensible Voice Assistant for Android": "EVA — 适用于 Android 的可扩展语音助手",
+    "One Android app for phone sending and TV receiving: AirPlay, DLNA, GameStream, video framing, themes and trusted-LAN APK transfer. Experimental preview.": "一款用于电话发送和电视接收的 Android 应用程序：AirPlay、DLNA、GameStream、视频帧、主题和可信 LAN APK 传输。实验预览。",
+    "一款安卓自动滑动APP，可以自动播放短视频、自动翻页阅读小说": "一款安卓自动滑动APP，可以自动播放短视频、自动翻页阅读小说",
+    "Android wireless ADB screen-awake app with Quick Settings tiles and a macOS helper": "Android 无线 ADB 屏幕唤醒应用程序，带有快速设置图块和 macOS 帮助程序",
+    "Android terminal running adb-level shell via Shizuku, with a liquid glass UI": "Android 终端通过 Shizuku 运行 adb 级 shell，带有液体玻璃 UI",
+    "把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥": "把官方opencode装进手机的Android应用：内置proot + Ubuntu，免root / 免Termux，含间隙对话页与设备Shell桥",
+    "Use an Android phone as a wireless microphone for any Linux PC (PipeWire). Phone app with one-time pairing, no cable or USB debugging, reconnects by itself after reboots. GNOME Quick Settings tile.": "使用 Android 手机作为任何 Linux PC (PipeWire) 的无线麦克风。手机应用程序一次性配对，无需电缆或 USB 调试，重启后自行重新连接。 GNOME 快速设置图块。",
+    "Hearing-test-driven system EQ and Bluetooth link-quality monitor for Android. Fully offline, no INTERNET permission.": "适用于 Android 的听力测试驱动系统均衡器和蓝牙链路质量监视器。完全离线，没有互联网权限。",
+    "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还能在手机上自己编译、打包、签名、发布。Android APK for DeepSeek Harness — no Termux, no root, no PC; it builds, signs and releases itself on the phone.": "把 DeepSeek Harness 备份成能直接安装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还可以手机上自己编译、备份、签名、发布。DeepSeek Harness 的 Android APK — 无需 Termux、无需 root、无需 PC；它在手机上自行构建、签名和发布。",
+    "Android app for band, RAT, and cell locking": "用于频段、RAT 和手机锁定的 Android 应用程序",
+    "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha，让你可以随时随地体验cc-haha强大的AI编码能力": "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha，让你可以随时随地体验cc-haha强大的AI编码能力",
+    "Android system app manager powered by Shizuku. Open source, ad-free,": "Android 系统应用程序管理器由 Shizuku 提供支持。开源、无广告、",
+    "Some Popular Android APK": "一些流行的Android APK"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2743,6 +2756,19 @@
     "Pegoku": "Пегоку",
     "strider-ape": "странствующая обезьяна",
     "ZENINXOP": "ЗЕНИНКСОП",
-    "astrovm": "астром"
+    "astrovm": "астром",
+    "EVA — Extensible Voice Assistant for Android": "EVA — расширяемый голосовой помощник для Android",
+    "一款安卓自动滑动APP，可以自动播放短视频、自动翻页阅读小说": "一款安卓自动滑动APP,可以自动播放短视频、自动翻页阅读小说",
+    "One Android app for phone sending and TV receiving: AirPlay, DLNA, GameStream, video framing, themes and trusted-LAN APK transfer. Experimental preview.": "Одно Android-приложение для отправки по телефону и приема телепередач: AirPlay, DLNA, GameStream, кадрирование видео, темы и передача APK по доверенной локальной сети. Экспериментальное превью.",
+    "Android wireless ADB screen-awake app with Quick Settings tiles and a macOS helper": "Беспроводное приложение Android ADB для пробуждения экрана с плитками быстрых настроек и помощником macOS",
+    "Android terminal running adb-level shell via Shizuku, with a liquid glass UI": "Android-терминал с оболочкой уровня adb через Shizuku и пользовательским интерфейсом из жидкого стекла.",
+    "把官方 opencode 装进手机的 Android 应用：内置 proot + Ubuntu，免 root / 免 Termux，含原生对话页与设备 Shell 桥": "Поддержка opencode 装进手机的 Android Версия: Proot + Ubuntu, root / Termux, поддержка Shell",
+    "Use an Android phone as a wireless microphone for any Linux PC (PipeWire). Phone app with one-time pairing, no cable or USB debugging, reconnects by itself after reboots. GNOME Quick Settings tile.": "Используйте телефон Android в качестве беспроводного микрофона для любого ПК с Linux (PipeWire). Приложение для телефона с однократным сопряжением, без отладки по кабелю или USB, автоматически подключается после перезагрузки. Плитка быстрых настроек GNOME.",
+    "Hearing-test-driven system EQ and Bluetooth link-quality monitor for Android. Fully offline, no INTERNET permission.": "Система эквалайзера для проверки слуха и монитор качества связи Bluetooth для Android. Полностью офлайн, без доступа в Интернет.",
+    "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还能在手机上自己编译、打包、签名、发布。Android APK for DeepSeek Harness — no Termux, no root, no PC; it builds, signs and releases itself on the phone.": "Скачать DeepSeek Harness 打包成能直接装的安卓 APK:不用 Termux、不用 root、不用配环境，21 Android APK для DeepSeek Harness — без Termux, без рута, без ПК; он строит, подписывает и публикует себя на телефоне.",
+    "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha，让你可以随时随地体验cc-haha强大的AI编码能力": "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha,让你可以随时随地体验cc-haha强大的AI编码能力",
+    "Android app for band, RAT, and cell locking": "Android-приложение для блокировки диапазона, RAT и сотовой связи",
+    "Some Popular Android APK": "Некоторые популярные APK-файлы для Android",
+    "Android system app manager powered by Shizuku. Open source, ad-free,": "Менеджер системных приложений Android на базе Shizuku. Открытый исходный код, без рекламы,"
   }
 }

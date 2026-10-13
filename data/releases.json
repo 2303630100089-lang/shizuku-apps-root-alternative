@@ -11038,5 +11038,192 @@
     ],
     "mirror_release_tag": "batteryguard-v1.0.28",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batteryguard-v1.0.28"
+  },
+  "debloat": {
+    "source_repository": "turkdevprodoctions/debloat",
+    "source_release_id": 412002222,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-10-13T18:52:27Z",
+    "synced_at": "2026-10-13T19:10:41.955961+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637942309,
+        "filename": "Debloat.apk",
+        "original_filename": "Debloat.apk",
+        "sha256": "6194bbb7d48616c0ba57f1adfbcd732a49f26308b93d5a043424b2b7ae700b92",
+        "file_size": 765310,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "debloat-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debloat-v1.0"
+  },
+  "dankyeeters-bluetooth-dashboard": {
+    "source_repository": "DankYeeter/dankyeeters-bluetooth-dashboard",
+    "source_release_id": 372628718,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-08-18T20:37:13Z",
+    "synced_at": "2026-10-13T19:10:50.882590+00:00",
+    "assets": [
+      {
+        "source_asset_id": 519944080,
+        "filename": "btdashboard-v0.2.0.apk",
+        "original_filename": "btdashboard-v0.2.0.apk",
+        "sha256": "d67defd2536ace319a36c1497ed0a9dbb36ddf4a124016f2c0a801cfb9f6f222",
+        "file_size": 64473448,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dankyeeters-bluetooth-dashboard-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dankyeeters-bluetooth-dashboard-v0.2.0"
+  },
+  "bunnylock": {
+    "source_repository": "btsearch/bunnylock",
+    "source_release_id": 411677150,
+    "source_tag": "v1.1.2",
+    "source_published_at": "2026-10-13T12:58:06Z",
+    "synced_at": "2026-10-13T19:10:55.106923+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637043399,
+        "filename": "bunnylock-1.1.2.apk",
+        "original_filename": "bunnylock-1.1.2.apk",
+        "sha256": "6aadf7d063ac566edcccd50c94a3aefdd60efab2e854df95ffbc7fccc734be31",
+        "file_size": 2853641,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "bunnylock-v1.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-v1.1.2"
+  },
+  "cc-haha-for-android": {
+    "source_repository": "Vantasi-Imilus/cc-haha-for-Android",
+    "source_release_id": 411989529,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-13T18:35:19Z",
+    "synced_at": "2026-10-13T19:11:26.732629+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637932673,
+        "filename": "cc-haha-android-release.apk",
+        "original_filename": "cc-haha-android-release.apk",
+        "sha256": "b927c74b2b54e8ce8dbb09e257b07dfc3d1d74608320910835df959ee9a1135f",
+        "file_size": 347713213,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cc-haha-for-android-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cc-haha-for-android-v1.0.0"
+  },
+  "cccodroid": {
+    "source_repository": "greyoak111/cccodroid",
+    "source_release_id": 411777645,
+    "source_tag": "v0.1.2",
+    "source_published_at": "2026-10-13T14:36:31Z",
+    "synced_at": "2026-10-13T19:11:31.016723+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637303325,
+        "filename": "cccodroid.apk",
+        "original_filename": "cccodroid.apk",
+        "sha256": "9bc145bbaecc3ace772e2e614a786e0bbefb9161d1db57fff89a50a02a417f9e",
+        "file_size": 328103,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cccodroid-v0.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cccodroid-v0.1.2"
+  },
+  "eva": {
+    "source_repository": "colonelpanic8/eva",
+    "source_release_id": 412014060,
+    "source_tag": "v0.62.0",
+    "source_published_at": "2026-10-13T19:05:24Z",
+    "synced_at": "2026-10-13T19:11:39.085827+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637975430,
+        "filename": "eva.apk",
+        "original_filename": "eva.apk",
+        "sha256": "1cdeba9a43e45386762dc308d32a0ba3613e49348ae1d088f40e64a03f321e35",
+        "file_size": 63538313,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "eva-v0.62.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eva-v0.62.0"
+  },
+  "opencode-pocket": {
+    "source_repository": "evilqin/opencode-pocket",
+    "source_release_id": 411872047,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-10-13T16:12:57Z",
+    "synced_at": "2026-10-13T19:11:46.708946+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637557817,
+        "filename": "opencode-pocket-1.1.1-arm64-slim.apk",
+        "original_filename": "opencode-pocket-1.1.1-arm64-slim.apk",
+        "sha256": "b39f6b278235bb846b95a6de09cc843e087fcc26719acb2590087a87f5686e83",
+        "file_size": 4295094,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 637557819,
+        "filename": "opencode-pocket-1.1.1-arm64.apk",
+        "original_filename": "opencode-pocket-1.1.1-arm64.apk",
+        "sha256": "b8c2d6a79358dae93d0afa7ef1bc21ad070d18f3fa56d63a7768aca8ec0ed634",
+        "file_size": 29511599,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "opencode-pocket-v1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-pocket-v1.1.1"
+  },
+  "openterminal": {
+    "source_repository": "LinuxKernel44/OpenTerminal",
+    "source_release_id": 411827711,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-13T15:25:50Z",
+    "synced_at": "2026-10-13T19:11:51.090964+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637432542,
+        "filename": "OpenTerminal-1.0.0.apk",
+        "original_filename": "OpenTerminal-1.0.0.apk",
+        "sha256": "97f2a9326744649993dcfed955c7daacab816ed59e42d5b2164111e43ed1fd6e",
+        "file_size": 1060944,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "openterminal-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openterminal-v1.0.0"
+  },
+  "apk-me": {
+    "source_repository": "arghya339/apk-me",
+    "source_release_id": 374215263,
+    "source_tag": "v30.7.8",
+    "source_published_at": "2026-08-21T07:07:01Z",
+    "synced_at": "2026-10-13T19:12:09.312058+00:00",
+    "assets": [
+      {
+        "source_asset_id": 567050422,
+        "filename": "Picsart-rushiranpise-morphe-patches_v30.7.8-1.22.0.apk",
+        "original_filename": "Picsart-rushiranpise-morphe-patches_v30.7.8-1.22.0.apk",
+        "sha256": "b01a022a69f44ec69350ad9c1464d22e2c248d642edc7a9450e8f30bf7e6f2a7",
+        "file_size": 88063341,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 567048391,
+        "filename": "Picsart_v30.7.8-993830708.apk",
+        "original_filename": "Picsart_v30.7.8-993830708.apk",
+        "sha256": "10a43ee08595b8d59ef42ed934730a0f608cdb7e2b20644c518bf7ee3b5ce77c",
+        "file_size": 86723957,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "apk-me-v30.7.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/apk-me-v30.7.8"
   }
 }
