@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[nexus_input](https://github.com/esooLsIeicuJehT/nexus_input)** | NEXUS INPUT 是一款 Android 控制器到触摸/鼠标/键盘映射器，具有 KernelSU 优先注入、Shizuku/Sui 后备、持久的每游戏配置文件、实时游戏内叠加编辑、控制器校准和 KernelSU 配套 WebUI。 | MIT | [GitHub 源码](https://github.com/esooLsIeicuJehT/nexus_input) • [下载发布](https://github.com/esooLsIeicuJehT/nexus_input/releases) |
+| **[FolkPatch](https://github.com/Buwrt/FolkPatch)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/Buwrt/FolkPatch) • [下载发布](https://github.com/Buwrt/FolkPatch/releases) |
+| **[SamsungLockD2-Public](https://github.com/SysopBP/SamsungLockD2-Public)** | Samsung Lock D2 — 实验性 Android 隐私屏幕，具有独立 PIN 码和可选的根信息亭。版权所有。 | See project | [GitHub 源码](https://github.com/SysopBP/SamsungLockD2-Public) • [下载发布](https://github.com/SysopBP/SamsungLockD2-Public/releases) |
+| **[Tool-Hubs](https://github.com/firefly-sylestia/Tool-Hubs)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/firefly-sylestia/Tool-Hubs) • [下载发布](https://github.com/firefly-sylestia/Tool-Hubs/releases) |
+| **[BlaqClaw](https://github.com/geniuscr8/BlaqClaw)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/geniuscr8/BlaqClaw) • [下载发布](https://github.com/geniuscr8/BlaqClaw/releases) |
+| **[HoshimiLocalify-en](https://github.com/tokanada/HoshimiLocalify-en)** | Hoshimi Localify EN — LSPatch 翻译模块（Hoshimi Localify 的修改衍生物，GPL-3.0） | GPL-3.0 | [GitHub 源码](https://github.com/tokanada/HoshimiLocalify-en) • [下载发布](https://github.com/tokanada/HoshimiLocalify-en/releases) |
+| **[Meridian](https://github.com/kukirin-ui/Meridian)** | 适用于 Termux 的开源 Android 命令平台：实时电话读数、shell 配方、本地 llama.cpp AI 代理网格和语音助手。没有帐户，没有服务器。麻省理工学院。 | MIT | [GitHub 源码](https://github.com/kukirin-ui/Meridian) • [下载发布](https://github.com/kukirin-ui/Meridian/releases) |
+| **[BlackOut](https://github.com/xUmutKx/BlackOut)** | 将应用程序的灰色表面变成纯 AMOLED 黑色：根、可访问层或 LSPod 模块 | See project | [GitHub 源码](https://github.com/xUmutKx/BlackOut) • [下载发布](https://github.com/xUmutKx/BlackOut/releases) |
+| **[AxManager](https://github.com/fahrez182/AxManager)** | AxManager 是一款 Android 应用程序，旨在提供对应用程序和系统更深入的控制。 | Apache-2.0 | [GitHub 源码](https://github.com/fahrez182/AxManager) • [下载发布](https://github.com/fahrez182/AxManager/releases) |
+| **[MAA_Punish](https://github.com/overflow65537/MAA_Punish)** | 战双帕弥什每日任务自动化 \| Assistant For Punishing Gray Raven | MIT | [GitHub](https://github.com/overflow65537/MAA_Punish) • [Releases](https://github.com/overflow65537/MAA_Punish/releases) |
 | **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
 | **[apk-me](https://github.com/arghya339/apk-me)** | 一些流行的Android APK | GPL-3.0 | [GitHub 源码](https://github.com/arghya339/apk-me) • [下载发布](https://github.com/arghya339/apk-me/releases) |
 | **[OpenTerminal](https://github.com/LinuxKernel44/OpenTerminal)** | Android 终端通过 Shizuku 运行 adb 级 shell，带有液体玻璃 UI | GPL-3.0 | [GitHub 源码](https://github.com/LinuxKernel44/OpenTerminal) • [下载发布](https://github.com/LinuxKernel44/OpenTerminal/releases) |
@@ -256,16 +266,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **eva** | 恐慌上校8 | `v0.62.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eva-v0.62.0) | [Upstream](https://github.com/colonelpanic8/eva/releases) |
+| ⚡ **debloat** | 土耳其开发产品公司 | `v1.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debloat-v1.0) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
+| ⚡ **cc-haha-for-Android** | 凡塔西-伊米鲁斯 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cc-haha-for-android-v1.0.0) | [Upstream](https://github.com/Vantasi-Imilus/cc-haha-for-Android/releases) |
+| ⚡ **opencode-pocket** | 恶秦 | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
+| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
+| ⚡ **cccodroid** | 灰橡木111 | `v0.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cccodroid-v0.1.2) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
+| ⚡ **bunnylock** | BT搜索 | `v1.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-v1.1.2) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
+| ⚡ **PixelIMS_ru** | 泰达鲁 | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
 | ⚡ **crosstune** | 星体 | `v2.8.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.8.2) | [Upstream](https://github.com/astrovm/crosstune/releases) |
 | ⚡ **stratus** | 伊格德尔 | `v1.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3) | [Upstream](https://github.com/Yigder/stratus/releases) |
-| ⚡ **Hexora** | 泽宁克斯 | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
-| ⚡ **android-use** | 佩格库 | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
-| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
-| ⚡ **Koel** | 黾猿 | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
-| ⚡ **duobeam** | 元正 | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **mobilemcp** | Magi实验室 | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
-| ⚡ **haneoka-app** | 羽冈学园 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
-| ⚡ **wpaforge** | wlmosv-png | `v1.9.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wpaforge-v1.9.0) | [Upstream](https://github.com/wlmosv-png/wpaforge/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

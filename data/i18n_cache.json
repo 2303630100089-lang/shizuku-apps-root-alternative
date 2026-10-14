@@ -1383,7 +1383,21 @@
     "Android app for band, RAT, and cell locking": "用于频段、RAT 和手机锁定的 Android 应用程序",
     "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha，让你可以随时随地体验cc-haha强大的AI编码能力": "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha，让你可以随时随地体验cc-haha强大的AI编码能力",
     "Android system app manager powered by Shizuku. Open source, ad-free,": "Android 系统应用程序管理器由 Shizuku 提供支持。开源、无广告、",
-    "Some Popular Android APK": "一些流行的Android APK"
+    "Some Popular Android APK": "一些流行的Android APK",
+    "btsearch": "BT搜索",
+    "Vantasi-Imilus": "凡塔西-伊米鲁斯",
+    "evilqin": "恶秦",
+    "greyoak111": "灰橡木111",
+    "Turn the grey surfaces of your apps into pure AMOLED black: root, accessibility layer or LSPosed module": "将应用程序的灰色表面变成纯 AMOLED 黑色：根、可访问层或 LSPod 模块",
+    "Hoshimi Localify EN — LSPatch translation module (modified derivative of Hoshimi Localify, GPL-3.0)": "Hoshimi Localify EN — LSPatch 翻译模块（Hoshimi Localify 的修改衍生物，GPL-3.0）",
+    "NEXUS INPUT is an Android controller-to-touch / mouse / keyboard mapper with KernelSU-first injection, Shizuku/Sui fallback, persistent per-game profiles, live in-game overlay editing, controller calibration and a KernelSU companion WebUI.": "NEXUS INPUT 是一款 Android 控制器到触摸/鼠标/键盘映射器，具有 KernelSU 优先注入、Shizuku/Sui 后备、持久的每游戏配置文件、实时游戏内叠加编辑、控制器校准和 KernelSU 配套 WebUI。",
+    "| **[MAA_Punish](https://github.com/overflow65537/MAA_Punish)** | 战双帕弥什每日任务自动化 \\| Assistant For Punishing Gray Raven | MIT | [GitHub](https://github.com/overflow65537/MAA_Punish) • [Releases](https://github.com/overflow65537/MAA_Punish/releases) |": "| ** [MAA_Punish](https://github.com/overflow65537/MAA_Punish) ** | 战双帕弥什每日任务自动化\\|惩罚灰乌鸦的助手 |麻省理工学院 | [GitHub](https://github.com/overflow65537/MAA_Punish) • [Releases](https://github.com/overflow65537/MAA_Punish/releases) |",
+    "AxManager is an Android application designed to provide deeper control over apps and the system.": "AxManager 是一款 Android 应用程序，旨在提供对应用程序和系统更深入的控制。",
+    "taidaru": "泰达鲁",
+    "Open source Android command deck for Termux: live phone readings, shell recipes, local llama.cpp AI agent mesh, and voice assistant. No account, no server. MIT.": "适用于 Termux 的开源 Android 命令平台：实时电话读数、shell 配方、本地 llama.cpp AI 代理网格和语音助手。没有帐户，没有服务器。麻省理工学院。",
+    "turkdevprodoctions": "土耳其开发产品公司",
+    "colonelpanic8": "恐慌上校8",
+    "Samsung Lock D2 — experimental Android privacy screen with an independent PIN and optional root kiosk. All rights reserved.": "Samsung Lock D2 — 实验性 Android 隐私屏幕，具有独立 PIN 码和可选的根信息亭。版权所有。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2769,6 +2783,20 @@
     "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha，让你可以随时随地体验cc-haha强大的AI编码能力": "基于nanmicoder的开源项目cc-haha移植的安卓端cc-haha,让你可以随时随地体验cc-haha强大的AI编码能力",
     "Android app for band, RAT, and cell locking": "Android-приложение для блокировки диапазона, RAT и сотовой связи",
     "Some Popular Android APK": "Некоторые популярные APK-файлы для Android",
-    "Android system app manager powered by Shizuku. Open source, ad-free,": "Менеджер системных приложений Android на базе Shizuku. Открытый исходный код, без рекламы,"
+    "Android system app manager powered by Shizuku. Open source, ad-free,": "Менеджер системных приложений Android на базе Shizuku. Открытый исходный код, без рекламы,",
+    "Vantasi-Imilus": "Вантаси-Имилус",
+    "btsearch": "btsearch",
+    "evilqin": "злодей",
+    "greyoak111": "Грейок111",
+    "| **[MAA_Punish](https://github.com/overflow65537/MAA_Punish)** | 战双帕弥什每日任务自动化 \\| Assistant For Punishing Gray Raven | MIT | [GitHub](https://github.com/overflow65537/MAA_Punish) • [Releases](https://github.com/overflow65537/MAA_Punish/releases) |": "| ** [MAA_Punish](https://github.com/overflow65537/MAA_Punish) ** | 战双帕弥什每日任务自动化 \\| Помощник по наказанию Серого Ворона | Массачусетский технологический институт | [GitHub](https://github.com/overflow65537/MAA_Punish) • [Releases](https://github.com/overflow65537/MAA_Punish/releases) |",
+    "Hoshimi Localify EN — LSPatch translation module (modified derivative of Hoshimi Localify, GPL-3.0)": "Hoshimi Localify EN — модуль перевода LSPatch (модифицированная производная от Hoshimi Localify, GPL-3.0)",
+    "Turn the grey surfaces of your apps into pure AMOLED black: root, accessibility layer or LSPosed module": "Превратите серые поверхности ваших приложений в чистый черный AMOLED: корневой слой, уровень доступности или модуль LSPosed.",
+    "turkdevprodoctions": "туркдевпродакшнс",
+    "AxManager is an Android application designed to provide deeper control over apps and the system.": "AxManager — это приложение для Android, предназначенное для обеспечения более глубокого контроля над приложениями и системой.",
+    "NEXUS INPUT is an Android controller-to-touch / mouse / keyboard mapper with KernelSU-first injection, Shizuku/Sui fallback, persistent per-game profiles, live in-game overlay editing, controller calibration and a KernelSU companion WebUI.": "NEXUS INPUT — это устройство сопоставления контроллера/мыши/клавиатуры Android с инъекцией KernelSU, резервным режимом Shizuku/Sui, постоянными игровыми профилями, редактированием внутриигровых наложений, калибровкой контроллера и сопутствующим веб-интерфейсом KernelSU.",
+    "Samsung Lock D2 — experimental Android privacy screen with an independent PIN and optional root kiosk. All rights reserved.": "Samsung Lock D2 — экспериментальный экран конфиденциальности Android с независимым PIN-кодом и дополнительным корневым киоском. Все права защищены.",
+    "taidaru": "Тайдару",
+    "colonelpanic8": "полковникpanic8",
+    "Open source Android command deck for Termux: live phone readings, shell recipes, local llama.cpp AI agent mesh, and voice assistant. No account, no server. MIT.": "Командная панель Android с открытым исходным кодом для Termux: показания телефона в реальном времени, рецепты оболочки, локальная сетка AI-агента llama.cpp и голосовой помощник. Ни аккаунта, ни сервера. Массачусетский технологический институт."
   }
 }

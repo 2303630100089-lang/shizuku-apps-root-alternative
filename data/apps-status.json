@@ -1490,9 +1490,9 @@
   },
   "folkpatch": {
     "status": "synced",
-    "last_checked": "2026-10-03T16:07:14.805994+00:00",
-    "latest_version": "115051",
-    "last_synced": "2026-10-03T16:07:14.805994+00:00"
+    "last_checked": "2026-10-14T04:33:36.813848+00:00",
+    "latest_version": "115357",
+    "last_synced": "2026-10-14T04:33:36.813848+00:00"
   },
   "nearestplane": {
     "status": "synced",
@@ -2725,5 +2725,55 @@
     "last_checked": "2026-10-13T19:12:09.312077+00:00",
     "latest_version": "v30.7.8",
     "last_synced": "2026-10-13T19:12:09.312077+00:00"
+  },
+  "maa-punish": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:32:46.799326+00:00",
+    "latest_version": "v3.12.3",
+    "last_synced": "2026-10-14T04:32:46.799326+00:00"
+  },
+  "axmanager": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:32:51.361306+00:00",
+    "latest_version": "v1.4.8",
+    "last_synced": "2026-10-14T04:32:51.361306+00:00"
+  },
+  "blackout": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:32:55.039054+00:00",
+    "latest_version": "v0.38",
+    "last_synced": "2026-10-14T04:32:55.039054+00:00"
+  },
+  "meridian": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:32:58.543204+00:00",
+    "latest_version": "v1.8.6",
+    "last_synced": "2026-10-14T04:32:58.543204+00:00"
+  },
+  "hoshimilocalify-en": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:33:12.006901+00:00",
+    "latest_version": "v1.4.1",
+    "last_synced": "2026-10-14T04:33:12.006901+00:00"
+  },
+  "blaqclaw": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:33:24.325268+00:00",
+    "latest_version": "universal-latest",
+    "last_synced": "2026-10-14T04:33:24.325268+00:00"
+  },
+  "tool-hubs": {
+    "status": "synced",
+    "last_checked": "2026-10-14T04:33:34.697835+00:00",
+    "latest_version": "v0.11.4",
+    "last_synced": "2026-10-14T04:33:34.697835+00:00"
+  },
+  "samsunglockd2-public": {
+    "status": "no-apk",
+    "last_checked": "2026-10-14T04:33:35.448380+00:00"
+  },
+  "nexus-input": {
+    "status": "no-apk",
+    "last_checked": "2026-10-14T04:33:37.117111+00:00"
   }
 }
