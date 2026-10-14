@@ -11382,5 +11382,173 @@
     ],
     "mirror_release_tag": "tool-hubs-v0.11.4",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-hubs-v0.11.4"
+  },
+  "cana": {
+    "source_repository": "jordanwoodson/cana",
+    "source_release_id": 407019865,
+    "source_tag": "3.2.2-cana.26",
+    "source_published_at": "2026-10-08T16:02:23Z",
+    "synced_at": "2026-10-14T16:59:24.017210+00:00",
+    "assets": [
+      {
+        "source_asset_id": 622305599,
+        "filename": "cana-v3.2.2-cana.26.apk",
+        "original_filename": "cana-v3.2.2-cana.26.apk",
+        "sha256": "bc85cadc64d1ccfce22e448f425ca04f6066360ce86d044f6f3134e2825efb6c",
+        "file_size": 6809226,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "cana-3.2.2-cana.26",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cana-3.2.2-cana.26"
+  },
+  "calisthenics-app": {
+    "source_repository": "kyirejson/calisthenics-app",
+    "source_release_id": 411895984,
+    "source_tag": "v1.7.12",
+    "source_published_at": "2026-10-13T16:43:56Z",
+    "synced_at": "2026-10-14T16:59:36.276180+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637628884,
+        "filename": "uncover-v1.7.12.apk",
+        "original_filename": "uncover-v1.7.12.apk",
+        "sha256": "13e5754354d52c1cd8775b3652c50577c1ce060a8c3e425b167c8b04a789d71d",
+        "file_size": 157584366,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "calisthenics-app-v1.7.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/calisthenics-app-v1.7.12"
+  },
+  "googletvairplay": {
+    "source_repository": "mkatadev/GoogleTVAirPlay",
+    "source_release_id": 412850020,
+    "source_tag": "v1.3.5",
+    "source_published_at": "2026-10-14T15:01:53Z",
+    "synced_at": "2026-10-14T16:59:44.598230+00:00",
+    "assets": [
+      {
+        "source_asset_id": 640723347,
+        "filename": "AirPlay-for-Google-TV-v1.3.5.apk",
+        "original_filename": "AirPlay-for-Google-TV-v1.3.5.apk",
+        "sha256": "576e3ffed0c813ee52c5d0af68bae526b29535b0259ce63b9652ad6e17edc271",
+        "file_size": 84554331,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "googletvairplay-v1.3.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/googletvairplay-v1.3.5"
+  },
+  "pulse": {
+    "source_repository": "xUmutKx/Pulse",
+    "source_release_id": 410348330,
+    "source_tag": "v0.10.16",
+    "source_published_at": "2026-10-12T08:05:16Z",
+    "synced_at": "2026-10-14T16:59:48.689486+00:00",
+    "assets": [
+      {
+        "source_asset_id": 633107714,
+        "filename": "Pulse-v0.10.16.apk",
+        "original_filename": "Pulse-v0.10.16.apk",
+        "sha256": "4632a74d9c6134a0431ad0f5e1ae9b53b66d3dfffecc4cc0ba8393a8e897f264",
+        "file_size": 2964790,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pulse-v0.10.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pulse-v0.10.16"
+  },
+  "background-check": {
+    "source_repository": "jordanwoodson/background-check",
+    "source_release_id": 412898453,
+    "source_tag": "1.1.1-bgcheck.16",
+    "source_published_at": "2026-10-14T15:48:06Z",
+    "synced_at": "2026-10-14T16:59:52.723715+00:00",
+    "assets": [
+      {
+        "source_asset_id": 640850143,
+        "filename": "background-check-1.1.1-bgcheck.16.apk",
+        "original_filename": "background-check-1.1.1-bgcheck.16.apk",
+        "sha256": "e60847844a2d5bc97fc9178f7c08d43fded03c6815045133e4ac304005ce8915",
+        "file_size": 5498361,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "background-check-1.1.1-bgcheck.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/background-check-1.1.1-bgcheck.16"
+  },
+  "etaw-cleaner": {
+    "source_repository": "ETQWFD/ETAW-Cleaner",
+    "source_release_id": 412628308,
+    "source_tag": "v1.5.1",
+    "source_published_at": "2026-10-14T11:13:54Z",
+    "synced_at": "2026-10-14T16:59:57.012717+00:00",
+    "assets": [
+      {
+        "source_asset_id": 640139410,
+        "filename": "ETAW-Cleaner-v1.5.1.apk",
+        "original_filename": "ETAW-Cleaner-v1.5.1.apk",
+        "sha256": "591b02c85267959470d8afbbd8a1ec3d7587bb2f8b215286c6f1108c4d4a0bb7",
+        "file_size": 5053400,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "etaw-cleaner-v1.5.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/etaw-cleaner-v1.5.1"
+  },
+  "dfroot": {
+    "source_repository": "diabl0w/DFRoot",
+    "source_release_id": 411982668,
+    "source_tag": "v4.3",
+    "source_published_at": "2026-10-13T18:26:43Z",
+    "synced_at": "2026-10-14T17:00:02.008167+00:00",
+    "assets": [
+      {
+        "source_asset_id": 637885937,
+        "filename": "DFRoot_4.3.apk",
+        "original_filename": "DFRoot_4.3.apk",
+        "sha256": "5e736447d08e947674eb89a5c72ba2655ec4809ae202ea4ec3920b11ff72905f",
+        "file_size": 80523,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "dfroot-v4.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dfroot-v4.3"
+  },
+  "muse": {
+    "source_repository": "Zer0Qing/Muse",
+    "source_release_id": 412961558,
+    "source_tag": "v2.6.1",
+    "source_published_at": "2026-10-14T16:53:49Z",
+    "synced_at": "2026-10-14T17:00:31.094990+00:00",
+    "assets": [
+      {
+        "source_asset_id": 641022258,
+        "filename": "Muse_v2.6.1_arm64-v8a.apk",
+        "original_filename": "Muse_v2.6.1_arm64-v8a.apk",
+        "sha256": "6b5c42e5609273e3403ae97511d905d024f6b2ccb064db6a7edb728cfa0107b2",
+        "file_size": 97061402,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 641022825,
+        "filename": "Muse_v2.6.1_armeabi-v7a.apk",
+        "original_filename": "Muse_v2.6.1_armeabi-v7a.apk",
+        "sha256": "ec632bf0d6098088a7428bb91d9c0a6d78b7ef1cb5d7ec8d059608978d8977d6",
+        "file_size": 54626654,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 641023224,
+        "filename": "Muse_v2.6.1_universal.apk",
+        "original_filename": "Muse_v2.6.1_universal.apk",
+        "sha256": "7d05f0db4ceaaf8c78afb2fe9f3b9fe1c10344139daceab87cc9067e215a84bf",
+        "file_size": 179332537,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "muse-v2.6.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muse-v2.6.1"
   }
 }

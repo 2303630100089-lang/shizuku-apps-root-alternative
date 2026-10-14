@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-13T19:10:42.435496+00:00",
+    "last_checked": "2026-10-14T16:59:57.519544+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-13T19:11:47.305080+00:00",
+    "last_checked": "2026-10-14T16:59:17.559571+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-13T19:10:36.497938+00:00"
+    "last_checked": "2026-10-14T16:59:19.397500+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-13T19:10:57.012244+00:00",
+    "last_checked": "2026-10-14T16:59:17.003449+00:00",
     "latest_version": "zako3.13",
     "last_synced": "2026-10-11T17:37:53.706759+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-13T19:10:56.410160+00:00",
+    "last_checked": "2026-10-14T16:59:18.422736+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-13T19:12:10.043525+00:00",
+    "last_checked": "2026-10-14T16:59:58.401438+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-13T19:10:55.880924+00:00",
+    "last_checked": "2026-10-14T16:59:19.936400+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T17:14:53.549377+00:00"
   },
@@ -1489,8 +1489,8 @@
     "last_synced": "2026-10-03T16:07:09.953806+00:00"
   },
   "folkpatch": {
-    "status": "synced",
-    "last_checked": "2026-10-14T04:33:36.813848+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-14T16:59:18.836922+00:00",
     "latest_version": "115357",
     "last_synced": "2026-10-14T04:33:36.813848+00:00"
   },
@@ -2775,5 +2775,66 @@
   "nexus-input": {
     "status": "no-apk",
     "last_checked": "2026-10-14T04:33:37.117111+00:00"
+  },
+  "stereo-bridge": {
+    "status": "no-apk",
+    "last_checked": "2026-10-14T16:59:17.823115+00:00"
+  },
+  "vitreo-launcher": {
+    "status": "no-apk",
+    "last_checked": "2026-10-14T16:59:19.150075+00:00"
+  },
+  "cana": {
+    "status": "synced",
+    "last_checked": "2026-10-14T16:59:24.017232+00:00",
+    "latest_version": "3.2.2-cana.26",
+    "last_synced": "2026-10-14T16:59:24.017232+00:00"
+  },
+  "calisthenics-app": {
+    "status": "synced",
+    "last_checked": "2026-10-14T16:59:36.276202+00:00",
+    "latest_version": "v1.7.12",
+    "last_synced": "2026-10-14T16:59:36.276202+00:00"
+  },
+  "googletvairplay": {
+    "status": "synced",
+    "last_checked": "2026-10-14T16:59:44.598249+00:00",
+    "latest_version": "v1.3.5",
+    "last_synced": "2026-10-14T16:59:44.598249+00:00"
+  },
+  "pulse": {
+    "status": "synced",
+    "last_checked": "2026-10-14T16:59:48.689507+00:00",
+    "latest_version": "v0.10.16",
+    "last_synced": "2026-10-14T16:59:48.689507+00:00"
+  },
+  "background-check": {
+    "status": "synced",
+    "last_checked": "2026-10-14T16:59:52.723735+00:00",
+    "latest_version": "1.1.1-bgcheck.16",
+    "last_synced": "2026-10-14T16:59:52.723735+00:00"
+  },
+  "tianxuan": {
+    "status": "no-apk",
+    "last_checked": "2026-10-14T16:59:53.191046+00:00",
+    "latest_version": "v0.23.0"
+  },
+  "etaw-cleaner": {
+    "status": "synced",
+    "last_checked": "2026-10-14T16:59:57.012734+00:00",
+    "latest_version": "v1.5.1",
+    "last_synced": "2026-10-14T16:59:57.012734+00:00"
+  },
+  "dfroot": {
+    "status": "synced",
+    "last_checked": "2026-10-14T17:00:02.008184+00:00",
+    "latest_version": "v4.3",
+    "last_synced": "2026-10-14T17:00:02.008184+00:00"
+  },
+  "muse": {
+    "status": "synced",
+    "last_checked": "2026-10-14T17:00:31.095009+00:00",
+    "latest_version": "v2.6.1",
+    "last_synced": "2026-10-14T17:00:31.095009+00:00"
   }
 }
