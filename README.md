@@ -253,16 +253,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **eva** | colonelpanic8 | `v0.62.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eva-v0.62.0) | [Upstream](https://github.com/colonelpanic8/eva/releases) |
+| ⚡ **debloat** | turkdevprodoctions | `v1.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debloat-v1.0) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
+| ⚡ **cc-haha-for-Android** | Vantasi-Imilus | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cc-haha-for-android-v1.0.0) | [Upstream](https://github.com/Vantasi-Imilus/cc-haha-for-Android/releases) |
+| ⚡ **opencode-pocket** | evilqin | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
+| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
+| ⚡ **cccodroid** | greyoak111 | `v0.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cccodroid-v0.1.2) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
+| ⚡ **bunnylock** | btsearch | `v1.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-v1.1.2) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
+| ⚡ **PixelIMS_ru** | taidaru | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
 | ⚡ **crosstune** | astrovm | `v2.8.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.8.2) | [Upstream](https://github.com/astrovm/crosstune/releases) |
 | ⚡ **stratus** | Yigder | `v1.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3) | [Upstream](https://github.com/Yigder/stratus/releases) |
-| ⚡ **Hexora** | ZENINXOP | `v0.1.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hexora-v0.1.2) | [Upstream](https://github.com/ZENINXOP/Hexora/releases) |
-| ⚡ **android-use** | Pegoku | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-use-v0.5.0) | [Upstream](https://github.com/Pegoku/android-use/releases) |
-| ⚡ **android-virtual-screen** | lejw0925 | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-virtual-screen-v0.0.1) | [Upstream](https://github.com/lejw0925/android-virtual-screen/releases) |
-| ⚡ **Koel** | strider-ape | `v0.5.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/koel-v0.5.0) | [Upstream](https://github.com/strider-ape/Koel/releases) |
-| ⚡ **duobeam** | Gengaroshi | `v0.8.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.3) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **mobilemcp** | Magi-Labs | `v0.6.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mobilemcp-v0.6.0) | [Upstream](https://github.com/Magi-Labs/mobilemcp/releases) |
-| ⚡ **haneoka-app** | haneoka-gakuen | `v0.0.1` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haneoka-app-v0.0.1) | [Upstream](https://github.com/haneoka-gakuen/haneoka-app/releases) |
-| ⚡ **wpaforge** | wlmosv-png | `v1.9.0` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wpaforge-v1.9.0) | [Upstream](https://github.com/wlmosv-png/wpaforge/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
