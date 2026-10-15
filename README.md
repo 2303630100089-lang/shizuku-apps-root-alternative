@@ -262,16 +262,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **Muse** | Zer0Qing | `v2.6.1` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muse-v2.6.1) | [Upstream](https://github.com/Zer0Qing/Muse/releases) |
+| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
+| ⚡ **GoogleTVAirPlay** | mkatadev | `v1.3.5` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/googletvairplay-v1.3.5) | [Upstream](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
+| ⚡ **ETAW-Cleaner** | ETQWFD | `v1.5.1` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/etaw-cleaner-v1.5.1) | [Upstream](https://github.com/ETQWFD/ETAW-Cleaner/releases) |
+| ⚡ **BlaqClaw** | geniuscr8 | `universal-latest` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blaqclaw-universal-latest) | [Upstream](https://github.com/geniuscr8/BlaqClaw/releases) |
+| ⚡ **HoshimiLocalify-en** | tokanada | `v1.4.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hoshimilocalify-en-v1.4.1) | [Upstream](https://github.com/tokanada/HoshimiLocalify-en/releases) |
 | ⚡ **eva** | colonelpanic8 | `v0.62.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eva-v0.62.0) | [Upstream](https://github.com/colonelpanic8/eva/releases) |
 | ⚡ **debloat** | turkdevprodoctions | `v1.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debloat-v1.0) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
 | ⚡ **cc-haha-for-Android** | Vantasi-Imilus | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cc-haha-for-android-v1.0.0) | [Upstream](https://github.com/Vantasi-Imilus/cc-haha-for-Android/releases) |
-| ⚡ **opencode-pocket** | evilqin | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
-| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
-| ⚡ **cccodroid** | greyoak111 | `v0.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cccodroid-v0.1.2) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
-| ⚡ **bunnylock** | btsearch | `v1.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-v1.1.2) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
-| ⚡ **PixelIMS_ru** | taidaru | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
-| ⚡ **crosstune** | astrovm | `v2.8.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.8.2) | [Upstream](https://github.com/astrovm/crosstune/releases) |
-| ⚡ **stratus** | Yigder | `v1.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3) | [Upstream](https://github.com/Yigder/stratus/releases) |
+| ⚡ **DFRoot** | diabl0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
