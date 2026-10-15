@@ -1422,7 +1422,22 @@
     "ETQWFD": "ETQWFD",
     "📸 xCam - Modern virtual camera using images or videos with rotation and mirroring support.": "📸 xCam -使用支持旋转和镜像的图像或视频的现代虚拟摄像头。",
     "diabl0w": "diabl0w",
-    "Zer0Qing": "Zer0Qing"
+    "Zer0Qing": "Zer0Qing",
+    "An Android Auto alternative built for everyone": "为所有人打造的Android Auto替代方案",
+    "A standalone VoWiFi App for any Android phone with Shizuku supported.": "适用于任何支持Shizuku的Android手机的独立VoWiFi应用程序。",
+    "PUNK Companion - Automação Total, Visão Remota e Telemetria para Android via Hermes Agent & Shizuku": "PUNK Companion - Automação Total、Visão Remota e Telemetria para Android （通过Hermes Agent和Shizuku ）",
+    "All-in-One-Toolbox für Android über Shizuku (ohne Root): Schulmodus, Customization, App-Manager, Universal Installer, Gaming-Modus, Logcat": "All-in-One-Toolbox für Android über Shizuku （ ohne Root ） ： Schulmodus、定制、应用程序管理器、通用安装程序、游戏模式、Logcat",
+    "One tap to reset your Android mobile network without airplane mode, plus a 5G status notification per SIM. Kotlin, Shizuku/root.": "只需轻触一下，即可在没有飞行模式的情况下重置您的Android移动网络，并为每个SIM卡发送5G状态通知。Kotlin, Shizuku/root.",
+    "An Android scrolling screenshot app powered by Shizuku, with automatic scrolling, OpenCV stitching, and floating controls.": "由Shizuku提供支持的Android滚动屏幕截图应用程序，具有自动滚动、OpenCV拼接和浮动控制功能。",
+    "Utility toolbox for the Unihertz Titan 2 Elite (Display Fix, Unified Pull-Down, Volume Mode Switcher, and Flashlight Indicator)": "Unihertz Titan 2 Elite的实用程序工具箱（显示修复、统一下拉、音量模式切换器和手电筒指示灯）",
+    "Lightweight, zero-dependency web dashboard for Android app developers: screen mirror, screenshot-to-clipboard, logcat, wireless ADB, app manager, Flutter/Gradle build & run.": "适用于Android应用程序开发人员的轻量级、零依赖性Web仪表板：屏幕镜像、屏幕截图到剪贴板、logcat、无线ADB、应用程序管理器、Flutter/Gradle构建和运行。",
+    "Touch recorder and auto clicker for Android. Record taps and swipes, then replay them with precise timing. Supports Shizuku.": "适用于Android的触摸记录仪和自动点击器。录制点击和滑动，然后以精确的时间重播。支持Shizuku。",
+    "Auto-reconnect wireless debugging (ADB over Wi-Fi) on macOS & Windows — menu bar / tray app with QR pairing and connection diagnosis. 무선 디버깅 자동 재연결": "在macOS和Windows上自动重新连接无线调试（通过Wi-Fi的ADB ） —菜单栏/托盘应用程序，具有QR配对和连接诊断功能。 무선 디버깅 자동 재연결",
+    "DeepSeek Harness 的 Android 客户端 —— v2.0 重大更新：从「必须插数据线」升级为「任意网络直连」。Tailscale 私有隧道 + 本地反向代理（重写 Host/Origin），手机在 5G / 公司 WiFi 下打开 App 即可用，DSH 侧零改动。保留 USB + adb 反向隧道作为备选。": "DeepSeek线束的Android 客户端 —— v2.0 重大更新：从「必须插数据线」升级为「任意网络直连」。 Tailscale 私有隧道 + 本地反向代理（重写主机/原点） ，手机在 5G/公司WiFi下打开应用即可用， DSH 侧零改动。保留 USB + adb 反向隧道作为备选。",
+    "Multi-app Android toolkit — Shizuku-powered, no root required": "多应用Android工具包— Shizuku驱动，无需root",
+    "The official repository of the WuWa Mobile Config Patcher. Use this tool to easily manage and edit your configs for Wuthering Waves.": "WuWa Mobile Config Patcher的官方存储库。使用此工具可以轻松管理和编辑Wuthering Waves的配置。",
+    "Ecotrip Impulse — monitoramento de consumo em tempo real para Haval H6 PHEV": "Ecotrip Impulse — monitoramento de consumo em tempo real para Haval H6 PHEV",
+    "Open-source Gemini, Circle to Search and Google Search shortcuts for ColorOS, based on MindTrigger Assist.": "基于MindTrigger Assist的开源Gemini、Circle to Search和ColorOS的Google搜索快捷方式。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2847,6 +2862,21 @@
     "xCam": "XCamGenericName",
     "diabl0w": "diabl0w",
     "Zer0Qing": "Zer0Qing",
-    "📸 xCam - Modern virtual camera using images or videos with rotation and mirroring support.": "📸 xCam - современная виртуальная камера, использующая изображения или видео с поддержкой вращения и зеркалирования."
+    "📸 xCam - Modern virtual camera using images or videos with rotation and mirroring support.": "📸 xCam - современная виртуальная камера, использующая изображения или видео с поддержкой вращения и зеркалирования.",
+    "A standalone VoWiFi App for any Android phone with Shizuku supported.": "Автономное приложение VoWiFi для любого телефона Android с поддержкой Shizuku.",
+    "An Android Auto alternative built for everyone": "Альтернатива Android Auto, созданная для всех",
+    "All-in-One-Toolbox für Android über Shizuku (ohne Root): Schulmodus, Customization, App-Manager, Universal Installer, Gaming-Modus, Logcat": "All-in-One-Toolbox für Android über Shizuku (ohne Root): Schulmodus, Customization, App-Manager, Universal Installer, Gaming-Modus, Logcat",
+    "PUNK Companion - Automação Total, Visão Remota e Telemetria para Android via Hermes Agent & Shizuku": "PUNK Companion - Automação Total, Visão Remota e Telemetria para Android через Hermes Agent и Shizuku",
+    "An Android scrolling screenshot app powered by Shizuku, with automatic scrolling, OpenCV stitching, and floating controls.": "Приложение для прокрутки экрана Android на базе Shizuku с автоматической прокруткой, сшиванием OpenCV и плавающими элементами управления.",
+    "One tap to reset your Android mobile network without airplane mode, plus a 5G status notification per SIM. Kotlin, Shizuku/root.": "Одно нажатие, чтобы сбросить мобильную сеть Android без режима полета, а также уведомление о статусе 5G на каждую SIM-карту. Котлин, Сидзуку/корень.",
+    "Utility toolbox for the Unihertz Titan 2 Elite (Display Fix, Unified Pull-Down, Volume Mode Switcher, and Flashlight Indicator)": "Пакет служебных инструментов для Unihertz Titan 2 Elite (исправление дисплея, унифицированное вытягивание, переключатель режима громкости и индикатор фонарика)",
+    "Lightweight, zero-dependency web dashboard for Android app developers: screen mirror, screenshot-to-clipboard, logcat, wireless ADB, app manager, Flutter/Gradle build & run.": "Легкая веб-панель управления с нулевой зависимостью для разработчиков приложений для Android: зеркало экрана, скриншот в клипборд, logcat, беспроводной ADB, менеджер приложений, сборка и запуск Flutter/Gradle.",
+    "DeepSeek Harness 的 Android 客户端 —— v2.0 重大更新：从「必须插数据线」升级为「任意网络直连」。Tailscale 私有隧道 + 本地反向代理（重写 Host/Origin），手机在 5G / 公司 WiFi 下打开 App 即可用，DSH 侧零改动。保留 USB + adb 反向隧道作为备选。": "DeepSeek Жгут проводов 的 Android 客户端 —— v2.0重大更新:从「必须插数据线」升级为「任意网络直连」。Tailscale 私有隧道 + 本地反向代理(重写Host/Origin),手机在 5G /公司 即可用WiFi 下打开 App,DSH 侧零改动。保留 USB + ADB 反向隧道作为备选。",
+    "Auto-reconnect wireless debugging (ADB over Wi-Fi) on macOS & Windows — menu bar / tray app with QR pairing and connection diagnosis. 무선 디버깅 자동 재연결": "Автоматическое повторное подключение беспроводной отладки (ADB через Wi-Fi) на macOS и Windows — панель меню/приложение трея с QR сопряжением и диагностикой соединения. 무선 디버깅 자동 재연결",
+    "Multi-app Android toolkit — Shizuku-powered, no root required": "Набор инструментов для Android с несколькими приложениями — с питанием от Shizuku, без root",
+    "Touch recorder and auto clicker for Android. Record taps and swipes, then replay them with precise timing. Supports Shizuku.": "Сенсорный диктофон и автоматический кликер для Android. Записывайте нажатия и смахивания, а затем воспроизводите их с точным временем. Поддерживает Shizuku.",
+    "Ecotrip Impulse — monitoramento de consumo em tempo real para Haval H6 PHEV": "Ecotrip Impulse — monitoramento de consumo em tempo real para Haval H6 PHEV",
+    "Open-source Gemini, Circle to Search and Google Search shortcuts for ColorOS, based on MindTrigger Assist.": "Близнецы с открытым исходным кодом, поиск по кругу и ярлыки поиска Google для ColorOS на основе MindTrigger Assist.",
+    "The official repository of the WuWa Mobile Config Patcher. Use this tool to easily manage and edit your configs for Wuthering Waves.": "Официальный репозиторий WuWa Mobile Config Patcher. Используйте этот инструмент для простого управления и редактирования ваших конфигураций для Wuthering Waves."
   }
 }

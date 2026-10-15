@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:59:57.519544+00:00",
+    "last_checked": "2026-10-15T16:46:46.922768+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:59:17.559571+00:00",
+    "last_checked": "2026-10-15T16:46:45.729599+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -277,7 +277,7 @@
   },
   "applock": {
     "status": "no-apk",
-    "last_checked": "2026-10-14T16:59:19.397500+00:00"
+    "last_checked": "2026-10-15T16:47:05.618314+00:00"
   },
   "tarnhelm": {
     "status": "no-update",
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:59:17.003449+00:00",
+    "last_checked": "2026-10-15T16:47:35.978976+00:00",
     "latest_version": "zako3.13",
     "last_synced": "2026-10-11T17:37:53.706759+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:59:18.422736+00:00",
+    "last_checked": "2026-10-15T16:46:46.368871+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:59:58.401438+00:00",
+    "last_checked": "2026-10-15T16:46:48.669534+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -779,9 +779,9 @@
   },
   "gearslip": {
     "status": "synced",
-    "last_checked": "2026-09-30T03:33:51.140172+00:00",
-    "latest_version": "v0.0.05-alpha",
-    "last_synced": "2026-09-30T03:33:51.140172+00:00"
+    "last_checked": "2026-10-15T16:47:23.748843+00:00",
+    "latest_version": "v0.2.00-alpha",
+    "last_synced": "2026-10-15T16:47:23.748843+00:00"
   },
   "loli-ai": {
     "status": "synced",
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-14T16:59:19.936400+00:00",
+    "last_checked": "2026-10-15T16:46:47.890143+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T17:14:53.549377+00:00"
   },
@@ -2872,5 +2872,67 @@
     "last_checked": "2026-10-15T04:15:06.272281+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-15T04:15:06.272281+00:00"
+  },
+  "dsh-mobile": {
+    "status": "no-apk",
+    "last_checked": "2026-10-15T16:46:38.270711+00:00"
+  },
+  "haval-ecotrip": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:46:44.800166+00:00",
+    "latest_version": "v6.234",
+    "last_synced": "2026-10-15T16:46:44.800166+00:00"
+  },
+  "one-tap-network-reset": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:46:53.741546+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-15T16:46:53.741546+00:00"
+  },
+  "punk-app": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:46:59.639047+00:00",
+    "latest_version": "v2.2",
+    "last_synced": "2026-10-15T16:46:59.639047+00:00"
+  },
+  "nna-clicker": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:47:04.704648+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-10-15T16:47:04.704648+00:00"
+  },
+  "phonepilot": {
+    "status": "no-apk",
+    "last_checked": "2026-10-15T16:47:05.276890+00:00"
+  },
+  "kreza6173-pixel": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:47:10.557882+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-15T16:47:10.557882+00:00"
+  },
+  "colorgoogle": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:47:17.323407+00:00",
+    "latest_version": "v16.3.0",
+    "last_synced": "2026-10-15T16:47:17.323407+00:00"
+  },
+  "t2etoolbox": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:47:21.474030+00:00",
+    "latest_version": "v0.5.1",
+    "last_synced": "2026-10-15T16:47:21.474030+00:00"
+  },
+  "czn-vh": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:47:35.234310+00:00",
+    "latest_version": "releases-1.0",
+    "last_synced": "2026-10-15T16:47:35.234310+00:00"
+  },
+  "wuwa-mobile-config-patcher": {
+    "status": "synced",
+    "last_checked": "2026-10-15T16:47:41.195902+00:00",
+    "latest_version": "v1.9.0",
+    "last_synced": "2026-10-15T16:47:41.195902+00:00"
   }
 }

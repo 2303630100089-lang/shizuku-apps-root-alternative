@@ -4929,22 +4929,22 @@
   },
   "gearslip": {
     "source_repository": "Seb3thehacker/gearslip",
-    "source_release_id": 397565656,
-    "source_tag": "v0.0.05-alpha",
-    "source_published_at": "2026-09-27T08:24:07Z",
-    "synced_at": "2026-09-30T03:33:51.140151+00:00",
+    "source_release_id": 404203300,
+    "source_tag": "v0.2.00-alpha",
+    "source_published_at": "2026-10-06T00:52:10Z",
+    "synced_at": "2026-10-15T16:47:23.748824+00:00",
     "assets": [
       {
-        "source_asset_id": 592480410,
+        "source_asset_id": 614038198,
         "filename": "Gearslip-release.apk",
         "original_filename": "Gearslip-release.apk",
-        "sha256": "b7b464920326c34f5a617d283f627cc1e5c4533507e8424b725ae55635632ed9",
-        "file_size": 33091980,
-        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+        "sha256": "9375a6cd2dae71ed78a9e689bad476ce1b2ff8a86cb107b1ac0ef6c2078edb50",
+        "file_size": 68615623,
+        "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "gearslip-v0.0.05-alpha",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/gearslip-v0.0.05-alpha"
+    "mirror_release_tag": "gearslip-v0.2.00-alpha",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gearslip-v0.2.00-alpha"
   },
   "loli-ai": {
     "source_repository": "Lucky2356/loli_ai",
@@ -11736,5 +11736,176 @@
     ],
     "mirror_release_tag": "volteenabler-v1.0.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volteenabler-v1.0.0"
+  },
+  "haval-ecotrip": {
+    "source_repository": "rafaelcs28/haval-ecotrip",
+    "source_release_id": 414028878,
+    "source_tag": "v6.234",
+    "source_published_at": "2026-10-15T16:26:56Z",
+    "synced_at": "2026-10-15T16:46:44.800148+00:00",
+    "assets": [
+      {
+        "source_asset_id": 644471677,
+        "filename": "ecotrip-impulse-v6.234.apk",
+        "original_filename": "ecotrip-impulse-v6.234.apk",
+        "sha256": "951af7f600b26464b9cdecd2634641838fd251e1cd2419576b5296d5b064dae6",
+        "file_size": 8314722,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "haval-ecotrip-v6.234",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haval-ecotrip-v6.234"
+  },
+  "one-tap-network-reset": {
+    "source_repository": "R-Dilipkumar/one-tap-network-reset",
+    "source_release_id": 413643095,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-15T09:45:41Z",
+    "synced_at": "2026-10-15T16:46:53.741526+00:00",
+    "assets": [
+      {
+        "source_asset_id": 643404899,
+        "filename": "NetOneTap-v0.1.0.apk",
+        "original_filename": "NetOneTap-v0.1.0.apk",
+        "sha256": "c2991689f6a2a1a5cc0d1cbe8690119a6bcc5267667c5f1fb47ee43f599da7f2",
+        "file_size": 6690688,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "one-tap-network-reset-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/one-tap-network-reset-v0.1.0"
+  },
+  "punk-app": {
+    "source_repository": "felipegatoloko10/punk-app",
+    "source_release_id": 413941021,
+    "source_tag": "v2.2",
+    "source_published_at": "2026-10-15T14:57:52Z",
+    "synced_at": "2026-10-15T16:46:59.639029+00:00",
+    "assets": [
+      {
+        "source_asset_id": 644220893,
+        "filename": "PUNK-Companion-v2.2-cyberpunk.apk",
+        "original_filename": "PUNK-Companion-v2.2-cyberpunk.apk",
+        "sha256": "a487d74c19a9d096abba31976f532af3e350f3434d768a97b5f79ed2e88824c3",
+        "file_size": 15641278,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "punk-app-v2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/punk-app-v2.2"
+  },
+  "nna-clicker": {
+    "source_repository": "NNazuna/nna-clicker",
+    "source_release_id": 414034617,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-10-15T16:33:18Z",
+    "synced_at": "2026-10-15T16:47:04.704628+00:00",
+    "assets": [
+      {
+        "source_asset_id": 644471852,
+        "filename": "NNA-Clicker.apk",
+        "original_filename": "NNA-Clicker.apk",
+        "sha256": "db94bf015f2cee4c4ca8d61f8776043543e7c8d05b361171fb971ce4680186c3",
+        "file_size": 1664266,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "nna-clicker-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nna-clicker-v2.0.0"
+  },
+  "kreza6173-pixel": {
+    "source_repository": "privshell/kreza6173-pixel",
+    "source_release_id": 413433012,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-15T04:59:58Z",
+    "synced_at": "2026-10-15T16:47:10.557860+00:00",
+    "assets": [
+      {
+        "source_asset_id": 642724790,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "5356bfb8feb8625fab2b2811dae40eced037ec8c6fb15486160938114b73b1c9",
+        "file_size": 8581669,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kreza6173-pixel-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kreza6173-pixel-v1.0.1"
+  },
+  "colorgoogle": {
+    "source_repository": "joeyandu/ColorGoogle",
+    "source_release_id": 402074245,
+    "source_tag": "v16.3.0",
+    "source_published_at": "2026-10-02T18:52:50Z",
+    "synced_at": "2026-10-15T16:47:17.323390+00:00",
+    "assets": [
+      {
+        "source_asset_id": 606264396,
+        "filename": "ColorGoogle-16.3.0.apk",
+        "original_filename": "ColorGoogle-16.3.0.apk",
+        "sha256": "7b8c34a5bcfc6c7c5db3d5d1f1ab4fd37d07e27215762e2f4a204b598887bc84",
+        "file_size": 29470048,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "colorgoogle-v16.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colorgoogle-v16.3.0"
+  },
+  "t2etoolbox": {
+    "source_repository": "eqbirvin/T2EToolbox",
+    "source_release_id": 414033070,
+    "source_tag": "v0.5.1",
+    "source_published_at": "2026-10-15T16:31:29Z",
+    "synced_at": "2026-10-15T16:47:21.474013+00:00",
+    "assets": [
+      {
+        "source_asset_id": 644467094,
+        "filename": "t2e.toolbox.v0.5.1.apk",
+        "original_filename": "t2e.toolbox.v0.5.1.apk",
+        "sha256": "40ee95bac6e87a5d7aa840170287789ec2471cdb23b7767da5952b27343971bc",
+        "file_size": 2633446,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "t2etoolbox-v0.5.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t2etoolbox-v0.5.1"
+  },
+  "czn-vh": {
+    "source_repository": "doubleD1302/CZN-VH",
+    "source_release_id": 414022886,
+    "source_tag": "releases-1.0",
+    "source_published_at": "2026-10-15T16:20:31Z",
+    "synced_at": "2026-10-15T16:47:35.234288+00:00",
+    "assets": [
+      {
+        "source_asset_id": 644436144,
+        "filename": "CNZ_VietHoa_Fanmade.apk",
+        "original_filename": "CNZ_VietHoa_Fanmade.apk",
+        "sha256": "4175c4f289efa0573a76832f7d75d23c47dfdeb7b2bd41c6d713db1dfc90faa9",
+        "file_size": 99690122,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "czn-vh-releases-1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czn-vh-releases-1.0"
+  },
+  "wuwa-mobile-config-patcher": {
+    "source_repository": "Arglax/WuWa-Mobile-Config-Patcher",
+    "source_release_id": 402684224,
+    "source_tag": "v1.9.0",
+    "source_published_at": "2026-10-03T20:52:41Z",
+    "synced_at": "2026-10-15T16:47:41.195885+00:00",
+    "assets": [
+      {
+        "source_asset_id": 608504338,
+        "filename": "WuWaConfigPatcher-v1.9.0.apk",
+        "original_filename": "WuWaConfigPatcher-v1.9.0.apk",
+        "sha256": "55c1b2250f53d6fff12e607771a1b265b9bf7179f74fbd0ab67a99bab2f5a73e",
+        "file_size": 12232532,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "wuwa-mobile-config-patcher-v1.9.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wuwa-mobile-config-patcher-v1.9.0"
   }
 }
