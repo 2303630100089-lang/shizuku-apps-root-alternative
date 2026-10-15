@@ -1411,7 +1411,18 @@
     "天玄 TaiXuan — 无 Root Android 上的 PRoot Linux 沙箱与 AI Agent Harness": "天玄TaiXuan — 无Root Android 上的PROot Linux 沙箱与AI Agent Harness",
     "ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 回收站记录工具": "ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、严重深度清理与 SHA-256 恢复站记录工具",
     "Unofficial Galaxy S23+ US NR ServiceMode toolkit: offline OCR, Shizuku, six guarded workflows, English/Chinese UI, open-source Android app": "非官方 Galaxy S23+ US NR ServiceMode 工具包：离线 OCR、Shizuku、六个受保护的工作流程、英文/中文 UI、开源 Android 应用程序",
-    "Android process, resource and battery monitor with Shizuku background controls; signed updates through Obtainium.": "Android 进程、资源和电池监视器，带有 Shizuku 后台控件；通过 Obtainium 签署更新。"
+    "Android process, resource and battery monitor with Shizuku background controls; signed updates through Obtainium.": "Android 进程、资源和电池监视器，带有 Shizuku 后台控件；通过 Obtainium 签署更新。",
+    "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵": "本机Android音频播放器，结合了多源流、本地控制、丰富的歌词和自托管同步。/✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生Android 的音频播放器 🎵",
+    "geniuscr8": "geniuscr8",
+    "tokanada": "托卡纳达",
+    "mkatadev": "mkatadev",
+    "jordanwoodson": "jordanwoodson",
+    "Rootless Android app powered by Shizuku to enable VoLTE, IMS settings, and network tools on Samsung One UI & Android devices without PC or root.": "无根Android应用程序由Shizuku提供支持，可在三星One UI和Android设备上启用VoLTE、IMS设置和网络工具，无需PC或root。",
+    "xCam": "XCamGenericName",
+    "ETQWFD": "ETQWFD",
+    "📸 xCam - Modern virtual camera using images or videos with rotation and mirroring support.": "📸 xCam -使用支持旋转和镜像的图像或视频的现代虚拟摄像头。",
+    "diabl0w": "diabl0w",
+    "Zer0Qing": "Zer0Qing"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2825,6 +2836,17 @@
     "AR VoltCore: free Android battery monitor & ampere charging meter APK. Live mA, watts, volts, battery health, per-app battery usage, daily & hourly battery history charts. No root, no ads.": "AR VoltCore: бесплатный Android-монитор батареи и измеритель заряда APK. Текущие данные о мА, ваттах, вольтах, состоянии батареи, использовании батареи для каждого приложения, ежедневные и почасовые графики истории батареи. Нет рута, нет рекламы.",
     "ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 回收站记录工具": "ETAW清理 (ETAW Cleaner) — 安卓第三方应用扫描、双重验证卸载、残留深度清理与 SHA-256 录工具",
     "Android process, resource and battery monitor with Shizuku background controls; signed updates through Obtainium.": "Мониторинг процессов, ресурсов и заряда батареи Android с фоновым управлением Shizuku; подписанные обновления через Obtainium.",
-    "Unofficial Galaxy S23+ US NR ServiceMode toolkit: offline OCR, Shizuku, six guarded workflows, English/Chinese UI, open-source Android app": "Неофициальный набор инструментов для Galaxy S23+ US NR ServiceMode: автономное распознавание текста, Shizuku, шесть защищенных рабочих процессов, английский/китайский пользовательский интерфейс, приложение для Android с открытым исходным кодом"
+    "Unofficial Galaxy S23+ US NR ServiceMode toolkit: offline OCR, Shizuku, six guarded workflows, English/Chinese UI, open-source Android app": "Неофициальный набор инструментов для Galaxy S23+ US NR ServiceMode: автономное распознавание текста, Shizuku, шесть защищенных рабочих процессов, английский/китайский пользовательский интерфейс, приложение для Android с открытым исходным кодом",
+    "tokanada": "tokanada",
+    "geniuscr8": "geniuscr8",
+    "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵": "Нативный аудиоплеер для Android, который сочетает в себе потоковую передачу с несколькими источниками, локальное управление, богатую лирику и самостоятельную синхронизацию. /✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生Android 的音频播放器 🎵",
+    "mkatadev": "mkatadev",
+    "jordanwoodson": "jordanwoodson",
+    "Rootless Android app powered by Shizuku to enable VoLTE, IMS settings, and network tools on Samsung One UI & Android devices without PC or root.": "Бескорневое приложение для Android на базе Shizuku для включения настроек VoLTE, IMS и сетевых инструментов на устройствах Samsung One UI и Android без ПК или root.",
+    "ETQWFD": "ETQWFD",
+    "xCam": "XCamGenericName",
+    "diabl0w": "diabl0w",
+    "Zer0Qing": "Zer0Qing",
+    "📸 xCam - Modern virtual camera using images or videos with rotation and mirroring support.": "📸 xCam - современная виртуальная камера, использующая изображения или видео с поддержкой вращения и зеркалирования."
   }
 }

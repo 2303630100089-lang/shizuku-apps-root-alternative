@@ -11550,5 +11550,191 @@
     ],
     "mirror_release_tag": "muse-v2.6.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muse-v2.6.1"
+  },
+  "neriplayer": {
+    "source_repository": "cwuom/NeriPlayer",
+    "source_release_id": 412693556,
+    "source_tag": "NeriPlayer-bf8bfe9e.10141942",
+    "source_published_at": "2026-10-14T12:30:43Z",
+    "synced_at": "2026-10-15T04:14:31.406336+00:00",
+    "assets": [
+      {
+        "source_asset_id": 640324201,
+        "filename": "NeriPlayer-bf8bfe9e.10141942-arm64-v8a.apk",
+        "original_filename": "NeriPlayer-bf8bfe9e.10141942-arm64-v8a.apk",
+        "sha256": "92599e65b1059e1360591d209b55e513da028358b798269e35a745899880d0f7",
+        "file_size": 14019247,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 640324198,
+        "filename": "NeriPlayer-bf8bfe9e.10141942-armeabi-v7a.apk",
+        "original_filename": "NeriPlayer-bf8bfe9e.10141942-armeabi-v7a.apk",
+        "sha256": "46b898456450dca991b2cb08ca2d18566d2d3cd6147fbd5a50a7746a1578fbbc",
+        "file_size": 13797599,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 640324197,
+        "filename": "NeriPlayer-bf8bfe9e.10141942-x86.apk",
+        "original_filename": "NeriPlayer-bf8bfe9e.10141942-x86.apk",
+        "sha256": "485bcae9035aa8b61af9893e45ce0534d34323534fb6263a9db0b470b9c772d1",
+        "file_size": 14090547,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 640324202,
+        "filename": "NeriPlayer-bf8bfe9e.10141942-x86_64.apk",
+        "original_filename": "NeriPlayer-bf8bfe9e.10141942-x86_64.apk",
+        "sha256": "de3aa61608a838940896e2e4041976e5df3c82ceac1e22f48eb725a2cb69fc38",
+        "file_size": 14049365,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "neriplayer-NeriPlayer-bf8bfe9e.10141942",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/neriplayer-NeriPlayer-bf8bfe9e.10141942"
+  },
+  "control": {
+    "source_repository": "rkprince101/Control",
+    "source_release_id": 397125576,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-09-26T06:54:29Z",
+    "synced_at": "2026-10-15T04:14:44.004177+00:00",
+    "assets": [
+      {
+        "source_asset_id": 590101393,
+        "filename": "Control-1.0.0-arm64-v8a.apk",
+        "original_filename": "Control-1.0.0-arm64-v8a.apk",
+        "sha256": "54230d19d4cfa036712b52d329c62889395c6bc9f10fe88d222d4974bd7072e6",
+        "file_size": 23993302,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 590102206,
+        "filename": "Control-1.0.0-armeabi-v7a.apk",
+        "original_filename": "Control-1.0.0-armeabi-v7a.apk",
+        "sha256": "b0f7370b856f9e6d7640b3b5f0a3367345f060be84272197ed09c31919621ba0",
+        "file_size": 21979372,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 590102974,
+        "filename": "Control-1.0.0-x86_64.apk",
+        "original_filename": "Control-1.0.0-x86_64.apk",
+        "sha256": "d5047c987990f4d404eb47f3e7fde2a84c18f594d253c2bbccccad5adecc0530",
+        "file_size": 25516661,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 590098531,
+        "filename": "Control-1.0.0.apk",
+        "original_filename": "Control-1.0.0.apk",
+        "sha256": "82c155dbdcad4ed3d34cd6ecea3b5fe51fa7c7b5f16d1df5dd5730c6a0c2d3f4",
+        "file_size": 67836965,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "control-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/control-v1.0.1"
+  },
+  "xcam": {
+    "source_repository": "hazbu/xCam",
+    "source_release_id": 413406387,
+    "source_tag": "v1.2",
+    "source_published_at": "2026-10-15T04:04:38Z",
+    "synced_at": "2026-10-15T04:14:47.046150+00:00",
+    "assets": [
+      {
+        "source_asset_id": 642617024,
+        "filename": "xCam-v1.2.apk",
+        "original_filename": "xCam-v1.2.apk",
+        "sha256": "22cd5a0cbe043d625e663d40b3d993a09f415e932e0a52117cf11783b8a07ec2",
+        "file_size": 4373651,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "xcam-v1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xcam-v1.2"
+  },
+  "com-hazbu-xcam": {
+    "source_repository": "Xposed-Modules-Repo/com.hazbu.xcam",
+    "source_release_id": 413407902,
+    "source_tag": "12-1.2",
+    "source_published_at": "2026-10-15T04:07:49Z",
+    "synced_at": "2026-10-15T04:14:50.386106+00:00",
+    "assets": [
+      {
+        "source_asset_id": 642617611,
+        "filename": "xCam-v1.2.apk",
+        "original_filename": "xCam-v1.2.apk",
+        "sha256": "22cd5a0cbe043d625e663d40b3d993a09f415e932e0a52117cf11783b8a07ec2",
+        "file_size": 4373651,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "com-hazbu-xcam-12-1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/com-hazbu-xcam-12-1.2"
+  },
+  "krs-docker-android": {
+    "source_repository": "kawincodes/KRS-DOCKER-ANDROID",
+    "source_release_id": 413366557,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-15T02:44:35Z",
+    "synced_at": "2026-10-15T04:15:03.138432+00:00",
+    "assets": [
+      {
+        "source_asset_id": 642433144,
+        "filename": "krs-dockers-v1.2.0-arm64-v8a.apk",
+        "original_filename": "krs-dockers-v1.2.0-arm64-v8a.apk",
+        "sha256": "d35c27dc8a1de942ab41fe17f907a1a2c487b6c75c99822f99f10ede7c278cd4",
+        "file_size": 36096639,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 642433146,
+        "filename": "krs-dockers-v1.2.0-armeabi-v7a.apk",
+        "original_filename": "krs-dockers-v1.2.0-armeabi-v7a.apk",
+        "sha256": "21e8a4f596f05c6ce6a07910f8fe3075e4b3a83d4f4f4755bbdfce144b568f03",
+        "file_size": 4302359,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 642433143,
+        "filename": "krs-dockers-v1.2.0-x86_64.apk",
+        "original_filename": "krs-dockers-v1.2.0-x86_64.apk",
+        "sha256": "ed50fa24ab7171d246f0d619d92f94b30394dc68636b87880d94273fe58c8b24",
+        "file_size": 35654043,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 642433147,
+        "filename": "krs-dockers-v1.2.0.apk",
+        "original_filename": "krs-dockers-v1.2.0.apk",
+        "sha256": "8ffae5b05d82c1beda878afc3ed3eae378d30ea4ea2943dc0172fbb8487937a6",
+        "file_size": 69735084,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "krs-docker-android-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/krs-docker-android-v1.2.0"
+  },
+  "volteenabler": {
+    "source_repository": "HeshamNoaman/VoLTEEnabler",
+    "source_release_id": 413120573,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-14T19:55:15Z",
+    "synced_at": "2026-10-15T04:15:06.272262+00:00",
+    "assets": [
+      {
+        "source_asset_id": 641474014,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "f8af65d6f8e63dbde251c182af7ec03d7b017ffb8f7a0c41ab14a8404774b59c",
+        "file_size": 10821321,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "volteenabler-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volteenabler-v1.0.0"
   }
 }

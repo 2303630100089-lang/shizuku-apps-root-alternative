@@ -202,6 +202,12 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[VoLTEEnabler](https://github.com/HeshamNoaman/VoLTEEnabler)** | 无根Android应用程序由Shizuku提供支持，可在三星One UI和Android设备上启用VoLTE、IMS设置和网络工具，无需PC或root。 | MIT | [GitHub 源码](https://github.com/HeshamNoaman/VoLTEEnabler) • [下载发布](https://github.com/HeshamNoaman/VoLTEEnabler/releases) |
+| **[KRS-DOCKER-ANDROID](https://github.com/kawincodes/KRS-DOCKER-ANDROID)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/kawincodes/KRS-DOCKER-ANDROID) • [下载发布](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
+| **[com.hazbu.xcam](https://github.com/Xposed-Modules-Repo/com.hazbu.xcam)** | XCamGenericName | See project | [GitHub 源码](https://github.com/Xposed-Modules-Repo/com.hazbu.xcam) • [下载发布](https://github.com/Xposed-Modules-Repo/com.hazbu.xcam/releases) |
+| **[xCam](https://github.com/hazbu/xCam)** | 📸 xCam -使用支持旋转和镜像的图像或视频的现代虚拟摄像头。 | GPL-3.0 | [GitHub 源码](https://github.com/hazbu/xCam) • [下载发布](https://github.com/hazbu/xCam/releases) |
+| **[Control](https://github.com/rkprince101/Control)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/rkprince101/Control) • [下载发布](https://github.com/rkprince101/Control/releases) |
+| **[NeriPlayer](https://github.com/cwuom/NeriPlayer)** | 本机Android音频播放器，结合了多源流、本地控制、丰富的歌词和自托管同步。/✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生Android 的音频播放器 🎵 | GPL-3.0 | [GitHub 源码](https://github.com/cwuom/NeriPlayer) • [下载发布](https://github.com/cwuom/NeriPlayer/releases) |
 | **[Muse](https://github.com/Zer0Qing/Muse)** | 不只是对话，是持续认识你的 AI。开源 Android AI 伴侣：本地优先，能替你做事。 \| Not just chat — an AI that truly knows you. An open-source, local-first Android AI companion that gets things done. | GPL-3.0 | [GitHub](https://github.com/Zer0Qing/Muse) • [Releases](https://github.com/Zer0Qing/Muse/releases) |
 | **[DFRoot](https://github.com/diabl0w/DFRoot)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/diabl0w/DFRoot) • [下载发布](https://github.com/diabl0w/DFRoot/releases) |
 | **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
@@ -265,16 +271,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **Muse** | Zer0Qing | `v2.6.1` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muse-v2.6.1) | [Upstream](https://github.com/Zer0Qing/Muse/releases) |
+| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
+| ⚡ **GoogleTVAirPlay** | mkatadev | `v1.3.5` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/googletvairplay-v1.3.5) | [Upstream](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
+| ⚡ **ETAW-Cleaner** | ETQWFD | `v1.5.1` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/etaw-cleaner-v1.5.1) | [Upstream](https://github.com/ETQWFD/ETAW-Cleaner/releases) |
+| ⚡ **BlaqClaw** | geniuscr8 | `universal-latest` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blaqclaw-universal-latest) | [Upstream](https://github.com/geniuscr8/BlaqClaw/releases) |
+| ⚡ **HoshimiLocalify-en** | 托卡纳达 | `v1.4.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hoshimilocalify-en-v1.4.1) | [Upstream](https://github.com/tokanada/HoshimiLocalify-en/releases) |
 | ⚡ **eva** | 恐慌上校8 | `v0.62.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eva-v0.62.0) | [Upstream](https://github.com/colonelpanic8/eva/releases) |
 | ⚡ **debloat** | 土耳其开发产品公司 | `v1.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debloat-v1.0) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
 | ⚡ **cc-haha-for-Android** | 凡塔西-伊米鲁斯 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cc-haha-for-android-v1.0.0) | [Upstream](https://github.com/Vantasi-Imilus/cc-haha-for-Android/releases) |
-| ⚡ **opencode-pocket** | 恶秦 | `v1.1.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-pocket-v1.1.1) | [Upstream](https://github.com/evilqin/opencode-pocket/releases) |
-| ⚡ **OpenTerminal** | LinuxKernel44 | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openterminal-v1.0.0) | [Upstream](https://github.com/LinuxKernel44/OpenTerminal/releases) |
-| ⚡ **cccodroid** | 灰橡木111 | `v0.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cccodroid-v0.1.2) | [Upstream](https://github.com/greyoak111/cccodroid/releases) |
-| ⚡ **bunnylock** | BT搜索 | `v1.1.2` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-v1.1.2) | [Upstream](https://github.com/btsearch/bunnylock/releases) |
-| ⚡ **PixelIMS_ru** | 泰达鲁 | `v1.0.0-ru` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixelims-ru-v1.0.0-ru) | [Upstream](https://github.com/taidaru/PixelIMS_ru/releases) |
-| ⚡ **crosstune** | 星体 | `v2.8.2` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.8.2) | [Upstream](https://github.com/astrovm/crosstune/releases) |
-| ⚡ **stratus** | 伊格德尔 | `v1.3` | 2026-10-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stratus-v1.3) | [Upstream](https://github.com/Yigder/stratus/releases) |
+| ⚡ **DFRoot** | diabl0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
