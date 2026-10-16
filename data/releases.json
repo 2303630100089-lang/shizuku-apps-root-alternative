@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 409755962,
-    "source_tag": "zako3.13",
-    "source_published_at": "2026-10-11T15:37:03Z",
-    "synced_at": "2026-10-11T17:37:53.706739+00:00",
+    "source_release_id": 414119956,
+    "source_tag": "zako3.15",
+    "source_published_at": "2026-10-15T18:09:18Z",
+    "synced_at": "2026-10-16T16:29:25.402568+00:00",
     "assets": [
       {
-        "source_asset_id": 631115910,
-        "filename": "shizako-vzako3.13-release.apk",
-        "original_filename": "shizako-vzako3.13-release.apk",
-        "sha256": "07748dc283f8341f3eb9ea79e18fd6b6067843fc32bcca78b7092d24a3f8690f",
-        "file_size": 8241233,
+        "source_asset_id": 644725842,
+        "filename": "shizako-vzako3.15-release.apk",
+        "original_filename": "shizako-vzako3.15-release.apk",
+        "sha256": "2c78502808fd3aa612ed87d986aa81460b857974f1a10133ecf0e5da1eec3a7d",
+        "file_size": 8253481,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.13",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.13"
+    "mirror_release_tag": "shizako-zako3.15",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.15"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -12173,5 +12173,176 @@
     ],
     "mirror_release_tag": "moltengram-v12.10.6",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moltengram-v12.10.6"
+  },
+  "latch": {
+    "source_repository": "wized2/Latch",
+    "source_release_id": 414894879,
+    "source_tag": "v0.6.2",
+    "source_published_at": "2026-10-16T11:36:08Z",
+    "synced_at": "2026-10-16T16:29:18.779568+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647586139,
+        "filename": "Latch-release.apk",
+        "original_filename": "Latch-release.apk",
+        "sha256": "927ce44c6887f1eb0afba3ae01c803e8a34b4d9cb33ae8b8035a1f1149336f62",
+        "file_size": 1239059,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "latch-v0.6.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/latch-v0.6.2"
+  },
+  "jav": {
+    "source_repository": "k4wai1/jav",
+    "source_release_id": 409308892,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-11T01:05:43Z",
+    "synced_at": "2026-10-16T16:29:24.090910+00:00",
+    "assets": [
+      {
+        "source_asset_id": 629417822,
+        "filename": "jav-companion.apk",
+        "original_filename": "jav-companion.apk",
+        "sha256": "eef5203d5547147bcb462c13c930650218cf356c029240e024ec3bbdb63df208",
+        "file_size": 16434393,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "jav-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jav-v1.1.0"
+  },
+  "remote-bot-android": {
+    "source_repository": "runalsh/remote-bot-android",
+    "source_release_id": 415090082,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-16T15:06:33Z",
+    "synced_at": "2026-10-16T16:29:30.886653+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647710834,
+        "filename": "remote-bot-android_v0.1.0.apk",
+        "original_filename": "remote-bot-android_v0.1.0.apk",
+        "sha256": "94a9c2c50155413d261cc68b44e66419b5f74069688fc1f25941f882ffcaaba4",
+        "file_size": 27021132,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "remote-bot-android-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/remote-bot-android-v0.1.0"
+  },
+  "autojs6-plugin-three-stove-agent": {
+    "source_repository": "SuperMonster003/AutoJs6-Plugin-Three-Stove-Agent",
+    "source_release_id": 398004118,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-09-28T10:07:04Z",
+    "synced_at": "2026-10-16T16:29:34.827708+00:00",
+    "assets": [
+      {
+        "source_asset_id": 594859242,
+        "filename": "autojs6-plugin-three-stove-agent-v1.2.0-98db6483.apk",
+        "original_filename": "autojs6-plugin-three-stove-agent-v1.2.0-98db6483.apk",
+        "sha256": "d7739556f42e9d733e38df733b2b499ed9c9b5a3a2065539db64ec1457b2b228",
+        "file_size": 2471116,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "autojs6-plugin-three-stove-agent-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autojs6-plugin-three-stove-agent-v1.2.0"
+  },
+  "finasu": {
+    "source_repository": "LyraVoid/FinaSU",
+    "source_release_id": 410250710,
+    "source_tag": "v0.1.0-dev1",
+    "source_published_at": "2026-10-12T06:19:52Z",
+    "synced_at": "2026-10-16T16:29:41.475063+00:00",
+    "assets": [
+      {
+        "source_asset_id": 632877928,
+        "filename": "FinaSU_v0.1.0-dev1_32817-release.apk",
+        "original_filename": "FinaSU_v0.1.0-dev1_32817-release.apk",
+        "sha256": "50036ba9b863eaf999c604ce6c9d1c2d6be54580822b266e8252467d40e8c49b",
+        "file_size": 23517023,
+        "architecture": "arm64-v8a, riscv64, x86_64"
+      }
+    ],
+    "mirror_release_tag": "finasu-v0.1.0-dev1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/finasu-v0.1.0-dev1"
+  },
+  "shizubox": {
+    "source_repository": "jackderganove-sudo/ShizuBox",
+    "source_release_id": 415152379,
+    "source_tag": "v0.7.0",
+    "source_published_at": "2026-10-16T16:17:36Z",
+    "synced_at": "2026-10-16T16:29:52.753047+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647877088,
+        "filename": "ShizuBox-0.7.0.apk",
+        "original_filename": "ShizuBox-0.7.0.apk",
+        "sha256": "87256010e48411aab261744b1991e957500cefeefbb432f339e2379916a53f3a",
+        "file_size": 62696135,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shizubox-v0.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizubox-v0.7.0"
+  },
+  "kengen": {
+    "source_repository": "tim1540/kengen",
+    "source_release_id": 415126346,
+    "source_tag": "v14.3.0",
+    "source_published_at": "2026-10-16T15:46:41Z",
+    "synced_at": "2026-10-16T16:29:58.484363+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647797487,
+        "filename": "kengen-v14.3.0.apk",
+        "original_filename": "kengen-v14.3.0.apk",
+        "sha256": "5483be61288d38036be11c3a49f34e4cad2aa99244dedcf003fc563760a8d975",
+        "file_size": 16011029,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kengen-v14.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kengen-v14.3.0"
+  },
+  "elderguard": {
+    "source_repository": "ak-ing/ElderGuard",
+    "source_release_id": 415117371,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-16T15:36:38Z",
+    "synced_at": "2026-10-16T16:30:02.480523+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647768181,
+        "filename": "ElderGuard-1.1.0.apk",
+        "original_filename": "ElderGuard-1.1.0.apk",
+        "sha256": "83fb95b40d4024bac635fa0a4c8217a11dff02993726f079cd588b1736e8d7e7",
+        "file_size": 1813292,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "elderguard-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elderguard-v1.1.0"
+  },
+  "phone-mcp": {
+    "source_repository": "Anton7444/Phone-MCP",
+    "source_release_id": 414997800,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-16T13:31:47Z",
+    "synced_at": "2026-10-16T16:30:11.787662+00:00",
+    "assets": [
+      {
+        "source_asset_id": 647432792,
+        "filename": "phone-mcp-1.2.0.apk",
+        "original_filename": "phone-mcp-1.2.0.apk",
+        "sha256": "7d4a07f5a2f6889da10b7b0ab31b9e37092b1d60af73e6e87fd6884023f1b34d",
+        "file_size": 42354159,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "phone-mcp-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-mcp-v1.2.0"
   }
 }
