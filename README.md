@@ -256,16 +256,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Muse** | Zer0Qing | `v2.6.1` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muse-v2.6.1) | [Upstream](https://github.com/Zer0Qing/Muse/releases) |
-| ⚡ **background-check** | jordanwoodson | `1.1.1-bgcheck.16` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/background-check-1.1.1-bgcheck.16) | [Upstream](https://github.com/jordanwoodson/background-check/releases) |
-| ⚡ **GoogleTVAirPlay** | mkatadev | `v1.3.5` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/googletvairplay-v1.3.5) | [Upstream](https://github.com/mkatadev/GoogleTVAirPlay/releases) |
-| ⚡ **ETAW-Cleaner** | ETQWFD | `v1.5.1` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/etaw-cleaner-v1.5.1) | [Upstream](https://github.com/ETQWFD/ETAW-Cleaner/releases) |
-| ⚡ **BlaqClaw** | geniuscr8 | `universal-latest` | 2026-10-14 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blaqclaw-universal-latest) | [Upstream](https://github.com/geniuscr8/BlaqClaw/releases) |
-| ⚡ **HoshimiLocalify-en** | tokanada | `v1.4.1` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hoshimilocalify-en-v1.4.1) | [Upstream](https://github.com/tokanada/HoshimiLocalify-en/releases) |
-| ⚡ **eva** | colonelpanic8 | `v0.62.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eva-v0.62.0) | [Upstream](https://github.com/colonelpanic8/eva/releases) |
-| ⚡ **debloat** | turkdevprodoctions | `v1.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/debloat-v1.0) | [Upstream](https://github.com/turkdevprodoctions/debloat/releases) |
-| ⚡ **cc-haha-for-Android** | Vantasi-Imilus | `v1.0.0` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cc-haha-for-android-v1.0.0) | [Upstream](https://github.com/Vantasi-Imilus/cc-haha-for-Android/releases) |
-| ⚡ **DFRoot** | diabl0w | `v4.3` | 2026-10-13 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dfroot-v4.3) | [Upstream](https://github.com/diabl0w/DFRoot/releases) |
+| ⚡ **nna-clicker** | NNazuna | `v2.0.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nna-clicker-v2.0.0) | [Upstream](https://github.com/NNazuna/nna-clicker/releases) |
+| ⚡ **T2EToolbox** | eqbirvin | `v0.5.1` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t2etoolbox-v0.5.1) | [Upstream](https://github.com/eqbirvin/T2EToolbox/releases) |
+| ⚡ **haval-ecotrip** | rafaelcs28 | `v6.234` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haval-ecotrip-v6.234) | [Upstream](https://github.com/rafaelcs28/haval-ecotrip/releases) |
+| ⚡ **CZN-VH** | doubleD1302 | `releases-1.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czn-vh-releases-1.0) | [Upstream](https://github.com/doubleD1302/CZN-VH/releases) |
+| ⚡ **punk-app** | felipegatoloko10 | `v2.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/punk-app-v2.2) | [Upstream](https://github.com/felipegatoloko10/punk-app/releases) |
+| ⚡ **one-tap-network-reset** | R-Dilipkumar | `v0.1.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/one-tap-network-reset-v0.1.0) | [Upstream](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
+| ⚡ **kreza6173-pixel** | privshell | `v1.0.1` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kreza6173-pixel-v1.0.1) | [Upstream](https://github.com/privshell/kreza6173-pixel/releases) |
+| ⚡ **com.hazbu.xcam** | Xposed-Modules-Repo | `12-1.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/com-hazbu-xcam-12-1.2) | [Upstream](https://github.com/Xposed-Modules-Repo/com.hazbu.xcam/releases) |
+| ⚡ **xCam** | hazbu | `v1.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xcam-v1.2) | [Upstream](https://github.com/hazbu/xCam/releases) |
+| ⚡ **KRS-DOCKER-ANDROID** | kawincodes | `v1.2.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/krs-docker-android-v1.2.0) | [Upstream](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
