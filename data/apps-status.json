@@ -1343,8 +1343,8 @@
     "last_checked": "2026-10-02T03:40:00.213539+00:00"
   },
   "pulse-battery": {
-    "status": "synced",
-    "last_checked": "2026-10-03T04:57:18.155939+00:00",
+    "status": "no-apk",
+    "last_checked": "2026-10-16T04:11:23.613797+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -2934,5 +2934,89 @@
     "last_checked": "2026-10-15T16:47:41.195902+00:00",
     "latest_version": "v1.9.0",
     "last_synced": "2026-10-15T16:47:41.195902+00:00"
+  },
+  "user-hopper": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:10:37.909586+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-10-16T04:10:37.909586+00:00"
+  },
+  "installer": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:10:40.883915+00:00",
+    "latest_version": "v26.10.14",
+    "last_synced": "2026-10-16T04:10:40.883915+00:00"
+  },
+  "privshell": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:10:43.978738+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-16T04:10:43.978738+00:00"
+  },
+  "hermes-coagent-android": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:10:48.835785+00:00",
+    "latest_version": "v76",
+    "last_synced": "2026-10-16T04:10:48.835785+00:00"
+  },
+  "airplane-scheduler-app": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:10:51.812842+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-16T04:10:51.812842+00:00"
+  },
+  "wiitar-android": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:10:55.864875+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-16T04:10:55.864875+00:00"
+  },
+  "ghost-files": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:11:00.605266+00:00",
+    "latest_version": "v0.6.6",
+    "last_synced": "2026-10-16T04:11:00.605266+00:00"
+  },
+  "thai-clock-fix": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:11:03.448565+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-16T04:11:03.448565+00:00"
+  },
+  "xjtu-stu-login": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:11:06.440952+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-10-16T04:11:06.440952+00:00"
+  },
+  "haiou": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:11:23.519470+00:00",
+    "latest_version": "apk-38836306520",
+    "last_synced": "2026-10-16T04:11:23.519470+00:00"
+  },
+  "jexfyz-app": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:11:28.555082+00:00",
+    "latest_version": "jexfyz-latest",
+    "last_synced": "2026-10-16T04:11:28.555082+00:00"
+  },
+  "s25ultra-mangaamtl": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:11:58.629529+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-16T04:11:58.629529+00:00"
+  },
+  "rear-card-bridge": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:12:02.837185+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-10-16T04:12:02.837185+00:00"
+  },
+  "moltengram": {
+    "status": "synced",
+    "last_checked": "2026-10-16T04:12:09.294360+00:00",
+    "latest_version": "v12.10.6",
+    "last_synced": "2026-10-16T04:12:09.294360+00:00"
   }
 }
