@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 414119956,
-    "source_tag": "zako3.15",
-    "source_published_at": "2026-10-15T18:09:18Z",
-    "synced_at": "2026-10-16T16:29:25.402568+00:00",
+    "source_release_id": 415475054,
+    "source_tag": "zako3.16hp",
+    "source_published_at": "2026-10-17T00:03:20Z",
+    "synced_at": "2026-10-17T15:23:20.236136+00:00",
     "assets": [
       {
-        "source_asset_id": 644725842,
-        "filename": "shizako-vzako3.15-release.apk",
-        "original_filename": "shizako-vzako3.15-release.apk",
-        "sha256": "2c78502808fd3aa612ed87d986aa81460b857974f1a10133ecf0e5da1eec3a7d",
-        "file_size": 8253481,
+        "source_asset_id": 650376868,
+        "filename": "shizako-zako3.16hp-release.apk",
+        "original_filename": "shizako-zako3.16hp-release.apk",
+        "sha256": "2e2b00d7804283025645fa179d72d807e7a585b814e75b3a5fd78128bd83c58b",
+        "file_size": 7331240,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.15",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.15"
+    "mirror_release_tag": "shizako-zako3.16hp",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.16hp"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -12409,5 +12409,62 @@
     ],
     "mirror_release_tag": "xrdesk-v0.2.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xrdesk-v0.2.0"
+  },
+  "hk-super-tools-releases": {
+    "source_repository": "hoangkienpr/HK-Super-Tools-releases",
+    "source_release_id": 415853441,
+    "source_tag": "v1.3.6",
+    "source_published_at": "2026-10-17T14:39:59Z",
+    "synced_at": "2026-10-17T15:23:17.072797+00:00",
+    "assets": [
+      {
+        "source_asset_id": 650706649,
+        "filename": "HK-Super-Tools-v1.3.6.apk",
+        "original_filename": "HK-Super-Tools-v1.3.6.apk",
+        "sha256": "d91b45b865fbf78362b8d942044378f827a16d989d2a6f46d58cf3d545d75ece",
+        "file_size": 148588485,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "hk-super-tools-releases-v1.3.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hk-super-tools-releases-v1.3.6"
+  },
+  "jemrec": {
+    "source_repository": "jemcik/JemRec",
+    "source_release_id": 407923246,
+    "source_tag": "0.8",
+    "source_published_at": "2026-10-09T13:06:05Z",
+    "synced_at": "2026-10-17T15:23:25.593294+00:00",
+    "assets": [
+      {
+        "source_asset_id": 625000106,
+        "filename": "jemrec-0.8.apk",
+        "original_filename": "jemrec-0.8.apk",
+        "sha256": "5e69ebd7484fcb9d559c2d3c8ca65c8de09af773a5023c19c709355956a5f881",
+        "file_size": 7148415,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "jemrec-0.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jemrec-0.8"
+  },
+  "n-connect": {
+    "source_repository": "DevCatSKZ/N-Connect",
+    "source_release_id": 415864748,
+    "source_tag": "v1.0.22",
+    "source_published_at": "2026-10-17T15:00:36Z",
+    "synced_at": "2026-10-17T15:23:31.004845+00:00",
+    "assets": [
+      {
+        "source_asset_id": 650763930,
+        "filename": "N-Connect-Android-0.9.1.apk",
+        "original_filename": "N-Connect-Android-0.9.1.apk",
+        "sha256": "c7fd1c7cd209a7f8320d9a8fa948cfd5ec2c9d562f929e3cb0626ef32461517e",
+        "file_size": 19977428,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "n-connect-v1.0.22",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/n-connect-v1.0.22"
   }
 }
