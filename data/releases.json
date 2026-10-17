@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 409351925,
-    "source_tag": "v1.4.9.9",
-    "source_published_at": "2026-10-11T02:39:51Z",
-    "synced_at": "2026-10-11T05:24:50.261094+00:00",
+    "source_release_id": 415507730,
+    "source_tag": "v1.4.9.19",
+    "source_published_at": "2026-10-17T01:15:05Z",
+    "synced_at": "2026-10-17T04:00:29.901088+00:00",
     "assets": [
       {
-        "source_asset_id": 629581564,
-        "filename": "ApexAgent-v1.4.9.9-release-arm64-e621d534.apk",
-        "original_filename": "ApexAgent-v1.4.9.9-release-arm64-e621d534.apk",
-        "sha256": "f62def9718cf1c7933e1cf28257e8fde527cb91550b54d7d0035af5a76c9a36a",
-        "file_size": 335065635,
+        "source_asset_id": 649149913,
+        "filename": "ApexAgent-v1.4.9.19-release-arm64-01f64fcd.apk",
+        "original_filename": "ApexAgent-v1.4.9.19-release-arm64-01f64fcd.apk",
+        "sha256": "fd4ac20288f928a930fb853a21fff87d0a4096aa9b024acb49fd2fe50ba6eea1",
+        "file_size": 337982603,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 629581565,
-        "filename": "ApexAgent-v1.4.9.9-release-universal-e621d534.apk",
-        "original_filename": "ApexAgent-v1.4.9.9-release-universal-e621d534.apk",
-        "sha256": "45565f842114a32a054ab1db64bf37cb5f242f5a7855c2266885520b09e0d564",
-        "file_size": 949988689,
+        "source_asset_id": 649149909,
+        "filename": "ApexAgent-v1.4.9.19-release-universal-01f64fcd.apk",
+        "original_filename": "ApexAgent-v1.4.9.19-release-universal-01f64fcd.apk",
+        "sha256": "d137528249639bfa1a0012154082a1fe32e04dfba28809b837b1f660f2488c94",
+        "file_size": 952905613,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.4.9.9",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.9"
+    "mirror_release_tag": "android-guru-agent-v1.4.9.19",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.19"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -12344,5 +12344,70 @@
     ],
     "mirror_release_tag": "phone-mcp-v1.2.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-mcp-v1.2.0"
+  },
+  "android-optimizer": {
+    "source_repository": "geek4945-creator/android-optimizer",
+    "source_release_id": 415426361,
+    "source_tag": "v1.5.0",
+    "source_published_at": "2026-10-16T22:19:51Z",
+    "synced_at": "2026-10-17T04:00:14.186045+00:00",
+    "assets": [
+      {
+        "source_asset_id": 648792294,
+        "filename": "AndroidOptimizer-rooted-release.apk",
+        "original_filename": "AndroidOptimizer-rooted-release.apk",
+        "sha256": "1bcd668508ffa302aff2dc2ae213f9cfd8c3d3aaad8ff53bd25b0d7d5194058c",
+        "file_size": 1867440,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 648792299,
+        "filename": "AndroidOptimizer-standard-release.apk",
+        "original_filename": "AndroidOptimizer-standard-release.apk",
+        "sha256": "8869b7c4e191c85de6aa820f95a3781c50b548305e77c2441357ccf1330a6c83",
+        "file_size": 1867397,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-optimizer-v1.5.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-optimizer-v1.5.0"
+  },
+  "skyadb": {
+    "source_repository": "sky22333/skyadb",
+    "source_release_id": 415231209,
+    "source_tag": "v1.1.6",
+    "source_published_at": "2026-10-16T17:56:39Z",
+    "synced_at": "2026-10-17T04:00:33.928989+00:00",
+    "assets": [
+      {
+        "source_asset_id": 648132241,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "8f3225b48e15c335b6ce5639a65e667df159bf9e83e252c16c87e25b1837cf68",
+        "file_size": 4119239,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "skyadb-v1.1.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/skyadb-v1.1.6"
+  },
+  "xrdesk": {
+    "source_repository": "ermay12/xrdesk",
+    "source_release_id": 415558134,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-17T03:25:50Z",
+    "synced_at": "2026-10-17T04:00:36.654739+00:00",
+    "assets": [
+      {
+        "source_asset_id": 649411217,
+        "filename": "xrdesk-0.2.0.apk",
+        "original_filename": "xrdesk-0.2.0.apk",
+        "sha256": "840b4f83a211399aef6e4a18ed53296b0f260b9c062653e680f24b95c64cb1af",
+        "file_size": 86668,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "xrdesk-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xrdesk-v0.2.0"
   }
 }

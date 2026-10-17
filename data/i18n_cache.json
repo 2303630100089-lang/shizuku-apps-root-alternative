@@ -1468,7 +1468,21 @@
     "长辈守护：治理老年人手机上的弹窗广告、快应用和诱导跳转": "长辈守护：治理手机上的弹窗广告、快速应用和感应跳跃",
     "Privacy-first Tasker-style automation for Android. Local if/then rules, no cloud, no trackers. Optional Shizuku/root. FOSS.": "适用于 Android 的隐私第一 Tasker 式自动化。本地 if/then 规则，没有云，没有跟踪器。可选的 Shizuku/root。自由和开放源码软件。",
     "Android AI 助手，支持多模型对话、工具调用与个性化扩展。An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.": "Android AI助手，支持多模型对话、工具调用和个性化扩展。适用于Android的AI助手，具有多模型聊天、工具调用和可定制扩展功能。",
-    "Offline Material You system monitor for Android — CPU, RAM, battery, thermals, per-app stats via Shizuku/root. No ads, no tracking.": "离线材料 您可以通过 Shizuku/root 监控 Android 系统 — CPU、RAM、电池、热量、每个应用程序的统计信息。没有广告，没有跟踪。"
+    "Offline Material You system monitor for Android — CPU, RAM, battery, thermals, per-app stats via Shizuku/root. No ads, no tracking.": "离线材料 您可以通过 Shizuku/root 监控 Android 系统 — CPU、RAM、电池、热量、每个应用程序的统计信息。没有广告，没有跟踪。",
+    "Anton7444": "安东7444",
+    "66sam": "66萨姆",
+    "NJS98-UI": "NJS98-UI",
+    "An Android utility app that provides screen stabilization for the XReal XBX A01+ XR glasses.  It also offers pointer based mouse and keyboard input.": "一款 Android 实用应用程序，可为 XReal XBX A01+ XR 眼镜提供屏幕稳定性。 它还提供基于指针的鼠标和键盘输入。",
+    "PowerFull app-manager & Firewall & permission manager and a lot of features.": "PowerFull 应用程序管理器、防火墙和权限管理器以及许多功能。",
+    "Android 上的 adb 助手，可以很方便的管理安卓手机、平板、电视和盒子。": "Android上的adb助手，可以很方便的管理Android手机、平板、电视和盒子。",
+    "Android Optimizer: root-aware device assess, monitor, optimize, processes, network beaconing, Play Store installer, Chinese-ROM fixes": "Android 优化器：root 感知设备评估、监控、优化、处理、网络信标、Play 商店安装程序、中文 ROM 修复",
+    "wized2": "威兹2",
+    "ak-ing": "阿克因",
+    "tim1540": "蒂姆1540",
+    "finall1008": "最终1008",
+    "Ghostpanter": "幽灵潘特",
+    "runalsh": "鲁纳尔什",
+    "jackderganove-sudo": "杰克德加诺韦苏多"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2939,6 +2953,20 @@
     "Privacy-first Tasker-style automation for Android. Local if/then rules, no cloud, no trackers. Optional Shizuku/root. FOSS.": "Автоматизация в стиле Tasker с учетом конфиденциальности для Android. Локальные правила «если/то», никаких облаков и трекеров. Дополнительный Шизуку/корень. ФОСС.",
     "长辈守护：治理老年人手机上的弹窗广告、快应用和诱导跳转": "长辈守护:治理老年人手机上的弹窗广告、快应用和诱导跳转",
     "Offline Material You system monitor for Android — CPU, RAM, battery, thermals, per-app stats via Shizuku/root. No ads, no tracking.": "Автономный материал. Вы контролируете систему для Android — процессор, оперативную память, батарею, температуру, статистику каждого приложения через Shizuku/root. Никакой рекламы, никакого отслеживания.",
-    "Android AI 助手，支持多模型对话、工具调用与个性化扩展。An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.": "AI-помощник для Android с многомодельным чатом, вызовами инструментов и настраиваемыми расширениями."
+    "Android AI 助手，支持多模型对话、工具调用与个性化扩展。An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.": "AI-помощник для Android с многомодельным чатом, вызовами инструментов и настраиваемыми расширениями.",
+    "66sam": "66сэм",
+    "Anton7444": "Антон7444",
+    "NJS98-UI": "NJS98-UI",
+    "An Android utility app that provides screen stabilization for the XReal XBX A01+ XR glasses.  It also offers pointer based mouse and keyboard input.": "Утилита для Android, обеспечивающая стабилизацию экрана для очков XReal XBX A01+ XR. Он также предлагает ввод с помощью мыши и клавиатуры.",
+    "PowerFull app-manager & Firewall & permission manager and a lot of features.": "PowerFull менеджер приложений, брандмауэр, менеджер разрешений и множество функций.",
+    "Android 上的 adb 助手，可以很方便的管理安卓手机、平板、电视和盒子。": "Android использует adb и поддерживает использование adb.",
+    "ak-ing": "ак-инг",
+    "wized2": "wized2",
+    "Android Optimizer: root-aware device assess, monitor, optimize, processes, network beaconing, Play Store installer, Chinese-ROM fixes": "Оптимизатор Android: оценка устройств с поддержкой root, мониторинг, оптимизация, обработка, сетевые маяки, установщик Play Store, исправления китайских ПЗУ",
+    "runalsh": "руналш",
+    "tim1540": "Тим1540",
+    "Ghostpanter": "призракпантер",
+    "jackderganove-sudo": "Джекдерганове-Судо",
+    "finall1008": "финал1008"
   }
 }

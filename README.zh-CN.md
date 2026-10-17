@@ -202,6 +202,11 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[xrdesk](https://github.com/ermay12/xrdesk)** | 一款 Android 实用应用程序，可为 XReal XBX A01+ XR 眼镜提供屏幕稳定性。 它还提供基于指针的鼠标和键盘输入。 | GPL-3.0 | [GitHub 源码](https://github.com/ermay12/xrdesk) • [下载发布](https://github.com/ermay12/xrdesk/releases) |
+| **[void-apps](https://github.com/privshell/void-apps)** | PowerFull 应用程序管理器、防火墙和权限管理器以及许多功能。 | MIT | [GitHub 源码](https://github.com/privshell/void-apps) • [下载发布](https://github.com/privshell/void-apps/releases) |
+| **[skyadb](https://github.com/sky22333/skyadb)** | Android上的adb助手，可以很方便的管理Android手机、平板、电视和盒子。 | GPL-3.0 | [GitHub 源码](https://github.com/sky22333/skyadb) • [下载发布](https://github.com/sky22333/skyadb/releases) |
+| **[Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent)** | 🤖 完全运行在 Android 设备上的自主 AI 代理 — 109 个工具 · PROot Ubuntu 终端 · 仿生内存 (cs-mem) · BYO-LLM。没有服务器。没有电脑。 | See project | [GitHub 源码](https://github.com/Ultra-Guru/Android-Guru-Agent) • [下载发布](https://github.com/Ultra-Guru/Android-Guru-Agent/releases) |
+| **[android-optimizer](https://github.com/geek4945-creator/android-optimizer)** | Android 优化器：root 感知设备评估、监控、优化、处理、网络信标、Play 商店安装程序、中文 ROM 修复 | See project | [GitHub 源码](https://github.com/geek4945-creator/android-optimizer) • [下载发布](https://github.com/geek4945-creator/android-optimizer/releases) |
 | **[Phone-MCP](https://github.com/Anton7444/Phone-MCP)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/Anton7444/Phone-MCP) • [下载发布](https://github.com/Anton7444/Phone-MCP/releases) |
 | **[droidtop](https://github.com/Droidtop/droidtop)** | 将 Android 手持设备转变为共享桌面 — Windows 通过 Wine/Box64、Linux 通过容器、一个合并的合成器、dom0 风格的架构 | GPL-3.0 | [GitHub 源码](https://github.com/Droidtop/droidtop) • [下载发布](https://github.com/Droidtop/droidtop/releases) |
 | **[Shizuku](https://github.com/thedjchi/Shizuku)** | 通过以 app_process 启动的 Java 进程，直接使用普通应用程序中具有 adb/root 权限的系统 API。 | Apache-2.0 | [GitHub 源码](https://github.com/thedjchi/Shizuku) • [下载发布](https://github.com/thedjchi/Shizuku/releases) |
@@ -268,16 +273,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **nna-clicker** | NNazuna | `v2.0.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nna-clicker-v2.0.0) | [Upstream](https://github.com/NNazuna/nna-clicker/releases) |
-| ⚡ **T2EToolbox** | eqbirvin | `v0.5.1` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t2etoolbox-v0.5.1) | [Upstream](https://github.com/eqbirvin/T2EToolbox/releases) |
-| ⚡ **haval-ecotrip** | rafaelcs28 | `v6.234` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haval-ecotrip-v6.234) | [Upstream](https://github.com/rafaelcs28/haval-ecotrip/releases) |
-| ⚡ **CZN-VH** | doubleD1302 | `releases-1.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czn-vh-releases-1.0) | [Upstream](https://github.com/doubleD1302/CZN-VH/releases) |
-| ⚡ **punk-app** | felipegatoloko10 | `v2.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/punk-app-v2.2) | [Upstream](https://github.com/felipegatoloko10/punk-app/releases) |
-| ⚡ **one-tap-network-reset** | R-Dilipkumar | `v0.1.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/one-tap-network-reset-v0.1.0) | [Upstream](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
-| ⚡ **kreza6173-pixel** | privshell | `v1.0.1` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kreza6173-pixel-v1.0.1) | [Upstream](https://github.com/privshell/kreza6173-pixel/releases) |
-| ⚡ **com.hazbu.xcam** | Xpose-模块-Repo | `12-1.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/com-hazbu-xcam-12-1.2) | [Upstream](https://github.com/Xposed-Modules-Repo/com.hazbu.xcam/releases) |
-| ⚡ **xCam** | hazbu | `v1.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xcam-v1.2) | [Upstream](https://github.com/hazbu/xCam/releases) |
-| ⚡ **KRS-DOCKER-ANDROID** | kawincodes | `v1.2.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/krs-docker-android-v1.2.0) | [Upstream](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
+| ⚡ **ShizuBox** | 杰克德加诺韦苏多 | `v0.7.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizubox-v0.7.0) | [Upstream](https://github.com/jackderganove-sudo/ShizuBox/releases) |
+| ⚡ **kengen** | 蒂姆1540 | `v14.3.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kengen-v14.3.0) | [Upstream](https://github.com/tim1540/kengen/releases) |
+| ⚡ **ElderGuard** | 阿克因 | `v1.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elderguard-v1.1.0) | [Upstream](https://github.com/ak-ing/ElderGuard/releases) |
+| ⚡ **remote-bot-android** | 鲁纳尔什 | `v0.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/remote-bot-android-v0.1.0) | [Upstream](https://github.com/runalsh/remote-bot-android/releases) |
+| ⚡ **Phone-MCP** | 安东7444 | `v1.2.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-mcp-v1.2.0) | [Upstream](https://github.com/Anton7444/Phone-MCP/releases) |
+| ⚡ **Latch** | 威兹2 | `v0.6.2` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/latch-v0.6.2) | [Upstream](https://github.com/wized2/Latch/releases) |
+| ⚡ **rear-card-bridge** | 最终1008 | `v1.2.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rear-card-bridge-v1.2.0) | [Upstream](https://github.com/finall1008/rear-card-bridge/releases) |
+| ⚡ **wiitar-android** | 66萨姆 | `v0.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wiitar-android-v0.1.0) | [Upstream](https://github.com/66sam/wiitar-android/releases) |
+| ⚡ **ghost-files** | 幽灵潘特 | `v0.6.6` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ghost-files-v0.6.6) | [Upstream](https://github.com/Ghostpanter/ghost-files/releases) |
+| ⚡ **haiou** | NJS98-UI | `apk-38836306520` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haiou-apk-38836306520) | [Upstream](https://github.com/NJS98-UI/haiou/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
