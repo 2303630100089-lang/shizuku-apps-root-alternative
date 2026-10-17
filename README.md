@@ -265,16 +265,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **nna-clicker** | NNazuna | `v2.0.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nna-clicker-v2.0.0) | [Upstream](https://github.com/NNazuna/nna-clicker/releases) |
-| ⚡ **T2EToolbox** | eqbirvin | `v0.5.1` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t2etoolbox-v0.5.1) | [Upstream](https://github.com/eqbirvin/T2EToolbox/releases) |
-| ⚡ **haval-ecotrip** | rafaelcs28 | `v6.234` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haval-ecotrip-v6.234) | [Upstream](https://github.com/rafaelcs28/haval-ecotrip/releases) |
-| ⚡ **CZN-VH** | doubleD1302 | `releases-1.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czn-vh-releases-1.0) | [Upstream](https://github.com/doubleD1302/CZN-VH/releases) |
-| ⚡ **punk-app** | felipegatoloko10 | `v2.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/punk-app-v2.2) | [Upstream](https://github.com/felipegatoloko10/punk-app/releases) |
-| ⚡ **one-tap-network-reset** | R-Dilipkumar | `v0.1.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/one-tap-network-reset-v0.1.0) | [Upstream](https://github.com/R-Dilipkumar/one-tap-network-reset/releases) |
-| ⚡ **kreza6173-pixel** | privshell | `v1.0.1` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kreza6173-pixel-v1.0.1) | [Upstream](https://github.com/privshell/kreza6173-pixel/releases) |
-| ⚡ **com.hazbu.xcam** | Xposed-Modules-Repo | `12-1.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/com-hazbu-xcam-12-1.2) | [Upstream](https://github.com/Xposed-Modules-Repo/com.hazbu.xcam/releases) |
-| ⚡ **xCam** | hazbu | `v1.2` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xcam-v1.2) | [Upstream](https://github.com/hazbu/xCam/releases) |
-| ⚡ **KRS-DOCKER-ANDROID** | kawincodes | `v1.2.0` | 2026-10-15 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/krs-docker-android-v1.2.0) | [Upstream](https://github.com/kawincodes/KRS-DOCKER-ANDROID/releases) |
+| ⚡ **ShizuBox** | jackderganove-sudo | `v0.7.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizubox-v0.7.0) | [Upstream](https://github.com/jackderganove-sudo/ShizuBox/releases) |
+| ⚡ **kengen** | tim1540 | `v14.3.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kengen-v14.3.0) | [Upstream](https://github.com/tim1540/kengen/releases) |
+| ⚡ **ElderGuard** | ak-ing | `v1.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elderguard-v1.1.0) | [Upstream](https://github.com/ak-ing/ElderGuard/releases) |
+| ⚡ **remote-bot-android** | runalsh | `v0.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/remote-bot-android-v0.1.0) | [Upstream](https://github.com/runalsh/remote-bot-android/releases) |
+| ⚡ **Phone-MCP** | Anton7444 | `v1.2.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-mcp-v1.2.0) | [Upstream](https://github.com/Anton7444/Phone-MCP/releases) |
+| ⚡ **Latch** | wized2 | `v0.6.2` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/latch-v0.6.2) | [Upstream](https://github.com/wized2/Latch/releases) |
+| ⚡ **rear-card-bridge** | finall1008 | `v1.2.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rear-card-bridge-v1.2.0) | [Upstream](https://github.com/finall1008/rear-card-bridge/releases) |
+| ⚡ **wiitar-android** | 66sam | `v0.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wiitar-android-v0.1.0) | [Upstream](https://github.com/66sam/wiitar-android/releases) |
+| ⚡ **ghost-files** | Ghostpanter | `v0.6.6` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ghost-files-v0.6.6) | [Upstream](https://github.com/Ghostpanter/ghost-files/releases) |
+| ⚡ **haiou** | NJS98-UI | `apk-38836306520` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haiou-apk-38836306520) | [Upstream](https://github.com/NJS98-UI/haiou/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
