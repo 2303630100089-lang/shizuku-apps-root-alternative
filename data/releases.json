@@ -5333,22 +5333,22 @@
   },
   "deepseek-harness-android": {
     "source_repository": "dphmoblie/deepseek-harness-android",
-    "source_release_id": 403616181,
-    "source_tag": "v0.2.10",
-    "source_published_at": "2026-10-05T10:53:40Z",
-    "synced_at": "2026-10-10T17:14:53.549355+00:00",
+    "source_release_id": 416307179,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-18T07:40:22Z",
+    "synced_at": "2026-10-18T15:44:06.403313+00:00",
     "assets": [
       {
-        "source_asset_id": 612294614,
+        "source_asset_id": 652830774,
         "filename": "app-release.apk",
         "original_filename": "app-release.apk",
-        "sha256": "2bdc835c148045782fe27434b72b683866c412497d578feeb0dc6f3b8e142a00",
-        "file_size": 314620564,
+        "sha256": "9b1e13406d4cb9c70827d13f4c0e052f8491086eed72980e52617c7899ed61b5",
+        "file_size": 320967852,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "deepseek-harness-android-v0.2.10",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-v0.2.10"
+    "mirror_release_tag": "deepseek-harness-android-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-v0.3.0"
   },
   "equalizer314": {
     "source_repository": "bearinmindcat/Equalizer314",
@@ -12691,5 +12691,195 @@
     ],
     "mirror_release_tag": "com-niki914-zafiro-14-1.8.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/com-niki914-zafiro-14-1.8.0"
+  },
+  "sim-pilot": {
+    "source_repository": "ryuya0124/sim-pilot",
+    "source_release_id": 416536435,
+    "source_tag": "v1.10.0",
+    "source_published_at": "2026-10-18T15:41:32Z",
+    "synced_at": "2026-10-18T15:43:59.059093+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653819168,
+        "filename": "SIM-Pilot-v1.10.0-release.apk",
+        "original_filename": "SIM-Pilot-v1.10.0-release.apk",
+        "sha256": "16b2059bbc0d8e501901b8cbc1d3ac535d7ba7ab5d55d05e9aabcda6f13c23bd",
+        "file_size": 2780936,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sim-pilot-v1.10.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sim-pilot-v1.10.0"
+  },
+  "prune": {
+    "source_repository": "26August/Prune",
+    "source_release_id": 416444712,
+    "source_tag": "1.0.0",
+    "source_published_at": "2026-10-18T12:43:52Z",
+    "synced_at": "2026-10-18T15:44:09.668865+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653471785,
+        "filename": "prune-1.0.0.apk",
+        "original_filename": "prune-1.0.0.apk",
+        "sha256": "3f78637d3439261e05b57c338aabd663479bc05458134fcb97b60cfd7940a3b2",
+        "file_size": 1214483,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "prune-1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/prune-1.0.0"
+  },
+  "vegamshare": {
+    "source_repository": "angga-syah/vegamshare",
+    "source_release_id": 416533797,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-18T15:38:22Z",
+    "synced_at": "2026-10-18T15:44:17.151464+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653811766,
+        "filename": "VegamShare-0.3.0.apk",
+        "original_filename": "VegamShare-0.3.0.apk",
+        "sha256": "85fb5f760ca703e2921f97e1df15c221bbe2c83601956a50d3d8c5c462a09020",
+        "file_size": 91913294,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vegamshare-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vegamshare-v0.3.0"
+  },
+  "smscodex": {
+    "source_repository": "wap58/SmsCodeX",
+    "source_release_id": 416521008,
+    "source_tag": "v3.1.0",
+    "source_published_at": "2026-10-18T15:16:21Z",
+    "synced_at": "2026-10-18T15:44:21.507360+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653770043,
+        "filename": "SmsCodeX_v3.1.0_117_261018_r.apk",
+        "original_filename": "SmsCodeX_v3.1.0_117_261018_r.apk",
+        "sha256": "a617430dfb0830bdb533b7dafc1da3b06c351b71c95df55acd0f6c9c2898fb24",
+        "file_size": 2933599,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "smscodex-v3.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smscodex-v3.1.0"
+  },
+  "ntop": {
+    "source_repository": "harimanish/ntop",
+    "source_release_id": 397140388,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-09-26T07:27:46Z",
+    "synced_at": "2026-10-18T15:44:24.981224+00:00",
+    "assets": [
+      {
+        "source_asset_id": 590170339,
+        "filename": "ntop-0.4.0.apk",
+        "original_filename": "ntop-0.4.0.apk",
+        "sha256": "145b4a22398670723d6019a00f92c937050c5dbbb82185f87eb88fdc921d998d",
+        "file_size": 3050083,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ntop-v0.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ntop-v0.4.0"
+  },
+  "dexoptx": {
+    "source_repository": "ExZyO/DexOptX",
+    "source_release_id": 416487163,
+    "source_tag": "v1.0.5",
+    "source_published_at": "2026-10-18T14:09:36Z",
+    "synced_at": "2026-10-18T15:44:28.800600+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653635135,
+        "filename": "DexOptX-v1.0.5-release.apk",
+        "original_filename": "DexOptX-v1.0.5-release.apk",
+        "sha256": "368bfc82bc67a69ee8582ffef1c3ea74955872f0321a87ee07025bab11b3f4ed",
+        "file_size": 1244893,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "dexoptx-v1.0.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dexoptx-v1.0.5"
+  },
+  "pixel-cake": {
+    "source_repository": "Tri250/pixel-cake",
+    "source_release_id": 416514010,
+    "source_tag": "v2.0.0-alpha07",
+    "source_published_at": "2026-10-18T15:02:53Z",
+    "synced_at": "2026-10-18T15:44:32.677852+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653742752,
+        "filename": "LADB-2.0.0-alpha07.apk",
+        "original_filename": "LADB-2.0.0-alpha07.apk",
+        "sha256": "a7b48d58ae70a5febd6d4c1da1ed59d999f20486b35f019027e9eaed8160fffc",
+        "file_size": 6839389,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pixel-cake-v2.0.0-alpha07",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixel-cake-v2.0.0-alpha07"
+  },
+  "tailgate": {
+    "source_repository": "jason5545/tailgate",
+    "source_release_id": 416537700,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-18T15:43:13Z",
+    "synced_at": "2026-10-18T15:44:35.515607+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653822667,
+        "filename": "tailgate-1.0.1.apk",
+        "original_filename": "tailgate-1.0.1.apk",
+        "sha256": "3270559fd109f586ff7b2de3f35d9916218ea66dd461ca292462fc86b8ede93a",
+        "file_size": 57845,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tailgate-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailgate-v1.0.1"
+  },
+  "starshore": {
+    "source_repository": "isac12345/starshore",
+    "source_release_id": 416304582,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-18T07:36:15Z",
+    "synced_at": "2026-10-18T15:44:39.274945+00:00",
+    "assets": [
+      {
+        "source_asset_id": 652814186,
+        "filename": "Starshore-1.0.0.apk",
+        "original_filename": "Starshore-1.0.0.apk",
+        "sha256": "3d34a2d98610ec4cbcb41d865a500d3b15f2cf5eb3e6d0f9c84bc69210e43274",
+        "file_size": 797017,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "starshore-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/starshore-v1.0.0"
+  },
+  "czmtsphone": {
+    "source_repository": "martintobola-cz/czmtsphone",
+    "source_release_id": 416528642,
+    "source_tag": "10.1.8",
+    "source_published_at": "2026-10-18T15:35:18Z",
+    "synced_at": "2026-10-18T15:44:42.710601+00:00",
+    "assets": [
+      {
+        "source_asset_id": 653798908,
+        "filename": "phone-1018-core-release.apk",
+        "original_filename": "phone-1018-core-release.apk",
+        "sha256": "57b63d15d0e8b5ce4928564c92357d9fda4aea0a3aeb7c9a569935c337325965",
+        "file_size": 8242982,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "czmtsphone-10.1.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czmtsphone-10.1.8"
   }
 }

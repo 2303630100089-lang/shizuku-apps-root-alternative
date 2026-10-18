@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-17T15:23:18.488883+00:00",
+    "last_checked": "2026-10-18T15:44:29.177852+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-17T15:23:17.794691+00:00",
+    "last_checked": "2026-10-18T15:44:06.864915+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -332,8 +332,8 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "synced",
-    "last_checked": "2026-10-17T15:23:20.236157+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-18T15:43:59.760691+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T15:23:20.236157+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-17T15:23:20.689763+00:00",
+    "last_checked": "2026-10-18T15:44:25.577947+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-17T15:23:21.383624+00:00",
+    "last_checked": "2026-10-18T15:44:18.131951+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -926,10 +926,10 @@
     "last_synced": "2026-09-30T17:27:52.282925+00:00"
   },
   "deepseek-harness-android": {
-    "status": "no-update",
-    "last_checked": "2026-10-18T04:08:47.733542+00:00",
-    "latest_version": "v0.2.10",
-    "last_synced": "2026-10-10T17:14:53.549377+00:00"
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:06.403335+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-18T15:44:06.403335+00:00"
   },
   "equalizer314": {
     "status": "synced",
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-17T15:23:17.986388+00:00",
+    "last_checked": "2026-10-18T15:43:59.168709+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1686,7 +1686,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-17T15:23:05.091573+00:00",
+    "last_checked": "2026-10-18T15:44:21.618076+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -3198,5 +3198,69 @@
     "last_checked": "2026-10-18T04:09:14.850446+00:00",
     "latest_version": "14-1.8.0",
     "last_synced": "2026-10-18T04:09:14.850446+00:00"
+  },
+  "sim-pilot": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:43:59.059129+00:00",
+    "latest_version": "v1.10.0",
+    "last_synced": "2026-10-18T15:43:59.059129+00:00"
+  },
+  "prune": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:09.668919+00:00",
+    "latest_version": "1.0.0",
+    "last_synced": "2026-10-18T15:44:09.668919+00:00"
+  },
+  "vegamshare": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:17.151485+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-18T15:44:17.151485+00:00"
+  },
+  "smscodex": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:21.507380+00:00",
+    "latest_version": "v3.1.0",
+    "last_synced": "2026-10-18T15:44:21.507380+00:00"
+  },
+  "ntop": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:24.981247+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-10-18T15:44:24.981247+00:00"
+  },
+  "dexoptx": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:28.800623+00:00",
+    "latest_version": "v1.0.5",
+    "last_synced": "2026-10-18T15:44:28.800623+00:00"
+  },
+  "sunus": {
+    "status": "no-apk",
+    "last_checked": "2026-10-18T15:44:29.523223+00:00"
+  },
+  "pixel-cake": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:32.677869+00:00",
+    "latest_version": "v2.0.0-alpha07",
+    "last_synced": "2026-10-18T15:44:32.677869+00:00"
+  },
+  "tailgate": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:35.515633+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-18T15:44:35.515633+00:00"
+  },
+  "starshore": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:39.274965+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-18T15:44:39.274965+00:00"
+  },
+  "czmtsphone": {
+    "status": "synced",
+    "last_checked": "2026-10-18T15:44:42.710619+00:00",
+    "latest_version": "10.1.8",
+    "last_synced": "2026-10-18T15:44:42.710619+00:00"
   }
 }

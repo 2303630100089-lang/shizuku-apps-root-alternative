@@ -1506,7 +1506,23 @@
     "DashWheel: a free android car dashboard": "DashWheel：免费的 Android 汽车仪表板",
     "| **[com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro)** | Zafiro \\| 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制 | See project | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |": "| ** [com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) ** |扎菲罗\\| 小布换原生定模型 •支持MCP、技能、命令运行、无障碍手机控制 |查看项目 | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |",
     "Non-root Android external-monitor desktop and phone touchpad powered by Shizuku": "由 Shizuku 提供支持的免 root Android 外部显示器桌面和手机触摸板",
-    "HyperOS 超级岛/锁屏/AOD息屏歌词 Xposed 模块": "HyperOS 超级岛/锁屏/AOD 息屏歌词 Xposed 模块"
+    "HyperOS 超级岛/锁屏/AOD息屏歌词 Xposed 模块": "HyperOS 超级岛/锁屏/AOD 息屏歌词 Xposed 模块",
+    "Universal AOT Bytecode Compiler for Android (S24 Ultra) and Android TV (Nvidia Shield Pro) using Shizuku API": "使用 Shizuku API 的适用于 Android (S24 Ultra) 和 Android TV (Nvidia Shield Pro) 的通用 AOT 字节码编译器",
+    "AMOLED notification LED for Android 10+. A glowing ring around your camera cutout, a black always-on screen with app icons, 9 animations, per-app colours, very low battery use. Works on any brand (HyperOS, One UI, ColorOS…), with optional Shizuku/root one-tap setup.": "适用于 Android 10+ 的 AMOLED 通知 LED。相机切口周围的发光环、带有应用程序图标的常亮黑色屏幕、9 个动画、每个应用程序的颜色、极低的电池使用量。适用于任何品牌（HyperOS、One UI、ColorOS…），具有可选的 Shizuku/root 一键设置。",
+    "Phone cleaner and video compressor for Android. No internet permission, no ads.": "适用于 Android 的手机清理器和视频压缩器。没有互联网许可，没有广告。",
+    "Android Forge is a Tool for Sideload your generated APK or connect via wireless ADB / QR code to Build App on Local Phone ( App by Culture.Support )": "Android Forge 是一个用于旁加载生成的 APK 或通过无线 ADB / QR 码连接以在本地电话上构建应用程序的工具（由 Culture.Support 提供的应用程序）",
+    "Android app for XREAL / USB-C display glasses: double-tap a volume button to black out the phone screen and lock landscape while the glasses keep mirroring. No root or Shizuku.": "适用于 XREAL / USB-C 显示眼镜的 Android 应用程序：双击音量按钮可使手机屏幕变黑并锁定横向，同时眼镜保持镜像。没有根或雫。",
+    "An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.": "适用于 Android 的 AI 助手，具有多模型聊天、工具调用和可定制扩展功能。",
+    "Android companion app for AstrBot phone control with Shizuku, structured commands, chat, reminders, and timeline sync": "Android 配套应用程序，用于通过 Shizuku、结构化命令、聊天、提醒和时间线同步进行 AstrBot 手机控制",
+    "Samsung Galaxy向け非公式ツール。署名済みAPK・使い方・変更履歴の配布用。": "三星Galaxy向け非公式ツール。署名済みAPK・使い方・変更履歴の配布用。",
+    "Example Android app with JNI + Shizuku integration and CI": "具有 JNI + Shizuku 集成和 CI 的示例 Android 应用程序",
+    "Galaxy DSDV smart SIM failover with Shizuku and Material 3": "使用 Shizuku 和 Material 3 的 Galaxy DSDV 智能 SIM 故障转移",
+    "An Android application blocker powered by Shizuku, featuring automatic blacklist enforcement and app management without requiring root.": "由 Shizuku 提供支持的 Android 应用程序拦截器，具有自动黑名单执行和应用程序管理功能，无需 root。",
+    "Phone/Dialer for Android, based on SimpleMobile. Smart, fast, safe, and without internet permissions.": "Android 电话/拨号器，基于 SimpleMobile。智能、快速、安全且无需互联网权限。",
+    "只為 tailnet 開的門 — 用 Shizuku 把 Android 無線 ADB 鎖在 Tailscale 網段內": "只为 tailnet 开的门 — 使用 Shizuku 把 Android 无线 ADB 锁在 Tailscale 网段内",
+    "AI Photo Editor": "人工智能照片编辑器",
+    "Sonos Bridge for Android: plays your phone's audio live on a Sonos speaker. Successor to tomkainz/sonos-bridge.": "Android 版 Sonos Bridge：在 Sonos 扬声器上实时播放手机音频。 tomkainz/sonos-bridge 的后继者。",
+    "短信验证码自动复制/填充/记录，并支持转发到企业微信、钉钉、飞书、息知、推送加等 6 种通道。基于 XposedSmsCode 深度重构的 LSPosed 模块。": "短信验证码自动复制/填充/记录，并支持转发到企业微信、钉钉、飞书、息知、主动加等6种通道。基于XposedSmsCode深度重构的LSPosed模块。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3015,6 +3031,22 @@
     "| **[com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro)** | Zafiro \\| 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制 | See project | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |": "| ** [com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) ** | Зафиро \\| 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制 | Посмотреть проект | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |",
     "DashWheel: a free android car dashboard": "DashWheel: бесплатная автомобильная приборная панель для Android",
     "HyperOS 超级岛/锁屏/AOD息屏歌词 Xposed 模块": "HyperOS 超级岛/锁屏/AOD 息屏歌词 Xpose 模块",
-    "Non-root Android external-monitor desktop and phone touchpad powered by Shizuku": "Сенсорная панель для настольного компьютера и телефона с внешним монитором Android без root-доступа на базе Shizuku"
+    "Non-root Android external-monitor desktop and phone touchpad powered by Shizuku": "Сенсорная панель для настольного компьютера и телефона с внешним монитором Android без root-доступа на базе Shizuku",
+    "Phone cleaner and video compressor for Android. No internet permission, no ads.": "Очиститель телефона и компрессор видео для Android. Нет разрешения в Интернет, нет рекламы.",
+    "Universal AOT Bytecode Compiler for Android (S24 Ultra) and Android TV (Nvidia Shield Pro) using Shizuku API": "Универсальный компилятор байт-кода AOT для Android (S24 Ultra) и Android TV (Nvidia Shield Pro) с использованием API Shizuku",
+    "AMOLED notification LED for Android 10+. A glowing ring around your camera cutout, a black always-on screen with app icons, 9 animations, per-app colours, very low battery use. Works on any brand (HyperOS, One UI, ColorOS…), with optional Shizuku/root one-tap setup.": "Светодиодный индикатор уведомлений AMOLED для Android 10+. Светящееся кольцо вокруг выреза камеры, всегда включенный черный экран со значками приложений, 9 анимаций, цвета для каждого приложения, очень низкий расход заряда батареи. Работает на любой марке (HyperOS, One UI, ColorOS…), с дополнительной настройкой Shizuku/root в одно касание.",
+    "Android app for XREAL / USB-C display glasses: double-tap a volume button to black out the phone screen and lock landscape while the glasses keep mirroring. No root or Shizuku.": "Приложение Android для очков с дисплеем XREAL / USB-C: дважды нажмите кнопку громкости, чтобы затемнить экран телефона и заблокировать альбомную ориентацию, пока очки продолжают зеркально отображать изображение. Ни рута, ни Шизуку.",
+    "Android Forge is a Tool for Sideload your generated APK or connect via wireless ADB / QR code to Build App on Local Phone ( App by Culture.Support )": "Android Forge — это инструмент для загрузки сгенерированного APK или подключения через беспроводное соединение ADB/QR-кода к созданию приложения на локальном телефоне (приложение от Culture.Support)",
+    "Samsung Galaxy向け非公式ツール。署名済みAPK・使い方・変更履歴の配布用。": "Samsung Galaxy может скачать APK-файл с бесплатной доставкой.",
+    "An AI assistant for Android with multi-model chat, tool calling, and customizable extensions.": "AI-помощник для Android с многомодельным чатом, вызовом инструментов и настраиваемыми расширениями.",
+    "Phone/Dialer for Android, based on SimpleMobile. Smart, fast, safe, and without internet permissions.": "Телефон/дозвонщик для Android на базе SimpleMobile. Умный, быстрый, безопасный и без доступа в Интернет.",
+    "Android companion app for AstrBot phone control with Shizuku, structured commands, chat, reminders, and timeline sync": "Приложение-компаньон для Android для управления телефоном AstrBot с помощью Shizuku, структурированных команд, чата, напоминаний и синхронизации с временной шкалой.",
+    "Galaxy DSDV smart SIM failover with Shizuku and Material 3": "Интеллектуальное аварийное переключение SIM-карты Galaxy DSDV с помощью Shizuku и Material 3",
+    "An Android application blocker powered by Shizuku, featuring automatic blacklist enforcement and app management without requiring root.": "Блокировщик приложений Android на базе Shizuku с автоматическим применением черного списка и управлением приложениями без необходимости root.",
+    "只為 tailnet 開的門 — 用 Shizuku 把 Android 無線 ADB 鎖在 Tailscale 網段內": "只為 Tailnet 開的門 — 用 Shizuku 把 Android 無線 ADB 鎖在 Tailscale 網段內",
+    "Example Android app with JNI + Shizuku integration and CI": "Пример приложения для Android с интеграцией JNI + Shizuku и CI",
+    "AI Photo Editor": "Фоторедактор с искусственным интеллектом",
+    "短信验证码自动复制/填充/记录，并支持转发到企业微信、钉钉、飞书、息知、推送加等 6 种通道。基于 XposedSmsCode 深度重构的 LSPosed 模块。": "短信验证码自动复制/填充/记录，并支持转发到企业微信、钉钉、飞书、息知、推送加等6. Нажмите кнопку XposedSmsCode, чтобы загрузить LSPosed.",
+    "Sonos Bridge for Android: plays your phone's audio live on a Sonos speaker. Successor to tomkainz/sonos-bridge.": "Sonos Bridge для Android: воспроизводит звук вашего телефона в прямом эфире через динамик Sonos. Преемник tomkainz/sonos-bridge."
   }
 }
