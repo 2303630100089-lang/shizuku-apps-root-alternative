@@ -12466,5 +12466,230 @@
     ],
     "mirror_release_tag": "n-connect-v1.0.22",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/n-connect-v1.0.22"
+  },
+  "syncboard": {
+    "source_repository": "copylee711/syncboard",
+    "source_release_id": 416215773,
+    "source_tag": "v0.2.2",
+    "source_published_at": "2026-10-18T03:43:24Z",
+    "synced_at": "2026-10-18T04:07:58.161488+00:00",
+    "assets": [
+      {
+        "source_asset_id": 652380741,
+        "filename": "SyncBoard-0.2.2.apk",
+        "original_filename": "SyncBoard-0.2.2.apk",
+        "sha256": "7ca745e84a85d2888e97efa5e1a8eeafeeb1682a0c93572e5fa09bc26a5153e4",
+        "file_size": 3659734,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "syncboard-v0.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/syncboard-v0.2.2"
+  },
+  "dashwheel": {
+    "source_repository": "deviloufr-ai/Dashwheel",
+    "source_release_id": 416015400,
+    "source_tag": "v1.0.796",
+    "source_published_at": "2026-10-17T19:30:16Z",
+    "synced_at": "2026-10-18T04:08:06.506348+00:00",
+    "assets": [
+      {
+        "source_asset_id": 651389104,
+        "filename": "Dashwheel-1.0.796.apk",
+        "original_filename": "Dashwheel-1.0.796.apk",
+        "sha256": "3edf4939a928318b38aced46218604346ab6b80d760f3185ec83d5e09cb8dc95",
+        "file_size": 47708742,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 651389105,
+        "filename": "dashwheel-companion.apk",
+        "original_filename": "dashwheel-companion.apk",
+        "sha256": "d25fa25b28497e8b7bc0aa58f9d369bda6ec0de230a5f3801384d3ceef4f44a4",
+        "file_size": 4004415,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dashwheel-v1.0.796",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dashwheel-v1.0.796"
+  },
+  "earshot": {
+    "source_repository": "HellzYeahh/earshot",
+    "source_release_id": 416178859,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-10-18T01:52:58Z",
+    "synced_at": "2026-10-18T04:08:10.399259+00:00",
+    "assets": [
+      {
+        "source_asset_id": 652168579,
+        "filename": "earshot-0.3.1.apk",
+        "original_filename": "earshot-0.3.1.apk",
+        "sha256": "afa1a6d5d571e1159f6019944ab42793500819ac69598b10feaaa520d9a7f8ae",
+        "file_size": 4873134,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "earshot-v0.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/earshot-v0.3.1"
+  },
+  "turtlelauncher": {
+    "source_repository": "Endiq-jar/TurtleLauncher",
+    "source_release_id": 412529738,
+    "source_tag": "Hotfix-5",
+    "source_published_at": "2026-10-14T09:16:27Z",
+    "synced_at": "2026-10-18T04:08:24.927638+00:00",
+    "assets": [
+      {
+        "source_asset_id": 639853374,
+        "filename": "TurtleLauncher-3.5.apk",
+        "original_filename": "TurtleLauncher-3.5.apk",
+        "sha256": "88db8399e850393e6864a043a41503174abee0a41e92ba04113568f0ff9ee2bb",
+        "file_size": 204870187,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "turtlelauncher-Hotfix-5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turtlelauncher-Hotfix-5"
+  },
+  "hyperlyrics": {
+    "source_repository": "GeniusQA/HyperLyrics",
+    "source_release_id": 408535069,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-10-10T02:21:33Z",
+    "synced_at": "2026-10-18T04:08:36.428007+00:00",
+    "assets": [
+      {
+        "source_asset_id": 626773202,
+        "filename": "HyperLyrics-Canary-v1.1.0-160102.apk",
+        "original_filename": "HyperLyrics-Canary-v1.1.0-160102.apk",
+        "sha256": "37546c7e78721865c77cb7ff36abd6be34797fd0299bc43bc3f49473fc96e057",
+        "file_size": 66240823,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 626773201,
+        "filename": "HyperLyrics-Release-v1.1.0-160102.apk",
+        "original_filename": "HyperLyrics-Release-v1.1.0-160102.apk",
+        "sha256": "ab95d6432179dad955a9ffc2ce4921e0ef7eb1829a09f5a8b7b90f3fdbcf9de1",
+        "file_size": 12081395,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "hyperlyrics-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperlyrics-v1.1.0"
+  },
+  "cardeck": {
+    "source_repository": "shaonialife/cardeck",
+    "source_release_id": 416199045,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-18T02:53:54Z",
+    "synced_at": "2026-10-18T04:08:40.877155+00:00",
+    "assets": [
+      {
+        "source_asset_id": 652286470,
+        "filename": "CarDeck-0.1.0.apk",
+        "original_filename": "CarDeck-0.1.0.apk",
+        "sha256": "d65c374f711fb92f6de26754bc15f466d9593a616a86f29887a9e95c969fa6b0",
+        "file_size": 13102757,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cardeck-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cardeck-v0.1.0"
+  },
+  "sluer": {
+    "source_repository": "jesongonzales3131-sys/Sluer",
+    "source_release_id": 416024575,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-10-17T19:51:36Z",
+    "synced_at": "2026-10-18T04:08:43.964835+00:00",
+    "assets": [
+      {
+        "source_asset_id": 651435177,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "50de17804a390c6484401ebee657fa57ae19ba4c19d965ce460f1510ff0c6382",
+        "file_size": 1343909,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sluer-v0.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sluer-v0.4.0"
+  },
+  "dexdroid": {
+    "source_repository": "PhiLong-Ho/DexDroid",
+    "source_release_id": 415930600,
+    "source_tag": "v0.12.3",
+    "source_published_at": "2026-10-17T16:34:32Z",
+    "synced_at": "2026-10-18T04:08:47.031784+00:00",
+    "assets": [
+      {
+        "source_asset_id": 650975734,
+        "filename": "DexDroid-0.12.3.apk",
+        "original_filename": "DexDroid-0.12.3.apk",
+        "sha256": "212197a3249413f4b22ce75a5db4ac6aa23e7ed7a3af3a861deedf04ff26aa3a",
+        "file_size": 456464,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dexdroid-v0.12.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dexdroid-v0.12.3"
+  },
+  "ashenflamefoundry": {
+    "source_repository": "151shi23/AshenFlameFoundry",
+    "source_release_id": 404457313,
+    "source_tag": "v5.12",
+    "source_published_at": "2026-10-06T08:21:20Z",
+    "synced_at": "2026-10-18T04:09:05.305919+00:00",
+    "assets": [
+      {
+        "source_asset_id": 614885210,
+        "filename": "AshenFlameFoundry-5.12.apk",
+        "original_filename": "AshenFlameFoundry-5.12.apk",
+        "sha256": "6d92c174e3538c2992f2daa1e04344299c5463627e2b0418fd19fa964ed46c44",
+        "file_size": 195354437,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ashenflamefoundry-v5.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ashenflamefoundry-v5.12"
+  },
+  "lyrics-companion": {
+    "source_repository": "zuo-qirun/Lyrics-Companion",
+    "source_release_id": 416213668,
+    "source_tag": "apk-1792294498-62103bf",
+    "source_published_at": "2026-10-18T03:36:41Z",
+    "synced_at": "2026-10-18T04:09:09.235469+00:00",
+    "assets": [
+      {
+        "source_asset_id": 652369457,
+        "filename": "lyrics-companion-62103bf.apk",
+        "original_filename": "lyrics-companion-62103bf.apk",
+        "sha256": "46a9d1b2a86c87c182969d9bd53768e2c00c6beab788f07f91382d3a8276e990",
+        "file_size": 5237186,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lyrics-companion-apk-1792294498-62103bf",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lyrics-companion-apk-1792294498-62103bf"
+  },
+  "com-niki914-zafiro": {
+    "source_repository": "Xposed-Modules-Repo/com.niki914.zafiro",
+    "source_release_id": 416058294,
+    "source_tag": "14-1.8.0",
+    "source_published_at": "2026-10-17T21:06:23Z",
+    "synced_at": "2026-10-18T04:09:14.850427+00:00",
+    "assets": [
+      {
+        "source_asset_id": 651600336,
+        "filename": "Zafiro-1.8.0.apk",
+        "original_filename": "Zafiro-1.8.0.apk",
+        "sha256": "572e801da0e45ffb008ecb972b241a5626c334462cb4447eb3d0885739f7ffee",
+        "file_size": 30445004,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "com-niki914-zafiro-14-1.8.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/com-niki914-zafiro-14-1.8.0"
   }
 }

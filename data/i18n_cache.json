@@ -1490,7 +1490,23 @@
     "all shizuku resources": "所有雫资源",
     "Android app to turn airplane mode on and off on a schedule": "Android 应用程序可按计划打开和关闭飞行模式",
     "Local-first desktop AI coding agent with multi-model routing, skills, automation, Memory Lab, and controlled computer use.": "本地优先的桌面 AI 编码代理，具有多模型路由、技能、自动化、内存实验室和受控计算机使用。",
-    "Call recorder for unrooted Android: one APK, no root, no Shizuku, no computer": "适用于未 root 的 Android 的通话录音：一个 APK，无需 root，无需 Shizuku，无需电脑"
+    "Call recorder for unrooted Android: one APK, no root, no Shizuku, no computer": "适用于未 root 的 Android 的通话录音：一个 APK，无需 root，无需 Shizuku，无需电脑",
+    "Android lyrics companion with overlay, secondary-display rendering, multi-source lyrics, and customizable layouts": "Android 歌词伴侣，具有叠加、辅助显示渲染、多源歌词和可自定义布局",
+    "CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目）": "CarDeck — 让Android手机玩CarPlay发送端（非官方实验性项目）",
+    "geek4945-creator": "geek4945-创造者",
+    "Account-free Android app for the Bose QC Ultra Headphones (2nd Gen): direct Bluetooth control, pro EQ with volume boost, codec and LE Audio panel, louder calls, tile, widget and automations. No internet permission.": "适用于 Bose QC Ultra 耳机（第二代）的免帐户 Android 应用程序：直接蓝牙控制、带音量增强功能的专业均衡器、编解码器和 LE 音频面板、大声通话、磁贴、小部件和自动化。没有互联网许可。",
+    "Minecraft world/save to OBJ exporter for Android (offline, three.js preview, GPL-3.0)": "适用于 Android 的 Minecraft 世界/保存到 OBJ 导出器（离线、三.js 预览版、GPL-3.0）",
+    "A minecraft launcher based on boardwalk": "基于木板路的我的世界发射器",
+    "hoangkienpr": "黄健保",
+    "DevCatSKZ": "开发猫SKZ",
+    "Lucent 📝 — Notes, tasks & an AI assistant that respects your privacy 🔒 Encrypted & offline-first ✨": "Lucent 📝 — 笔记、任务和尊重您隐私的 AI 助手 🔒 加密且离线优先 ✨",
+    "ermay12": "尔美12",
+    "sky22333": "天空22333",
+    "GhostLock Raspite Android app and Linux root helper for Fire HD 8 12th Gen (KFRAWI).": "适用于 Fire HD 8 第 12 代 (KFRAWI) 的 GhostLock Raspite Android 应用程序和 Linux root 帮助程序。",
+    "DashWheel: a free android car dashboard": "DashWheel：免费的 Android 汽车仪表板",
+    "| **[com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro)** | Zafiro \\| 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制 | See project | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |": "| ** [com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) ** |扎菲罗\\| 小布换原生定模型 •支持MCP、技能、命令运行、无障碍手机控制 |查看项目 | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |",
+    "Non-root Android external-monitor desktop and phone touchpad powered by Shizuku": "由 Shizuku 提供支持的免 root Android 外部显示器桌面和手机触摸板",
+    "HyperOS 超级岛/锁屏/AOD息屏歌词 Xposed 模块": "HyperOS 超级岛/锁屏/AOD 息屏歌词 Xposed 模块"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -2983,6 +2999,22 @@
     "all shizuku resources": "все ресурсы Шизуку",
     "Android app to turn airplane mode on and off on a schedule": "Android-приложение для включения и выключения режима полета по расписанию",
     "Local-first desktop AI coding agent with multi-model routing, skills, automation, Memory Lab, and controlled computer use.": "Локальный настольный агент ИИ-кодирования с многомодельной маршрутизацией, навыками, автоматизацией, лабораторией памяти и контролируемым использованием компьютера.",
-    "Call recorder for unrooted Android: one APK, no root, no Shizuku, no computer": "Запись звонков для нерутированного Android: один APK, без рута, без Shizuku, без компьютера"
+    "Call recorder for unrooted Android: one APK, no root, no Shizuku, no computer": "Запись звонков для нерутированного Android: один APK, без рута, без Shizuku, без компьютера",
+    "geek4945-creator": "geek4945-создатель",
+    "CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目）": "CarDeck — Android-приложение CarPlay 发送端(非官方实验性项目)",
+    "Android lyrics companion with overlay, secondary-display rendering, multi-source lyrics, and customizable layouts": "Приложение к текстам песен для Android с наложением, рендерингом на вторичном дисплее, текстами из нескольких источников и настраиваемыми макетами.",
+    "Account-free Android app for the Bose QC Ultra Headphones (2nd Gen): direct Bluetooth control, pro EQ with volume boost, codec and LE Audio panel, louder calls, tile, widget and automations. No internet permission.": "Приложение Android без учетной записи для наушников Bose QC Ultra (2-го поколения): прямое управление через Bluetooth, профессиональный эквалайзер с усилением громкости, кодек и панель LE Audio, более громкие вызовы, плитка, виджет и средства автоматизации. Нет разрешения на доступ в Интернет.",
+    "GhostLock Raspite Android app and Linux root helper for Fire HD 8 12th Gen (KFRAWI).": "Приложение GhostLock Raspite для Android и помощник root для Fire HD 8 12-го поколения (KFRAWI).",
+    "Minecraft world/save to OBJ exporter for Android (offline, three.js preview, GPL-3.0)": "Мир Minecraft/сохранение в экспортере OBJ для Android (офлайн, предварительная версия Three.js, GPL-3.0)",
+    "A minecraft launcher based on boardwalk": "Лаунчер Minecraft на основе дощатого настила",
+    "hoangkienpr": "Хоангкиенпр",
+    "DevCatSKZ": "ДевКатСКЗ",
+    "ermay12": "ermay12",
+    "sky22333": "небо22333",
+    "Lucent 📝 — Notes, tasks & an AI assistant that respects your privacy 🔒 Encrypted & offline-first ✨": "Lucent 📝 — заметки, задачи и помощник с искусственным интеллектом, который уважает вашу конфиденциальность 🔒 Зашифровано и работает в автономном режиме ✨",
+    "| **[com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro)** | Zafiro \\| 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制 | See project | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |": "| ** [com.niki914.zafiro](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) ** | Зафиро \\| 小布换源自定模型 •支持 MCP、Skills、命令运行、无障碍手机控制 | Посмотреть проект | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro) • [Releases](https://github.com/Xposed-Modules-Repo/com.niki914.zafiro/releases) |",
+    "DashWheel: a free android car dashboard": "DashWheel: бесплатная автомобильная приборная панель для Android",
+    "HyperOS 超级岛/锁屏/AOD息屏歌词 Xposed 模块": "HyperOS 超级岛/锁屏/AOD 息屏歌词 Xpose 模块",
+    "Non-root Android external-monitor desktop and phone touchpad powered by Shizuku": "Сенсорная панель для настольного компьютера и телефона с внешним монитором Android без root-доступа на базе Shizuku"
   }
 }

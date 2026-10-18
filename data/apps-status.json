@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-16T16:29:42.167416+00:00",
+    "last_checked": "2026-10-18T04:08:47.733542+00:00",
     "latest_version": "v0.2.10",
     "last_synced": "2026-10-10T17:14:53.549377+00:00"
   },
@@ -962,8 +962,8 @@
     "last_synced": "2026-09-30T17:28:34.237248+00:00"
   },
   "lucent": {
-    "status": "synced",
-    "last_checked": "2026-09-30T17:28:43.297555+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-18T04:08:11.144405+00:00",
     "latest_version": "v3.0.5",
     "last_synced": "2026-09-30T17:28:43.297555+00:00"
   },
@@ -3122,5 +3122,81 @@
     "last_checked": "2026-10-17T15:23:31.004866+00:00",
     "latest_version": "v1.0.22",
     "last_synced": "2026-10-17T15:23:31.004866+00:00"
+  },
+  "syncboard": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:07:58.161517+00:00",
+    "latest_version": "v0.2.2",
+    "last_synced": "2026-10-18T04:07:58.161517+00:00"
+  },
+  "dashwheel": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:06.506369+00:00",
+    "latest_version": "v1.0.796",
+    "last_synced": "2026-10-18T04:08:06.506369+00:00"
+  },
+  "bushra-ai-agent": {
+    "status": "no-apk",
+    "last_checked": "2026-10-18T04:08:06.786205+00:00",
+    "latest_version": "latest"
+  },
+  "earshot": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:10.399279+00:00",
+    "latest_version": "v0.3.1",
+    "last_synced": "2026-10-18T04:08:10.399279+00:00"
+  },
+  "turtlelauncher": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:24.927660+00:00",
+    "latest_version": "Hotfix-5",
+    "last_synced": "2026-10-18T04:08:24.927660+00:00"
+  },
+  "hyperlyrics": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:36.428024+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-18T04:08:36.428024+00:00"
+  },
+  "cardeck": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:40.877176+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-18T04:08:40.877176+00:00"
+  },
+  "sluer": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:43.964855+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-10-18T04:08:43.964855+00:00"
+  },
+  "dexdroid": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:08:47.031802+00:00",
+    "latest_version": "v0.12.3",
+    "last_synced": "2026-10-18T04:08:47.031802+00:00"
+  },
+  "ashenflamefoundry": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:09:05.305938+00:00",
+    "latest_version": "v5.12",
+    "last_synced": "2026-10-18T04:09:05.305938+00:00"
+  },
+  "lyrics-companion": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:09:09.235494+00:00",
+    "latest_version": "apk-1792294498-62103bf",
+    "last_synced": "2026-10-18T04:09:09.235494+00:00"
+  },
+  "ghostlock-raspite": {
+    "status": "no-apk",
+    "last_checked": "2026-10-18T04:09:09.603791+00:00",
+    "latest_version": "v1.0.0"
+  },
+  "com-niki914-zafiro": {
+    "status": "synced",
+    "last_checked": "2026-10-18T04:09:14.850446+00:00",
+    "latest_version": "14-1.8.0",
+    "last_synced": "2026-10-18T04:09:14.850446+00:00"
   }
 }
