@@ -250,16 +250,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **N-Connect** | DevCatSKZ | `v1.0.22` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/n-connect-v1.0.22) | [Upstream](https://github.com/DevCatSKZ/N-Connect/releases) |
+| ⚡ **HK-Super-Tools-releases** | hoangkienpr | `v1.3.6` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hk-super-tools-releases-v1.3.6) | [Upstream](https://github.com/hoangkienpr/HK-Super-Tools-releases/releases) |
+| ⚡ **xrdesk** | ermay12 | `v0.2.0` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xrdesk-v0.2.0) | [Upstream](https://github.com/ermay12/xrdesk/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.19` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.19) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **Shizako** | xm1437 | `zako3.16hp` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.16hp) | [Upstream](https://github.com/xm1437/Shizako/releases) |
+| ⚡ **android-optimizer** | geek4945-creator | `v1.5.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-optimizer-v1.5.0) | [Upstream](https://github.com/geek4945-creator/android-optimizer/releases) |
+| ⚡ **skyadb** | sky22333 | `v1.1.6` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/skyadb-v1.1.6) | [Upstream](https://github.com/sky22333/skyadb/releases) |
 | ⚡ **ShizuBox** | jackderganove-sudo | `v0.7.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizubox-v0.7.0) | [Upstream](https://github.com/jackderganove-sudo/ShizuBox/releases) |
 | ⚡ **kengen** | tim1540 | `v14.3.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kengen-v14.3.0) | [Upstream](https://github.com/tim1540/kengen/releases) |
 | ⚡ **ElderGuard** | ak-ing | `v1.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elderguard-v1.1.0) | [Upstream](https://github.com/ak-ing/ElderGuard/releases) |
-| ⚡ **remote-bot-android** | runalsh | `v0.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/remote-bot-android-v0.1.0) | [Upstream](https://github.com/runalsh/remote-bot-android/releases) |
-| ⚡ **Phone-MCP** | Anton7444 | `v1.2.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phone-mcp-v1.2.0) | [Upstream](https://github.com/Anton7444/Phone-MCP/releases) |
-| ⚡ **Latch** | wized2 | `v0.6.2` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/latch-v0.6.2) | [Upstream](https://github.com/wized2/Latch/releases) |
-| ⚡ **rear-card-bridge** | finall1008 | `v1.2.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rear-card-bridge-v1.2.0) | [Upstream](https://github.com/finall1008/rear-card-bridge/releases) |
-| ⚡ **wiitar-android** | 66sam | `v0.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wiitar-android-v0.1.0) | [Upstream](https://github.com/66sam/wiitar-android/releases) |
-| ⚡ **ghost-files** | Ghostpanter | `v0.6.6` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ghost-files-v0.6.6) | [Upstream](https://github.com/Ghostpanter/ghost-files/releases) |
-| ⚡ **haiou** | NJS98-UI | `apk-38836306520` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haiou-apk-38836306520) | [Upstream](https://github.com/NJS98-UI/haiou/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
