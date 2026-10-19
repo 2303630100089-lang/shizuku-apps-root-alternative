@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[AwayFromShorts](https://github.com/sdgfdii/AwayFromShorts)** | 远离短视频： Windows主机+进程拦截面板； Android设备所有者硬冻结。 | MIT | [GitHub 源码](https://github.com/sdgfdii/AwayFromShorts) • [下载发布](https://github.com/sdgfdii/AwayFromShorts/releases) |
+| **[hyperboost-engine-pro](https://github.com/A-124/hyperboost-engine-pro)** | 适用于游戏玩家的无根Android性能提升器：一键Master Turbo、实时FPS HUD、十字线叠加和Shizuku的每场比赛配置文件。 | See project | [GitHub 源码](https://github.com/A-124/hyperboost-engine-pro) • [下载发布](https://github.com/A-124/hyperboost-engine-pro/releases) |
+| **[TwinnDroid](https://github.com/starlightjulie/TwinnDroid)** | 运行两个单独登录的Android应用副本。无根目录。使用自定义名称、图标和权限克隆应用，提取APK ，并按照自己的方式进行主题设置。 | MIT | [GitHub 源码](https://github.com/starlightjulie/TwinnDroid) • [下载发布](https://github.com/starlightjulie/TwinnDroid/releases) |
+| **[AniProject](https://github.com/akasumitlamba/AniProject)** | AniHome Android启动器、AniBrave浏览器定制和公共横幅图案。 | MPL-2.0 | [GitHub 源码](https://github.com/akasumitlamba/AniProject) • [下载发布](https://github.com/akasumitlamba/AniProject/releases) |
+| **[Pack-de-otimizacao](https://github.com/whesleydev/Pack-de-otimizacao)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/whesleydev/Pack-de-otimizacao) • [下载发布](https://github.com/whesleydev/Pack-de-otimizacao/releases) |
+| **[Lucent](https://github.com/Lucent-Project/Lucent)** | Lucent 📝 — 笔记、任务和尊重您隐私的 AI 助手 🔒 加密且离线优先 ✨ | MIT | [GitHub 源码](https://github.com/Lucent-Project/Lucent) • [下载发布](https://github.com/Lucent-Project/Lucent/releases) |
+| **[AdaptiveScreenPlus](https://github.com/PyMakesMeProud/AdaptiveScreenPlus)** | 把手机外接的便携屏、以及 Galaxy Z翻转/折叠的外屏变成真正能用的第二块屏：自适应旋转 · 双屏并发 · 副屏桌面与伪应用 · 内屏手势 · 外屏侧边栏与小组件 | MIT | [GitHub 源码](https://github.com/PyMakesMeProud/AdaptiveScreenPlus) • [下载发布](https://github.com/PyMakesMeProud/AdaptiveScreenPlus/releases) |
+| **[RyTuneX-Android](https://github.com/rayenghanmi/RyTuneX-Android)** | RyTuneX for Android是使用Kotlin和Jetpack Compose构建的无状态系统调优和去浮动引擎，由Shizuku （ ADB UID 2000 ）提供支持，无后台守护进程。 | AGPL-3.0 | [GitHub 源码](https://github.com/rayenghanmi/RyTuneX-Android) • [下载发布](https://github.com/rayenghanmi/RyTuneX-Android/releases) |
+| **[Vinyl-2.0](https://github.com/cntr2303diran-design/Vinyl-2.0)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/cntr2303diran-design/Vinyl-2.0) • [下载发布](https://github.com/cntr2303diran-design/Vinyl-2.0/releases) |
+| **[FastStrap](https://github.com/chardxDev/FastStrap)** | 由Shizuku提供支持的安卓Roblox FFlags编辑器 | MIT | [GitHub 源码](https://github.com/chardxDev/FastStrap) • [下载发布](https://github.com/chardxDev/FastStrap/releases) |
 | **[czmtsphone](https://github.com/martintobola-cz/czmtsphone)** | Android 电话/拨号器，基于 SimpleMobile。智能、快速、安全且无需互联网权限。 | GPL-3.0 | [GitHub 源码](https://github.com/martintobola-cz/czmtsphone) • [下载发布](https://github.com/martintobola-cz/czmtsphone/releases) |
 | **[starshore](https://github.com/isac12345/starshore)** | 适用于 Android 的手机清理器和视频压缩器。没有互联网许可，没有广告。 | See project | [GitHub 源码](https://github.com/isac12345/starshore) • [下载发布](https://github.com/isac12345/starshore/releases) |
 | **[tailgate](https://github.com/jason5545/tailgate)** | 只为 tailnet 开的门 — 使用 Shizuku 把 Android 无线 ADB 锁在 Tailscale 网段内 | MIT | [GitHub 源码](https://github.com/jason5545/tailgate) • [下载发布](https://github.com/jason5545/tailgate/releases) |
@@ -269,16 +279,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **N-Connect** | 开发猫SKZ | `v1.0.22` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/n-connect-v1.0.22) | [Upstream](https://github.com/DevCatSKZ/N-Connect/releases) |
-| ⚡ **HK-Super-Tools-releases** | 黄健保 | `v1.3.6` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hk-super-tools-releases-v1.3.6) | [Upstream](https://github.com/hoangkienpr/HK-Super-Tools-releases/releases) |
-| ⚡ **xrdesk** | 尔美12 | `v0.2.0` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xrdesk-v0.2.0) | [Upstream](https://github.com/ermay12/xrdesk/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.19` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.19) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.16hp` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.16hp) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **android-optimizer** | geek4945-创造者 | `v1.5.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-optimizer-v1.5.0) | [Upstream](https://github.com/geek4945-creator/android-optimizer/releases) |
-| ⚡ **skyadb** | 天空22333 | `v1.1.6` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/skyadb-v1.1.6) | [Upstream](https://github.com/sky22333/skyadb/releases) |
-| ⚡ **ShizuBox** | 杰克德加诺韦苏多 | `v0.7.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizubox-v0.7.0) | [Upstream](https://github.com/jackderganove-sudo/ShizuBox/releases) |
-| ⚡ **kengen** | 蒂姆1540 | `v14.3.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kengen-v14.3.0) | [Upstream](https://github.com/tim1540/kengen/releases) |
-| ⚡ **ElderGuard** | 阿克因 | `v1.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elderguard-v1.1.0) | [Upstream](https://github.com/ak-ing/ElderGuard/releases) |
+| ⚡ **tailgate** | jason5545 | `v1.0.1` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailgate-v1.0.1) | [Upstream](https://github.com/jason5545/tailgate/releases) |
+| ⚡ **sim-pilot** | ryuya0124 | `v1.10.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sim-pilot-v1.10.0) | [Upstream](https://github.com/ryuya0124/sim-pilot/releases) |
+| ⚡ **vegamshare** | angga-syah | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vegamshare-v0.3.0) | [Upstream](https://github.com/angga-syah/vegamshare/releases) |
+| ⚡ **czmtsphone** | martintobola-cz | `10.1.8` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czmtsphone-10.1.8) | [Upstream](https://github.com/martintobola-cz/czmtsphone/releases) |
+| ⚡ **SmsCodeX** | wap58 | `v3.1.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smscodex-v3.1.0) | [Upstream](https://github.com/wap58/SmsCodeX/releases) |
+| ⚡ **pixel-cake** | Tri250 | `v2.0.0-alpha07` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixel-cake-v2.0.0-alpha07) | [Upstream](https://github.com/Tri250/pixel-cake/releases) |
+| ⚡ **DexOptX** | ExZyO | `v1.0.5` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dexoptx-v1.0.5) | [Upstream](https://github.com/ExZyO/DexOptX/releases) |
+| ⚡ **Prune** | 8月26日 | `1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/prune-1.0.0) | [Upstream](https://github.com/26August/Prune/releases) |
+| ⚡ **deepseek-harness-android** | dphmoblie | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-v0.3.0) | [Upstream](https://github.com/dphmoblie/deepseek-harness-android/releases) |
+| ⚡ **starshore** | isac12345 | `v1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/starshore-v1.0.0) | [Upstream](https://github.com/isac12345/starshore/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
