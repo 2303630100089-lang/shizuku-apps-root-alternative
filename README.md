@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **N-Connect** | DevCatSKZ | `v1.0.22` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/n-connect-v1.0.22) | [Upstream](https://github.com/DevCatSKZ/N-Connect/releases) |
-| ⚡ **HK-Super-Tools-releases** | hoangkienpr | `v1.3.6` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hk-super-tools-releases-v1.3.6) | [Upstream](https://github.com/hoangkienpr/HK-Super-Tools-releases/releases) |
-| ⚡ **xrdesk** | ermay12 | `v0.2.0` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xrdesk-v0.2.0) | [Upstream](https://github.com/ermay12/xrdesk/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.19` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.19) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.16hp` | 2026-10-17 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.16hp) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **android-optimizer** | geek4945-creator | `v1.5.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-optimizer-v1.5.0) | [Upstream](https://github.com/geek4945-creator/android-optimizer/releases) |
-| ⚡ **skyadb** | sky22333 | `v1.1.6` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/skyadb-v1.1.6) | [Upstream](https://github.com/sky22333/skyadb/releases) |
-| ⚡ **ShizuBox** | jackderganove-sudo | `v0.7.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizubox-v0.7.0) | [Upstream](https://github.com/jackderganove-sudo/ShizuBox/releases) |
-| ⚡ **kengen** | tim1540 | `v14.3.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kengen-v14.3.0) | [Upstream](https://github.com/tim1540/kengen/releases) |
-| ⚡ **ElderGuard** | ak-ing | `v1.1.0` | 2026-10-16 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elderguard-v1.1.0) | [Upstream](https://github.com/ak-ing/ElderGuard/releases) |
+| ⚡ **tailgate** | jason5545 | `v1.0.1` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailgate-v1.0.1) | [Upstream](https://github.com/jason5545/tailgate/releases) |
+| ⚡ **sim-pilot** | ryuya0124 | `v1.10.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sim-pilot-v1.10.0) | [Upstream](https://github.com/ryuya0124/sim-pilot/releases) |
+| ⚡ **vegamshare** | angga-syah | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vegamshare-v0.3.0) | [Upstream](https://github.com/angga-syah/vegamshare/releases) |
+| ⚡ **czmtsphone** | martintobola-cz | `10.1.8` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czmtsphone-10.1.8) | [Upstream](https://github.com/martintobola-cz/czmtsphone/releases) |
+| ⚡ **SmsCodeX** | wap58 | `v3.1.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smscodex-v3.1.0) | [Upstream](https://github.com/wap58/SmsCodeX/releases) |
+| ⚡ **pixel-cake** | Tri250 | `v2.0.0-alpha07` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixel-cake-v2.0.0-alpha07) | [Upstream](https://github.com/Tri250/pixel-cake/releases) |
+| ⚡ **DexOptX** | ExZyO | `v1.0.5` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dexoptx-v1.0.5) | [Upstream](https://github.com/ExZyO/DexOptX/releases) |
+| ⚡ **Prune** | 26August | `1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/prune-1.0.0) | [Upstream](https://github.com/26August/Prune/releases) |
+| ⚡ **deepseek-harness-android** | dphmoblie | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-v0.3.0) | [Upstream](https://github.com/dphmoblie/deepseek-harness-android/releases) |
+| ⚡ **starshore** | isac12345 | `v1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/starshore-v1.0.0) | [Upstream](https://github.com/isac12345/starshore/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
