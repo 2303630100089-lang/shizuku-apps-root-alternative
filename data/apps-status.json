@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-18T15:44:29.177852+00:00",
+    "last_checked": "2026-10-19T18:38:47.492019+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-18T15:44:06.864915+00:00",
+    "last_checked": "2026-10-19T18:39:37.175899+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-18T15:43:59.760691+00:00",
+    "last_checked": "2026-10-19T18:39:21.590007+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T15:23:20.236157+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-18T15:44:25.577947+00:00",
+    "last_checked": "2026-10-19T18:39:23.380469+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-18T15:44:18.131951+00:00",
+    "last_checked": "2026-10-19T18:39:44.773803+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-09-29T17:34:42.471330+00:00"
   },
@@ -926,8 +926,8 @@
     "last_synced": "2026-09-30T17:27:52.282925+00:00"
   },
   "deepseek-harness-android": {
-    "status": "synced",
-    "last_checked": "2026-10-18T15:44:06.403335+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-19T18:38:48.780265+00:00",
     "latest_version": "v0.3.0",
     "last_synced": "2026-10-18T15:44:06.403335+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-18T15:43:59.168709+00:00",
+    "last_checked": "2026-10-19T18:39:22.646467+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1686,7 +1686,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-18T15:44:21.618076+00:00",
+    "last_checked": "2026-10-19T18:39:22.453622+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -3314,5 +3314,78 @@
     "last_checked": "2026-10-19T04:17:54.432096+00:00",
     "latest_version": "v1.5.1",
     "last_synced": "2026-10-19T04:17:54.432096+00:00"
+  },
+  "droidective-android": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:38:46.884949+00:00",
+    "latest_version": "v0.1.1",
+    "last_synced": "2026-10-19T18:38:46.884949+00:00"
+  },
+  "ai-js-pro": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:38:47.904792+00:00",
+    "latest_version": "dev-783"
+  },
+  "hytune": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:38:49.247790+00:00"
+  },
+  "galaxy-box": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:38:49.797601+00:00",
+    "latest_version": "v0.6.7"
+  },
+  "dshapp": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:39:20.608981+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-19T18:39:20.608981+00:00"
+  },
+  "prunoid": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:39:22.194698+00:00"
+  },
+  "led": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:39:27.445518+00:00",
+    "latest_version": "v2.2.0",
+    "last_synced": "2026-10-19T18:39:27.445518+00:00"
+  },
+  "slow-1e8": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:39:30.978696+00:00",
+    "latest_version": "v2.7",
+    "last_synced": "2026-10-19T18:39:30.978696+00:00"
+  },
+  "hyperlyrics-enhanced": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:39:35.964289+00:00",
+    "latest_version": "v8.1.5",
+    "last_synced": "2026-10-19T18:39:35.964289+00:00"
+  },
+  "origin-tweaks": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:39:36.449316+00:00"
+  },
+  "rbxfps": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:39:37.605873+00:00",
+    "latest_version": "v1.0.0"
+  },
+  "thorcuts": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:39:43.741511+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-10-19T18:39:43.741511+00:00"
+  },
+  "galaxy-shutter-control": {
+    "status": "synced",
+    "last_checked": "2026-10-19T18:39:51.292323+00:00",
+    "latest_version": "v0.1.4",
+    "last_synced": "2026-10-19T18:39:51.292323+00:00"
+  },
+  "orqen": {
+    "status": "no-apk",
+    "last_checked": "2026-10-19T18:39:51.935352+00:00"
   }
 }

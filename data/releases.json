@@ -13049,5 +13049,146 @@
     ],
     "mirror_release_tag": "awayfromshorts-v1.5.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/awayfromshorts-v1.5.1"
+  },
+  "droidective-android": {
+    "source_repository": "Droidective/droidective-android",
+    "source_release_id": 417437578,
+    "source_tag": "v0.1.1",
+    "source_published_at": "2026-10-19T15:07:23Z",
+    "synced_at": "2026-10-19T18:38:46.884922+00:00",
+    "assets": [
+      {
+        "source_asset_id": 656608180,
+        "filename": "droidective-android-0.1.1.apk",
+        "original_filename": "droidective-android-0.1.1.apk",
+        "sha256": "26015e83105ede71f8da9faac8937b249e11aeb6c4074103f87437e0e841170f",
+        "file_size": 4824060,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "droidective-android-v0.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidective-android-v0.1.1"
+  },
+  "dshapp": {
+    "source_repository": "pht88888888/DSHAPP",
+    "source_release_id": 417439240,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-19T15:08:52Z",
+    "synced_at": "2026-10-19T18:39:20.608957+00:00",
+    "assets": [
+      {
+        "source_asset_id": 656617771,
+        "filename": "DSH0.3.0-gecko.apk",
+        "original_filename": "DSH0.3.0-gecko.apk",
+        "sha256": "da9117134682887d64e094665b7d24b3593fa84ea26b3950603d8a17bc62712a",
+        "file_size": 229832525,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 656611978,
+        "filename": "DSH0.3.0.apk",
+        "original_filename": "DSH0.3.0.apk",
+        "sha256": "5ac0299c350c92cf47ba7f3925cc0bd69e292e0d7695012c602ef5a1dee61682",
+        "file_size": 146699919,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dshapp-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshapp-v0.3.0"
+  },
+  "led": {
+    "source_repository": "ankitchanki/LED",
+    "source_release_id": 417479407,
+    "source_tag": "v2.2.0",
+    "source_published_at": "2026-10-19T15:55:57Z",
+    "synced_at": "2026-10-19T18:39:27.445495+00:00",
+    "assets": [
+      {
+        "source_asset_id": 656719597,
+        "filename": "GlowLED-v2.2.0.apk",
+        "original_filename": "GlowLED-v2.2.0.apk",
+        "sha256": "415b116ec0b41f26764520220e900ed6cc8dabdef070056170720d9f9d6bae34",
+        "file_size": 2702729,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "led-v2.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/led-v2.2.0"
+  },
+  "slow-1e8": {
+    "source_repository": "sqyCoder/slow-1e8",
+    "source_release_id": 415575875,
+    "source_tag": "v2.7",
+    "source_published_at": "2026-10-17T04:11:06Z",
+    "synced_at": "2026-10-19T18:39:30.978671+00:00",
+    "assets": [
+      {
+        "source_asset_id": 656141488,
+        "filename": "PaceAssist-v2.7.apk",
+        "original_filename": "PaceAssist-v2.7.apk",
+        "sha256": "2b9a522a9a5ef1d7d1b8d5b6e1b59e40fdb85e60384db43eb233a451547a1051",
+        "file_size": 324659,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "slow-1e8-v2.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/slow-1e8-v2.7"
+  },
+  "hyperlyrics-enhanced": {
+    "source_repository": "juren233/HyperLyrics-Enhanced",
+    "source_release_id": 414499503,
+    "source_tag": "v8.1.5",
+    "source_published_at": "2026-10-16T03:17:39Z",
+    "synced_at": "2026-10-19T18:39:35.964265+00:00",
+    "assets": [
+      {
+        "source_asset_id": 645981556,
+        "filename": "HyperLyrics.Enhanced-release-v8.1.5-215000.apk",
+        "original_filename": "HyperLyrics.Enhanced-release-v8.1.5-215000.apk",
+        "sha256": "92eadcd50c4f1cf25504a7028c3a0a98df971293f6c1f0606c7ac1bba36f3784",
+        "file_size": 5899176,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hyperlyrics-enhanced-v8.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperlyrics-enhanced-v8.1.5"
+  },
+  "thorcuts": {
+    "source_repository": "GRardB/thorcuts",
+    "source_release_id": 417603137,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-19T18:20:14Z",
+    "synced_at": "2026-10-19T18:39:43.741487+00:00",
+    "assets": [
+      {
+        "source_asset_id": 657058564,
+        "filename": "thorcuts.apk",
+        "original_filename": "thorcuts.apk",
+        "sha256": "24456639f99747bfb201a42186257241b3fd5810b531dc47a0709726753ca2f5",
+        "file_size": 23778751,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "thorcuts-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thorcuts-v0.2.0"
+  },
+  "galaxy-shutter-control": {
+    "source_repository": "WhiteCAN/galaxy-shutter-control",
+    "source_release_id": 403693191,
+    "source_tag": "v0.1.4",
+    "source_published_at": "2026-10-05T12:32:23Z",
+    "synced_at": "2026-10-19T18:39:51.292303+00:00",
+    "assets": [
+      {
+        "source_asset_id": 612527147,
+        "filename": "Galaxy-Shutter-Control-v0.1.4.apk",
+        "original_filename": "Galaxy-Shutter-Control-v0.1.4.apk",
+        "sha256": "c597348cae2225b95504651b39b83c9eb4530f6c819b4076fe77047314324057",
+        "file_size": 37936817,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "galaxy-shutter-control-v0.1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-shutter-control-v0.1.4"
   }
 }
