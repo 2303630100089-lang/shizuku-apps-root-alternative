@@ -13344,5 +13344,268 @@
     ],
     "mirror_release_tag": "cantoshub-v1.3.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cantoshub-v1.3.0"
+  },
+  "morphe": {
+    "source_repository": "SYLONG7708/Morphe",
+    "source_release_id": 418529887,
+    "source_tag": "symorphe-v1.1.204",
+    "source_published_at": "2026-10-20T15:00:37Z",
+    "synced_at": "2026-10-20T16:44:29.200550+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659632692,
+        "filename": "microg-7.2.1-7870.2.apk",
+        "original_filename": "microg-7.2.1-7870.2.apk",
+        "sha256": "6497aec7624dba246031058c255196ebd5cf24bb93e5c622e6939c3447f22e9e",
+        "file_size": 112374463,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 659632695,
+        "filename": "SyMorphe-1.1.204-licensed.apk",
+        "original_filename": "SyMorphe-1.1.204-licensed.apk",
+        "sha256": "9c12922aa317b37927b84a7a5804ad46d21373d06dd50273fa201d72eb2a176e",
+        "file_size": 18918969,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 659632694,
+        "filename": "SyMorphe-1.1.204-no-license.apk",
+        "original_filename": "SyMorphe-1.1.204-no-license.apk",
+        "sha256": "d0e817bd43488850300587cb6473c81a93c0998354780f6eee9e3035fea646ba",
+        "file_size": 18918997,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "morphe-symorphe-v1.1.204",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-symorphe-v1.1.204"
+  },
+  "roans-hyperos-cn-fixer": {
+    "source_repository": "roanh47/Roans-HyperOS-CN-Fixer",
+    "source_release_id": 418575081,
+    "source_tag": "v0.7.2",
+    "source_published_at": "2026-10-20T15:42:26Z",
+    "synced_at": "2026-10-20T16:44:34.570650+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659739133,
+        "filename": "Roans-HyperOS-CN-Fixer-0.7.2.apk",
+        "original_filename": "Roans-HyperOS-CN-Fixer-0.7.2.apk",
+        "sha256": "c154406d60959494a11a1692d32634b0df128dbbace318827c58d1820a5fd744",
+        "file_size": 58516963,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "roans-hyperos-cn-fixer-v0.7.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/roans-hyperos-cn-fixer-v0.7.2"
+  },
+  "imgtxd-studio": {
+    "source_repository": "pkok1099/imgtxd-studio",
+    "source_release_id": 418618001,
+    "source_tag": "v3.2.2",
+    "source_published_at": "2026-10-20T16:24:06Z",
+    "synced_at": "2026-10-20T16:44:37.529510+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659843555,
+        "filename": "ImgTxd_Studio.apk",
+        "original_filename": "ImgTxd_Studio.apk",
+        "sha256": "e9073b1246b7191e2cb2af0b2335d29f312d59956a47aa327bcaad4a558903a9",
+        "file_size": 3018454,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "imgtxd-studio-v3.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/imgtxd-studio-v3.2.2"
+  },
+  "afu-ledger": {
+    "source_repository": "Blessing617/afu-ledger",
+    "source_release_id": 418634553,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-20T16:41:56Z",
+    "synced_at": "2026-10-20T16:44:43.407694+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659888024,
+        "filename": "afu-ledger-v1.0.0.apk",
+        "original_filename": "afu-ledger-v1.0.0.apk",
+        "sha256": "42b21388e05a6cd55e5ca6ee48735483d5e222d96a4bb5265df799873a9d1f75",
+        "file_size": 19131427,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "afu-ledger-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/afu-ledger-v1.0.0"
+  },
+  "stashdrop": {
+    "source_repository": "ankitchanki/StashDrop",
+    "source_release_id": 418489676,
+    "source_tag": "v0.6.0",
+    "source_published_at": "2026-10-20T14:22:34Z",
+    "synced_at": "2026-10-20T16:44:46.578880+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659537084,
+        "filename": "StashDrop-v0.6.0.apk",
+        "original_filename": "StashDrop-v0.6.0.apk",
+        "sha256": "4b08f4efa742bfcbb0c1297142325e56cd108f61cd25aefd574a1da8cbe9a74e",
+        "file_size": 2637393,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "stashdrop-v0.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stashdrop-v0.6.0"
+  },
+  "ghostlock-x6840": {
+    "source_repository": "b0r1s-69/ghostlock-x6840",
+    "source_release_id": 418338631,
+    "source_tag": "x6840-v1",
+    "source_published_at": "2026-10-20T11:48:19Z",
+    "synced_at": "2026-10-20T16:44:49.729866+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659180557,
+        "filename": "GhostLock-patched3.apk",
+        "original_filename": "GhostLock-patched3.apk",
+        "sha256": "14dff5737cde0126a649e9424fc9a09320782e05d8768eb7743cbc85708771cd",
+        "file_size": 2673012,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ghostlock-x6840-x6840-v1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ghostlock-x6840-x6840-v1"
+  },
+  "call-record": {
+    "source_repository": "DeclanJeon/Call_Record",
+    "source_release_id": 418594534,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-20T16:02:16Z",
+    "synced_at": "2026-10-20T16:44:53.479430+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659787044,
+        "filename": "CallRecord-v0.2.0.apk",
+        "original_filename": "CallRecord-v0.2.0.apk",
+        "sha256": "cf33a0d15d188894307882cc624ac852bdc43ad8acc7de537faad995a3e6d371",
+        "file_size": 22854592,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "call-record-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/call-record-v0.2.0"
+  },
+  "splitbox": {
+    "source_repository": "AnoY606-git/SplitBox",
+    "source_release_id": 418408834,
+    "source_tag": "v1.2.2",
+    "source_published_at": "2026-10-20T13:13:28Z",
+    "synced_at": "2026-10-20T16:44:56.625033+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659356220,
+        "filename": "SplitBox-1.2.2.apk",
+        "original_filename": "SplitBox-1.2.2.apk",
+        "sha256": "2ff8357f95ea6c992a7075323b8f19b8718c3b2cb6785f8ad27230f21f0ad446",
+        "file_size": 3269257,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "splitbox-v1.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/splitbox-v1.2.2"
+  },
+  "workbuddy-agent-apk": {
+    "source_repository": "Hy-ou/workbuddy-agent-apk",
+    "source_release_id": 418631733,
+    "source_tag": "v3.8.1",
+    "source_published_at": "2026-10-20T16:38:47Z",
+    "synced_at": "2026-10-20T16:45:05.259910+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659880077,
+        "filename": "WorkBuddy-3.8.1.apk",
+        "original_filename": "WorkBuddy-3.8.1.apk",
+        "sha256": "642fb58a6d21f6b78bde8e75ec8be77165d58748c85c1b5352c5c32092df9739",
+        "file_size": 117822862,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "workbuddy-agent-apk-v3.8.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/workbuddy-agent-apk-v3.8.1"
+  },
+  "onepluscontrolcenter": {
+    "source_repository": "tripolskiydigital/onepluscontrolcenter",
+    "source_release_id": 418615971,
+    "source_tag": "v0.1.1",
+    "source_published_at": "2026-10-20T16:22:06Z",
+    "synced_at": "2026-10-20T16:45:08.449006+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659838741,
+        "filename": "OnePlusControl-v0.1.1.apk",
+        "original_filename": "OnePlusControl-v0.1.1.apk",
+        "sha256": "3ea305ef38d70a3a80533327baa95fd5124acb04934d80de3036038c99fe05b8",
+        "file_size": 2372127,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "onepluscontrolcenter-v0.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onepluscontrolcenter-v0.1.1"
+  },
+  "seteditplus": {
+    "source_repository": "AnishtayiN/SetEditPlus",
+    "source_release_id": 418485451,
+    "source_tag": "v3.0",
+    "source_published_at": "2026-10-20T14:18:31Z",
+    "synced_at": "2026-10-20T16:45:13.235382+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659526812,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "2cc24561027dd3055f8281e70760272a3a5d1e08fd96ffcfee2f6962cb7bf14d",
+        "file_size": 23796012,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "seteditplus-v3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/seteditplus-v3.0"
+  },
+  "beidou-star-eye-shi-dhizuku": {
+    "source_repository": "Vantasi-Imilus/beidou-star-eye-shi-dhizuku",
+    "source_release_id": 414327295,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-15T22:18:37Z",
+    "synced_at": "2026-10-20T16:45:17.526998+00:00",
+    "assets": [
+      {
+        "source_asset_id": 645341299,
+        "filename": "BeidouStarEye-v0.3.0-release.apk",
+        "original_filename": "BeidouStarEye-v0.3.0-release.apk",
+        "sha256": "edf13e47ac61aa89c4c4f6f342407946f24b357991cc6ea8b1f85932e5f0da18",
+        "file_size": 17852679,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "beidou-star-eye-shi-dhizuku-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beidou-star-eye-shi-dhizuku-v0.3.0"
+  },
+  "tool-xiaomi": {
+    "source_repository": "congdu28/Tool-Xiaomi",
+    "source_release_id": 418620775,
+    "source_tag": "v1.0.14",
+    "source_published_at": "2026-10-20T16:27:13Z",
+    "synced_at": "2026-10-20T16:45:21.830518+00:00",
+    "assets": [
+      {
+        "source_asset_id": 659852248,
+        "filename": "Mi-Tool-v1.0.14-Release.apk",
+        "original_filename": "Mi-Tool-v1.0.14-Release.apk",
+        "sha256": "b2cdd075026785135ab339a98acd991def8c598a3ca8d4988b4421a8b7973fc9",
+        "file_size": 2069971,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tool-xiaomi-v1.0.14",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-xiaomi-v1.0.14"
   }
 }
