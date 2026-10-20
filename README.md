@@ -262,16 +262,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **tailgate** | jason5545 | `v1.0.1` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailgate-v1.0.1) | [Upstream](https://github.com/jason5545/tailgate/releases) |
-| ⚡ **sim-pilot** | ryuya0124 | `v1.10.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sim-pilot-v1.10.0) | [Upstream](https://github.com/ryuya0124/sim-pilot/releases) |
-| ⚡ **vegamshare** | angga-syah | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vegamshare-v0.3.0) | [Upstream](https://github.com/angga-syah/vegamshare/releases) |
-| ⚡ **czmtsphone** | martintobola-cz | `10.1.8` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czmtsphone-10.1.8) | [Upstream](https://github.com/martintobola-cz/czmtsphone/releases) |
-| ⚡ **SmsCodeX** | wap58 | `v3.1.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smscodex-v3.1.0) | [Upstream](https://github.com/wap58/SmsCodeX/releases) |
-| ⚡ **pixel-cake** | Tri250 | `v2.0.0-alpha07` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixel-cake-v2.0.0-alpha07) | [Upstream](https://github.com/Tri250/pixel-cake/releases) |
-| ⚡ **DexOptX** | ExZyO | `v1.0.5` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dexoptx-v1.0.5) | [Upstream](https://github.com/ExZyO/DexOptX/releases) |
-| ⚡ **Prune** | 26August | `1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/prune-1.0.0) | [Upstream](https://github.com/26August/Prune/releases) |
-| ⚡ **deepseek-harness-android** | dphmoblie | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-v0.3.0) | [Upstream](https://github.com/dphmoblie/deepseek-harness-android/releases) |
-| ⚡ **starshore** | isac12345 | `v1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/starshore-v1.0.0) | [Upstream](https://github.com/isac12345/starshore/releases) |
+| ⚡ **thorcuts** | GRardB | `v0.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thorcuts-v0.2.0) | [Upstream](https://github.com/GRardB/thorcuts/releases) |
+| ⚡ **LED** | ankitchanki | `v2.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/led-v2.2.0) | [Upstream](https://github.com/ankitchanki/LED/releases) |
+| ⚡ **DSHAPP** | pht88888888 | `v0.3.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshapp-v0.3.0) | [Upstream](https://github.com/pht88888888/DSHAPP/releases) |
+| ⚡ **droidective-android** | Droidective | `v0.1.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidective-android-v0.1.1) | [Upstream](https://github.com/Droidective/droidective-android/releases) |
+| ⚡ **AniProject** | akasumitlamba | `launcher-v0.8.16` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aniproject-launcher-v0.8.16) | [Upstream](https://github.com/akasumitlamba/AniProject/releases) |
+| ⚡ **TwinnDroid** | starlightjulie | `v1.1.3` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/twinndroid-v1.1.3) | [Upstream](https://github.com/starlightjulie/TwinnDroid/releases) |
+| ⚡ **AwayFromShorts** | sdgfdii | `v1.5.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/awayfromshorts-v1.5.1) | [Upstream](https://github.com/sdgfdii/AwayFromShorts/releases) |
+| ⚡ **AdaptiveScreenPlus** | PyMakesMeProud | `v4.25` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivescreenplus-v4.25) | [Upstream](https://github.com/PyMakesMeProud/AdaptiveScreenPlus/releases) |
+| ⚡ **hyperboost-engine-pro** | A-124 | `v1.2.7` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperboost-engine-pro-v1.2.7) | [Upstream](https://github.com/A-124/hyperboost-engine-pro/releases) |
+| ⚡ **Vinyl-2.0** | cntr2303diran-design | `latest` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vinyl-2-0-latest) | [Upstream](https://github.com/cntr2303diran-design/Vinyl-2.0/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
