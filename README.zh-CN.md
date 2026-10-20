@@ -202,6 +202,15 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[CantosHub](https://github.com/getw0rk3d/CantosHub)** | 游戏中心助推器 | See project | [GitHub 源码](https://github.com/getw0rk3d/CantosHub) • [下载发布](https://github.com/getw0rk3d/CantosHub/releases) |
+| **[vivo144](https://github.com/alexssandro56/vivo144)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/alexssandro56/vivo144) • [下载发布](https://github.com/alexssandro56/vivo144/releases) |
+| **[vivo-HighRefresh-NoRoot](https://github.com/AndroPlus-org/vivo-HighRefresh-NoRoot)** | 通过adb为vivo / iQOO手机无根144Hz+刷新率 | MIT | [GitHub 源码](https://github.com/AndroPlus-org/vivo-HighRefresh-NoRoot) • [下载发布](https://github.com/AndroPlus-org/vivo-HighRefresh-NoRoot/releases) |
+| **[Lucent](https://github.com/Lucent-Project/Lucent)** | Lucent 📝 — 笔记、任务和尊重您隐私的 AI 助手 🔒 加密且离线优先 ✨ | MIT | [GitHub 源码](https://github.com/Lucent-Project/Lucent) • [下载发布](https://github.com/Lucent-Project/Lucent/releases) |
+| **[Zenda-Touse-Plus](https://github.com/zennnnkaa-source/Zenda-Touse-Plus)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/zennnnkaa-source/Zenda-Touse-Plus) • [下载发布](https://github.com/zennnnkaa-source/Zenda-Touse-Plus/releases) |
+| **[Droid-Mirror](https://github.com/Firebolt9907/Droid-Mirror)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Firebolt9907/Droid-Mirror) • [下载发布](https://github.com/Firebolt9907/Droid-Mirror/releases) |
+| **[anyapk](https://github.com/sam1am/anyapk)** | 在您拥有的设备上安装任何 apk。 | See project | [GitHub 源码](https://github.com/sam1am/anyapk) • [下载发布](https://github.com/sam1am/anyapk/releases) |
+| **[mobile-agent-runtime](https://github.com/hedanbaomi/mobile-agent-runtime)** | 与 Shizuku 兼容的 Android 工具。 | AGPL-3.0 | [GitHub 源码](https://github.com/hedanbaomi/mobile-agent-runtime) • [下载发布](https://github.com/hedanbaomi/mobile-agent-runtime/releases) |
+| **[bot-files](https://github.com/rajatroel/bot-files)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/rajatroel/bot-files) • [下载发布](https://github.com/rajatroel/bot-files/releases) |
 | **[ORQEN](https://github.com/MohammedTeir/ORQEN)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/MohammedTeir/ORQEN) • [下载发布](https://github.com/MohammedTeir/ORQEN/releases) |
 | **[galaxy-shutter-control](https://github.com/WhiteCAN/galaxy-shutter-control)** | 개인 기기용 로컬 ADB 기반 Samsung Galaxy 강제 셔터음 제어 도구 · 基于本地 ADB 的 Samsung Galaxy 个人设备强制快门声音控制 | Apache-2.0 | [GitHub 源码](https://github.com/WhiteCAN/galaxy-shutter-control) • [下载发布](https://github.com/WhiteCAN/galaxy-shutter-control/releases) |
 | **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
@@ -265,16 +274,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **tailgate** | jason5545 | `v1.0.1` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailgate-v1.0.1) | [Upstream](https://github.com/jason5545/tailgate/releases) |
-| ⚡ **sim-pilot** | ryuya0124 | `v1.10.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sim-pilot-v1.10.0) | [Upstream](https://github.com/ryuya0124/sim-pilot/releases) |
-| ⚡ **vegamshare** | angga-syah | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vegamshare-v0.3.0) | [Upstream](https://github.com/angga-syah/vegamshare/releases) |
-| ⚡ **czmtsphone** | martintobola-cz | `10.1.8` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czmtsphone-10.1.8) | [Upstream](https://github.com/martintobola-cz/czmtsphone/releases) |
-| ⚡ **SmsCodeX** | wap58 | `v3.1.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/smscodex-v3.1.0) | [Upstream](https://github.com/wap58/SmsCodeX/releases) |
-| ⚡ **pixel-cake** | Tri250 | `v2.0.0-alpha07` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixel-cake-v2.0.0-alpha07) | [Upstream](https://github.com/Tri250/pixel-cake/releases) |
-| ⚡ **DexOptX** | ExZyO | `v1.0.5` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dexoptx-v1.0.5) | [Upstream](https://github.com/ExZyO/DexOptX/releases) |
-| ⚡ **Prune** | 8月26日 | `1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/prune-1.0.0) | [Upstream](https://github.com/26August/Prune/releases) |
-| ⚡ **deepseek-harness-android** | dphmoblie | `v0.3.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-android-v0.3.0) | [Upstream](https://github.com/dphmoblie/deepseek-harness-android/releases) |
-| ⚡ **starshore** | isac12345 | `v1.0.0` | 2026-10-18 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/starshore-v1.0.0) | [Upstream](https://github.com/isac12345/starshore/releases) |
+| ⚡ **thorcuts** | GRARDB | `v0.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thorcuts-v0.2.0) | [Upstream](https://github.com/GRardB/thorcuts/releases) |
+| ⚡ **LED** | 安基昌基 | `v2.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/led-v2.2.0) | [Upstream](https://github.com/ankitchanki/LED/releases) |
+| ⚡ **DSHAPP** | 电话88888888 | `v0.3.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshapp-v0.3.0) | [Upstream](https://github.com/pht88888888/DSHAPP/releases) |
+| ⚡ **droidective-android** | 机器人 | `v0.1.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidective-android-v0.1.1) | [Upstream](https://github.com/Droidective/droidective-android/releases) |
+| ⚡ **AniProject** | 赤住米特兰巴 | `launcher-v0.8.16` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aniproject-launcher-v0.8.16) | [Upstream](https://github.com/akasumitlamba/AniProject/releases) |
+| ⚡ **TwinnDroid** | 星光朱莉 | `v1.1.3` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/twinndroid-v1.1.3) | [Upstream](https://github.com/starlightjulie/TwinnDroid/releases) |
+| ⚡ **AwayFromShorts** | sdgfdii | `v1.5.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/awayfromshorts-v1.5.1) | [Upstream](https://github.com/sdgfdii/AwayFromShorts/releases) |
+| ⚡ **AdaptiveScreenPlus** | Py让我感到骄傲 | `v4.25` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivescreenplus-v4.25) | [Upstream](https://github.com/PyMakesMeProud/AdaptiveScreenPlus/releases) |
+| ⚡ **hyperboost-engine-pro** | A-124 | `v1.2.7` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperboost-engine-pro-v1.2.7) | [Upstream](https://github.com/A-124/hyperboost-engine-pro/releases) |
+| ⚡ **Vinyl-2.0** | cntr2303diran-设计 | `latest` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vinyl-2-0-latest) | [Upstream](https://github.com/cntr2303diran-design/Vinyl-2.0/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

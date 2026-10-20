@@ -963,7 +963,7 @@
   },
   "lucent": {
     "status": "no-update",
-    "last_checked": "2026-10-19T04:17:32.771024+00:00",
+    "last_checked": "2026-10-20T04:29:00.414375+00:00",
     "latest_version": "v3.0.5",
     "last_synced": "2026-09-30T17:28:43.297555+00:00"
   },
@@ -3387,5 +3387,50 @@
   "orqen": {
     "status": "no-apk",
     "last_checked": "2026-10-19T18:39:51.935352+00:00"
+  },
+  "bot-files": {
+    "status": "synced",
+    "last_checked": "2026-10-20T04:28:30.621546+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-20T04:28:30.621546+00:00"
+  },
+  "mobile-agent-runtime": {
+    "status": "synced",
+    "last_checked": "2026-10-20T04:28:41.272160+00:00",
+    "latest_version": "v1.3.1",
+    "last_synced": "2026-10-20T04:28:41.272160+00:00"
+  },
+  "anyapk": {
+    "status": "synced",
+    "last_checked": "2026-10-20T04:28:51.395534+00:00",
+    "latest_version": "v0.0.16",
+    "last_synced": "2026-10-20T04:28:51.395534+00:00"
+  },
+  "droid-mirror": {
+    "status": "no-apk",
+    "last_checked": "2026-10-20T04:28:51.756061+00:00"
+  },
+  "zenda-touse-plus": {
+    "status": "synced",
+    "last_checked": "2026-10-20T04:28:59.675073+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-20T04:28:59.675073+00:00"
+  },
+  "vivo-highrefresh-noroot": {
+    "status": "synced",
+    "last_checked": "2026-10-20T04:29:04.214418+00:00",
+    "latest_version": "v0.1.1",
+    "last_synced": "2026-10-20T04:29:04.214418+00:00"
+  },
+  "vivo144": {
+    "status": "no-apk",
+    "last_checked": "2026-10-20T04:29:04.705062+00:00",
+    "latest_version": "build-2"
+  },
+  "cantoshub": {
+    "status": "synced",
+    "last_checked": "2026-10-20T04:29:10.588855+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-10-20T04:29:10.588855+00:00"
   }
 }
