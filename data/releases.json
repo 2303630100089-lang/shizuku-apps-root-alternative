@@ -13786,5 +13786,138 @@
     ],
     "mirror_release_tag": "gerenciador-tarefas-v0.2.6",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gerenciador-tarefas-v0.2.6"
+  },
+  "kfiggos": {
+    "source_repository": "Severoff03/KfigGOS",
+    "source_release_id": 419770564,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-21T16:07:57Z",
+    "synced_at": "2026-10-21T17:01:23.572041+00:00",
+    "assets": [
+      {
+        "source_asset_id": 663050991,
+        "filename": "KfigGOS.apk",
+        "original_filename": "KfigGOS.apk",
+        "sha256": "d30f8cddfd88269198faab2c3536e778ec0489b58616dff695d9f648be90f256",
+        "file_size": 16790,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "kfiggos-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kfiggos-v1.0.1"
+  },
+  "ruthenia": {
+    "source_repository": "venterum/ruthenia",
+    "source_release_id": 418886724,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-20T21:17:09Z",
+    "synced_at": "2026-10-21T17:01:29.084166+00:00",
+    "assets": [
+      {
+        "source_asset_id": 660511697,
+        "filename": "ruthenia-0.2.0.apk",
+        "original_filename": "ruthenia-0.2.0.apk",
+        "sha256": "21145bc0f14217120ad9110c1cfdd72c9874cfc86806f656120b6c762feaafa5",
+        "file_size": 3661332,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ruthenia-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ruthenia-v0.2.0"
+  },
+  "multipantalla-tv": {
+    "source_repository": "Juandegates/multipantalla-tv",
+    "source_release_id": 419812260,
+    "source_tag": "latest",
+    "source_published_at": "2026-10-21T16:49:59Z",
+    "synced_at": "2026-10-21T17:01:32.698365+00:00",
+    "assets": [
+      {
+        "source_asset_id": 663172598,
+        "filename": "MultiPantallaTV.apk",
+        "original_filename": "MultiPantallaTV.apk",
+        "sha256": "f32f0ba9f464800e23e9a56b2eaaf72cd832c079f9c08421b3a2c2238e84d6f3",
+        "file_size": 223514,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "multipantalla-tv-latest",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/multipantalla-tv-latest"
+  },
+  "ramrom-emu-manager": {
+    "source_repository": "ramizarif/ramrom-emu-manager",
+    "source_release_id": 419796481,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-21T16:33:58Z",
+    "synced_at": "2026-10-21T17:01:39.608281+00:00",
+    "assets": [
+      {
+        "source_asset_id": 663129530,
+        "filename": "RamROM-Emu-Manager-0.1.0.apk",
+        "original_filename": "RamROM-Emu-Manager-0.1.0.apk",
+        "sha256": "ead0eb70a3b0a098333c534ca5b8b2f2ca076e9c5f6c1d82ce40dbe6620492e9",
+        "file_size": 32030566,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ramrom-emu-manager-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ramrom-emu-manager-v0.1.0"
+  },
+  "shizuku-next-tv": {
+    "source_repository": "depo23/Shizuku--Next-TV",
+    "source_release_id": 419625110,
+    "source_tag": "14.0.27.r1896",
+    "source_published_at": "2026-10-21T13:57:19Z",
+    "synced_at": "2026-10-21T17:01:44.276995+00:00",
+    "assets": [
+      {
+        "source_asset_id": 662683773,
+        "filename": "shizuku-next-tv.apk",
+        "original_filename": "shizuku-next-tv.apk",
+        "sha256": "66696ad1cc83ae331c61d598864b18194dd5b11210e94069dfdacf78b1d81f6c",
+        "file_size": 6512059,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shizuku-next-tv-14.0.27.r1896",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-next-tv-14.0.27.r1896"
+  },
+  "power-tv": {
+    "source_repository": "Iamliuxiaozhen/power-tv",
+    "source_release_id": 419687541,
+    "source_tag": "v1.2.00",
+    "source_published_at": "2026-10-21T14:55:17Z",
+    "synced_at": "2026-10-21T17:01:49.669263+00:00",
+    "assets": [
+      {
+        "source_asset_id": 662846492,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "a9cba6e379b9ec950efae76e528c208500da919198693ecc3d4cc66a842ddf31",
+        "file_size": 2667841,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "power-tv-v1.2.00",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/power-tv-v1.2.00"
+  },
+  "rommdroid-saves": {
+    "source_repository": "abduznik/rommdroid-saves",
+    "source_release_id": 419620093,
+    "source_tag": "v0.4",
+    "source_published_at": "2026-10-21T13:52:43Z",
+    "synced_at": "2026-10-21T17:01:55.514757+00:00",
+    "assets": [
+      {
+        "source_asset_id": 662676956,
+        "filename": "RommDroidSaves-0.4.apk",
+        "original_filename": "RommDroidSaves-0.4.apk",
+        "sha256": "d32928faf5e1e89ac96947c3c644b78d51d4bcb90d38c6a6cb4f9a3a51827412",
+        "file_size": 2070943,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "rommdroid-saves-v0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rommdroid-saves-v0.4"
   }
 }
