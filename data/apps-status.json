@@ -3524,5 +3524,63 @@
     "last_checked": "2026-10-20T16:45:21.830544+00:00",
     "latest_version": "v1.0.14",
     "last_synced": "2026-10-20T16:45:21.830544+00:00"
+  },
+  "honeclick": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:22.923952+00:00",
+    "latest_version": "v1.0.40",
+    "last_synced": "2026-10-21T04:19:22.923952+00:00"
+  },
+  "projectzenith": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:26.791706+00:00",
+    "latest_version": "1.6",
+    "last_synced": "2026-10-21T04:19:26.791706+00:00"
+  },
+  "snapkeymap": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:30.018316+00:00",
+    "latest_version": "v1.0.13",
+    "last_synced": "2026-10-21T04:19:30.018316+00:00"
+  },
+  "loki": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:33.864751+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-21T04:19:33.864751+00:00"
+  },
+  "zevblock": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:41.162694+00:00",
+    "latest_version": "v2.2-stable",
+    "last_synced": "2026-10-21T04:19:41.162694+00:00"
+  },
+  "autotaskflowautotaskflow": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:47.526599+00:00",
+    "latest_version": "v0.3.1",
+    "last_synced": "2026-10-21T04:19:47.526599+00:00"
+  },
+  "miaomo": {
+    "status": "no-apk",
+    "last_checked": "2026-10-21T04:19:47.811354+00:00"
+  },
+  "tapanchor": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:50.766764+00:00",
+    "latest_version": "v2.6",
+    "last_synced": "2026-10-21T04:19:50.766764+00:00"
+  },
+  "drecorder": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:19:56.393704+00:00",
+    "latest_version": "v0.2.2",
+    "last_synced": "2026-10-21T04:19:56.393704+00:00"
+  },
+  "gerenciador-tarefas": {
+    "status": "synced",
+    "last_checked": "2026-10-21T04:20:00.409631+00:00",
+    "latest_version": "v0.2.6",
+    "last_synced": "2026-10-21T04:20:00.409631+00:00"
   }
 }

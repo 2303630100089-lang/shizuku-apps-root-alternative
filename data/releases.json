@@ -13607,5 +13607,184 @@
     ],
     "mirror_release_tag": "tool-xiaomi-v1.0.14",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-xiaomi-v1.0.14"
+  },
+  "honeclick": {
+    "source_repository": "superboyyy/HOneClick",
+    "source_release_id": 418966182,
+    "source_tag": "v1.0.40",
+    "source_published_at": "2026-10-20T23:03:32Z",
+    "synced_at": "2026-10-21T04:19:22.923925+00:00",
+    "assets": [
+      {
+        "source_asset_id": 660729383,
+        "filename": "HOneClick-v1.0.40.apk",
+        "original_filename": "HOneClick-v1.0.40.apk",
+        "sha256": "a3401c6bc019ce02cf425d12b1709b2508914d6779f4a972d851c422ac07afa3",
+        "file_size": 29800893,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "honeclick-v1.0.40",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honeclick-v1.0.40"
+  },
+  "projectzenith": {
+    "source_repository": "Clide01/ProjectZenith",
+    "source_release_id": 417959665,
+    "source_tag": "1.6",
+    "source_published_at": "2026-10-20T03:11:09Z",
+    "synced_at": "2026-10-21T04:19:26.791689+00:00",
+    "assets": [
+      {
+        "source_asset_id": 658117404,
+        "filename": "ProjectZenith-v1.6.apk",
+        "original_filename": "ProjectZenith-v1.6.apk",
+        "sha256": "83fe971c5cdb863d9b666049214fb2abf5df8521e8c0e2eeabf7564833b9d42d",
+        "file_size": 10764230,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "projectzenith-1.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/projectzenith-1.6"
+  },
+  "snapkeymap": {
+    "source_repository": "heykay-47/SnapKeyMap",
+    "source_release_id": 419101213,
+    "source_tag": "v1.0.13",
+    "source_published_at": "2026-10-21T03:08:44Z",
+    "synced_at": "2026-10-21T04:19:30.018297+00:00",
+    "assets": [
+      {
+        "source_asset_id": 661198377,
+        "filename": "SnapKeyMap-1.0.13.apk",
+        "original_filename": "SnapKeyMap-1.0.13.apk",
+        "sha256": "fd11d16f730f6ca958521ad2cd5afa7c865fe59c5862572695da4392fda1c7e1",
+        "file_size": 2494224,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "snapkeymap-v1.0.13",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/snapkeymap-v1.0.13"
+  },
+  "loki": {
+    "source_repository": "TobiasYin/loki",
+    "source_release_id": 418070271,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-20T06:22:24Z",
+    "synced_at": "2026-10-21T04:19:33.864731+00:00",
+    "assets": [
+      {
+        "source_asset_id": 658466657,
+        "filename": "loki-v0.1.0.apk",
+        "original_filename": "loki-v0.1.0.apk",
+        "sha256": "31470b0ebcd7cca2528b767d0b6cfb8ac7da0994e8c718f487f73fa2b2326aba",
+        "file_size": 6495219,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "loki-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/loki-v0.1.0"
+  },
+  "zevblock": {
+    "source_repository": "zevbuild/zevblock",
+    "source_release_id": 419121150,
+    "source_tag": "v2.2-stable",
+    "source_published_at": "2026-10-21T03:34:22Z",
+    "synced_at": "2026-10-21T04:19:41.162674+00:00",
+    "assets": [
+      {
+        "source_asset_id": 661245760,
+        "filename": "ZevBlock-v2.2-stable.apk",
+        "original_filename": "ZevBlock-v2.2-stable.apk",
+        "sha256": "92d690f88bc09870237171bc5154461ed8af8e5ef335c7d3207fc7e04bce0ae3",
+        "file_size": 22782737,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 661245763,
+        "filename": "ZevBlock-v2.2.apk",
+        "original_filename": "ZevBlock-v2.2.apk",
+        "sha256": "92d690f88bc09870237171bc5154461ed8af8e5ef335c7d3207fc7e04bce0ae3",
+        "file_size": 22782737,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zevblock-v2.2-stable",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zevblock-v2.2-stable"
+  },
+  "autotaskflowautotaskflow": {
+    "source_repository": "yebiaojun7-blip/AutoTaskFlowAutoTaskFlow",
+    "source_release_id": 419134391,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-10-21T03:49:54Z",
+    "synced_at": "2026-10-21T04:19:47.526580+00:00",
+    "assets": [
+      {
+        "source_asset_id": 661328233,
+        "filename": "AutoTaskFlow-v0.3.1.apk",
+        "original_filename": "AutoTaskFlow-v0.3.1.apk",
+        "sha256": "90b5aef6647e6ef92e84b696e395770fdb8099fb02d48e8dc09211174c709117",
+        "file_size": 84432580,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "autotaskflowautotaskflow-v0.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotaskflowautotaskflow-v0.3.1"
+  },
+  "tapanchor": {
+    "source_repository": "gufarina/tapanchor",
+    "source_release_id": 418814742,
+    "source_tag": "v2.6",
+    "source_published_at": "2026-10-20T19:59:25Z",
+    "synced_at": "2026-10-21T04:19:50.766745+00:00",
+    "assets": [
+      {
+        "source_asset_id": 660335867,
+        "filename": "TapAnchor-2.6.apk",
+        "original_filename": "TapAnchor-2.6.apk",
+        "sha256": "6587f1215afc5b9f39ecfb82cfc96497c6142e2a4a6fa8b3c87a1ccbd30fbc67",
+        "file_size": 217131,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tapanchor-v2.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tapanchor-v2.6"
+  },
+  "drecorder": {
+    "source_repository": "dhhxfggg2023/Drecorder",
+    "source_release_id": 419138107,
+    "source_tag": "v0.2.2",
+    "source_published_at": "2026-10-21T03:57:45Z",
+    "synced_at": "2026-10-21T04:19:56.393684+00:00",
+    "assets": [
+      {
+        "source_asset_id": 661289873,
+        "filename": "drecorder-0.2.2.apk",
+        "original_filename": "drecorder-0.2.2.apk",
+        "sha256": "f40f7dd620623347bd2a811a4a1c7cfaa9ada5b9acd09004856ceeb87a3c8963",
+        "file_size": 53011268,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "drecorder-v0.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drecorder-v0.2.2"
+  },
+  "gerenciador-tarefas": {
+    "source_repository": "superwill12-source/gerenciador-tarefas",
+    "source_release_id": 419129121,
+    "source_tag": "v0.2.6",
+    "source_published_at": "2026-10-21T03:42:48Z",
+    "synced_at": "2026-10-21T04:20:00.409609+00:00",
+    "assets": [
+      {
+        "source_asset_id": 661261099,
+        "filename": "GerenciadorTarefas.apk",
+        "original_filename": "GerenciadorTarefas.apk",
+        "sha256": "4a33cd18aa40b32c605a1a7948fc6c40d534d4f510daf1f39f5f5686007a959a",
+        "file_size": 7988780,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "gerenciador-tarefas-v0.2.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gerenciador-tarefas-v0.2.6"
   }
 }

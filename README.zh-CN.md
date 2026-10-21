@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[gerenciador-tarefas](https://github.com/superwill12-source/gerenciador-tarefas)** | Android 基础知识 | MIT | [GitHub 源码](https://github.com/superwill12-source/gerenciador-tarefas) • [下载发布](https://github.com/superwill12-source/gerenciador-tarefas/releases) |
+| **[Drecorder](https://github.com/dhhxfggg2023/Drecorder)** | 只录其他应用媒体音频的Android App：不录麦克风、不录屏幕画面。代码由AI生成，请自行审查。 | GPL-3.0 | [GitHub 源码](https://github.com/dhhxfggg2023/Drecorder) • [下载发布](https://github.com/dhhxfggg2023/Drecorder/releases) |
+| **[tapanchor](https://github.com/gufarina/tapanchor)** | Android 应用程序可将蓝牙/USB HID 按钮变成固定屏幕点上的一次真实点击。雫，无根。 | MIT | [GitHub 源码](https://github.com/gufarina/tapanchor) • [下载发布](https://github.com/gufarina/tapanchor/releases) |
+| **[miaomo](https://github.com/3dhaoxinren/miaomo)** | 喵墨妙墨｜华为墨水屏 / 华为墨水瓶（常见误写）：3.98英寸四色NFC电子纸照片编辑与刷屏App，手机内置NFC+Shizuku，抽取root；支持横向、文字、相框、InkSight四色预览。PolyForm非授权。 | See project | [GitHub 源码](https://github.com/3dhaoxinren/miaomo) • [下载发布](https://github.com/3dhaoxinren/miaomo/releases) |
+| **[AutoTaskFlowAutoTaskFlow](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow) • [下载发布](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow/releases) |
+| **[zevblock](https://github.com/zevbuild/zevblock)** | 这有助于您在系统级别防御成人站点 | See project | [GitHub 源码](https://github.com/zevbuild/zevblock) • [下载发布](https://github.com/zevbuild/zevblock/releases) |
+| **[loki](https://github.com/TobiasYin/loki)** | Loki 是 AYN Thor 的人工智能特工 | MIT | [GitHub 源码](https://github.com/TobiasYin/loki) • [下载发布](https://github.com/TobiasYin/loki/releases) |
+| **[SnapKeyMap](https://github.com/heykay-47/SnapKeyMap)** | 将 Oppo Snap Key 映射到任何应用程序或操作 | See project | [GitHub 源码](https://github.com/heykay-47/SnapKeyMap) • [下载发布](https://github.com/heykay-47/SnapKeyMap/releases) |
+| **[ProjectZenith](https://github.com/Clide01/ProjectZenith)** | ProjectZenith 是一款 Android 游戏优化实用程序，具有性能控制、游戏预设、自适应游戏功能、设备监控和 Shizuku 支持的系统工具。 | MIT | [GitHub 源码](https://github.com/Clide01/ProjectZenith) • [下载发布](https://github.com/Clide01/ProjectZenith/releases) |
+| **[HOneClick](https://github.com/superboyyy/HOneClick)** | 荣耀临时root工具，目前适用于Magic9 Pro Max，仅用于个人研究。荣耀实验性临时root研究工具（支持Magic9 Pro Max - WKL-AN20/WKL-AN80）。 | See project | [GitHub 源码](https://github.com/superboyyy/HOneClick) • [下载发布](https://github.com/superboyyy/HOneClick/releases) |
 | **[Shizako](https://github.com/cr1437/Shizako)** | 猫耳看板娘的系统权限助手：不 Root 也能用特权 API，兼容 Shizuku-API 生态（官方 SDK 应用零改动直连）\| A catgirl-mascot privileged-API assistant for Android. Shizuku-API compatible — apps built on the official SDK connect unchanged. Apache-2.0 | Apache-2.0 | [GitHub](https://github.com/cr1437/Shizako) • [Releases](https://github.com/cr1437/Shizako/releases) |
 | **[Tool-Xiaomi](https://github.com/congdu28/Tool-Xiaomi)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/congdu28/Tool-Xiaomi) • [下载发布](https://github.com/congdu28/Tool-Xiaomi/releases) |
 | **[Service-Keeper](https://github.com/sklndev/Service-Keeper)** | Android 应用程序可监控并自动重新启动被系统杀死的后台服务、辅助服务和通知侦听器，使用 Shizuku 进行特权访问。 | GPL-3.0 | [GitHub 源码](https://github.com/sklndev/Service-Keeper) • [下载发布](https://github.com/sklndev/Service-Keeper/releases) |
@@ -271,16 +281,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **thorcuts** | GRARDB | `v0.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thorcuts-v0.2.0) | [Upstream](https://github.com/GRardB/thorcuts/releases) |
-| ⚡ **LED** | 安基昌基 | `v2.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/led-v2.2.0) | [Upstream](https://github.com/ankitchanki/LED/releases) |
-| ⚡ **DSHAPP** | 电话88888888 | `v0.3.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshapp-v0.3.0) | [Upstream](https://github.com/pht88888888/DSHAPP/releases) |
-| ⚡ **droidective-android** | 机器人 | `v0.1.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidective-android-v0.1.1) | [Upstream](https://github.com/Droidective/droidective-android/releases) |
-| ⚡ **AniProject** | 赤住米特兰巴 | `launcher-v0.8.16` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aniproject-launcher-v0.8.16) | [Upstream](https://github.com/akasumitlamba/AniProject/releases) |
-| ⚡ **TwinnDroid** | 星光朱莉 | `v1.1.3` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/twinndroid-v1.1.3) | [Upstream](https://github.com/starlightjulie/TwinnDroid/releases) |
-| ⚡ **AwayFromShorts** | sdgfdii | `v1.5.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/awayfromshorts-v1.5.1) | [Upstream](https://github.com/sdgfdii/AwayFromShorts/releases) |
-| ⚡ **AdaptiveScreenPlus** | Py让我感到骄傲 | `v4.25` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivescreenplus-v4.25) | [Upstream](https://github.com/PyMakesMeProud/AdaptiveScreenPlus/releases) |
-| ⚡ **hyperboost-engine-pro** | A-124 | `v1.2.7` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperboost-engine-pro-v1.2.7) | [Upstream](https://github.com/A-124/hyperboost-engine-pro/releases) |
-| ⚡ **Vinyl-2.0** | cntr2303diran-设计 | `latest` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vinyl-2-0-latest) | [Upstream](https://github.com/cntr2303diran-design/Vinyl-2.0/releases) |
+| ⚡ **afu-ledger** | 祝福617 | `v1.0.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/afu-ledger-v1.0.0) | [Upstream](https://github.com/Blessing617/afu-ledger/releases) |
+| ⚡ **workbuddy-agent-apk** | 孝欧 | `v3.8.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/workbuddy-agent-apk-v3.8.1) | [Upstream](https://github.com/Hy-ou/workbuddy-agent-apk/releases) |
+| ⚡ **Tool-Xiaomi** | 从都28 | `v1.0.14` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-xiaomi-v1.0.14) | [Upstream](https://github.com/congdu28/Tool-Xiaomi/releases) |
+| ⚡ **imgtxd-studio** | PKOK1099 | `v3.2.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/imgtxd-studio-v3.2.2) | [Upstream](https://github.com/pkok1099/imgtxd-studio/releases) |
+| ⚡ **onepluscontrolcenter** | 特里波尔斯基数字公司 | `v0.1.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onepluscontrolcenter-v0.1.1) | [Upstream](https://github.com/tripolskiydigital/onepluscontrolcenter/releases) |
+| ⚡ **Call_Record** | 德克兰·全 | `v0.2.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/call-record-v0.2.0) | [Upstream](https://github.com/DeclanJeon/Call_Record/releases) |
+| ⚡ **Roans-HyperOS-CN-Fixer** | 罗安47 | `v0.7.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/roans-hyperos-cn-fixer-v0.7.2) | [Upstream](https://github.com/roanh47/Roans-HyperOS-CN-Fixer/releases) |
+| ⚡ **Morphe** | 西龙7708 | `symorphe-v1.1.204` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-symorphe-v1.1.204) | [Upstream](https://github.com/SYLONG7708/Morphe/releases) |
+| ⚡ **StashDrop** | 安基昌基 | `v0.6.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stashdrop-v0.6.0) | [Upstream](https://github.com/ankitchanki/StashDrop/releases) |
+| ⚡ **SetEditPlus** | 阿尼什泰因 | `v3.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/seteditplus-v3.0) | [Upstream](https://github.com/AnishtayiN/SetEditPlus/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
