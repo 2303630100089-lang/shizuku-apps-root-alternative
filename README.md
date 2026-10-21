@@ -268,16 +268,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **thorcuts** | GRardB | `v0.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thorcuts-v0.2.0) | [Upstream](https://github.com/GRardB/thorcuts/releases) |
-| ⚡ **LED** | ankitchanki | `v2.2.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/led-v2.2.0) | [Upstream](https://github.com/ankitchanki/LED/releases) |
-| ⚡ **DSHAPP** | pht88888888 | `v0.3.0` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dshapp-v0.3.0) | [Upstream](https://github.com/pht88888888/DSHAPP/releases) |
-| ⚡ **droidective-android** | Droidective | `v0.1.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidective-android-v0.1.1) | [Upstream](https://github.com/Droidective/droidective-android/releases) |
-| ⚡ **AniProject** | akasumitlamba | `launcher-v0.8.16` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aniproject-launcher-v0.8.16) | [Upstream](https://github.com/akasumitlamba/AniProject/releases) |
-| ⚡ **TwinnDroid** | starlightjulie | `v1.1.3` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/twinndroid-v1.1.3) | [Upstream](https://github.com/starlightjulie/TwinnDroid/releases) |
-| ⚡ **AwayFromShorts** | sdgfdii | `v1.5.1` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/awayfromshorts-v1.5.1) | [Upstream](https://github.com/sdgfdii/AwayFromShorts/releases) |
-| ⚡ **AdaptiveScreenPlus** | PyMakesMeProud | `v4.25` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adaptivescreenplus-v4.25) | [Upstream](https://github.com/PyMakesMeProud/AdaptiveScreenPlus/releases) |
-| ⚡ **hyperboost-engine-pro** | A-124 | `v1.2.7` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperboost-engine-pro-v1.2.7) | [Upstream](https://github.com/A-124/hyperboost-engine-pro/releases) |
-| ⚡ **Vinyl-2.0** | cntr2303diran-design | `latest` | 2026-10-19 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vinyl-2-0-latest) | [Upstream](https://github.com/cntr2303diran-design/Vinyl-2.0/releases) |
+| ⚡ **afu-ledger** | Blessing617 | `v1.0.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/afu-ledger-v1.0.0) | [Upstream](https://github.com/Blessing617/afu-ledger/releases) |
+| ⚡ **workbuddy-agent-apk** | Hy-ou | `v3.8.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/workbuddy-agent-apk-v3.8.1) | [Upstream](https://github.com/Hy-ou/workbuddy-agent-apk/releases) |
+| ⚡ **Tool-Xiaomi** | congdu28 | `v1.0.14` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-xiaomi-v1.0.14) | [Upstream](https://github.com/congdu28/Tool-Xiaomi/releases) |
+| ⚡ **imgtxd-studio** | pkok1099 | `v3.2.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/imgtxd-studio-v3.2.2) | [Upstream](https://github.com/pkok1099/imgtxd-studio/releases) |
+| ⚡ **onepluscontrolcenter** | tripolskiydigital | `v0.1.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onepluscontrolcenter-v0.1.1) | [Upstream](https://github.com/tripolskiydigital/onepluscontrolcenter/releases) |
+| ⚡ **Call_Record** | DeclanJeon | `v0.2.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/call-record-v0.2.0) | [Upstream](https://github.com/DeclanJeon/Call_Record/releases) |
+| ⚡ **Roans-HyperOS-CN-Fixer** | roanh47 | `v0.7.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/roans-hyperos-cn-fixer-v0.7.2) | [Upstream](https://github.com/roanh47/Roans-HyperOS-CN-Fixer/releases) |
+| ⚡ **Morphe** | SYLONG7708 | `symorphe-v1.1.204` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-symorphe-v1.1.204) | [Upstream](https://github.com/SYLONG7708/Morphe/releases) |
+| ⚡ **StashDrop** | ankitchanki | `v0.6.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stashdrop-v0.6.0) | [Upstream](https://github.com/ankitchanki/StashDrop/releases) |
+| ⚡ **SetEditPlus** | AnishtayiN | `v3.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/seteditplus-v3.0) | [Upstream](https://github.com/AnishtayiN/SetEditPlus/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
