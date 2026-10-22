@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-21T17:01:40.074816+00:00",
+    "last_checked": "2026-10-22T17:01:17.996586+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -264,8 +264,8 @@
     "last_synced": "2026-08-22T12:01:58.799969+00:00"
   },
   "enforcedoze": {
-    "status": "no-update",
-    "last_checked": "2026-10-21T17:01:50.337022+00:00",
+    "status": "no-apk",
+    "last_checked": "2026-10-22T17:01:45.512878+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-21T17:01:51.054249+00:00",
+    "last_checked": "2026-10-22T17:01:12.104289+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T15:23:20.236157+00:00"
   },
@@ -476,8 +476,8 @@
     "last_synced": "2026-09-29T11:55:23.525248+00:00"
   },
   "service-keeper": {
-    "status": "no-update",
-    "last_checked": "2026-10-21T17:01:24.955584+00:00",
+    "status": "no-apk",
+    "last_checked": "2026-10-22T17:01:46.480104+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -684,10 +684,10 @@
     "last_synced": "2026-09-29T17:34:37.024450+00:00"
   },
   "komi-store": {
-    "status": "no-update",
-    "last_checked": "2026-10-21T17:01:45.244665+00:00",
-    "latest_version": "v1.9.2",
-    "last_synced": "2026-09-29T17:34:42.471330+00:00"
+    "status": "synced",
+    "last_checked": "2026-10-22T17:01:11.119550+00:00",
+    "latest_version": "v1.9.3",
+    "last_synced": "2026-10-22T17:01:11.119550+00:00"
   },
   "droidbridge": {
     "status": "synced",
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-21T17:01:24.395423+00:00",
+    "last_checked": "2026-10-22T17:01:17.449545+00:00",
     "latest_version": "v0.3.0",
     "last_synced": "2026-10-18T15:44:06.403335+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-21T17:01:19.670748+00:00",
+    "last_checked": "2026-10-22T17:01:17.539262+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1686,7 +1686,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-21T17:01:25.119422+00:00",
+    "last_checked": "2026-10-22T17:01:35.132974+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -3674,5 +3674,54 @@
     "last_checked": "2026-10-22T04:19:58.913566+00:00",
     "latest_version": "v1.0.2",
     "last_synced": "2026-10-22T04:19:58.913566+00:00"
+  },
+  "mtz2icon": {
+    "status": "synced",
+    "last_checked": "2026-10-22T17:00:54.896104+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-22T17:00:54.896104+00:00"
+  },
+  "cachalote": {
+    "status": "synced",
+    "last_checked": "2026-10-22T17:01:09.172774+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-22T17:01:09.172774+00:00"
+  },
+  "pimet": {
+    "status": "synced",
+    "last_checked": "2026-10-22T17:01:16.760455+00:00",
+    "latest_version": "v1.8.9",
+    "last_synced": "2026-10-22T17:01:16.760455+00:00"
+  },
+  "dsh-mobile-with-termux": {
+    "status": "synced",
+    "last_checked": "2026-10-22T17:01:34.218338+00:00",
+    "latest_version": "v2.3.6",
+    "last_synced": "2026-10-22T17:01:34.218338+00:00"
+  },
+  "splitaudio": {
+    "status": "no-apk",
+    "last_checked": "2026-10-22T17:01:35.047948+00:00"
+  },
+  "deviceperfmonitor": {
+    "status": "synced",
+    "last_checked": "2026-10-22T17:01:39.169805+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-22T17:01:39.169805+00:00"
+  },
+  "receptor-dex": {
+    "status": "synced",
+    "last_checked": "2026-10-22T17:01:44.549983+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-22T17:01:44.549983+00:00"
+  },
+  "gazekeep": {
+    "status": "no-apk",
+    "last_checked": "2026-10-22T17:01:46.873290+00:00"
+  },
+  "pebble-screen-mirror": {
+    "status": "no-apk",
+    "last_checked": "2026-10-22T17:01:47.240777+00:00",
+    "latest_version": "v1.1.0"
   }
 }
