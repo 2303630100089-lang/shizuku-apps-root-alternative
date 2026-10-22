@@ -3068,8 +3068,8 @@
     "last_synced": "2026-10-16T16:30:02.480541+00:00"
   },
   "phone-mcp": {
-    "status": "synced",
-    "last_checked": "2026-10-16T16:30:11.787682+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-22T04:19:28.232064+00:00",
     "latest_version": "v1.2.0",
     "last_synced": "2026-10-16T16:30:11.787682+00:00"
   },
@@ -3624,5 +3624,55 @@
     "last_checked": "2026-10-21T17:01:55.514774+00:00",
     "latest_version": "v0.4",
     "last_synced": "2026-10-21T17:01:55.514774+00:00"
+  },
+  "lsposed-modules-manager": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:27.963382+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-22T04:19:27.963382+00:00"
+  },
+  "pocketpilot": {
+    "status": "no-apk",
+    "last_checked": "2026-10-22T04:19:28.526258+00:00"
+  },
+  "open-headunit": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:32.568470+00:00",
+    "latest_version": "v.3.5.0",
+    "last_synced": "2026-10-22T04:19:32.568470+00:00"
+  },
+  "mirax": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:36.874305+00:00",
+    "latest_version": "v0.0.5",
+    "last_synced": "2026-10-22T04:19:36.874305+00:00"
+  },
+  "dayflow": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:45.781914+00:00",
+    "latest_version": "v1.3.1",
+    "last_synced": "2026-10-22T04:19:45.781914+00:00"
+  },
+  "jpedrostoolkit": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:49.528826+00:00",
+    "latest_version": "app",
+    "last_synced": "2026-10-22T04:19:49.528826+00:00"
+  },
+  "inkpalm-plus": {
+    "status": "no-apk",
+    "last_checked": "2026-10-22T04:19:49.841007+00:00"
+  },
+  "zhengdao": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:53.958385+00:00",
+    "latest_version": "v2.1.2",
+    "last_synced": "2026-10-22T04:19:53.958385+00:00"
+  },
+  "momoding": {
+    "status": "synced",
+    "last_checked": "2026-10-22T04:19:58.913566+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-10-22T04:19:58.913566+00:00"
   }
 }

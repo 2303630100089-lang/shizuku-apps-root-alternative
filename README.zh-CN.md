@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[momoding](https://github.com/1zhangyy1/momoding)** | 住在你手机里习惯的办事员：交代一句，它用手机上的东西办好、记住你的、替你追后续。一个开源的 Android 助手，可以在你的手机上完成事情。 | GPL-3.0 | [GitHub 源码](https://github.com/1zhangyy1/momoding) • [下载发布](https://github.com/1zhangyy1/momoding/releases) |
+| **[zhengdao](https://github.com/pisces19860207/zhengdao)** | 原生 Android AI 代理，而不是移植的桌面工具：抱朴读取和写入您的文件、处理图像和页面并进行写入； 玄览是它所通过的浏览器。真正的 Debian 13 终端只需轻轻一按即可安装。没有root，没有Termux，没有ADB。 安卓原生AI代理：内置抱朴＋玄览浏览器，免root。Android 16（API 36）+arm64。 | See project | [GitHub 源码](https://github.com/pisces19860207/zhengdao) • [下载发布](https://github.com/pisces19860207/zhengdao/releases) |
+| **[inkpalm-plus](https://github.com/rn-os/inkpalm-plus)** | Moaan InkPalm Plus 的最新应用程序的侧面板以及电子墨水调整。 | See project | [GitHub 源码](https://github.com/rn-os/inkpalm-plus) • [下载发布](https://github.com/rn-os/inkpalm-plus/releases) |
+| **[jpedrostoolkit](https://github.com/jpedrothejo/jpedrostoolkit)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/jpedrothejo/jpedrostoolkit) • [下载发布](https://github.com/jpedrothejo/jpedrostoolkit/releases) |
+| **[DayFlow](https://github.com/cniv14/DayFlow)** | 日栖 DayFlow：Android 离线与笔记、Windows 桌面挂件、可外包同步，MIT 开源 | MIT | [GitHub 源码](https://github.com/cniv14/DayFlow) • [下载发布](https://github.com/cniv14/DayFlow/releases) |
+| **[Mirax](https://github.com/Morishima-Yoru/Mirax)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Morishima-Yoru/Mirax) • [下载发布](https://github.com/Morishima-Yoru/Mirax/releases) |
+| **[open-headunit](https://github.com/andreknieriem/open-headunit)** | 用于显示 Android Auto 的主机应用程序 | AGPL-3.0 | [GitHub 源码](https://github.com/andreknieriem/open-headunit) • [下载发布](https://github.com/andreknieriem/open-headunit/releases) |
+| **[pocketpilot](https://github.com/ehoeve786/pocketpilot)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/ehoeve786/pocketpilot) • [下载发布](https://github.com/ehoeve786/pocketpilot/releases) |
+| **[Phone-MCP](https://github.com/Mirochill/Phone-MCP)** | 通过 MCP 对 AI 代理进行 Android 控制：单独的显示、应用程序交互、通知、文件和 APK 安装。聊天、工作、Codex 和 HTTP MCP 客户端。 | MIT | [GitHub 源码](https://github.com/Mirochill/Phone-MCP) • [下载发布](https://github.com/Mirochill/Phone-MCP/releases) |
+| **[lsposed-modules-manager](https://github.com/rushiranpise/lsposed-modules-manager)** | Xpose 模块的 Android 客户端 | GPL-3.0 | [GitHub 源码](https://github.com/rushiranpise/lsposed-modules-manager) • [下载发布](https://github.com/rushiranpise/lsposed-modules-manager/releases) |
 | **[rommdroid-saves](https://github.com/abduznik/rommdroid-saves)** | 使用 Shizuku 将本机 Android 游戏保存备份并同步到您的自托管 RomM 服务器。无需root。 | MIT | [GitHub 源码](https://github.com/abduznik/rommdroid-saves) • [下载发布](https://github.com/abduznik/rommdroid-saves/releases) |
 | **[Shizako](https://github.com/cr1437/Shizako)** | 猫耳看板娘的系统权限助手：不 Root 也能用特权 API，兼容 Shizuku-API 生态（官方 SDK 应用零改动直连）\| A catgirl-mascot privileged-API assistant for Android. Shizuku-API compatible — apps built on the official SDK connect unchanged. Apache-2.0 | Apache-2.0 | [GitHub](https://github.com/cr1437/Shizako) • [Releases](https://github.com/cr1437/Shizako/releases) |
 | **[EnforceDoze](https://github.com/Akylas/EnforceDoze)** | 屏幕关闭后立即启用打瞌睡模式并关闭运动感应以获得最佳电池寿命 | GPL-3.0 | [GitHub 源码](https://github.com/Akylas/EnforceDoze) • [下载发布](https://github.com/Akylas/EnforceDoze/releases) |
@@ -259,16 +269,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **afu-ledger** | 祝福617 | `v1.0.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/afu-ledger-v1.0.0) | [Upstream](https://github.com/Blessing617/afu-ledger/releases) |
-| ⚡ **workbuddy-agent-apk** | 孝欧 | `v3.8.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/workbuddy-agent-apk-v3.8.1) | [Upstream](https://github.com/Hy-ou/workbuddy-agent-apk/releases) |
-| ⚡ **Tool-Xiaomi** | 从都28 | `v1.0.14` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-xiaomi-v1.0.14) | [Upstream](https://github.com/congdu28/Tool-Xiaomi/releases) |
-| ⚡ **imgtxd-studio** | PKOK1099 | `v3.2.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/imgtxd-studio-v3.2.2) | [Upstream](https://github.com/pkok1099/imgtxd-studio/releases) |
-| ⚡ **onepluscontrolcenter** | 特里波尔斯基数字公司 | `v0.1.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onepluscontrolcenter-v0.1.1) | [Upstream](https://github.com/tripolskiydigital/onepluscontrolcenter/releases) |
-| ⚡ **Call_Record** | 德克兰·全 | `v0.2.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/call-record-v0.2.0) | [Upstream](https://github.com/DeclanJeon/Call_Record/releases) |
-| ⚡ **Roans-HyperOS-CN-Fixer** | 罗安47 | `v0.7.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/roans-hyperos-cn-fixer-v0.7.2) | [Upstream](https://github.com/roanh47/Roans-HyperOS-CN-Fixer/releases) |
-| ⚡ **Morphe** | 西龙7708 | `symorphe-v1.1.204` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-symorphe-v1.1.204) | [Upstream](https://github.com/SYLONG7708/Morphe/releases) |
-| ⚡ **StashDrop** | 安基昌基 | `v0.6.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stashdrop-v0.6.0) | [Upstream](https://github.com/ankitchanki/StashDrop/releases) |
-| ⚡ **SetEditPlus** | 阿尼什泰因 | `v3.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/seteditplus-v3.0) | [Upstream](https://github.com/AnishtayiN/SetEditPlus/releases) |
+| ⚡ **multipantalla-tv** | 胡安德盖茨 | `latest` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/multipantalla-tv-latest) | [Upstream](https://github.com/Juandegates/multipantalla-tv/releases) |
+| ⚡ **ramrom-emu-manager** | 拉米扎里夫 | `v0.1.0` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ramrom-emu-manager-v0.1.0) | [Upstream](https://github.com/ramizarif/ramrom-emu-manager/releases) |
+| ⚡ **KfigGOS** | 切断03 | `v1.0.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kfiggos-v1.0.1) | [Upstream](https://github.com/Severoff03/KfigGOS/releases) |
+| ⚡ **power-tv** | 刘小珍 | `v1.2.00` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/power-tv-v1.2.00) | [Upstream](https://github.com/Iamliuxiaozhen/power-tv/releases) |
+| ⚡ **Shizuku--Next-TV** | 德波23 | `14.0.27.r1896` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-next-tv-14.0.27.r1896) | [Upstream](https://github.com/depo23/Shizuku--Next-TV/releases) |
+| ⚡ **rommdroid-saves** | 阿卜杜兹尼克 | `v0.4` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rommdroid-saves-v0.4) | [Upstream](https://github.com/abduznik/rommdroid-saves/releases) |
+| ⚡ **Drecorder** | dhhxfggg2023 | `v0.2.2` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drecorder-v0.2.2) | [Upstream](https://github.com/dhhxfggg2023/Drecorder/releases) |
+| ⚡ **AutoTaskFlowAutoTaskFlow** | 野标军7-blip | `v0.3.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotaskflowautotaskflow-v0.3.1) | [Upstream](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow/releases) |
+| ⚡ **gerenciador-tarefas** | superwill12-来源 | `v0.2.6` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gerenciador-tarefas-v0.2.6) | [Upstream](https://github.com/superwill12-source/gerenciador-tarefas/releases) |
+| ⚡ **zevblock** | 泽夫构建 | `v2.2-stable` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zevblock-v2.2-stable) | [Upstream](https://github.com/zevbuild/zevblock/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

@@ -13919,5 +13919,162 @@
     ],
     "mirror_release_tag": "rommdroid-saves-v0.4",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rommdroid-saves-v0.4"
+  },
+  "lsposed-modules-manager": {
+    "source_repository": "rushiranpise/lsposed-modules-manager",
+    "source_release_id": 420282021,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-22T03:38:29Z",
+    "synced_at": "2026-10-22T04:19:27.963352+00:00",
+    "assets": [
+      {
+        "source_asset_id": 664570044,
+        "filename": "ModulesManager-v1.0.0-release.apk",
+        "original_filename": "ModulesManager-v1.0.0-release.apk",
+        "sha256": "dcb01b3b8353bf09978cc76746d60c5fcd53ba56217d2c2672c7d459bbb34d8a",
+        "file_size": 1816682,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lsposed-modules-manager-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lsposed-modules-manager-v1.0.0"
+  },
+  "open-headunit": {
+    "source_repository": "andreknieriem/open-headunit",
+    "source_release_id": 416026371,
+    "source_tag": "v.3.5.0",
+    "source_published_at": "2026-10-17T19:58:15Z",
+    "synced_at": "2026-10-22T04:19:32.568449+00:00",
+    "assets": [
+      {
+        "source_asset_id": 651443830,
+        "filename": "com.andrerinas.headunitrevived_3.5.0.apk",
+        "original_filename": "com.andrerinas.headunitrevived_3.5.0.apk",
+        "sha256": "609ca23b4eb0deaad2a58f6463b26cbf58bdc602ac0775eb5e7adb293a75a14d",
+        "file_size": 13903086,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "open-headunit-v.3.5.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/open-headunit-v.3.5.0"
+  },
+  "mirax": {
+    "source_repository": "Morishima-Yoru/Mirax",
+    "source_release_id": 420223923,
+    "source_tag": "v0.0.5",
+    "source_published_at": "2026-10-22T01:43:37Z",
+    "synced_at": "2026-10-22T04:19:36.874282+00:00",
+    "assets": [
+      {
+        "source_asset_id": 664352551,
+        "filename": "mirax-v0.0.5.apk",
+        "original_filename": "mirax-v0.0.5.apk",
+        "sha256": "32736a50a2b45ad597aa4e31840e0eae9af24280b34aeb9adae8d9440556a6d0",
+        "file_size": 13311341,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mirax-v0.0.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mirax-v0.0.5"
+  },
+  "dayflow": {
+    "source_repository": "cniv14/DayFlow",
+    "source_release_id": 420277029,
+    "source_tag": "v1.3.1",
+    "source_published_at": "2026-10-22T03:44:58Z",
+    "synced_at": "2026-10-22T04:19:45.781893+00:00",
+    "assets": [
+      {
+        "source_asset_id": 664553140,
+        "filename": "DayFlow-almanac.apk",
+        "original_filename": "DayFlow-almanac.apk",
+        "sha256": "65b9c9d802a3dab53fd152eccb8363d15c795dabf5208f54d39b430b9c0733aa",
+        "file_size": 5585376,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 664580242,
+        "filename": "DayFlow-android.apk",
+        "original_filename": "DayFlow-android.apk",
+        "sha256": "933ebe24652d9be95124844537b84e802b3b867d9ba88a4200b0f6af1e637af2",
+        "file_size": 8076481,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 664553805,
+        "filename": "DayFlow-assistant.apk",
+        "original_filename": "DayFlow-assistant.apk",
+        "sha256": "353ae7960308c5315d10fce08e0efcef0d00a5e1476e2a2ccfbd8a51d8704860",
+        "file_size": 5619249,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 664554586,
+        "filename": "DayFlow-markdown.apk",
+        "original_filename": "DayFlow-markdown.apk",
+        "sha256": "a537ddb3ed76ce81c5a5392849ca7718c839f418397e2307facd93cdaf3ea7f0",
+        "file_size": 6194273,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dayflow-v1.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dayflow-v1.3.1"
+  },
+  "jpedrostoolkit": {
+    "source_repository": "jpedrothejo/jpedrostoolkit",
+    "source_release_id": 420211760,
+    "source_tag": "app",
+    "source_published_at": "2026-10-22T01:45:39Z",
+    "synced_at": "2026-10-22T04:19:49.528805+00:00",
+    "assets": [
+      {
+        "source_asset_id": 664588557,
+        "filename": "release.1.0.apk",
+        "original_filename": "release.1.0.apk",
+        "sha256": "9384550a483957f33bb92920fb59273ed5ade16c0da1e2ae4f5b64d6a925e9af",
+        "file_size": 11482596,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "jpedrostoolkit-app",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jpedrostoolkit-app"
+  },
+  "zhengdao": {
+    "source_repository": "pisces19860207/zhengdao",
+    "source_release_id": 414806610,
+    "source_tag": "v2.1.2",
+    "source_published_at": "2026-10-16T10:06:53Z",
+    "synced_at": "2026-10-22T04:19:53.958362+00:00",
+    "assets": [
+      {
+        "source_asset_id": 646924562,
+        "filename": "zhengdao-2.1.2-release.apk",
+        "original_filename": "zhengdao-2.1.2-release.apk",
+        "sha256": "5317970b778a7b7006b7920ed010ff09bb3f9528afe81bb062333c605d641bdf",
+        "file_size": 8965880,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "zhengdao-v2.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zhengdao-v2.1.2"
+  },
+  "momoding": {
+    "source_repository": "1zhangyy1/momoding",
+    "source_release_id": 419595927,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-10-21T13:30:25Z",
+    "synced_at": "2026-10-22T04:19:58.913546+00:00",
+    "assets": [
+      {
+        "source_asset_id": 662607370,
+        "filename": "Momoding-1.0.2.apk",
+        "original_filename": "Momoding-1.0.2.apk",
+        "sha256": "2f2811a612c0892dae6c8ac71a2136825959807282d4b6183c62b39204674e49",
+        "file_size": 38651423,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "momoding-v1.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/momoding-v1.0.2"
   }
 }
