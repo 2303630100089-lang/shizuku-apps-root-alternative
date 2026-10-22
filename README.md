@@ -256,16 +256,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **afu-ledger** | Blessing617 | `v1.0.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/afu-ledger-v1.0.0) | [Upstream](https://github.com/Blessing617/afu-ledger/releases) |
-| ⚡ **workbuddy-agent-apk** | Hy-ou | `v3.8.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/workbuddy-agent-apk-v3.8.1) | [Upstream](https://github.com/Hy-ou/workbuddy-agent-apk/releases) |
-| ⚡ **Tool-Xiaomi** | congdu28 | `v1.0.14` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tool-xiaomi-v1.0.14) | [Upstream](https://github.com/congdu28/Tool-Xiaomi/releases) |
-| ⚡ **imgtxd-studio** | pkok1099 | `v3.2.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/imgtxd-studio-v3.2.2) | [Upstream](https://github.com/pkok1099/imgtxd-studio/releases) |
-| ⚡ **onepluscontrolcenter** | tripolskiydigital | `v0.1.1` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onepluscontrolcenter-v0.1.1) | [Upstream](https://github.com/tripolskiydigital/onepluscontrolcenter/releases) |
-| ⚡ **Call_Record** | DeclanJeon | `v0.2.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/call-record-v0.2.0) | [Upstream](https://github.com/DeclanJeon/Call_Record/releases) |
-| ⚡ **Roans-HyperOS-CN-Fixer** | roanh47 | `v0.7.2` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/roans-hyperos-cn-fixer-v0.7.2) | [Upstream](https://github.com/roanh47/Roans-HyperOS-CN-Fixer/releases) |
-| ⚡ **Morphe** | SYLONG7708 | `symorphe-v1.1.204` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-symorphe-v1.1.204) | [Upstream](https://github.com/SYLONG7708/Morphe/releases) |
-| ⚡ **StashDrop** | ankitchanki | `v0.6.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stashdrop-v0.6.0) | [Upstream](https://github.com/ankitchanki/StashDrop/releases) |
-| ⚡ **SetEditPlus** | AnishtayiN | `v3.0` | 2026-10-20 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/seteditplus-v3.0) | [Upstream](https://github.com/AnishtayiN/SetEditPlus/releases) |
+| ⚡ **multipantalla-tv** | Juandegates | `latest` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/multipantalla-tv-latest) | [Upstream](https://github.com/Juandegates/multipantalla-tv/releases) |
+| ⚡ **ramrom-emu-manager** | ramizarif | `v0.1.0` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ramrom-emu-manager-v0.1.0) | [Upstream](https://github.com/ramizarif/ramrom-emu-manager/releases) |
+| ⚡ **KfigGOS** | Severoff03 | `v1.0.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kfiggos-v1.0.1) | [Upstream](https://github.com/Severoff03/KfigGOS/releases) |
+| ⚡ **power-tv** | Iamliuxiaozhen | `v1.2.00` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/power-tv-v1.2.00) | [Upstream](https://github.com/Iamliuxiaozhen/power-tv/releases) |
+| ⚡ **Shizuku--Next-TV** | depo23 | `14.0.27.r1896` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-next-tv-14.0.27.r1896) | [Upstream](https://github.com/depo23/Shizuku--Next-TV/releases) |
+| ⚡ **rommdroid-saves** | abduznik | `v0.4` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rommdroid-saves-v0.4) | [Upstream](https://github.com/abduznik/rommdroid-saves/releases) |
+| ⚡ **Drecorder** | dhhxfggg2023 | `v0.2.2` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drecorder-v0.2.2) | [Upstream](https://github.com/dhhxfggg2023/Drecorder/releases) |
+| ⚡ **AutoTaskFlowAutoTaskFlow** | yebiaojun7-blip | `v0.3.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotaskflowautotaskflow-v0.3.1) | [Upstream](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow/releases) |
+| ⚡ **gerenciador-tarefas** | superwill12-source | `v0.2.6` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gerenciador-tarefas-v0.2.6) | [Upstream](https://github.com/superwill12-source/gerenciador-tarefas/releases) |
+| ⚡ **zevblock** | zevbuild | `v2.2-stable` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zevblock-v2.2-stable) | [Upstream](https://github.com/zevbuild/zevblock/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
