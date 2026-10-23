@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[linchuanwl](https://github.com/lingyunnzd/linchuanwl)** | 仓库仓库 | LGPL-3.0 | [GitHub 源码](https://github.com/lingyunnzd/linchuanwl) • [下载发布](https://github.com/lingyunnzd/linchuanwl/releases) |
+| **[AIChanger](https://github.com/DQuest/AIChanger)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/DQuest/AIChanger) • [下载发布](https://github.com/DQuest/AIChanger/releases) |
+| **[NexusGameBooster](https://github.com/pubbgggamerss00-bot/NexusGameBooster)** | NexusGameBooster — 诚实的 Android 游戏伴侣 (Kotlin + Jetpack Compose)。真实设备监控、性能配置文件、安全升压编排、波斯 RTL。零权限。 | See project | [GitHub 源码](https://github.com/pubbgggamerss00-bot/NexusGameBooster) • [下载发布](https://github.com/pubbgggamerss00-bot/NexusGameBooster/releases) |
+| **[OpenGamepad](https://github.com/Alexprox7/OpenGamepad)** | 将您的 Android 手机变成低延迟 PC 游戏控制器：Wi-Fi、USB、蓝牙、宏和径向菜单、OLED 省电。 | MIT | [GitHub 源码](https://github.com/Alexprox7/OpenGamepad) • [下载发布](https://github.com/Alexprox7/OpenGamepad/releases) |
+| **[PhoneForeward](https://github.com/mthtamim/PhoneForeward)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/mthtamim/PhoneForeward) • [下载发布](https://github.com/mthtamim/PhoneForeward/releases) |
+| **[pocket-agent](https://github.com/ru-aish/pocket-agent)** | 具有直接电话工具和共享后台子代理的独立 Android Pi 代理 | See project | [GitHub 源码](https://github.com/ru-aish/pocket-agent) • [下载发布](https://github.com/ru-aish/pocket-agent/releases) |
+| **[dsh-status-hud](https://github.com/0year/dsh-status-hud)** | DSH 状态条：把 DSH 代理的实时进度显示在 Android 状态栏的滚动条上（手机端用 DSHBox 时随时看到后台在做什么）。Android 覆盖 + Shizuku + DSH 自动插件。 | MIT | [GitHub 源码](https://github.com/0year/dsh-status-hud) • [下载发布](https://github.com/0year/dsh-status-hud/releases) |
+| **[qo-direct-charge](https://github.com/iQSOO/qo-direct-charge)** | 新伙伴开发·iQSOO（iqsoo.com）发起并开源发布。针对iQOO Neo11 / Android 16的原生直驱自动化工具，支持横屏、应用与息屏规则，基于Shizuku，无需Root。 | MIT | [GitHub 源码](https://github.com/iQSOO/qo-direct-charge) • [下载发布](https://github.com/iQSOO/qo-direct-charge/releases) |
+| **[droidtop](https://github.com/Droidtop/droidtop)** | 将 Android 手持设备转变为共享桌面 — Windows 通过 Wine/Box64、Linux 通过容器、一个合并的合成器、dom0 风格的架构 | GPL-3.0 | [GitHub 源码](https://github.com/Droidtop/droidtop) • [下载发布](https://github.com/Droidtop/droidtop/releases) |
+| **[SandFly](https://github.com/aaron-gh/SandFly)** | Android 屏幕阅读器，源自 Backtalk | Apache-2.0 | [GitHub 源码](https://github.com/aaron-gh/SandFly) • [下载发布](https://github.com/aaron-gh/SandFly/releases) |
 | **[pebble-screen-mirror](https://github.com/dmyn1993/pebble-screen-mirror)** | 将 Android 手机屏幕镜像到 Pebble Time 2 并通过手表控制手机。 | MIT | [GitHub 源码](https://github.com/dmyn1993/pebble-screen-mirror) • [下载发布](https://github.com/dmyn1993/pebble-screen-mirror/releases) |
 | **[GazeKeep](https://github.com/IceTeacher/GazeKeep)** | 为缺系统级注视不熄屏的 Android 设备提供端侧离线注视保亮功能：侧壁熄屏前短时采样、零网络权限、看默认熄屏，支持 LSPod / Shizuku / 右侧离线与按白名单启用。 | MIT | [GitHub 源码](https://github.com/IceTeacher/GazeKeep) • [下载发布](https://github.com/IceTeacher/GazeKeep/releases) |
 | **[Service-Keeper](https://github.com/sklndev/Service-Keeper)** | Android 应用程序可监控并自动重新启动被系统杀死的后台服务、辅助服务和通知侦听器，使用 Shizuku 进行特权访问。 | GPL-3.0 | [GitHub 源码](https://github.com/sklndev/Service-Keeper) • [下载发布](https://github.com/sklndev/Service-Keeper/releases) |
@@ -269,16 +279,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **multipantalla-tv** | 胡安德盖茨 | `latest` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/multipantalla-tv-latest) | [Upstream](https://github.com/Juandegates/multipantalla-tv/releases) |
-| ⚡ **ramrom-emu-manager** | 拉米扎里夫 | `v0.1.0` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ramrom-emu-manager-v0.1.0) | [Upstream](https://github.com/ramizarif/ramrom-emu-manager/releases) |
-| ⚡ **KfigGOS** | 切断03 | `v1.0.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kfiggos-v1.0.1) | [Upstream](https://github.com/Severoff03/KfigGOS/releases) |
-| ⚡ **power-tv** | 刘小珍 | `v1.2.00` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/power-tv-v1.2.00) | [Upstream](https://github.com/Iamliuxiaozhen/power-tv/releases) |
-| ⚡ **Shizuku--Next-TV** | 德波23 | `14.0.27.r1896` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-next-tv-14.0.27.r1896) | [Upstream](https://github.com/depo23/Shizuku--Next-TV/releases) |
-| ⚡ **rommdroid-saves** | 阿卜杜兹尼克 | `v0.4` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rommdroid-saves-v0.4) | [Upstream](https://github.com/abduznik/rommdroid-saves/releases) |
-| ⚡ **Drecorder** | dhhxfggg2023 | `v0.2.2` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drecorder-v0.2.2) | [Upstream](https://github.com/dhhxfggg2023/Drecorder/releases) |
-| ⚡ **AutoTaskFlowAutoTaskFlow** | 野标军7-blip | `v0.3.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotaskflowautotaskflow-v0.3.1) | [Upstream](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow/releases) |
-| ⚡ **gerenciador-tarefas** | superwill12-来源 | `v0.2.6` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gerenciador-tarefas-v0.2.6) | [Upstream](https://github.com/superwill12-source/gerenciador-tarefas/releases) |
-| ⚡ **zevblock** | 泽夫构建 | `v2.2-stable` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zevblock-v2.2-stable) | [Upstream](https://github.com/zevbuild/zevblock/releases) |
+| ⚡ **pimet** | zr987459 | `v1.8.9` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pimet-v1.8.9) | [Upstream](https://github.com/zr987459/pimet/releases) |
+| ⚡ **receptor-dex** | 塞尔吉奥孔昆塞德尔 | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/receptor-dex-v1.0) | [Upstream](https://github.com/sergioconquense-del/receptor-dex/releases) |
+| ⚡ **DSH-Mobile-with-Termux** | 哈祖基克 | `v2.3.6` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-mobile-with-termux-v2.3.6) | [Upstream](https://github.com/hazukieq/DSH-Mobile-with-Termux/releases) |
+| ⚡ **Mtz2Icon** | 格拉瓦卡尔特拉 | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mtz2icon-v1.0) | [Upstream](https://github.com/glavakartela/Mtz2Icon/releases) |
+| ⚡ **komi-store** | 栗科米实验室 | `v1.9.3` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.3) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
+| ⚡ **cachalote** | 里卡多·吉皮门特尔 | `v0.3.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cachalote-v0.3.0) | [Upstream](https://github.com/ricardojrgpimentel/cachalote/releases) |
+| ⚡ **DevicePerfMonitor** | 张四同 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deviceperfmonitor-v1.0.0) | [Upstream](https://github.com/sitong-zhang/DevicePerfMonitor/releases) |
+| ⚡ **DayFlow** | cniv14 | `v1.3.1` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dayflow-v1.3.1) | [Upstream](https://github.com/cniv14/DayFlow/releases) |
+| ⚡ **lsposed-modules-manager** | 鲁什兰皮斯 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lsposed-modules-manager-v1.0.0) | [Upstream](https://github.com/rushiranpise/lsposed-modules-manager/releases) |
+| ⚡ **jpedrostoolkit** | 佩德罗泰霍 | `app` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jpedrostoolkit-app) | [Upstream](https://github.com/jpedrothejo/jpedrostoolkit/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

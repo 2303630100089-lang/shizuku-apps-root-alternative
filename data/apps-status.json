@@ -1114,7 +1114,7 @@
   },
   "droidtop": {
     "status": "no-update",
-    "last_checked": "2026-10-17T15:23:22.119692+00:00",
+    "last_checked": "2026-10-23T04:23:50.680778+00:00",
     "latest_version": "v1.12.1",
     "last_synced": "2026-10-01T17:53:47.755666+00:00"
   },
@@ -3723,5 +3723,56 @@
     "status": "no-apk",
     "last_checked": "2026-10-22T17:01:47.240777+00:00",
     "latest_version": "v1.1.0"
+  },
+  "sandfly": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:23:50.296619+00:00",
+    "latest_version": "v0.1.6",
+    "last_synced": "2026-10-23T04:23:50.296619+00:00"
+  },
+  "qo-direct-charge": {
+    "status": "no-apk",
+    "last_checked": "2026-10-23T04:23:51.029635+00:00",
+    "latest_version": "v1.0.1"
+  },
+  "dsh-status-hud": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:23:54.429465+00:00",
+    "latest_version": "v6.7",
+    "last_synced": "2026-10-23T04:23:54.429465+00:00"
+  },
+  "pocket-agent": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:24:18.415286+00:00",
+    "latest_version": "v0.1.7-main.2",
+    "last_synced": "2026-10-23T04:24:18.415286+00:00"
+  },
+  "phoneforeward": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:24:30.550388+00:00",
+    "latest_version": "v2.17.4",
+    "last_synced": "2026-10-23T04:24:30.550388+00:00"
+  },
+  "opengamepad": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:24:34.400570+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-23T04:24:34.400570+00:00"
+  },
+  "nexusgamebooster": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:24:38.243958+00:00",
+    "latest_version": "v0.9.0-shizuku",
+    "last_synced": "2026-10-23T04:24:38.243958+00:00"
+  },
+  "aichanger": {
+    "status": "synced",
+    "last_checked": "2026-10-23T04:24:42.495133+00:00",
+    "latest_version": "v3.12",
+    "last_synced": "2026-10-23T04:24:42.495133+00:00"
+  },
+  "linchuanwl": {
+    "status": "no-apk",
+    "last_checked": "2026-10-23T04:24:42.841889+00:00"
   }
 }

@@ -14190,5 +14190,162 @@
     ],
     "mirror_release_tag": "receptor-dex-v1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/receptor-dex-v1.0"
+  },
+  "sandfly": {
+    "source_repository": "aaron-gh/SandFly",
+    "source_release_id": 420636487,
+    "source_tag": "v0.1.6",
+    "source_published_at": "2026-10-22T11:26:40Z",
+    "synced_at": "2026-10-23T04:23:50.296586+00:00",
+    "assets": [
+      {
+        "source_asset_id": 665647140,
+        "filename": "sandfly-wear.apk",
+        "original_filename": "sandfly-wear.apk",
+        "sha256": "413b3f1660834973ba77ed79c16c1cc4845801f77f4dd218ee9ea3c21bd169d9",
+        "file_size": 87244940,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      },
+      {
+        "source_asset_id": 665647139,
+        "filename": "sandfly.apk",
+        "original_filename": "sandfly.apk",
+        "sha256": "673cd5fc410f6a55cc79e0d54a33f536558520a616f0f6e4858ace92a911a851",
+        "file_size": 97798277,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sandfly-v0.1.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sandfly-v0.1.6"
+  },
+  "dsh-status-hud": {
+    "source_repository": "0year/dsh-status-hud",
+    "source_release_id": 421106889,
+    "source_tag": "v6.7",
+    "source_published_at": "2026-10-22T19:19:23Z",
+    "synced_at": "2026-10-23T04:23:54.429442+00:00",
+    "assets": [
+      {
+        "source_asset_id": 666832607,
+        "filename": "DSH-Status-Hud.apk",
+        "original_filename": "DSH-Status-Hud.apk",
+        "sha256": "a0fd362a17a4999dc089310c34c5483f2a6c6efc032f43b4b2c8e33b34b70444",
+        "file_size": 53605,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dsh-status-hud-v6.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-status-hud-v6.7"
+  },
+  "pocket-agent": {
+    "source_repository": "ru-aish/pocket-agent",
+    "source_release_id": 417707876,
+    "source_tag": "v0.1.7-main.2",
+    "source_published_at": "2026-10-19T20:20:33Z",
+    "synced_at": "2026-10-23T04:24:18.415260+00:00",
+    "assets": [
+      {
+        "source_asset_id": 657363026,
+        "filename": "Pocket-Agent-x86_64.apk",
+        "original_filename": "Pocket-Agent-x86_64.apk",
+        "sha256": "0dc03b2241217a2853ea1a27c6fa12484dd6b8a7a2c9adc05c6622d2462feb97",
+        "file_size": 51714982,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 657363028,
+        "filename": "Pocket-Agent-arm64.apk",
+        "original_filename": "Pocket-Agent-arm64.apk",
+        "sha256": "766876913037c14d99522f15e48a3371b3fcde3685d64b18cb37c8672252eec9",
+        "file_size": 49597895,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 657363030,
+        "filename": "Pocket-Agent-universal.apk",
+        "original_filename": "Pocket-Agent-universal.apk",
+        "sha256": "1513b973e990e30d8f247d932c0c60a55a240e5a638edb92abb2e2c104412f02",
+        "file_size": 109527787,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pocket-agent-v0.1.7-main.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-agent-v0.1.7-main.2"
+  },
+  "phoneforeward": {
+    "source_repository": "mthtamim/PhoneForeward",
+    "source_release_id": 421435879,
+    "source_tag": "v2.17.4",
+    "source_published_at": "2026-10-23T04:01:12Z",
+    "synced_at": "2026-10-23T04:24:30.550363+00:00",
+    "assets": [
+      {
+        "source_asset_id": 667900703,
+        "filename": "PhoneLink.apk",
+        "original_filename": "PhoneLink.apk",
+        "sha256": "221cb34f9bc908315d4217053505fc77f54bc2bcd01f9a8e6c0366da8e2b0885",
+        "file_size": 114518215,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "phoneforeward-v2.17.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phoneforeward-v2.17.4"
+  },
+  "opengamepad": {
+    "source_repository": "Alexprox7/OpenGamepad",
+    "source_release_id": 421272539,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-22T22:41:57Z",
+    "synced_at": "2026-10-23T04:24:34.400545+00:00",
+    "assets": [
+      {
+        "source_asset_id": 667294710,
+        "filename": "OpenGamepad-1.0.0.apk",
+        "original_filename": "OpenGamepad-1.0.0.apk",
+        "sha256": "99265a971094971d0fced241332c6890b280227f4c34bcdf4b9f157db923b24d",
+        "file_size": 2394115,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "opengamepad-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opengamepad-v1.0.0"
+  },
+  "nexusgamebooster": {
+    "source_repository": "pubbgggamerss00-bot/NexusGameBooster",
+    "source_release_id": 421235039,
+    "source_tag": "v0.9.0-shizuku",
+    "source_published_at": "2026-10-22T21:45:38Z",
+    "synced_at": "2026-10-23T04:24:38.243933+00:00",
+    "assets": [
+      {
+        "source_asset_id": 667179197,
+        "filename": "NexusGameBooster-v0.9.0-shizuku-release.apk",
+        "original_filename": "NexusGameBooster-v0.9.0-shizuku-release.apk",
+        "sha256": "597def069b7f7daf1a2a44ea42628841360bb397df3f65a0fa6575ead6eac988",
+        "file_size": 1825408,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nexusgamebooster-v0.9.0-shizuku",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nexusgamebooster-v0.9.0-shizuku"
+  },
+  "aichanger": {
+    "source_repository": "DQuest/AIChanger",
+    "source_release_id": 421436763,
+    "source_tag": "v3.12",
+    "source_published_at": "2026-10-23T04:01:42Z",
+    "synced_at": "2026-10-23T04:24:42.495113+00:00",
+    "assets": [
+      {
+        "source_asset_id": 667904074,
+        "filename": "AIChanger-v3.12.apk",
+        "original_filename": "AIChanger-v3.12.apk",
+        "sha256": "5053a711be9e6895a38db9a16be4f6858424fa6e325d62ecddb9a7dcc2cdd48d",
+        "file_size": 4936787,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "aichanger-v3.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aichanger-v3.12"
   }
 }
