@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-22T17:01:17.996586+00:00",
+    "last_checked": "2026-10-23T16:54:23.525715+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -264,8 +264,8 @@
     "last_synced": "2026-08-22T12:01:58.799969+00:00"
   },
   "enforcedoze": {
-    "status": "no-apk",
-    "last_checked": "2026-10-22T17:01:45.512878+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-23T16:54:07.640739+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-22T17:01:12.104289+00:00",
+    "last_checked": "2026-10-23T16:53:56.810107+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T15:23:20.236157+00:00"
   },
@@ -476,8 +476,8 @@
     "last_synced": "2026-09-29T11:55:23.525248+00:00"
   },
   "service-keeper": {
-    "status": "no-apk",
-    "last_checked": "2026-10-22T17:01:46.480104+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-23T16:54:21.136710+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -684,8 +684,8 @@
     "last_synced": "2026-09-29T17:34:37.024450+00:00"
   },
   "komi-store": {
-    "status": "synced",
-    "last_checked": "2026-10-22T17:01:11.119550+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-23T16:54:22.868082+00:00",
     "latest_version": "v1.9.3",
     "last_synced": "2026-10-22T17:01:11.119550+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-22T17:01:17.449545+00:00",
+    "last_checked": "2026-10-23T16:54:21.910737+00:00",
     "latest_version": "v0.3.0",
     "last_synced": "2026-10-18T15:44:06.403335+00:00"
   },
@@ -1041,9 +1041,9 @@
   },
   "android-guru-agent": {
     "status": "synced",
-    "last_checked": "2026-10-17T04:00:29.901108+00:00",
-    "latest_version": "v1.4.9.19",
-    "last_synced": "2026-10-17T04:00:29.901108+00:00"
+    "last_checked": "2026-10-23T16:53:55.734415+00:00",
+    "latest_version": "v1.4.9.42",
+    "last_synced": "2026-10-23T16:53:55.734415+00:00"
   },
   "project-v7": {
     "status": "no-apk",
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-22T17:01:17.539262+00:00",
+    "last_checked": "2026-10-23T16:53:56.215374+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1686,7 +1686,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-22T17:01:35.132974+00:00",
+    "last_checked": "2026-10-23T16:54:23.642745+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -2579,9 +2579,9 @@
   },
   "duobeam": {
     "status": "synced",
-    "last_checked": "2026-10-12T21:11:42.954802+00:00",
-    "latest_version": "v0.8.3",
-    "last_synced": "2026-10-12T21:11:42.954802+00:00"
+    "last_checked": "2026-10-23T16:54:06.996181+00:00",
+    "latest_version": "v0.8.9",
+    "last_synced": "2026-10-23T16:54:06.996181+00:00"
   },
   "koel": {
     "status": "synced",
@@ -3774,5 +3774,51 @@
   "linchuanwl": {
     "status": "no-apk",
     "last_checked": "2026-10-23T04:24:42.841889+00:00"
+  },
+  "hypercar": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:53:17.813556+00:00",
+    "latest_version": "v0.1.0.21",
+    "last_synced": "2026-10-23T16:53:17.813556+00:00"
+  },
+  "voice-sip-agent-selfhost": {
+    "status": "no-apk",
+    "last_checked": "2026-10-23T16:53:56.103760+00:00",
+    "latest_version": "v0.2.0-selfhost4"
+  },
+  "holomem-flicker": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:54:00.711106+00:00",
+    "latest_version": "v21",
+    "last_synced": "2026-10-23T16:54:00.711106+00:00"
+  },
+  "coolstream": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:54:05.109321+00:00",
+    "latest_version": "v1.1.2",
+    "last_synced": "2026-10-23T16:54:05.109321+00:00"
+  },
+  "datacliar": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:54:10.858074+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-10-23T16:54:10.858074+00:00"
+  },
+  "volt": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:54:15.100162+00:00",
+    "latest_version": "v1.6.0",
+    "last_synced": "2026-10-23T16:54:15.100162+00:00"
+  },
+  "xingshu-hub": {
+    "status": "no-apk",
+    "last_checked": "2026-10-23T16:54:15.446407+00:00",
+    "latest_version": "v0.1.0-test.20261022.2"
+  },
+  "beam": {
+    "status": "synced",
+    "last_checked": "2026-10-23T16:54:20.455361+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-23T16:54:20.455361+00:00"
   }
 }

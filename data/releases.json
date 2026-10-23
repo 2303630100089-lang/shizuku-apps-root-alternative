@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 415507730,
-    "source_tag": "v1.4.9.19",
-    "source_published_at": "2026-10-17T01:15:05Z",
-    "synced_at": "2026-10-17T04:00:29.901088+00:00",
+    "source_release_id": 421933118,
+    "source_tag": "v1.4.9.42",
+    "source_published_at": "2026-10-23T14:22:11Z",
+    "synced_at": "2026-10-23T16:53:55.734389+00:00",
     "assets": [
       {
-        "source_asset_id": 649149913,
-        "filename": "ApexAgent-v1.4.9.19-release-arm64-01f64fcd.apk",
-        "original_filename": "ApexAgent-v1.4.9.19-release-arm64-01f64fcd.apk",
-        "sha256": "fd4ac20288f928a930fb853a21fff87d0a4096aa9b024acb49fd2fe50ba6eea1",
-        "file_size": 337982603,
+        "source_asset_id": 669357083,
+        "filename": "ApexAgent-v1.4.9.42-release-arm64-f4ce96a0.apk",
+        "original_filename": "ApexAgent-v1.4.9.42-release-arm64-f4ce96a0.apk",
+        "sha256": "d464e36b39ed76a277c18bb4cca087ae516360eca7f5cba1a5707140ab2c831c",
+        "file_size": 339156854,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 649149909,
-        "filename": "ApexAgent-v1.4.9.19-release-universal-01f64fcd.apk",
-        "original_filename": "ApexAgent-v1.4.9.19-release-universal-01f64fcd.apk",
-        "sha256": "d137528249639bfa1a0012154082a1fe32e04dfba28809b837b1f660f2488c94",
-        "file_size": 952905613,
+        "source_asset_id": 669357081,
+        "filename": "ApexAgent-v1.4.9.42-release-universal-f4ce96a0.apk",
+        "original_filename": "ApexAgent-v1.4.9.42-release-universal-f4ce96a0.apk",
+        "sha256": "b5f3b280ea89ed9a3a2f2eb2e5d47c109b964be0109aaefba64e1bd1118e8f28",
+        "file_size": 954080124,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.4.9.19",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.19"
+    "mirror_release_tag": "android-guru-agent-v1.4.9.42",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.42"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -10778,30 +10778,30 @@
   },
   "duobeam": {
     "source_repository": "Gengaroshi/duobeam",
-    "source_release_id": 410815677,
-    "source_tag": "v0.8.3",
-    "source_published_at": "2026-10-12T16:40:37Z",
-    "synced_at": "2026-10-12T21:11:42.954780+00:00",
+    "source_release_id": 421949588,
+    "source_tag": "v0.8.9",
+    "source_published_at": "2026-10-23T14:36:21Z",
+    "synced_at": "2026-10-23T16:54:06.996153+00:00",
     "assets": [
       {
-        "source_asset_id": 634354347,
-        "filename": "DuoBeam-androidtv-0.8.3.apk",
-        "original_filename": "DuoBeam-androidtv-0.8.3.apk",
-        "sha256": "b5304509e2bfe2ef219cbe68e0d8ba112ae2495235a75f9e6b89db0f3494dcfa",
-        "file_size": 352656,
+        "source_asset_id": 669399167,
+        "filename": "DuoBeam-androidtv-0.8.9.apk",
+        "original_filename": "DuoBeam-androidtv-0.8.9.apk",
+        "sha256": "3b7787db9ca182c9616c876e03f771464f287e826958fa50aa4b4ffcf98449aa",
+        "file_size": 356688,
         "architecture": "unknown"
       },
       {
-        "source_asset_id": 634354351,
-        "filename": "DuoBeam-handheld-0.8.3.apk",
-        "original_filename": "DuoBeam-handheld-0.8.3.apk",
-        "sha256": "593b717f25117d7a1a08d857d55f06dc886a9d40f23bad0b1fda7edf212872b7",
-        "file_size": 11251755,
+        "source_asset_id": 669399165,
+        "filename": "DuoBeam-handheld-0.8.9.apk",
+        "original_filename": "DuoBeam-handheld-0.8.9.apk",
+        "sha256": "79774e4aa8010be8e209a123f5a7c116a9d4bd2e8047b8b170304c1a55dc2a34",
+        "file_size": 11268139,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "duobeam-v0.8.3",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.3"
+    "mirror_release_tag": "duobeam-v0.8.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.9"
   },
   "koel": {
     "source_repository": "strider-ape/Koel",
@@ -14347,5 +14347,119 @@
     ],
     "mirror_release_tag": "aichanger-v3.12",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aichanger-v3.12"
+  },
+  "hypercar": {
+    "source_repository": "fw867/hypercar",
+    "source_release_id": 422030874,
+    "source_tag": "v0.1.0.21",
+    "source_published_at": "2026-10-23T15:53:19Z",
+    "synced_at": "2026-10-23T16:53:17.813528+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669611997,
+        "filename": "HyperCar-0.1.0.21-release.apk",
+        "original_filename": "HyperCar-0.1.0.21-release.apk",
+        "sha256": "ee0f559464351b2f717770db8a4d7767eb6ae5c4b020ed60b596a87834298076",
+        "file_size": 3887994,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hypercar-v0.1.0.21",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypercar-v0.1.0.21"
+  },
+  "holomem-flicker": {
+    "source_repository": "Ozyman515/holomem-flicker",
+    "source_release_id": 422092141,
+    "source_tag": "v21",
+    "source_published_at": "2026-10-23T16:50:33Z",
+    "synced_at": "2026-10-23T16:54:00.711083+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669760586,
+        "filename": "holomem-flicker-v21.apk",
+        "original_filename": "holomem-flicker-v21.apk",
+        "sha256": "387afda7ec38af23f6fab14e19d853c44dec84f5de95a7ae0e714e84808bd0a1",
+        "file_size": 2435811,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "holomem-flicker-v21",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/holomem-flicker-v21"
+  },
+  "coolstream": {
+    "source_repository": "jianling17/CoolStream",
+    "source_release_id": 420844298,
+    "source_tag": "v1.1.2",
+    "source_published_at": "2026-10-22T14:48:20Z",
+    "synced_at": "2026-10-23T16:54:05.109299+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669488199,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "854e2118477196923cbe03cd66c7cd47d6ced35f3996429a693aadd745dfd02f",
+        "file_size": 2088155,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "coolstream-v1.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/coolstream-v1.1.2"
+  },
+  "datacliar": {
+    "source_repository": "parvez-devs/DATACLIAR",
+    "source_release_id": 421962101,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-23T14:47:32Z",
+    "synced_at": "2026-10-23T16:54:10.858053+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669429842,
+        "filename": "DATACLIAR-1.3.0.apk",
+        "original_filename": "DATACLIAR-1.3.0.apk",
+        "sha256": "89f926ac1c10e54fa7b6ccbe05326498b4a0bea8f816aa0bea1a1969b557b37e",
+        "file_size": 78543,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "datacliar-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datacliar-v1.3.0"
+  },
+  "volt": {
+    "source_repository": "JJRicks/volt",
+    "source_release_id": 421900913,
+    "source_tag": "v1.6.0",
+    "source_published_at": "2026-10-23T13:52:59Z",
+    "synced_at": "2026-10-23T16:54:15.100138+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669276834,
+        "filename": "volt-1.6.0.apk",
+        "original_filename": "volt-1.6.0.apk",
+        "sha256": "a6b66d98306053d0d22a5469da8dfe4fe92c8c533848f7c890b2b74986532207",
+        "file_size": 1460813,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "volt-v1.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volt-v1.6.0"
+  },
+  "beam": {
+    "source_repository": "TheRealJK1116/Beam",
+    "source_release_id": 422093493,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-23T16:52:10Z",
+    "synced_at": "2026-10-23T16:54:20.455342+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669764069,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "1c04befd9ce541edc1c53322b43a31ec26bfcd250b58884bb93a54fccf6c49f4",
+        "file_size": 3745694,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "beam-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beam-v0.3.0"
   }
 }
