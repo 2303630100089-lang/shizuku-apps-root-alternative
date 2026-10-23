@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **multipantalla-tv** | Juandegates | `latest` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/multipantalla-tv-latest) | [Upstream](https://github.com/Juandegates/multipantalla-tv/releases) |
-| ⚡ **ramrom-emu-manager** | ramizarif | `v0.1.0` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ramrom-emu-manager-v0.1.0) | [Upstream](https://github.com/ramizarif/ramrom-emu-manager/releases) |
-| ⚡ **KfigGOS** | Severoff03 | `v1.0.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kfiggos-v1.0.1) | [Upstream](https://github.com/Severoff03/KfigGOS/releases) |
-| ⚡ **power-tv** | Iamliuxiaozhen | `v1.2.00` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/power-tv-v1.2.00) | [Upstream](https://github.com/Iamliuxiaozhen/power-tv/releases) |
-| ⚡ **Shizuku--Next-TV** | depo23 | `14.0.27.r1896` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-next-tv-14.0.27.r1896) | [Upstream](https://github.com/depo23/Shizuku--Next-TV/releases) |
-| ⚡ **rommdroid-saves** | abduznik | `v0.4` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rommdroid-saves-v0.4) | [Upstream](https://github.com/abduznik/rommdroid-saves/releases) |
-| ⚡ **Drecorder** | dhhxfggg2023 | `v0.2.2` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drecorder-v0.2.2) | [Upstream](https://github.com/dhhxfggg2023/Drecorder/releases) |
-| ⚡ **AutoTaskFlowAutoTaskFlow** | yebiaojun7-blip | `v0.3.1` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotaskflowautotaskflow-v0.3.1) | [Upstream](https://github.com/yebiaojun7-blip/AutoTaskFlowAutoTaskFlow/releases) |
-| ⚡ **gerenciador-tarefas** | superwill12-source | `v0.2.6` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gerenciador-tarefas-v0.2.6) | [Upstream](https://github.com/superwill12-source/gerenciador-tarefas/releases) |
-| ⚡ **zevblock** | zevbuild | `v2.2-stable` | 2026-10-21 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zevblock-v2.2-stable) | [Upstream](https://github.com/zevbuild/zevblock/releases) |
+| ⚡ **pimet** | zr987459 | `v1.8.9` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pimet-v1.8.9) | [Upstream](https://github.com/zr987459/pimet/releases) |
+| ⚡ **receptor-dex** | sergioconquense-del | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/receptor-dex-v1.0) | [Upstream](https://github.com/sergioconquense-del/receptor-dex/releases) |
+| ⚡ **DSH-Mobile-with-Termux** | hazukieq | `v2.3.6` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-mobile-with-termux-v2.3.6) | [Upstream](https://github.com/hazukieq/DSH-Mobile-with-Termux/releases) |
+| ⚡ **Mtz2Icon** | glavakartela | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mtz2icon-v1.0) | [Upstream](https://github.com/glavakartela/Mtz2Icon/releases) |
+| ⚡ **komi-store** | kurikomi-labs | `v1.9.3` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.3) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
+| ⚡ **cachalote** | ricardojrgpimentel | `v0.3.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cachalote-v0.3.0) | [Upstream](https://github.com/ricardojrgpimentel/cachalote/releases) |
+| ⚡ **DevicePerfMonitor** | sitong-zhang | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deviceperfmonitor-v1.0.0) | [Upstream](https://github.com/sitong-zhang/DevicePerfMonitor/releases) |
+| ⚡ **DayFlow** | cniv14 | `v1.3.1` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dayflow-v1.3.1) | [Upstream](https://github.com/cniv14/DayFlow/releases) |
+| ⚡ **lsposed-modules-manager** | rushiranpise | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lsposed-modules-manager-v1.0.0) | [Upstream](https://github.com/rushiranpise/lsposed-modules-manager/releases) |
+| ⚡ **jpedrostoolkit** | jpedrothejo | `app` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jpedrostoolkit-app) | [Upstream](https://github.com/jpedrothejo/jpedrostoolkit/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
