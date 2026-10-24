@@ -4588,22 +4588,22 @@
   },
   "komi-store": {
     "source_repository": "kurikomi-labs/komi-store",
-    "source_release_id": 420690894,
-    "source_tag": "v1.9.3",
-    "source_published_at": "2026-10-22T13:46:30Z",
-    "synced_at": "2026-10-22T17:01:11.119529+00:00",
+    "source_release_id": 422549800,
+    "source_tag": "v1.9.4",
+    "source_published_at": "2026-10-24T06:23:03Z",
+    "synced_at": "2026-10-24T15:45:42.108644+00:00",
     "assets": [
       {
-        "source_asset_id": 665804806,
-        "filename": "Komi-Store-1.9.3.apk",
-        "original_filename": "Komi-Store-1.9.3.apk",
-        "sha256": "8961793ebe051e8b6e8e590775c2546a81093c3aab02549ca9d0fbd5d60f1f2d",
-        "file_size": 44719723,
+        "source_asset_id": 671464911,
+        "filename": "Komi-Store-1.9.4.apk",
+        "original_filename": "Komi-Store-1.9.4.apk",
+        "sha256": "98d859045d149f0d589942a32dcd465c6b1b9cc71347f050ef5c6e6decef3ac0",
+        "file_size": 44754752,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "komi-store-v1.9.3",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.3"
+    "mirror_release_tag": "komi-store-v1.9.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.4"
   },
   "droidbridge": {
     "source_repository": "zephyr7030/DroidBridge",
@@ -14556,5 +14556,184 @@
     ],
     "mirror_release_tag": "skz-connect-v1.0.24",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/skz-connect-v1.0.24"
+  },
+  "betteraichat": {
+    "source_repository": "Verlintas/BetterAIChat",
+    "source_release_id": 422801395,
+    "source_tag": "v0.27.5",
+    "source_published_at": "2026-10-24T15:07:56Z",
+    "synced_at": "2026-10-24T15:45:52.296818+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672563562,
+        "filename": "BetterAIChat-0.27.5-full.apk",
+        "original_filename": "BetterAIChat-0.27.5-full.apk",
+        "sha256": "5217900caf7723a5a3ea94ad7836dae74d65ca678f3a39962799ce5b79ae4c48",
+        "file_size": 55458300,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 672563310,
+        "filename": "BetterAIChat-0.27.5-lite.apk",
+        "original_filename": "BetterAIChat-0.27.5-lite.apk",
+        "sha256": "7262f07ed49b4f691e3681de79f9569ff46dda987ad0ee4e0c6e9e52f89f77d5",
+        "file_size": 10768694,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "betteraichat-v0.27.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/betteraichat-v0.27.5"
+  },
+  "pet-agent": {
+    "source_repository": "CianLaw/pet-agent",
+    "source_release_id": 422798023,
+    "source_tag": "v5.4.5",
+    "source_published_at": "2026-10-24T15:01:43Z",
+    "synced_at": "2026-10-24T15:45:55.722597+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672565703,
+        "filename": "doubao-petagent-mobile-v5.4.5.apk",
+        "original_filename": "doubao-petagent-mobile-v5.4.5.apk",
+        "sha256": "186cb4dad3284a327e886c2ced2f8b98f926d3509378233bc9aaa904eb3a409e",
+        "file_size": 4751638,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pet-agent-v5.4.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pet-agent-v5.4.5"
+  },
+  "stmall": {
+    "source_repository": "Yunanriv-hub/STmall",
+    "source_release_id": 422782877,
+    "source_tag": "v0.2.6",
+    "source_published_at": "2026-10-24T14:34:14Z",
+    "synced_at": "2026-10-24T15:45:59.019714+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672485471,
+        "filename": "STmall_0.2.6.apk",
+        "original_filename": "STmall_0.2.6.apk",
+        "sha256": "b4793226d11372c422cdc5d7af29a3740d3aac78de3915a39bd45d29f92cef70",
+        "file_size": 9064546,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "stmall-v0.2.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stmall-v0.2.6"
+  },
+  "devcodex": {
+    "source_repository": "Moirania/DevCodex",
+    "source_release_id": 422715274,
+    "source_tag": "v3.9.0-b28",
+    "source_published_at": "2026-10-24T12:21:34Z",
+    "synced_at": "2026-10-24T15:46:05.412746+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672200793,
+        "filename": "DevCodex-v3.9.0-b28-arm64-release.apk",
+        "original_filename": "DevCodex-v3.9.0-b28-arm64-release.apk",
+        "sha256": "62c69dc598b2347776f99b7d219e69a99777f95d628a6af4e986d503dac07c3a",
+        "file_size": 48420899,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "devcodex-v3.9.0-b28",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/devcodex-v3.9.0-b28"
+  },
+  "game-booster-android": {
+    "source_repository": "gailowilly551-afk/game-booster-android",
+    "source_release_id": 422698532,
+    "source_tag": "v20.6.0-PRO",
+    "source_published_at": "2026-10-24T11:45:28Z",
+    "synced_at": "2026-10-24T15:46:11.674360+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672129320,
+        "filename": "Game_Space.apk",
+        "original_filename": "Game_Space.apk",
+        "sha256": "229b1ef4d9e2905fdaf8a6c5ee1987f659bd1209260109bc89bb0690a832beda",
+        "file_size": 53445795,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "game-booster-android-v20.6.0-PRO",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-android-v20.6.0-PRO"
+  },
+  "rey-loco": {
+    "source_repository": "Smile744/rey-loco",
+    "source_release_id": 422821046,
+    "source_tag": "v47",
+    "source_published_at": "2026-10-24T15:44:27Z",
+    "synced_at": "2026-10-24T15:46:15.303460+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672640336,
+        "filename": "ReyLoco.apk",
+        "original_filename": "ReyLoco.apk",
+        "sha256": "7eee5584ad7bf94f6d7b7a12c3146d14838ee68f31206f91aab6e9da29496cca",
+        "file_size": 7546065,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "rey-loco-v47",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rey-loco-v47"
+  },
+  "lotusai": {
+    "source_repository": "xishanp/LotusAI",
+    "source_release_id": 422786799,
+    "source_tag": "v2026.10.24.1",
+    "source_published_at": "2026-10-24T14:41:20Z",
+    "synced_at": "2026-10-24T15:46:19.781162+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672502532,
+        "filename": "LotusAI-v2026.10.24.1.apk",
+        "original_filename": "LotusAI-v2026.10.24.1.apk",
+        "sha256": "764db017ac92e26050c38673072723bb2751a0e568e35ce9ccc1057bd636cbc9",
+        "file_size": 11816750,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "lotusai-v2026.10.24.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lotusai-v2026.10.24.1"
+  },
+  "carjack": {
+    "source_repository": "cfraz89/carjack",
+    "source_release_id": 422798574,
+    "source_tag": "slipstream-v0.1.0",
+    "source_published_at": "2026-10-24T15:02:52Z",
+    "synced_at": "2026-10-24T15:46:24.096918+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672550963,
+        "filename": "Slipstream-0.1.0.apk",
+        "original_filename": "Slipstream-0.1.0.apk",
+        "sha256": "c081ff7c5b374783c5cef72f155e9a2e96f29eb31c2a447ac93b028b365714cd",
+        "file_size": 21720279,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "carjack-slipstream-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/carjack-slipstream-v0.1.0"
+  },
+  "huawei-eink-reader": {
+    "source_repository": "pjk2336/huawei-eink-reader",
+    "source_release_id": 422776748,
+    "source_tag": "v0.3.9",
+    "source_published_at": "2026-10-24T14:23:13Z",
+    "synced_at": "2026-10-24T15:46:27.177211+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672460853,
+        "filename": "InkReader-0.3.9.apk",
+        "original_filename": "InkReader-0.3.9.apk",
+        "sha256": "2246c46bb0064ad22ec531fcb3cd66c8fd634bc7855ff4bc6e6b691048b296f2",
+        "file_size": 120081,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "huawei-eink-reader-v0.3.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/huawei-eink-reader-v0.3.9"
   }
 }
