@@ -257,16 +257,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **pimet** | zr987459 | `v1.8.9` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pimet-v1.8.9) | [Upstream](https://github.com/zr987459/pimet/releases) |
-| ⚡ **receptor-dex** | sergioconquense-del | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/receptor-dex-v1.0) | [Upstream](https://github.com/sergioconquense-del/receptor-dex/releases) |
-| ⚡ **DSH-Mobile-with-Termux** | hazukieq | `v2.3.6` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-mobile-with-termux-v2.3.6) | [Upstream](https://github.com/hazukieq/DSH-Mobile-with-Termux/releases) |
-| ⚡ **Mtz2Icon** | glavakartela | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mtz2icon-v1.0) | [Upstream](https://github.com/glavakartela/Mtz2Icon/releases) |
-| ⚡ **komi-store** | kurikomi-labs | `v1.9.3` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.3) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
-| ⚡ **cachalote** | ricardojrgpimentel | `v0.3.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cachalote-v0.3.0) | [Upstream](https://github.com/ricardojrgpimentel/cachalote/releases) |
-| ⚡ **DevicePerfMonitor** | sitong-zhang | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deviceperfmonitor-v1.0.0) | [Upstream](https://github.com/sitong-zhang/DevicePerfMonitor/releases) |
-| ⚡ **DayFlow** | cniv14 | `v1.3.1` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dayflow-v1.3.1) | [Upstream](https://github.com/cniv14/DayFlow/releases) |
-| ⚡ **lsposed-modules-manager** | rushiranpise | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lsposed-modules-manager-v1.0.0) | [Upstream](https://github.com/rushiranpise/lsposed-modules-manager/releases) |
-| ⚡ **jpedrostoolkit** | jpedrothejo | `app` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jpedrostoolkit-app) | [Upstream](https://github.com/jpedrothejo/jpedrostoolkit/releases) |
+| ⚡ **Beam** | TheRealJK1116 | `v0.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beam-v0.3.0) | [Upstream](https://github.com/TheRealJK1116/Beam/releases) |
+| ⚡ **holomem-flicker** | Ozyman515 | `v21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/holomem-flicker-v21) | [Upstream](https://github.com/Ozyman515/holomem-flicker/releases) |
+| ⚡ **hypercar** | fw867 | `v0.1.0.21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypercar-v0.1.0.21) | [Upstream](https://github.com/fw867/hypercar/releases) |
+| ⚡ **DATACLIAR** | parvez-devs | `v1.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datacliar-v1.3.0) | [Upstream](https://github.com/parvez-devs/DATACLIAR/releases) |
+| ⚡ **duobeam** | Gengaroshi | `v0.8.9` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.9) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.42` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.42) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **volt** | JJRicks | `v1.6.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volt-v1.6.0) | [Upstream](https://github.com/JJRicks/volt/releases) |
+| ⚡ **AIChanger** | DQuest | `v3.12` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aichanger-v3.12) | [Upstream](https://github.com/DQuest/AIChanger/releases) |
+| ⚡ **PhoneForeward** | mthtamim | `v2.17.4` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phoneforeward-v2.17.4) | [Upstream](https://github.com/mthtamim/PhoneForeward/releases) |
+| ⚡ **OpenGamepad** | Alexprox7 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opengamepad-v1.0.0) | [Upstream](https://github.com/Alexprox7/OpenGamepad/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
