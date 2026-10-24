@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[SKZ-Connect](https://github.com/DevCatSKZ/SKZ-Connect)** | Nintendo-, PlayStation- und Xbox-Controller unter Windows nutzen – virtuelle Xbox/DS4-Controller, Gyro, Rumble, Profile. 12 Sprachen. \| Nintendo, PlayStation & Xbox controllers on Windows – virtual Xbox/DS4 pads, gyro, rumble, profiles. 12 languages. | MIT | [GitHub](https://github.com/DevCatSKZ/SKZ-Connect) • [Releases](https://github.com/DevCatSKZ/SKZ-Connect/releases) |
+| **[Android-Personal-Agent](https://github.com/lzh2034855417-beep/Android-Personal-Agent)** | 本地优先的 Android 电池和硬件诊断。导入错误报告、查看本地解释，并可选择使用您自己的 AI 提供商。无需帐户。 | MIT | [GitHub 源码](https://github.com/lzh2034855417-beep/Android-Personal-Agent) • [下载发布](https://github.com/lzh2034855417-beep/Android-Personal-Agent/releases) |
+| **[Xpand-I-Pro-Apk](https://github.com/pilar-andy/Xpand-I-Pro-Apk)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/pilar-andy/Xpand-I-Pro-Apk) • [下载发布](https://github.com/pilar-andy/Xpand-I-Pro-Apk/releases) |
+| **[droidtop](https://github.com/Droidtop/droidtop)** | 将 Android 手持设备转变为共享桌面 — Windows 通过 Wine/Box64、Linux 通过容器、一个合并的合成器、dom0 风格的架构 | GPL-3.0 | [GitHub 源码](https://github.com/Droidtop/droidtop) • [下载发布](https://github.com/Droidtop/droidtop/releases) |
+| **[Hush](https://github.com/coldMEW/Hush)** | Android 上的 Spotify 无广告收听：无需 root 或修改 Spotify 应用程序即可跳过广告中断。 | GPL-3.0 | [GitHub 源码](https://github.com/coldMEW/Hush) • [下载发布](https://github.com/coldMEW/Hush/releases) |
+| **[DeepSeek-Harness-Mobile](https://github.com/masgzy/DeepSeek-Harness-Mobile)** | dsh安卓版本：免root、完整Linux用户态，GPL-3.0，中文优先。 | GPL-3.0 | [GitHub 源码](https://github.com/masgzy/DeepSeek-Harness-Mobile) • [下载发布](https://github.com/masgzy/DeepSeek-Harness-Mobile/releases) |
+| **[scrcpy-terminal](https://github.com/pwnedbygary/scrcpy-terminal)** | 适用于 Android 设备的终端和 Web 远程控制 — 像 Moonlight 一样流式传输屏幕，通过 ADB、USB 或网络进行控制。 | MIT | [GitHub 源码](https://github.com/pwnedbygary/scrcpy-terminal) • [下载发布](https://github.com/pwnedbygary/scrcpy-terminal/releases) |
+| **[rmg-next](https://github.com/aayy-dev/rmg-next)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/aayy-dev/rmg-next) • [下载发布](https://github.com/aayy-dev/rmg-next/releases) |
+| **[rootnote](https://github.com/ksysh3-dot/rootnote)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/ksysh3-dot/rootnote) • [下载发布](https://github.com/ksysh3-dot/rootnote/releases) |
+| **[somnacare](https://github.com/bowentown/somnacare)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/bowentown/somnacare) • [下载发布](https://github.com/bowentown/somnacare/releases) |
 | **[void-apps](https://github.com/privshell/void-apps)** | PowerFull 应用程序管理器、防火墙和权限管理器，具有很多功能。 | MIT | [GitHub 源码](https://github.com/privshell/void-apps) • [下载发布](https://github.com/privshell/void-apps/releases) |
 | **[Shizuku](https://github.com/thedjchi/Shizuku)** | 通过以 app_process 启动的 Java 进程，直接使用普通应用程序中具有 adb/root 权限的系统 API。 | Apache-2.0 | [GitHub 源码](https://github.com/thedjchi/Shizuku) • [下载发布](https://github.com/thedjchi/Shizuku/releases) |
 | **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
@@ -260,16 +270,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **pimet** | zr987459 | `v1.8.9` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pimet-v1.8.9) | [Upstream](https://github.com/zr987459/pimet/releases) |
-| ⚡ **receptor-dex** | 塞尔吉奥孔昆塞德尔 | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/receptor-dex-v1.0) | [Upstream](https://github.com/sergioconquense-del/receptor-dex/releases) |
-| ⚡ **DSH-Mobile-with-Termux** | 哈祖基克 | `v2.3.6` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-mobile-with-termux-v2.3.6) | [Upstream](https://github.com/hazukieq/DSH-Mobile-with-Termux/releases) |
-| ⚡ **Mtz2Icon** | 格拉瓦卡尔特拉 | `v1.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mtz2icon-v1.0) | [Upstream](https://github.com/glavakartela/Mtz2Icon/releases) |
-| ⚡ **komi-store** | 栗科米实验室 | `v1.9.3` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.3) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
-| ⚡ **cachalote** | 里卡多·吉皮门特尔 | `v0.3.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cachalote-v0.3.0) | [Upstream](https://github.com/ricardojrgpimentel/cachalote/releases) |
-| ⚡ **DevicePerfMonitor** | 张四同 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deviceperfmonitor-v1.0.0) | [Upstream](https://github.com/sitong-zhang/DevicePerfMonitor/releases) |
-| ⚡ **DayFlow** | cniv14 | `v1.3.1` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dayflow-v1.3.1) | [Upstream](https://github.com/cniv14/DayFlow/releases) |
-| ⚡ **lsposed-modules-manager** | 鲁什兰皮斯 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lsposed-modules-manager-v1.0.0) | [Upstream](https://github.com/rushiranpise/lsposed-modules-manager/releases) |
-| ⚡ **jpedrostoolkit** | 佩德罗泰霍 | `app` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jpedrostoolkit-app) | [Upstream](https://github.com/jpedrothejo/jpedrostoolkit/releases) |
+| ⚡ **Beam** | 真实JK1116 | `v0.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beam-v0.3.0) | [Upstream](https://github.com/TheRealJK1116/Beam/releases) |
+| ⚡ **holomem-flicker** | 奥兹曼515 | `v21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/holomem-flicker-v21) | [Upstream](https://github.com/Ozyman515/holomem-flicker/releases) |
+| ⚡ **hypercar** | 固件867 | `v0.1.0.21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypercar-v0.1.0.21) | [Upstream](https://github.com/fw867/hypercar/releases) |
+| ⚡ **DATACLIAR** | 帕尔韦兹开发者 | `v1.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datacliar-v1.3.0) | [Upstream](https://github.com/parvez-devs/DATACLIAR/releases) |
+| ⚡ **duobeam** | 元正 | `v0.8.9` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.9) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.42` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.42) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **volt** | 杰瑞克斯 | `v1.6.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volt-v1.6.0) | [Upstream](https://github.com/JJRicks/volt/releases) |
+| ⚡ **AIChanger** | 迪克斯特 | `v3.12` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aichanger-v3.12) | [Upstream](https://github.com/DQuest/AIChanger/releases) |
+| ⚡ **PhoneForeward** | 米塔米姆 | `v2.17.4` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phoneforeward-v2.17.4) | [Upstream](https://github.com/mthtamim/PhoneForeward/releases) |
+| ⚡ **OpenGamepad** | 亚历克斯7 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opengamepad-v1.0.0) | [Upstream](https://github.com/Alexprox7/OpenGamepad/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

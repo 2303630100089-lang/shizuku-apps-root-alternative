@@ -14461,5 +14461,100 @@
     ],
     "mirror_release_tag": "beam-v0.3.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beam-v0.3.0"
+  },
+  "somnacare": {
+    "source_repository": "bowentown/somnacare",
+    "source_release_id": 422506697,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-24T04:05:21Z",
+    "synced_at": "2026-10-24T04:14:09.649828+00:00",
+    "assets": [
+      {
+        "source_asset_id": 671216058,
+        "filename": "SomnaCare-v1.3.0.apk",
+        "original_filename": "SomnaCare-v1.3.0.apk",
+        "sha256": "98564ed4096f74b2db5d31ad731d3995954c973268bf6bf528533cbe3c662d77",
+        "file_size": 80942186,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "somnacare-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/somnacare-v1.3.0"
+  },
+  "scrcpy-terminal": {
+    "source_repository": "pwnedbygary/scrcpy-terminal",
+    "source_release_id": 399754660,
+    "source_tag": "v2.2.0",
+    "source_published_at": "2026-09-30T05:55:55Z",
+    "synced_at": "2026-10-24T04:14:12.887641+00:00",
+    "assets": [
+      {
+        "source_asset_id": 600159270,
+        "filename": "scterm-android-2.2.0.apk",
+        "original_filename": "scterm-android-2.2.0.apk",
+        "sha256": "c6b6b23d9258108e72ace20d9d64c7956d13c685951d29919a133aec1fa8a8e2",
+        "file_size": 444042,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "scrcpy-terminal-v2.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/scrcpy-terminal-v2.2.0"
+  },
+  "hush": {
+    "source_repository": "coldMEW/Hush",
+    "source_release_id": 422334748,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-23T21:42:42Z",
+    "synced_at": "2026-10-24T04:14:16.033079+00:00",
+    "assets": [
+      {
+        "source_asset_id": 670493029,
+        "filename": "Hush-1.0.0.apk",
+        "original_filename": "Hush-1.0.0.apk",
+        "sha256": "83eb75f26a0ad186667bac8825215c11aaa1bacaa2a2d68d7dfb9b6b4e00c0d4",
+        "file_size": 168668,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hush-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hush-v1.0.0"
+  },
+  "android-personal-agent": {
+    "source_repository": "lzh2034855417-beep/Android-Personal-Agent",
+    "source_release_id": 417350146,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-10-19T13:52:33Z",
+    "synced_at": "2026-10-24T04:14:20.128847+00:00",
+    "assets": [
+      {
+        "source_asset_id": 656418242,
+        "filename": "APA-v0.3.1-release.apk",
+        "original_filename": "APA-v0.3.1-release.apk",
+        "sha256": "b5edf109ce25ecda239f35bf7a16662584da1e62d86c7ff637d2e13b0528808a",
+        "file_size": 11828638,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-personal-agent-v0.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-personal-agent-v0.3.1"
+  },
+  "skz-connect": {
+    "source_repository": "DevCatSKZ/SKZ-Connect",
+    "source_release_id": 422503817,
+    "source_tag": "v1.0.24",
+    "source_published_at": "2026-10-24T03:57:48Z",
+    "synced_at": "2026-10-24T04:14:23.786026+00:00",
+    "assets": [
+      {
+        "source_asset_id": 671206530,
+        "filename": "SKZ-Connect-Android-0.9.3.apk",
+        "original_filename": "SKZ-Connect-Android-0.9.3.apk",
+        "sha256": "442f8c362613744d38e3ac49c630c87fdd8220da96cbbc4541f9b9ebdabdb290",
+        "file_size": 19956952,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "skz-connect-v1.0.24",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/skz-connect-v1.0.24"
   }
 }
