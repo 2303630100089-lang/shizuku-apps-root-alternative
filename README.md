@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Beam** | TheRealJK1116 | `v0.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beam-v0.3.0) | [Upstream](https://github.com/TheRealJK1116/Beam/releases) |
-| ⚡ **holomem-flicker** | Ozyman515 | `v21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/holomem-flicker-v21) | [Upstream](https://github.com/Ozyman515/holomem-flicker/releases) |
-| ⚡ **hypercar** | fw867 | `v0.1.0.21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypercar-v0.1.0.21) | [Upstream](https://github.com/fw867/hypercar/releases) |
-| ⚡ **DATACLIAR** | parvez-devs | `v1.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datacliar-v1.3.0) | [Upstream](https://github.com/parvez-devs/DATACLIAR/releases) |
-| ⚡ **duobeam** | Gengaroshi | `v0.8.9` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.9) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.42` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.42) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **volt** | JJRicks | `v1.6.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volt-v1.6.0) | [Upstream](https://github.com/JJRicks/volt/releases) |
-| ⚡ **AIChanger** | DQuest | `v3.12` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aichanger-v3.12) | [Upstream](https://github.com/DQuest/AIChanger/releases) |
-| ⚡ **PhoneForeward** | mthtamim | `v2.17.4` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phoneforeward-v2.17.4) | [Upstream](https://github.com/mthtamim/PhoneForeward/releases) |
-| ⚡ **OpenGamepad** | Alexprox7 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opengamepad-v1.0.0) | [Upstream](https://github.com/Alexprox7/OpenGamepad/releases) |
+| ⚡ **rey-loco** | Smile744 | `v47` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rey-loco-v47) | [Upstream](https://github.com/Smile744/rey-loco/releases) |
+| ⚡ **BetterAIChat** | Verlintas | `v0.27.5` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/betteraichat-v0.27.5) | [Upstream](https://github.com/Verlintas/BetterAIChat/releases) |
+| ⚡ **carjack** | cfraz89 | `slipstream-v0.1.0` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/carjack-slipstream-v0.1.0) | [Upstream](https://github.com/cfraz89/carjack/releases) |
+| ⚡ **pet-agent** | CianLaw | `v5.4.5` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pet-agent-v5.4.5) | [Upstream](https://github.com/CianLaw/pet-agent/releases) |
+| ⚡ **LotusAI** | xishanp | `v2026.10.24.1` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lotusai-v2026.10.24.1) | [Upstream](https://github.com/xishanp/LotusAI/releases) |
+| ⚡ **STmall** | Yunanriv-hub | `v0.2.6` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stmall-v0.2.6) | [Upstream](https://github.com/Yunanriv-hub/STmall/releases) |
+| ⚡ **huawei-eink-reader** | pjk2336 | `v0.3.9` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/huawei-eink-reader-v0.3.9) | [Upstream](https://github.com/pjk2336/huawei-eink-reader/releases) |
+| ⚡ **DevCodex** | Moirania | `v3.9.0-b28` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/devcodex-v3.9.0-b28) | [Upstream](https://github.com/Moirania/DevCodex/releases) |
+| ⚡ **game-booster-android** | gailowilly551-afk | `v20.6.0-PRO` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-android-v20.6.0-PRO) | [Upstream](https://github.com/gailowilly551-afk/game-booster-android/releases) |
+| ⚡ **komi-store** | kurikomi-labs | `v1.9.4` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.4) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
