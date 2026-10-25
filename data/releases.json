@@ -4929,22 +4929,22 @@
   },
   "gearslip": {
     "source_repository": "Seb3thehacker/gearslip",
-    "source_release_id": 404203300,
-    "source_tag": "v0.2.00-alpha",
-    "source_published_at": "2026-10-06T00:52:10Z",
-    "synced_at": "2026-10-15T16:47:23.748824+00:00",
+    "source_release_id": 414595411,
+    "source_tag": "v0.3.01-alpha",
+    "source_published_at": "2026-10-16T05:42:37Z",
+    "synced_at": "2026-10-25T04:17:11.432783+00:00",
     "assets": [
       {
-        "source_asset_id": 614038198,
+        "source_asset_id": 646284806,
         "filename": "Gearslip-release.apk",
         "original_filename": "Gearslip-release.apk",
-        "sha256": "9375a6cd2dae71ed78a9e689bad476ce1b2ff8a86cb107b1ac0ef6c2078edb50",
-        "file_size": 68615623,
+        "sha256": "37d89813df8346cc26ed7b22d48d916968a183b5f793e9726f369b920ac19cc0",
+        "file_size": 29362522,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "gearslip-v0.2.00-alpha",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gearslip-v0.2.00-alpha"
+    "mirror_release_tag": "gearslip-v0.3.01-alpha",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gearslip-v0.3.01-alpha"
   },
   "loli-ai": {
     "source_repository": "Lucky2356/loli_ai",
@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 421933118,
-    "source_tag": "v1.4.9.42",
-    "source_published_at": "2026-10-23T14:22:11Z",
-    "synced_at": "2026-10-23T16:53:55.734389+00:00",
+    "source_release_id": 423135137,
+    "source_tag": "v1.4.9.66",
+    "source_published_at": "2026-10-25T03:56:36Z",
+    "synced_at": "2026-10-25T04:18:16.579265+00:00",
     "assets": [
       {
-        "source_asset_id": 669357083,
-        "filename": "ApexAgent-v1.4.9.42-release-arm64-f4ce96a0.apk",
-        "original_filename": "ApexAgent-v1.4.9.42-release-arm64-f4ce96a0.apk",
-        "sha256": "d464e36b39ed76a277c18bb4cca087ae516360eca7f5cba1a5707140ab2c831c",
-        "file_size": 339156854,
+        "source_asset_id": 674029509,
+        "filename": "ApexAgent-v1.4.9.66-release-arm64-f05d9400.apk",
+        "original_filename": "ApexAgent-v1.4.9.66-release-arm64-f05d9400.apk",
+        "sha256": "1145be0bb623fe6667a99877c3b83c745b3f152058a8cf618fc66c87167771db",
+        "file_size": 341222051,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 669357081,
-        "filename": "ApexAgent-v1.4.9.42-release-universal-f4ce96a0.apk",
-        "original_filename": "ApexAgent-v1.4.9.42-release-universal-f4ce96a0.apk",
-        "sha256": "b5f3b280ea89ed9a3a2f2eb2e5d47c109b964be0109aaefba64e1bd1118e8f28",
-        "file_size": 954080124,
+        "source_asset_id": 674029504,
+        "filename": "ApexAgent-v1.4.9.66-release-universal-f05d9400.apk",
+        "original_filename": "ApexAgent-v1.4.9.66-release-universal-f05d9400.apk",
+        "sha256": "191adf0dfd00d9d020309da840f88f8834d7288d72bae43bced1f6f3b8f09648",
+        "file_size": 956145976,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.4.9.42",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.42"
+    "mirror_release_tag": "android-guru-agent-v1.4.9.66",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.66"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -14735,5 +14735,138 @@
     ],
     "mirror_release_tag": "huawei-eink-reader-v0.3.9",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/huawei-eink-reader-v0.3.9"
+  },
+  "map2tesla": {
+    "source_repository": "jixiexiaoge/Map2Tesla",
+    "source_release_id": 383209981,
+    "source_tag": "1.0",
+    "source_published_at": "2026-09-05T10:18:28Z",
+    "synced_at": "2026-10-25T04:16:57.625620+00:00",
+    "assets": [
+      {
+        "source_asset_id": 650118002,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "58da224b599072c6d4b39a008dfdaad8cd1057984a859a36b76c1235106b6efb",
+        "file_size": 31071241,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "map2tesla-1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/map2tesla-1.0"
+  },
+  "ai-coding-ide": {
+    "source_repository": "saboracaiteria/AI-Coding-IDE",
+    "source_release_id": 423071053,
+    "source_tag": "v2.3.6-delux",
+    "source_published_at": "2026-10-25T00:51:39Z",
+    "synced_at": "2026-10-25T04:17:06.852348+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673725278,
+        "filename": "AI-Coding-IDE-v2.3.6-delux-arm64.apk",
+        "original_filename": "AI-Coding-IDE-v2.3.6-delux-arm64.apk",
+        "sha256": "0dcc32b5a419294e38d8fe1b93683f4ea6d79adc5a64e520bcc95db87af28af6",
+        "file_size": 184203823,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ai-coding-ide-v2.3.6-delux",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ai-coding-ide-v2.3.6-delux"
+  },
+  "volume-power": {
+    "source_repository": "Uxzaam/Volume-Power",
+    "source_release_id": 423093178,
+    "source_tag": "VolumePowerPlus-v4",
+    "source_published_at": "2026-10-25T01:55:48Z",
+    "synced_at": "2026-10-25T04:17:10.448998+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673839450,
+        "filename": "VolumePowerPlus-apk.V4.1.apk",
+        "original_filename": "VolumePowerPlus-apk.V4.1.apk",
+        "sha256": "8774383cf990aee46509dbd7a8be455a74b5064a0e053c429c9a947ab5e4c1d6",
+        "file_size": 11723722,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "volume-power-VolumePowerPlus-v4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volume-power-VolumePowerPlus-v4"
+  },
+  "tsuyu": {
+    "source_repository": "Sygix/Tsuyu",
+    "source_release_id": 423022862,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-10-24T22:41:16Z",
+    "synced_at": "2026-10-25T04:17:15.444358+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673494192,
+        "filename": "tsuyu.apk",
+        "original_filename": "tsuyu.apk",
+        "sha256": "cdf7d3332aab5a32eb7dfd768dded47395b980b94b623c149ef0241d3fae9d6a",
+        "file_size": 2991965,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tsuyu-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tsuyu-v0.3.0"
+  },
+  "muimex11": {
+    "source_repository": "Inkflow-Gab/Muimex11",
+    "source_release_id": 423097809,
+    "source_tag": "v4.1",
+    "source_published_at": "2026-10-25T02:09:09Z",
+    "synced_at": "2026-10-25T04:18:23.445213+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673855824,
+        "filename": "Muimex11-4.1.apk",
+        "original_filename": "Muimex11-4.1.apk",
+        "sha256": "bdaab780f3d08706486d864de23dd6a00926fd7d274779bcefbc46aea22dab6c",
+        "file_size": 69886331,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "muimex11-v4.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muimex11-v4.1"
+  },
+  "sms-forwarder": {
+    "source_repository": "zyq1223334444/sms-forwarder",
+    "source_release_id": 423143030,
+    "source_tag": "v1.3.1",
+    "source_published_at": "2026-10-25T04:17:51Z",
+    "synced_at": "2026-10-25T04:18:26.971371+00:00",
+    "assets": [
+      {
+        "source_asset_id": 674067002,
+        "filename": "SmsForwarder-v1.3.1.apk",
+        "original_filename": "SmsForwarder-v1.3.1.apk",
+        "sha256": "cc6a8d675900a83ff300b1fff080e2345f6c802a6efdd77d6ad106b423884829",
+        "file_size": 8432543,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "sms-forwarder-v1.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sms-forwarder-v1.3.1"
+  },
+  "notice": {
+    "source_repository": "Halo0sama/Notice",
+    "source_release_id": 423043712,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-10-24T23:36:31Z",
+    "synced_at": "2026-10-25T04:18:32.212186+00:00",
+    "assets": [
+      {
+        "source_asset_id": 673585648,
+        "filename": "Notice-0.2.0.apk",
+        "original_filename": "Notice-0.2.0.apk",
+        "sha256": "ac7fbbd6f38205716e7b46350f3fc4b8ef798feac5e735deb21e16d3c6ec97ac",
+        "file_size": 66687755,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "notice-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/notice-v0.2.0"
   }
 }

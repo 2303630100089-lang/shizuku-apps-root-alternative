@@ -779,9 +779,9 @@
   },
   "gearslip": {
     "status": "synced",
-    "last_checked": "2026-10-15T16:47:23.748843+00:00",
-    "latest_version": "v0.2.00-alpha",
-    "last_synced": "2026-10-15T16:47:23.748843+00:00"
+    "last_checked": "2026-10-25T04:17:11.432811+00:00",
+    "latest_version": "v0.3.01-alpha",
+    "last_synced": "2026-10-25T04:17:11.432811+00:00"
   },
   "loli-ai": {
     "status": "synced",
@@ -1041,9 +1041,9 @@
   },
   "android-guru-agent": {
     "status": "synced",
-    "last_checked": "2026-10-23T16:53:55.734415+00:00",
-    "latest_version": "v1.4.9.42",
-    "last_synced": "2026-10-23T16:53:55.734415+00:00"
+    "last_checked": "2026-10-25T04:18:16.579289+00:00",
+    "latest_version": "v1.4.9.66",
+    "last_synced": "2026-10-25T04:18:16.579289+00:00"
   },
   "project-v7": {
     "status": "no-apk",
@@ -3069,7 +3069,7 @@
   },
   "phone-mcp": {
     "status": "no-update",
-    "last_checked": "2026-10-22T04:19:28.232064+00:00",
+    "last_checked": "2026-10-25T04:18:16.953938+00:00",
     "latest_version": "v1.2.0",
     "last_synced": "2026-10-16T16:30:11.787682+00:00"
   },
@@ -3927,5 +3927,56 @@
     "last_checked": "2026-10-24T15:46:27.177229+00:00",
     "latest_version": "v0.3.9",
     "last_synced": "2026-10-24T15:46:27.177229+00:00"
+  },
+  "map2tesla": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:16:57.625649+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-10-25T04:16:57.625649+00:00"
+  },
+  "ai-coding-ide": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:17:06.852366+00:00",
+    "latest_version": "v2.3.6-delux",
+    "last_synced": "2026-10-25T04:17:06.852366+00:00"
+  },
+  "volume-power": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:17:10.449021+00:00",
+    "latest_version": "VolumePowerPlus-v4",
+    "last_synced": "2026-10-25T04:17:10.449021+00:00"
+  },
+  "contfx": {
+    "status": "no-apk",
+    "last_checked": "2026-10-25T04:17:11.865439+00:00"
+  },
+  "lumen-device-info": {
+    "status": "no-apk",
+    "last_checked": "2026-10-25T04:17:12.174942+00:00",
+    "latest_version": "v1.3.0"
+  },
+  "tsuyu": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:17:15.444379+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-10-25T04:17:15.444379+00:00"
+  },
+  "muimex11": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:18:23.445231+00:00",
+    "latest_version": "v4.1",
+    "last_synced": "2026-10-25T04:18:23.445231+00:00"
+  },
+  "sms-forwarder": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:18:26.971391+00:00",
+    "latest_version": "v1.3.1",
+    "last_synced": "2026-10-25T04:18:26.971391+00:00"
+  },
+  "notice": {
+    "status": "synced",
+    "last_checked": "2026-10-25T04:18:32.212205+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-10-25T04:18:32.212205+00:00"
   }
 }

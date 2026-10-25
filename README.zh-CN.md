@@ -202,6 +202,18 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[Notice](https://github.com/Halo0sama/Notice)** | 知序：内置云雀AI的Android通知管理器，跨应用批量控制通知类别、预设轮播、可预览与撤销的智能建议。Material 3 Expressive · Shizuku · DeepSeek Responses API | MIT | [GitHub 源码](https://github.com/Halo0sama/Notice) • [下载发布](https://github.com/Halo0sama/Notice/releases) |
+| **[sms-forwarder](https://github.com/zyq1223334444/sms-forwarder)** | 短信实时转发到邮箱：一条短信一封邮件，适合学校等不能带手机的场景 \| Forward every SMS to your mailbox, one email per message - for places where you cannot bring your phone | MIT | [GitHub](https://github.com/zyq1223334444/sms-forwarder) • [Releases](https://github.com/zyq1223334444/sms-forwarder/releases) |
+| **[Muimex11](https://github.com/Inkflow-Gab/Muimex11)** | Muimex11 — 免费游戏优化器 (Shizuku)：浮动游戏空间底座、FPS 计数器、Samsung Boost。没有广告，没有溢价。 | See project | [GitHub 源码](https://github.com/Inkflow-Gab/Muimex11) • [下载发布](https://github.com/Inkflow-Gab/Muimex11/releases) |
+| **[Phone-MCP](https://github.com/Mirochill/Phone-MCP)** | 适用于 AI 代理的 Android MCP：59 个工具、独立应用程序会话、本地 PNG/MP4 捕获、广告控制作业、文件和通知。与 Shizuku 自营。 | MIT | [GitHub 源码](https://github.com/Mirochill/Phone-MCP) • [下载发布](https://github.com/Mirochill/Phone-MCP/releases) |
+| **[Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent)** | 🤖 完全运行在 Android 设备上的自主 AI 代理 — 109 个工具 · PROot Ubuntu 终端 · 仿生内存 (cs-mem) · BYO-LLM。没有服务器。没有电脑。 | See project | [GitHub 源码](https://github.com/Ultra-Guru/Android-Guru-Agent) • [下载发布](https://github.com/Ultra-Guru/Android-Guru-Agent/releases) |
+| **[Tsuyu](https://github.com/Sygix/Tsuyu)** | 适用于 Android TV 的 Shizuku-API 兼容特权服务，由遥控器驱动 | AGPL-3.0 | [GitHub 源码](https://github.com/Sygix/Tsuyu) • [下载发布](https://github.com/Sygix/Tsuyu/releases) |
+| **[lumen-device-info](https://github.com/aurenox-global/lumen-device-info)** | Lumen - Android 和网络的设备和系统信息。极简主义用户界面。 | See project | [GitHub 源码](https://github.com/aurenox-global/lumen-device-info) • [下载发布](https://github.com/aurenox-global/lumen-device-info/releases) |
+| **[contfx](https://github.com/KAPLOOPER/contfx)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/KAPLOOPER/contfx) • [下载发布](https://github.com/KAPLOOPER/contfx/releases) |
+| **[Gearslip](https://github.com/twinksoftware/Gearslip)** | 为所有人打造的Android Auto替代方案 | AGPL-3.0 | [GitHub 源码](https://github.com/twinksoftware/Gearslip) • [下载发布](https://github.com/twinksoftware/Gearslip/releases) |
+| **[Volume-Power](https://github.com/Uxzaam/Volume-Power)** | 使用音量键作为电源键 | See project | [GitHub 源码](https://github.com/Uxzaam/Volume-Power) • [下载发布](https://github.com/Uxzaam/Volume-Power/releases) |
+| **[AI-Coding-IDE](https://github.com/saboracaiteria/AI-Coding-IDE)** | ⚡ AI 编码 IDE — Compilador Nativo 和 IA Autonoma no Cellular (Android) | MIT | [GitHub 源码](https://github.com/saboracaiteria/AI-Coding-IDE) • [下载发布](https://github.com/saboracaiteria/AI-Coding-IDE/releases) |
+| **[Map2Tesla](https://github.com/jixiexiaoge/Map2Tesla)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/jixiexiaoge/Map2Tesla) • [下载发布](https://github.com/jixiexiaoge/Map2Tesla/releases) |
 | **[huawei-eink-reader](https://github.com/pjk2336/huawei-eink-reader)** | 墨读：为华为552×768四色NFC墨屏定向优化的本地Android TXT阅读器 | See project | [GitHub 源码](https://github.com/pjk2336/huawei-eink-reader) • [下载发布](https://github.com/pjk2336/huawei-eink-reader/releases) |
 | **[carjack](https://github.com/cfraz89/carjack)** | Linux 下的 Carplay 截屏 | Apache-2.0 | [GitHub 源码](https://github.com/cfraz89/carjack) • [下载发布](https://github.com/cfraz89/carjack/releases) |
 | **[LotusAI](https://github.com/xishanp/LotusAI)** | 本地AI工作站：用Root/Shizuku操作Android，用LinuxHub连接本机Linux主机。 | Apache-2.0 | [GitHub 源码](https://github.com/xishanp/LotusAI) • [下载发布](https://github.com/xishanp/LotusAI/releases) |
@@ -269,16 +281,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Beam** | 真实JK1116 | `v0.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/beam-v0.3.0) | [Upstream](https://github.com/TheRealJK1116/Beam/releases) |
-| ⚡ **holomem-flicker** | 奥兹曼515 | `v21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/holomem-flicker-v21) | [Upstream](https://github.com/Ozyman515/holomem-flicker/releases) |
-| ⚡ **hypercar** | 固件867 | `v0.1.0.21` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypercar-v0.1.0.21) | [Upstream](https://github.com/fw867/hypercar/releases) |
-| ⚡ **DATACLIAR** | 帕尔韦兹开发者 | `v1.3.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/datacliar-v1.3.0) | [Upstream](https://github.com/parvez-devs/DATACLIAR/releases) |
-| ⚡ **duobeam** | 元正 | `v0.8.9` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/duobeam-v0.8.9) | [Upstream](https://github.com/Gengaroshi/duobeam/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.42` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.42) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **volt** | 杰瑞克斯 | `v1.6.0` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volt-v1.6.0) | [Upstream](https://github.com/JJRicks/volt/releases) |
-| ⚡ **AIChanger** | 迪克斯特 | `v3.12` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aichanger-v3.12) | [Upstream](https://github.com/DQuest/AIChanger/releases) |
-| ⚡ **PhoneForeward** | 米塔米姆 | `v2.17.4` | 2026-10-23 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phoneforeward-v2.17.4) | [Upstream](https://github.com/mthtamim/PhoneForeward/releases) |
-| ⚡ **OpenGamepad** | 亚历克斯7 | `v1.0.0` | 2026-10-22 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opengamepad-v1.0.0) | [Upstream](https://github.com/Alexprox7/OpenGamepad/releases) |
+| ⚡ **rey-loco** | 微笑744 | `v47` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rey-loco-v47) | [Upstream](https://github.com/Smile744/rey-loco/releases) |
+| ⚡ **BetterAIChat** | 韦尔林塔斯 | `v0.27.5` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/betteraichat-v0.27.5) | [Upstream](https://github.com/Verlintas/BetterAIChat/releases) |
+| ⚡ **carjack** | cfraz89 | `slipstream-v0.1.0` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/carjack-slipstream-v0.1.0) | [Upstream](https://github.com/cfraz89/carjack/releases) |
+| ⚡ **pet-agent** | 慈安法 | `v5.4.5` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pet-agent-v5.4.5) | [Upstream](https://github.com/CianLaw/pet-agent/releases) |
+| ⚡ **LotusAI** | 西山坡 | `v2026.10.24.1` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lotusai-v2026.10.24.1) | [Upstream](https://github.com/xishanp/LotusAI/releases) |
+| ⚡ **STmall** | 尤南里夫枢纽 | `v0.2.6` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stmall-v0.2.6) | [Upstream](https://github.com/Yunanriv-hub/STmall/releases) |
+| ⚡ **huawei-eink-reader** | pjk2336 | `v0.3.9` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/huawei-eink-reader-v0.3.9) | [Upstream](https://github.com/pjk2336/huawei-eink-reader/releases) |
+| ⚡ **DevCodex** | 莫伊拉尼亚 | `v3.9.0-b28` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/devcodex-v3.9.0-b28) | [Upstream](https://github.com/Moirania/DevCodex/releases) |
+| ⚡ **game-booster-android** | 盖洛威利551-afk | `v20.6.0-PRO` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-android-v20.6.0-PRO) | [Upstream](https://github.com/gailowilly551-afk/game-booster-android/releases) |
+| ⚡ **komi-store** | 栗科米实验室 | `v1.9.4` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.4) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
