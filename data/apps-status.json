@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-24T15:46:15.887257+00:00",
+    "last_checked": "2026-10-25T15:57:17.392981+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-24T15:45:42.663393+00:00",
+    "last_checked": "2026-10-25T15:57:31.274669+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-24T15:45:59.574072+00:00",
+    "last_checked": "2026-10-25T15:57:29.489172+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T15:23:20.236157+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-24T15:45:40.343685+00:00",
+    "last_checked": "2026-10-25T15:57:30.009680+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -684,8 +684,8 @@
     "last_synced": "2026-09-29T17:34:37.024450+00:00"
   },
   "komi-store": {
-    "status": "synced",
-    "last_checked": "2026-10-24T15:45:42.108663+00:00",
+    "status": "no-update",
+    "last_checked": "2026-10-25T15:57:48.500065+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-24T15:46:05.985845+00:00",
+    "last_checked": "2026-10-25T15:57:30.687928+00:00",
     "latest_version": "v0.3.0",
     "last_synced": "2026-10-18T15:44:06.403335+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-24T15:45:40.470012+00:00",
+    "last_checked": "2026-10-25T15:57:48.623008+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1686,7 +1686,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-24T15:46:15.419135+00:00",
+    "last_checked": "2026-10-25T15:56:55.519076+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -2833,9 +2833,9 @@
   },
   "muse": {
     "status": "synced",
-    "last_checked": "2026-10-14T17:00:31.095009+00:00",
-    "latest_version": "v2.6.1",
-    "last_synced": "2026-10-14T17:00:31.095009+00:00"
+    "last_checked": "2026-10-25T15:57:57.970522+00:00",
+    "latest_version": "v2.6.6",
+    "last_synced": "2026-10-25T15:57:57.970522+00:00"
   },
   "neriplayer": {
     "status": "synced",
@@ -3069,7 +3069,7 @@
   },
   "phone-mcp": {
     "status": "no-update",
-    "last_checked": "2026-10-25T04:18:16.953938+00:00",
+    "last_checked": "2026-10-25T15:57:17.762667+00:00",
     "latest_version": "v1.2.0",
     "last_synced": "2026-10-16T16:30:11.787682+00:00"
   },
@@ -3978,5 +3978,71 @@
     "last_checked": "2026-10-25T04:18:32.212205+00:00",
     "latest_version": "v0.2.0",
     "last_synced": "2026-10-25T04:18:32.212205+00:00"
+  },
+  "carptocarl": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:56:50.703775+00:00",
+    "latest_version": "v1.0.3",
+    "last_synced": "2026-10-25T15:56:50.703775+00:00"
+  },
+  "o3root": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:56:55.403616+00:00",
+    "latest_version": "v3.0",
+    "last_synced": "2026-10-25T15:56:55.403616+00:00"
+  },
+  "aharou": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:16.851406+00:00",
+    "latest_version": "v2.39.0",
+    "last_synced": "2026-10-25T15:57:16.851406+00:00"
+  },
+  "hark-free": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:24.282481+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-25T15:57:24.282481+00:00"
+  },
+  "manager": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:28.900770+00:00",
+    "latest_version": "build-3",
+    "last_synced": "2026-10-25T15:57:28.900770+00:00"
+  },
+  "dfroot-xiaomi-watch-5": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:34.905551+00:00",
+    "latest_version": "v4.1-blenny-arm32-r17",
+    "last_synced": "2026-10-25T15:57:34.905551+00:00"
+  },
+  "thorpad": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:38.625065+00:00",
+    "latest_version": "v1.9.1",
+    "last_synced": "2026-10-25T15:57:38.625065+00:00"
+  },
+  "ksu-root": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:42.543680+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-25T15:57:42.543680+00:00"
+  },
+  "aare": {
+    "status": "synced",
+    "last_checked": "2026-10-25T15:57:46.705196+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-25T15:57:46.705196+00:00"
+  },
+  "8bercue": {
+    "status": "no-apk",
+    "last_checked": "2026-10-25T15:57:47.028216+00:00"
+  },
+  "tienandroidapp": {
+    "status": "no-apk",
+    "last_checked": "2026-10-25T15:57:47.411510+00:00"
+  },
+  "essentials-by-hyper-os": {
+    "status": "no-apk",
+    "last_checked": "2026-10-25T15:57:47.733373+00:00"
   }
 }
