@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **rey-loco** | Smile744 | `v47` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rey-loco-v47) | [Upstream](https://github.com/Smile744/rey-loco/releases) |
-| ⚡ **BetterAIChat** | Verlintas | `v0.27.5` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/betteraichat-v0.27.5) | [Upstream](https://github.com/Verlintas/BetterAIChat/releases) |
-| ⚡ **carjack** | cfraz89 | `slipstream-v0.1.0` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/carjack-slipstream-v0.1.0) | [Upstream](https://github.com/cfraz89/carjack/releases) |
-| ⚡ **pet-agent** | CianLaw | `v5.4.5` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pet-agent-v5.4.5) | [Upstream](https://github.com/CianLaw/pet-agent/releases) |
-| ⚡ **LotusAI** | xishanp | `v2026.10.24.1` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lotusai-v2026.10.24.1) | [Upstream](https://github.com/xishanp/LotusAI/releases) |
-| ⚡ **STmall** | Yunanriv-hub | `v0.2.6` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stmall-v0.2.6) | [Upstream](https://github.com/Yunanriv-hub/STmall/releases) |
-| ⚡ **huawei-eink-reader** | pjk2336 | `v0.3.9` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/huawei-eink-reader-v0.3.9) | [Upstream](https://github.com/pjk2336/huawei-eink-reader/releases) |
-| ⚡ **DevCodex** | Moirania | `v3.9.0-b28` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/devcodex-v3.9.0-b28) | [Upstream](https://github.com/Moirania/DevCodex/releases) |
-| ⚡ **game-booster-android** | gailowilly551-afk | `v20.6.0-PRO` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-android-v20.6.0-PRO) | [Upstream](https://github.com/gailowilly551-afk/game-booster-android/releases) |
-| ⚡ **komi-store** | kurikomi-labs | `v1.9.4` | 2026-10-24 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komi-store-v1.9.4) | [Upstream](https://github.com/kurikomi-labs/komi-store/releases) |
+| ⚡ **ksu-root** | wanwuzhishi | `v1.0.0` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ksu-root-v1.0.0) | [Upstream](https://github.com/wanwuzhishi/ksu-root/releases) |
+| ⚡ **ThorPad** | ajhockey88 | `v1.9.1` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thorpad-v1.9.1) | [Upstream](https://github.com/ajhockey88/ThorPad/releases) |
+| ⚡ **CarPToCarL** | jjuugk | `v1.0.3` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/carptocarl-v1.0.3) | [Upstream](https://github.com/jjuugk/CarPToCarL/releases) |
+| ⚡ **manager** | Tintloom | `build-3` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/manager-build-3) | [Upstream](https://github.com/Tintloom/manager/releases) |
+| ⚡ **o3root** | zsw125 | `v3.0` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/o3root-v3.0) | [Upstream](https://github.com/zsw125/o3root/releases) |
+| ⚡ **Aharou** | 520huxiangli | `v2.39.0` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aharou-v2.39.0) | [Upstream](https://github.com/520huxiangli/Aharou/releases) |
+| ⚡ **sms-forwarder** | zyq1223334444 | `v1.3.1` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sms-forwarder-v1.3.1) | [Upstream](https://github.com/zyq1223334444/sms-forwarder/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.66` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.66) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **Muimex11** | Inkflow-Gab | `v4.1` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/muimex11-v4.1) | [Upstream](https://github.com/Inkflow-Gab/Muimex11/releases) |
+| ⚡ **Volume-Power** | Uxzaam | `VolumePowerPlus-v4` | 2026-10-25 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/volume-power-VolumePowerPlus-v4) | [Upstream](https://github.com/Uxzaam/Volume-Power/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
