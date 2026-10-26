@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-25T15:57:17.392981+00:00",
+    "last_checked": "2026-10-26T18:36:47.886615+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-25T15:57:31.274669+00:00",
+    "last_checked": "2026-10-26T18:37:09.043715+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-10-25T15:57:29.489172+00:00",
+    "last_checked": "2026-10-26T18:37:42.311915+00:00",
     "latest_version": "zako3.16hp",
     "last_synced": "2026-10-17T15:23:20.236157+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-25T15:57:30.009680+00:00",
+    "last_checked": "2026-10-26T18:36:31.836783+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-25T15:57:48.500065+00:00",
+    "last_checked": "2026-10-26T18:37:10.266352+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-25T15:57:30.687928+00:00",
+    "last_checked": "2026-10-26T18:37:43.016086+00:00",
     "latest_version": "v0.3.0",
     "last_synced": "2026-10-18T15:44:06.403335+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-25T15:57:48.623008+00:00",
+    "last_checked": "2026-10-26T18:36:36.879383+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1686,7 +1686,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-25T15:56:55.519076+00:00",
+    "last_checked": "2026-10-26T18:37:41.558787+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -3844,7 +3844,7 @@
   },
   "deepseek-harness-mobile": {
     "status": "no-apk",
-    "last_checked": "2026-10-24T04:14:13.180717+00:00"
+    "last_checked": "2026-10-26T18:37:09.415751+00:00"
   },
   "hush": {
     "status": "synced",
@@ -4149,5 +4149,55 @@
     "last_checked": "2026-10-26T04:22:08.075671+00:00",
     "latest_version": "v4.2.0",
     "last_synced": "2026-10-26T04:22:08.075671+00:00"
+  },
+  "dsha-island": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:36:36.786359+00:00",
+    "latest_version": "v0.4.1",
+    "last_synced": "2026-10-26T18:36:36.786359+00:00"
+  },
+  "autospace": {
+    "status": "no-apk",
+    "last_checked": "2026-10-26T18:36:37.654897+00:00"
+  },
+  "simulation-rift": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:36:47.482772+00:00",
+    "latest_version": "v0.11.0",
+    "last_synced": "2026-10-26T18:36:47.482772+00:00"
+  },
+  "acside": {
+    "status": "no-apk",
+    "last_checked": "2026-10-26T18:36:48.235440+00:00"
+  },
+  "vivo-nfc-switch": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:36:52.347810+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-26T18:36:52.347810+00:00"
+  },
+  "droy": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:37:08.361169+00:00",
+    "latest_version": "v0.0.1",
+    "last_synced": "2026-10-26T18:37:08.361169+00:00"
+  },
+  "iinv-xray-releases": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:37:28.077453+00:00",
+    "latest_version": "v3.2.0",
+    "last_synced": "2026-10-26T18:37:28.077453+00:00"
+  },
+  "dsh-android": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:37:41.440821+00:00",
+    "latest_version": "v1.21.9",
+    "last_synced": "2026-10-26T18:37:41.440821+00:00"
+  },
+  "project-amiigo": {
+    "status": "synced",
+    "last_checked": "2026-10-26T18:37:47.348902+00:00",
+    "latest_version": "v1.0.0-beta",
+    "last_synced": "2026-10-26T18:37:47.348902+00:00"
   }
 }

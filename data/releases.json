@@ -15367,5 +15367,162 @@
     ],
     "mirror_release_tag": "lyra-code-v4.2.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lyra-code-v4.2.0"
+  },
+  "dsha-island": {
+    "source_repository": "Ralsei1337/dsha-island",
+    "source_release_id": 424596828,
+    "source_tag": "v0.4.1",
+    "source_published_at": "2026-10-26T18:10:26Z",
+    "synced_at": "2026-10-26T18:36:36.786338+00:00",
+    "assets": [
+      {
+        "source_asset_id": 679026371,
+        "filename": "dsha-island-0.4.1.apk",
+        "original_filename": "dsha-island-0.4.1.apk",
+        "sha256": "82c1985c5f128dec2769e04e33ca0a1cd13025618c6657ca66416c62c4d400c7",
+        "file_size": 29288,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 679027271,
+        "filename": "dsha-island-lite-0.4.1.apk",
+        "original_filename": "dsha-island-lite-0.4.1.apk",
+        "sha256": "52d1a2eeabb5bd33a97ac3928b576b8c73bbed96a5a74fdb527fac10c71b336f",
+        "file_size": 29137,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dsha-island-v0.4.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsha-island-v0.4.1"
+  },
+  "simulation-rift": {
+    "source_repository": "Order52/Simulation-Rift",
+    "source_release_id": 424178912,
+    "source_tag": "v0.11.0",
+    "source_published_at": "2026-10-26T11:42:00Z",
+    "synced_at": "2026-10-26T18:36:47.482753+00:00",
+    "assets": [
+      {
+        "source_asset_id": 677990191,
+        "filename": "rift-0.11.0.apk",
+        "original_filename": "rift-0.11.0.apk",
+        "sha256": "90e908129533b8e35ff86049fb9844d05929e333c1a3d479cdcdd7e22e31d3b1",
+        "file_size": 24311218,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 677990188,
+        "filename": "rift-browser-0.11.0.apk",
+        "original_filename": "rift-browser-0.11.0.apk",
+        "sha256": "826b471cee1bda7d5699eb13189bc478c24d7a4a032c890fb6c957566c8ade23",
+        "file_size": 2199664,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "simulation-rift-v0.11.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simulation-rift-v0.11.0"
+  },
+  "vivo-nfc-switch": {
+    "source_repository": "hiiamtrong/vivo-nfc-switch",
+    "source_release_id": 424526952,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-26T16:59:11Z",
+    "synced_at": "2026-10-26T18:36:52.347787+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678832219,
+        "filename": "vivo-nfc-switch-v1.0.0.apk",
+        "original_filename": "vivo-nfc-switch-v1.0.0.apk",
+        "sha256": "927eed777f41645503e581e5515d1c7501777c65e3c806803216aa160d361d8c",
+        "file_size": 2190758,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "vivo-nfc-switch-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vivo-nfc-switch-v1.0.0"
+  },
+  "droy": {
+    "source_repository": "moonoops/Droy",
+    "source_release_id": 424602123,
+    "source_tag": "v0.0.1",
+    "source_published_at": "2026-10-26T18:18:16Z",
+    "synced_at": "2026-10-26T18:37:08.361121+00:00",
+    "assets": [
+      {
+        "source_asset_id": 679040960,
+        "filename": "Droy-0.0.1-arm64.apk",
+        "original_filename": "Droy-0.0.1-arm64.apk",
+        "sha256": "acf90ee863fd27fa5548358f5b742feded5b4d1088bbccf896b8dcc4657e73d6",
+        "file_size": 321255301,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "droy-v0.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droy-v0.0.1"
+  },
+  "iinv-xray-releases": {
+    "source_repository": "evgenyzh/iinv-xray-releases",
+    "source_release_id": 424502488,
+    "source_tag": "v3.2.0",
+    "source_published_at": "2026-10-26T16:36:24Z",
+    "synced_at": "2026-10-26T18:37:28.077435+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678772593,
+        "filename": "iinv-lite-v3.2.0.apk",
+        "original_filename": "iinv-lite-v3.2.0.apk",
+        "sha256": "399035e1d52d9c11faf635b91d845a84ffe83855c68e407a5c6b32748bfa9d75",
+        "file_size": 146900399,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 678772597,
+        "filename": "iinv-v3.2.0.apk",
+        "original_filename": "iinv-v3.2.0.apk",
+        "sha256": "4706000f698a02c5e1d821f4c719ff2955a5e8f2d9fbf025c7859ba013f6a480",
+        "file_size": 146943407,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "iinv-xray-releases-v3.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/iinv-xray-releases-v3.2.0"
+  },
+  "dsh-android": {
+    "source_repository": "Kagurazaka135/dsh-android",
+    "source_release_id": 424506140,
+    "source_tag": "v1.21.9",
+    "source_published_at": "2026-10-26T16:39:53Z",
+    "synced_at": "2026-10-26T18:37:41.440804+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678780212,
+        "filename": "DeepSeekHarness-1.21.9.apk",
+        "original_filename": "DeepSeekHarness-1.21.9.apk",
+        "sha256": "abd906e43922169fa1de3411939e9b5f19d3bc40fa27f8d91fa3b2e116f9ac01",
+        "file_size": 173121181,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "dsh-android-v1.21.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-android-v1.21.9"
+  },
+  "project-amiigo": {
+    "source_repository": "Ezorith/Project-AmiiGo",
+    "source_release_id": 424552407,
+    "source_tag": "v1.0.0-beta",
+    "source_published_at": "2026-10-26T17:25:56Z",
+    "synced_at": "2026-10-26T18:37:47.348878+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678902688,
+        "filename": "HarmattanHome-v1.0.0-beta.apk",
+        "original_filename": "HarmattanHome-v1.0.0-beta.apk",
+        "sha256": "2270b1a1833c29ac667501ef345bc9800d44306356cee9726da4c789659d13af",
+        "file_size": 4710102,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "project-amiigo-v1.0.0-beta",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/project-amiigo-v1.0.0-beta"
   }
 }
