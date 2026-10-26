@@ -4044,5 +4044,110 @@
   "essentials-by-hyper-os": {
     "status": "no-apk",
     "last_checked": "2026-10-25T15:57:47.733373+00:00"
+  },
+  "owo-hunt-app": {
+    "status": "no-apk",
+    "last_checked": "2026-10-26T04:20:53.085945+00:00",
+    "latest_version": "v0.1.0"
+  },
+  "oneui-homeup-port": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:20:55.813893+00:00",
+    "latest_version": "v1.001",
+    "last_synced": "2026-10-26T04:20:55.813893+00:00"
+  },
+  "shoal": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:20:59.724183+00:00",
+    "latest_version": "build-9",
+    "last_synced": "2026-10-26T04:20:59.724183+00:00"
+  },
+  "dex": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:03.231006+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-10-26T04:21:03.231006+00:00"
+  },
+  "termuxbridge": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:06.208042+00:00",
+    "latest_version": "v1.9.3",
+    "last_synced": "2026-10-26T04:21:06.208042+00:00"
+  },
+  "androidagent": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:27.470234+00:00",
+    "latest_version": "v0.5.0",
+    "last_synced": "2026-10-26T04:21:27.470234+00:00"
+  },
+  "diautonew": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:31.633675+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-10-26T04:21:31.633675+00:00"
+  },
+  "s23-optimizer": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:35.400514+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-10-26T04:21:35.400514+00:00"
+  },
+  "camaps-guardian": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:38.473548+00:00",
+    "latest_version": "v1.5.1",
+    "last_synced": "2026-10-26T04:21:38.473548+00:00"
+  },
+  "czn-patch-indonesia": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:42.110587+00:00",
+    "latest_version": "v1.0.84102",
+    "last_synced": "2026-10-26T04:21:42.110587+00:00"
+  },
+  "adbswitch": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:45.244043+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-10-26T04:21:45.244043+00:00"
+  },
+  "dsh-for-android-pad": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:50.467946+00:00",
+    "latest_version": "v0.11.0-a16-tablet",
+    "last_synced": "2026-10-26T04:21:50.467946+00:00"
+  },
+  "dex-home": {
+    "status": "no-apk",
+    "last_checked": "2026-10-26T04:21:50.729233+00:00"
+  },
+  "n6-fold-duo": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:53.142167+00:00",
+    "latest_version": "v0.8.2",
+    "last_synced": "2026-10-26T04:21:53.142167+00:00"
+  },
+  "cos-gesture": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:56.270165+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-10-26T04:21:56.270165+00:00"
+  },
+  "soniccore": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:21:59.696766+00:00",
+    "latest_version": "v3.0.2",
+    "last_synced": "2026-10-26T04:21:59.696766+00:00"
+  },
+  "aadb-manager": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:22:04.363100+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-26T04:22:04.363100+00:00"
+  },
+  "lyra-code": {
+    "status": "synced",
+    "last_checked": "2026-10-26T04:22:08.075671+00:00",
+    "latest_version": "v4.2.0",
+    "last_synced": "2026-10-26T04:22:08.075671+00:00"
   }
 }
