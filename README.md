@@ -262,16 +262,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Droy** | moonoops | `v0.0.1` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droy-v0.0.1) | [Upstream](https://github.com/moonoops/Droy/releases) |
-| ⚡ **dsha-island** | Ralsei1337 | `v0.4.1` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsha-island-v0.4.1) | [Upstream](https://github.com/Ralsei1337/dsha-island/releases) |
-| ⚡ **Project-AmiiGo** | Ezorith | `v1.0.0-beta` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/project-amiigo-v1.0.0-beta) | [Upstream](https://github.com/Ezorith/Project-AmiiGo/releases) |
-| ⚡ **vivo-nfc-switch** | hiiamtrong | `v1.0.0` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vivo-nfc-switch-v1.0.0) | [Upstream](https://github.com/hiiamtrong/vivo-nfc-switch/releases) |
-| ⚡ **dsh-android** | Kagurazaka135 | `v1.21.9` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-android-v1.21.9) | [Upstream](https://github.com/Kagurazaka135/dsh-android/releases) |
-| ⚡ **iinv-xray-releases** | evgenyzh | `v3.2.0` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/iinv-xray-releases-v3.2.0) | [Upstream](https://github.com/evgenyzh/iinv-xray-releases/releases) |
-| ⚡ **Simulation-Rift** | Order52 | `v0.11.0` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simulation-rift-v0.11.0) | [Upstream](https://github.com/Order52/Simulation-Rift/releases) |
-| ⚡ **OneUi-HomeUP-Port** | Leshugan | `v1.001` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/oneui-homeup-port-v1.001) | [Upstream](https://github.com/Leshugan/OneUi-HomeUP-Port/releases) |
-| ⚡ **TermuxBridge** | AndyerNotFound | `v1.9.3` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/termuxbridge-v1.9.3) | [Upstream](https://github.com/AndyerNotFound/TermuxBridge/releases) |
-| ⚡ **czn-patch-indonesia** | cloudmail91-dev | `v1.0.84102` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czn-patch-indonesia-v1.0.84102) | [Upstream](https://github.com/cloudmail91-dev/czn-patch-indonesia/releases) |
+| ⚡ **Jarvis---Android-Version-** | Rishu123-png | `v1.0.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-android-version-v1.0.0) | [Upstream](https://github.com/Rishu123-png/Jarvis---Android-Version-/releases) |
+| ⚡ **spotifyplus-tv-patch** | AlphadogRSA | `v1.3.0.8` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-tv-patch-v1.3.0.8) | [Upstream](https://github.com/AlphadogRSA/spotifyplus-tv-patch/releases) |
+| ⚡ **wuwa-launcher** | python1472 | `v1.3` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wuwa-launcher-v1.3) | [Upstream](https://github.com/python1472/wuwa-launcher/releases) |
+| ⚡ **gemini-default-ai-phone** | pdong15dth | `v1.0.1` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gemini-default-ai-phone-v1.0.1) | [Upstream](https://github.com/pdong15dth/gemini-default-ai-phone/releases) |
+| ⚡ **shield-under-scanner** | fireworksordie | `build-9` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shield-under-scanner-build-9) | [Upstream](https://github.com/fireworksordie/shield-under-scanner/releases) |
+| ⚡ **classic-dockmode** | gevky | `v0.4.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/classic-dockmode-v0.4.0) | [Upstream](https://github.com/gevky/classic-dockmode/releases) |
+| ⚡ **REDMAGIC_Mini_Window** | jpruful | `v0.1.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/redmagic-mini-window-v0.1.0) | [Upstream](https://github.com/jpruful/REDMAGIC_Mini_Window/releases) |
+| ⚡ **ShizuShell** | Kamruzzaman-Milton | `1.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizushell-1.0) | [Upstream](https://github.com/Kamruzzaman-Milton/ShizuShell/releases) |
+| ⚡ **Archiver-File-Manager** | nexauren1 | `v0.10.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/archiver-file-manager-v0.10.0) | [Upstream](https://github.com/nexauren1/Archiver-File-Manager/releases) |
+| ⚡ **tickerbar** | jibsta210 | `v1.14.40` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tickerbar-v1.14.40) | [Upstream](https://github.com/jibsta210/tickerbar/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
