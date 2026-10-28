@@ -15847,5 +15847,100 @@
     ],
     "mirror_release_tag": "shield-under-scanner-build-9",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shield-under-scanner-build-9"
+  },
+  "halolight": {
+    "source_repository": "fan-world-me/HaloLight",
+    "source_release_id": 426278275,
+    "source_tag": "v2.0.5",
+    "source_published_at": "2026-10-28T04:59:38Z",
+    "synced_at": "2026-10-28T05:13:41.078376+00:00",
+    "assets": [
+      {
+        "source_asset_id": 683879185,
+        "filename": "HaloLight-v2.0.5.apk",
+        "original_filename": "HaloLight-v2.0.5.apk",
+        "sha256": "107d7c8089b44ed7c6754831b06347874778651fcf1433375c8fc8c14ee9900d",
+        "file_size": 1057845,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "halolight-v2.0.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/halolight-v2.0.5"
+  },
+  "applingo": {
+    "source_repository": "ernisn/Applingo",
+    "source_release_id": 420775755,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-10-22T13:42:38Z",
+    "synced_at": "2026-10-28T05:13:44.939387+00:00",
+    "assets": [
+      {
+        "source_asset_id": 665998420,
+        "filename": "Applingo-v1.2.0.apk",
+        "original_filename": "Applingo-v1.2.0.apk",
+        "sha256": "d9380fcf1d4f1b9950231a8eafacc4252069e01d4b4d8945b7a20302e90465b3",
+        "file_size": 3290022,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "applingo-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/applingo-v1.2.0"
+  },
+  "dual-audio": {
+    "source_repository": "xTudoS/dual-audio",
+    "source_release_id": 417102063,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-19T09:16:05Z",
+    "synced_at": "2026-10-28T05:13:49.397554+00:00",
+    "assets": [
+      {
+        "source_asset_id": 655793130,
+        "filename": "DualAudio-v1.0.1.apk",
+        "original_filename": "DualAudio-v1.0.1.apk",
+        "sha256": "d7cc25ffd40bf1332642495889df3916a09a332795e0a045908bebd50ef8d6fd",
+        "file_size": 4491174,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dual-audio-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dual-audio-v1.0.1"
+  },
+  "maawh": {
+    "source_repository": "Hya226/MaaWH",
+    "source_release_id": 392721800,
+    "source_tag": "v0.2.4",
+    "source_published_at": "2026-09-21T06:00:34Z",
+    "synced_at": "2026-10-28T05:13:59.591192+00:00",
+    "assets": [
+      {
+        "source_asset_id": 578360089,
+        "filename": "MaaWH-release-v0.2.4.apk",
+        "original_filename": "MaaWH-release-v0.2.4.apk",
+        "sha256": "2c21bd0bfb78fddc927d3d81be646e023d693e1cc0bf08215ba5792ac4f22a29",
+        "file_size": 86833566,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "maawh-v0.2.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/maawh-v0.2.4"
+  },
+  "cmc-helper": {
+    "source_repository": "haha5039/cmc-helper",
+    "source_release_id": 425845320,
+    "source_tag": "v1.4.0",
+    "source_published_at": "2026-10-27T18:38:02Z",
+    "synced_at": "2026-10-28T05:14:04.080980+00:00",
+    "assets": [
+      {
+        "source_asset_id": 682508694,
+        "filename": "cmc-helper.apk",
+        "original_filename": "cmc-helper.apk",
+        "sha256": "d393674140c02c85a036d63156b4cecfa26d66bce3da07da0fb42ffa0b6dcf8d",
+        "file_size": 90745,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cmc-helper-v1.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cmc-helper-v1.4.0"
   }
 }

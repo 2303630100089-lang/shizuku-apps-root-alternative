@@ -202,6 +202,14 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[cmc-helper](https://github.com/haha5039/cmc-helper)** | Galaxy CMC 角色助手，具有免 root ADB 设置、test_flag 控件和经过验证的 APK 版本 | See project | [GitHub 源码](https://github.com/haha5039/cmc-helper) • [下载发布](https://github.com/haha5039/cmc-helper/releases) |
+| **[VictorSuite](https://github.com/Victorious93/VictorSuite)** | 基于 Termux 的 Android Linux 套件：原始容器、备份/恢复、插件、X11 和自动化工具。 | See project | [GitHub 源码](https://github.com/Victorious93/VictorSuite) • [下载发布](https://github.com/Victorious93/VictorSuite/releases) |
+| **[MaaWH](https://github.com/Hya226/MaaWH)** | 物华弥新 \| 安卓端小助手 | MIT | [GitHub](https://github.com/Hya226/MaaWH) • [Releases](https://github.com/Hya226/MaaWH/releases) |
+| **[-](https://github.com/mslaxne/-)** | 安卓微信聊天代理机器人，手机布局可自动帮助回消息，通过系统读屏将聊天内容传给LLM后生成回复，可用于聊天代理或AI陪聊，内置记忆与人格系统，可自行编辑记忆与人格，也可输入自己的聊天记录让AI模仿学习，本地部署只需自备apikye | See project | [GitHub 源码](https://github.com/mslaxne/-) • [下载发布](https://github.com/mslaxne/-/releases) |
+| **[dual-audio](https://github.com/xTudoS/dual-audio)** | 同时在 USB 和蓝牙耳机上播放 Android 音频。没有root，使用Shizuku。 | GPL-3.0 | [GitHub 源码](https://github.com/xTudoS/dual-audio) • [下载发布](https://github.com/xTudoS/dual-audio/releases) |
+| **[Applingo](https://github.com/ernisn/Applingo)** | 通过 Shizuku 在 Android 上强制应用程序语言 | MIT | [GitHub 源码](https://github.com/ernisn/Applingo) • [下载发布](https://github.com/ernisn/Applingo/releases) |
+| **[HaloLight](https://github.com/fan-world-me/HaloLight)** | POCO X8 Pro / Redmi Turbo 5 (klee) 上 RGB 相机环 LED 控制器的逆向工程研究。记录 ColorLightManager、HyperLightsService、ILightsManager Binder API 和 AW21024 LED 控制器。 | GPL-3.0 | [GitHub 源码](https://github.com/fan-world-me/HaloLight) • [下载发布](https://github.com/fan-world-me/HaloLight/releases) |
+| **[phoneguard](https://github.com/monarchsofchaos004-gif/phoneguard)** | 老年电话接管卫士：无障碍服务卫士+救援按钮+加密中继。 长辈手机占领守门哨 | MIT | [GitHub 源码](https://github.com/monarchsofchaos004-gif/phoneguard) • [下载发布](https://github.com/monarchsofchaos004-gif/phoneguard/releases) |
 | **[EnforceDoze](https://github.com/Akylas/EnforceDoze)** | 屏幕关闭后立即启用打瞌睡模式并关闭运动感应以获得最佳电池寿命 | GPL-3.0 | [GitHub 源码](https://github.com/Akylas/EnforceDoze) • [下载发布](https://github.com/Akylas/EnforceDoze/releases) |
 | **[shield-under-scanner](https://github.com/fireworksordie/shield-under-scanner)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/fireworksordie/shield-under-scanner) • [下载发布](https://github.com/fireworksordie/shield-under-scanner/releases) |
 | **[deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)** | 把 DeepSeek Harness 备份成能直接安装的安卓 APK：不用 Termux、不用 root、不用配环境，21 款技能随包；它还可以手机上自己编译、备份、签名、发布。DeepSeek Harness 的 Android APK — 无需 Termux、无需 root、无需 PC；它在手机上自行构建、签名和发布。 | MIT | [GitHub 源码](https://github.com/guzhou079-arch/deepseek-harness-android) • [下载发布](https://github.com/guzhou079-arch/deepseek-harness-android/releases) |
@@ -265,16 +273,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Droy** | 月亮 | `v0.0.1` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droy-v0.0.1) | [Upstream](https://github.com/moonoops/Droy/releases) |
-| ⚡ **dsha-island** | 拉尔赛1337 | `v0.4.1` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsha-island-v0.4.1) | [Upstream](https://github.com/Ralsei1337/dsha-island/releases) |
-| ⚡ **Project-AmiiGo** | 埃佐里斯 | `v1.0.0-beta` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/project-amiigo-v1.0.0-beta) | [Upstream](https://github.com/Ezorith/Project-AmiiGo/releases) |
-| ⚡ **vivo-nfc-switch** | 希亚姆仲 | `v1.0.0` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vivo-nfc-switch-v1.0.0) | [Upstream](https://github.com/hiiamtrong/vivo-nfc-switch/releases) |
-| ⚡ **dsh-android** | 神乐坂135 | `v1.21.9` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-android-v1.21.9) | [Upstream](https://github.com/Kagurazaka135/dsh-android/releases) |
-| ⚡ **iinv-xray-releases** | 叶夫根尼日 | `v3.2.0` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/iinv-xray-releases-v3.2.0) | [Upstream](https://github.com/evgenyzh/iinv-xray-releases/releases) |
-| ⚡ **Simulation-Rift** | 订单52 | `v0.11.0` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simulation-rift-v0.11.0) | [Upstream](https://github.com/Order52/Simulation-Rift/releases) |
-| ⚡ **OneUi-HomeUP-Port** | 勒舒甘 | `v1.001` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/oneui-homeup-port-v1.001) | [Upstream](https://github.com/Leshugan/OneUi-HomeUP-Port/releases) |
-| ⚡ **TermuxBridge** | 安达未找到 | `v1.9.3` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/termuxbridge-v1.9.3) | [Upstream](https://github.com/AndyerNotFound/TermuxBridge/releases) |
-| ⚡ **czn-patch-indonesia** | cloudmail91-dev | `v1.0.84102` | 2026-10-26 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/czn-patch-indonesia-v1.0.84102) | [Upstream](https://github.com/cloudmail91-dev/czn-patch-indonesia/releases) |
+| ⚡ **Jarvis---Android-Version-** | Rishu123-png | `v1.0.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-android-version-v1.0.0) | [Upstream](https://github.com/Rishu123-png/Jarvis---Android-Version-/releases) |
+| ⚡ **spotifyplus-tv-patch** | 阿尔法狗RSA | `v1.3.0.8` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-tv-patch-v1.3.0.8) | [Upstream](https://github.com/AlphadogRSA/spotifyplus-tv-patch/releases) |
+| ⚡ **wuwa-launcher** | 蟒蛇1472 | `v1.3` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wuwa-launcher-v1.3) | [Upstream](https://github.com/python1472/wuwa-launcher/releases) |
+| ⚡ **gemini-default-ai-phone** | pdong15dth | `v1.0.1` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gemini-default-ai-phone-v1.0.1) | [Upstream](https://github.com/pdong15dth/gemini-default-ai-phone/releases) |
+| ⚡ **shield-under-scanner** | 烟花士兵 | `build-9` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shield-under-scanner-build-9) | [Upstream](https://github.com/fireworksordie/shield-under-scanner/releases) |
+| ⚡ **classic-dockmode** | 盖夫基 | `v0.4.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/classic-dockmode-v0.4.0) | [Upstream](https://github.com/gevky/classic-dockmode/releases) |
+| ⚡ **REDMAGIC_Mini_Window** | 杰普鲁尔 | `v0.1.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/redmagic-mini-window-v0.1.0) | [Upstream](https://github.com/jpruful/REDMAGIC_Mini_Window/releases) |
+| ⚡ **ShizuShell** | 卡姆鲁扎曼-米尔顿 | `1.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizushell-1.0) | [Upstream](https://github.com/Kamruzzaman-Milton/ShizuShell/releases) |
+| ⚡ **Archiver-File-Manager** | 内克奥伦1 | `v0.10.0` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/archiver-file-manager-v0.10.0) | [Upstream](https://github.com/nexauren1/Archiver-File-Manager/releases) |
+| ⚡ **tickerbar** | 吉布斯塔210 | `v1.14.40` | 2026-10-27 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tickerbar-v1.14.40) | [Upstream](https://github.com/jibsta210/tickerbar/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

@@ -998,8 +998,8 @@
     "last_checked": "2026-10-11T05:22:51.981171+00:00"
   },
   "phoneguard": {
-    "status": "synced",
-    "last_checked": "2026-10-01T03:38:31.435544+00:00",
+    "status": "no-apk",
+    "last_checked": "2026-10-28T05:13:37.401517+00:00",
     "latest_version": "v0.4.0",
     "last_synced": "2026-10-01T03:38:31.435544+00:00"
   },
@@ -1409,10 +1409,9 @@
     "last_synced": "2026-10-03T04:58:00.546816+00:00"
   },
   "": {
-    "status": "failed",
-    "last_checked": "2026-10-03T04:58:02.150778+00:00",
-    "latest_version": "v1.0.1",
-    "error": "422 Client Error: Unprocessable Entity for url: https://api.github.com/repos/2303630100089-lang/shizuku-apps-root-alternative/releases"
+    "status": "no-apk",
+    "last_checked": "2026-10-28T05:13:49.522259+00:00",
+    "latest_version": "v1.0.1"
   },
   "readycast": {
     "status": "synced",
@@ -4310,5 +4309,39 @@
     "last_checked": "2026-10-27T17:52:43.814356+00:00",
     "latest_version": "build-9",
     "last_synced": "2026-10-27T17:52:43.814356+00:00"
+  },
+  "halolight": {
+    "status": "synced",
+    "last_checked": "2026-10-28T05:13:41.078396+00:00",
+    "latest_version": "v2.0.5",
+    "last_synced": "2026-10-28T05:13:41.078396+00:00"
+  },
+  "applingo": {
+    "status": "synced",
+    "last_checked": "2026-10-28T05:13:44.939410+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-10-28T05:13:44.939410+00:00"
+  },
+  "dual-audio": {
+    "status": "synced",
+    "last_checked": "2026-10-28T05:13:49.397580+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-28T05:13:49.397580+00:00"
+  },
+  "maawh": {
+    "status": "synced",
+    "last_checked": "2026-10-28T05:13:59.591216+00:00",
+    "latest_version": "v0.2.4",
+    "last_synced": "2026-10-28T05:13:59.591216+00:00"
+  },
+  "victorsuite": {
+    "status": "no-apk",
+    "last_checked": "2026-10-28T05:13:59.965777+00:00"
+  },
+  "cmc-helper": {
+    "status": "synced",
+    "last_checked": "2026-10-28T05:14:04.081004+00:00",
+    "latest_version": "v1.4.0",
+    "last_synced": "2026-10-28T05:14:04.081004+00:00"
   }
 }
