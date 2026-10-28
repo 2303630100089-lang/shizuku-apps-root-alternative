@@ -1823,7 +1823,16 @@
     "Termux-based Android Linux suite: proot containers, backup/restore, plugins, X11, and automation tools.": "基于 Termux 的 Android Linux 套件：原始容器、备份/恢复、插件、X11 和自动化工具。",
     "安卓微信聊天代理机器人，手机部署可自动帮你回消息，通过视觉系统读屏将聊天内容传给LLM后生成回复，可用于聊天代理或AI陪聊，内置记忆与人格系统，可自行编辑记忆与人格，也可输入自己的聊天记录让AI模仿学习，本地部署只需自备apikye": "安卓微信聊天代理机器人，手机布局可自动帮助回消息，通过系统读屏将聊天内容传给LLM后生成回复，可用于聊天代理或AI陪聊，内置记忆与人格系统，可自行编辑记忆与人格，也可输入自己的聊天记录让AI模仿学习，本地部署只需自备apikye",
     "fireworksordie": "烟花士兵",
-    "gevky": "盖夫基"
+    "gevky": "盖夫基",
+    "Android 系统级文本改写工具：悬浮球 / 篡改键盘 / 断句追加 / 摇一摇四种模式，前缀·后缀·随机尾缀·文本替换一键改写并发送；Shizuku / Root 通道，完全离线，无网络权限": "Android系统级文本改写工具：悬浮球 / 窃听改写键盘 / 断句追加 / 摇一摇四种模式，外接·后缀·随机尾缀·文本替换一键改写并发送；Shizuku / Root通道，完全离线，无网络权限",
+    "Android app that creates a virtual Xbox One or DualShock 4 gamepad using Shizuku and uinput, so games that only accept those controllers can detect your pad. No root. Prototype.": "Android 应用程序使用 Shizuku 和 uinput 创建虚拟 Xbox One 或 DualShock 4 游戏手柄，因此仅接受这些控制器的游戏可以检测到您的游戏手柄。无根。原型。",
+    "An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools for Android phones, Android TV, and Wear OS.": "适用于 Shizuku、ADB 和 Dhizuku 工作流程的开源 Android 实用程序，包含适用于 Android 手机、Android TV 和 Wear OS 的工具。",
+    "System-wide DualSense stick/trigger deadzone for Android via Shizuku + uhid": "通过 Shizuku + uhid 适用于 Android 的系统范围 DualSense 摇杆/触发死区",
+    "涟漪 (Ripple) · Free Android & iOS (Screen Time API) app blocker with 15m monotonic cooldown, Shorts/Reels/WeChat Channels feed blocker, parent unlock code & anti-uninstall · 免费无广告的安卓与iOS戒短视频及防卸载管手机工具": "涟漪 (Ripple) · 免费 Android 和 iOS（屏幕时间 API）应用程序拦截器，具有 15 分钟单调冷却时间、Shorts/Reels/微信频道提要拦截器、家长解锁代码和防卸载 · 免费无广告的安卓与 iOS戒短视频及防卸载管手机工具",
+    "Zlip — Galaxy Z Flip kapak ekranı uygulaması (Kotlin, Jetpack Compose). Site: zlip-web.vercel.app": "Zlip — Galaxy Z Flip 的主要功能（Kotlin、Jetpack Compose）。网站：zlip-web.vercel.app",
+    "A one-tap Wi-Fi toggle for Android Quick Settings": "Android 快速设置的一键 Wi-Fi 切换",
+    "安卓二进制悬浮窗：点一下把剪切板里的 0/1 串翻译成文字": "安卓二进制悬浮窗：点一下把剪切板里的0/1串翻译成文字",
+    "It's Me HP: aplikasi Android untuk akses layar & berkas HP dari dashboard It's Me sendiri": "It's Me HP：Android 应用程序 akses laar 和 berkas HP dari 仪表板 It's Me sendiri"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3649,6 +3658,15 @@
     "Kamruzzaman-Milton": "Камруззаман-Милтон",
     "安卓微信聊天代理机器人，手机部署可自动帮你回消息，通过视觉系统读屏将聊天内容传给LLM后生成回复，可用于聊天代理或AI陪聊，内置记忆与人格系统，可自行编辑记忆与人格，也可输入自己的聊天记录让AI模仿学习，本地部署只需自备apikye": "安卓微信聊天代理机器人，手机部署可自动帮你回消息, 通过视觉系统读屏将聊天内容传给LLM后生成回复,可用于聊天代理或A Я 陪聊,内置记忆与人格系统,可自行编辑记忆与人格,也可输入自己的聊天记录让AI模仿学习,本地部署只需自备apikye",
     "Termux-based Android Linux suite: proot containers, backup/restore, plugins, X11, and automation tools.": "Пакет Android Linux на базе Termux: контейнеры proot, резервное копирование/восстановление, плагины, X11 и инструменты автоматизации.",
-    "gevky": "гевки"
+    "gevky": "гевки",
+    "Android app that creates a virtual Xbox One or DualShock 4 gamepad using Shizuku and uinput, so games that only accept those controllers can detect your pad. No root. Prototype.": "Приложение для Android, которое создает виртуальный геймпад для Xbox One или DualShock 4 с использованием Shizuku и uinput, поэтому игры, поддерживающие только эти контроллеры, смогут обнаружить ваш планшет. Нет корня. Прототип.",
+    "Android 系统级文本改写工具：悬浮球 / 篡改键盘 / 断句追加 / 摇一摇四种模式，前缀·后缀·随机尾缀·文本替换一键改写并发送；Shizuku / Root 通道，完全离线，无网络权限": "Android 系统级文本改写工具:悬浮球 / 篡改键盘 / 断句追加 /摇一摇四种模式，前缀·后缀·随机尾缀·文本替换一键改写并发送；Шизуку / Корень通道, 完全离线, 无网络权限",
+    "An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools for Android phones, Android TV, and Wear OS.": "Утилита Android с открытым исходным кодом для рабочих процессов Shizuku, ADB и Dhizuku с инструментами для телефонов Android, Android TV и Wear OS.",
+    "System-wide DualSense stick/trigger deadzone for Android via Shizuku + uhid": "Общесистемная мертвая зона джойстика/триггера DualSense для Android через Shizuku + uhid",
+    "涟漪 (Ripple) · Free Android & iOS (Screen Time API) app blocker with 15m monotonic cooldown, Shorts/Reels/WeChat Channels feed blocker, parent unlock code & anti-uninstall · 免费无广告的安卓与iOS戒短视频及防卸载管手机工具": "涟漪 (Ripple) · Бесплатный блокировщик приложений для Android и iOS (Screen Time API) с монотонным временем восстановления 15 минут, блокировщик каналов Shorts/Reels/WeChat, родительский код разблокировки и защита от удаления · Приложение для iOS и iOS, приложение для мобильных устройств и приложение для мобильных устройств.",
+    "安卓二进制悬浮窗：点一下把剪切板里的 0/1 串翻译成文字": "安卓二进制悬浮窗:点一下把剪切板里的 0/1 串翻译成文字",
+    "Zlip — Galaxy Z Flip kapak ekranı uygulaması (Kotlin, Jetpack Compose). Site: zlip-web.vercel.app": "Zlip — Galaxy Z Flip с экранным экраном (Kotlin, Jetpack Compose). Сайт: zlip-web.vercel.app",
+    "A one-tap Wi-Fi toggle for Android Quick Settings": "Переключатель Wi-Fi одним касанием для быстрых настроек Android",
+    "It's Me HP: aplikasi Android untuk akses layar & berkas HP dari dashboard It's Me sendiri": "It's Me HP: Android-приложения для активации и просмотра HP приборной панели It's Me, отправка сообщений"
   }
 }

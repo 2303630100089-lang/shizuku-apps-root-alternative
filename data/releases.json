@@ -15942,5 +15942,233 @@
     ],
     "mirror_release_tag": "cmc-helper-v1.4.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cmc-helper-v1.4.0"
+  },
+  "xb-tool": {
+    "source_repository": "keliandexiaobingCN/XB-Tool",
+    "source_release_id": 427018333,
+    "source_tag": "v1.3.7",
+    "source_published_at": "2026-10-28T18:07:40Z",
+    "synced_at": "2026-10-28T18:15:51.661554+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685883029,
+        "filename": "XB-Tool-v1.3.7.apk",
+        "original_filename": "XB-Tool-v1.3.7.apk",
+        "sha256": "8c9283adb3f0500d9d1e822c95e9d3c699f0542ba48ab396d1873c0be5f0f44c",
+        "file_size": 28768850,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "xb-tool-v1.3.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xb-tool-v1.3.7"
+  },
+  "zlip": {
+    "source_repository": "cayankuzu/Zlip",
+    "source_release_id": 427023820,
+    "source_tag": "v1.1.2",
+    "source_published_at": "2026-10-28T18:13:23Z",
+    "synced_at": "2026-10-28T18:15:55.370861+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685896359,
+        "filename": "Zlip.apk",
+        "original_filename": "Zlip.apk",
+        "sha256": "52de6fb7a00f96bbb9e3567a0c0704c7db7a94e7a03aa54620ca759c57633157",
+        "file_size": 5635342,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zlip-v1.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zlip-v1.1.2"
+  },
+  "shizuku-termux": {
+    "source_repository": "Order52/shizuku-termux",
+    "source_release_id": 421798031,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-23T12:08:45Z",
+    "synced_at": "2026-10-28T18:16:00.388229+00:00",
+    "assets": [
+      {
+        "source_asset_id": 669011753,
+        "filename": "ShizukuTermux.apk",
+        "original_filename": "ShizukuTermux.apk",
+        "sha256": "be7136ec44b710c5aeafe22d6aa00c548f3a467dfdcf50c9a33e781c35ece7b2",
+        "file_size": 20600,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "shizuku-termux-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-termux-v1.3.0"
+  },
+  "itsme-hp": {
+    "source_repository": "OBKENTUNG01/itsme-hp",
+    "source_release_id": 426223497,
+    "source_tag": "hp-v0.4",
+    "source_published_at": "2026-10-28T03:14:13Z",
+    "synced_at": "2026-10-28T18:16:04.994606+00:00",
+    "assets": [
+      {
+        "source_asset_id": 683662667,
+        "filename": "itsme-hp-v0.4.apk",
+        "original_filename": "itsme-hp-v0.4.apk",
+        "sha256": "a44b78e0580202d2dca62d3d462b6804de6f571e209d054275968c75ea6d2ba4",
+        "file_size": 2546689,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "itsme-hp-hp-v0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/itsme-hp-hp-v0.4"
+  },
+  "binfloater-android": {
+    "source_repository": "BlestHeart/BinFloater-Android",
+    "source_release_id": 425774221,
+    "source_tag": "v2.5",
+    "source_published_at": "2026-10-27T17:25:38Z",
+    "synced_at": "2026-10-28T18:16:08.778576+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685899099,
+        "filename": "BinFloater.apk",
+        "original_filename": "BinFloater.apk",
+        "sha256": "7bae503138731e6e1a6629701f8e75a533ff8476c4fd70dd18163875381b99a6",
+        "file_size": 57982,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "binfloater-android-v2.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/binfloater-android-v2.5"
+  },
+  "wifi-tile": {
+    "source_repository": "pencelheimer/wifi-tile",
+    "source_release_id": 427021836,
+    "source_tag": "dbba064",
+    "source_published_at": "2026-10-28T18:11:08Z",
+    "synced_at": "2026-10-28T18:16:12.215882+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685890451,
+        "filename": "wifitile-dbba064.apk",
+        "original_filename": "wifitile-dbba064.apk",
+        "sha256": "7e3c87519696b201de92ee481632b259a51965ea07e606a8dfe8404d906a4a05",
+        "file_size": 679959,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "wifi-tile-dbba064",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wifi-tile-dbba064"
+  },
+  "dualsensedeadzone": {
+    "source_repository": "jkBegginer/DualSenseDeadzone",
+    "source_release_id": 426901266,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-28T16:14:42Z",
+    "synced_at": "2026-10-28T18:16:15.757686+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685567605,
+        "filename": "DualSenseDeadzone-v0.1.0.apk",
+        "original_filename": "DualSenseDeadzone-v0.1.0.apk",
+        "sha256": "d1ea363b09f23ed4af2b45b1afb382d8f7ac47110290b0d104fc5bebd1fc9fc9",
+        "file_size": 6459966,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "dualsensedeadzone-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dualsensedeadzone-v0.1.0"
+  },
+  "ripplefocus-github-io": {
+    "source_repository": "ripplefocus/ripplefocus.github.io",
+    "source_release_id": 426334858,
+    "source_tag": "v0.1.5",
+    "source_published_at": "2026-10-28T06:39:44Z",
+    "synced_at": "2026-10-28T18:16:20.291564+00:00",
+    "assets": [
+      {
+        "source_asset_id": 684090209,
+        "filename": "ripple-v0.1.5.apk",
+        "original_filename": "ripple-v0.1.5.apk",
+        "sha256": "a5f2e43e88e7778eb9b03be0d8914640b7871a3e82d53aec5a62cf8fb5a7a038",
+        "file_size": 8989081,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ripplefocus-github-io-v0.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripplefocus-github-io-v0.1.5"
+  },
+  "tinykit": {
+    "source_repository": "Order52/tinykit",
+    "source_release_id": 426994786,
+    "source_tag": "v1.13.0",
+    "source_published_at": "2026-10-28T17:44:33Z",
+    "synced_at": "2026-10-28T18:16:23.579548+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685821695,
+        "filename": "TinyKit-1.13.0.apk",
+        "original_filename": "TinyKit-1.13.0.apk",
+        "sha256": "9af4cb1fe8edb1316b683a489fbdd2527beef504f0f9daaed690a6e51f89c8e5",
+        "file_size": 140596,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tinykit-v1.13.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tinykit-v1.13.0"
+  },
+  "nekotype": {
+    "source_repository": "Yukstarlight/NekoType",
+    "source_release_id": 391907526,
+    "source_tag": "NekoType-latestversion",
+    "source_published_at": "2026-09-19T04:06:28Z",
+    "synced_at": "2026-10-28T18:16:28.107395+00:00",
+    "assets": [
+      {
+        "source_asset_id": 684846891,
+        "filename": "NekoType-v2.9.0.apk",
+        "original_filename": "NekoType-v2.9.0.apk",
+        "sha256": "bef81ae5d830f1fb71ef5d3c2ef2802a0d022305c2172fae320010adfa03dbaf",
+        "file_size": 8540301,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nekotype-NekoType-latestversion",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nekotype-NekoType-latestversion"
+  },
+  "cloudy-u-android": {
+    "source_repository": "diegonmarcos/cloudy-u-android",
+    "source_release_id": 426982147,
+    "source_tag": "cloud-comms-matrix-20261028.171216",
+    "source_published_at": "2026-10-28T17:31:45Z",
+    "synced_at": "2026-10-28T18:16:35.918766+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685787721,
+        "filename": "cloud-comms-matrix.apk",
+        "original_filename": "cloud-comms-matrix.apk",
+        "sha256": "94328ed38a2ca59afda36a979d57d9a33f84cdc8ec278969e98dadaf11610cad",
+        "file_size": 110593132,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "cloudy-u-android-cloud-comms-matrix-20261028.171216",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cloudy-u-android-cloud-comms-matrix-20261028.171216"
+  },
+  "tvlauncher": {
+    "source_repository": "Mahmoud-Elgamal2026/TVLauncher",
+    "source_release_id": 427018720,
+    "source_tag": "v54",
+    "source_published_at": "2026-10-28T18:08:07Z",
+    "synced_at": "2026-10-28T18:16:39.350584+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685883232,
+        "filename": "TVLauncher-v54.apk",
+        "original_filename": "TVLauncher-v54.apk",
+        "sha256": "b8dbd5ae4939c780903554bc12865cdc587c8aaf757f65236226e0b2266e16e2",
+        "file_size": 5353718,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tvlauncher-v54",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tvlauncher-v54"
   }
 }
