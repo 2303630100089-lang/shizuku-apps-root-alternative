@@ -1850,7 +1850,20 @@
     "ripplefocus": "涟漪焦点",
     "Heracles 是一个装在手机里的开发智能体：一句话说清需求，它就在你的手机上读文件、改代码、跑命令，把 App 构建、解包、重打包成能直接安装的成品——从想法到装上手机，一台手机全搞定。": "Heracles 是一个安装在手机里的开发智能体：一句话说清需求，它就在你的手机上读文件、修改代码、运行命令，把 App 构建、解包、重压缩成能直接安装的成品——从想法到装上手机，一部手机全搞定。",
     "A comic/novel reader forked DropSauce - based on Kotatsu, built to my own taste: fast downloads, non-flat UI, dual library, unified sources/extensions, local image files, and feature requests welcome.": "一位漫画/小说读者分叉了 DropSauce - 基于 Kotatsu，根据我自己的口味构建：快速下载、非平面 UI、双库、统一源/扩展、本地图像文件和欢迎功能请求。",
-    "fan-world-me": "粉丝世界我"
+    "fan-world-me": "粉丝世界我",
+    "Chronics — a local Android notification archive with full-text capture, filters, and Downloads export": "Chronics — 本地 Android 通知存档，具有全文捕获、过滤器和下载导出功能",
+    "Private patched fork of bunnylock": "bunnylock 的私人修补叉子",
+    "Easy to download and play": "易于下载和播放",
+    "Offline Android security audit tool. 68 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "离线Android安全审计工具。跨多个权限级别（base、ADB、Shizuku、root）的 68 个只读检查、0-100 分数和保存的报告。注重隐私，无需互联网许可，零遥测，完全本地化。",
+    "Pixel Classic Search dock widget with Shizuku and All Apps OneSearch sync": "具有 Shizuku 和所有应用 OneSearch 同步功能的 Pixel Classic Search Dock 小部件",
+    "CarDroid: customizable Android launcher and wireless car display sharing": "CarDroid：可定制的 Android 启动器和无线车载显示屏共享",
+    "AmbiAnalog gives you ambilight effect and per game led profile for analogs on android consoles like Ayn Thor.": "AmbiAnalog 为您提供流光溢彩的效果和每场游戏的 LED 配置文件，适用于 Android 游戏机（如 Ayn Thor）上的类似物。",
+    "A fork of Mihon with some annoying restrictions removed": "Mihon 的一个分支，删除了一些烦人的限制",
+    "Headless, Playwright-style Android app testing on your real phone: AI agents test apps on a hidden virtual display while you keep using the phone. No root, wireless ADB.": "在您的真实手机上进行无头、剧作家风格的 Android 应用程序测试：人工智能代理在您继续使用手机时在隐藏的虚拟显示屏上测试应用程序。无需root，无线ADB。",
+    "Small cues. Everyday magic. — iPhone-style automations for Android, no root. Open source, private, on-device.": "小提示。日常魔法。 — 适用于 Android 的 iPhone 式自动化，无需 root。开源、私有、设备上。",
+    "Android app to automatically switch airplane mode on a schedule": "Android 应用程序可按计划自动切换飞行模式",
+    "Temporary root recovery for HONOR 400 (DNY-NX9), with standalone and Shizuku-assisted recovery paths. A device-specific fork of ghostlock-app.": "HONOR 400 (DNY-NX9) 的临时根恢复，具有独立和 Shizuku 辅助恢复路径。 Ghostlock-app 的设备特定分支。",
+    "Turn your phone's notch into a gesture button (Shizuku / Accessibility). Material 3, FOSS.": "将手机的凹口变成手势按钮（Shizuku / 辅助功能）。材料 3，FOSS。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3703,6 +3716,19 @@
     "ripplefocus": "пульсация",
     "pencelheimer": "Пенсельхаймер",
     "fan-world-me": "фанатский мир-я",
-    "A comic/novel reader forked DropSauce - based on Kotatsu, built to my own taste: fast downloads, non-flat UI, dual library, unified sources/extensions, local image files, and feature requests welcome.": "Программа для чтения комиксов и романов является ответвлением DropSauce - на основе Kotatsu, созданного по моему вкусу: быстрая загрузка, неплоский пользовательский интерфейс, двойная библиотека, унифицированные исходные коды/расширения, локальные файлы изображений и пожелания по функциям приветствуются."
+    "A comic/novel reader forked DropSauce - based on Kotatsu, built to my own taste: fast downloads, non-flat UI, dual library, unified sources/extensions, local image files, and feature requests welcome.": "Программа для чтения комиксов и романов является ответвлением DropSauce - на основе Kotatsu, созданного по моему вкусу: быстрая загрузка, неплоский пользовательский интерфейс, двойная библиотека, унифицированные исходные коды/расширения, локальные файлы изображений и пожелания по функциям приветствуются.",
+    "Chronics — a local Android notification archive with full-text capture, filters, and Downloads export": "Chronics — локальный архив уведомлений Android с полнотекстовым захватом, фильтрами и экспортом загрузок.",
+    "Private patched fork of bunnylock": "Частная исправленная вилка баннилока",
+    "Offline Android security audit tool. 68 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "Автономный инструмент аудита безопасности Android. 68 проверок только для чтения на нескольких уровнях привилегий (базовый, ADB, Shizuku, root), оценка 0–100 и сохраненные отчеты. Ориентирован на конфиденциальность, без разрешения в Интернет, без телеметрии, полностью локально.",
+    "Headless, Playwright-style Android app testing on your real phone: AI agents test apps on a hidden virtual display while you keep using the phone. No root, wireless ADB.": "Безголовое тестирование Android-приложений в стиле драматурга на вашем реальном телефоне: агенты искусственного интеллекта тестируют приложения на скрытом виртуальном дисплее, пока вы продолжаете пользоваться телефоном. Нет рута, беспроводной ADB.",
+    "CarDroid: customizable Android launcher and wireless car display sharing": "CarDroid: настраиваемый лаунчер Android и беспроводной совместный доступ к автомобильному дисплею",
+    "Pixel Classic Search dock widget with Shizuku and All Apps OneSearch sync": "Виджет-док Pixel Classic Search с синхронизацией Shizuku и всех приложений OneSearch",
+    "Easy to download and play": "Легко скачать и играть",
+    "Small cues. Everyday magic. — iPhone-style automations for Android, no root. Open source, private, on-device.": "Маленькие подсказки. Повседневное волшебство. — Автоматизация в стиле iPhone для Android, без рута. Открытый исходный код, конфиденциальный, на устройстве.",
+    "A fork of Mihon with some annoying restrictions removed": "Форк Mihon с удаленными некоторыми досадными ограничениями.",
+    "Android app to automatically switch airplane mode on a schedule": "Android-приложение для автоматического переключения режима полета по расписанию",
+    "AmbiAnalog gives you ambilight effect and per game led profile for analogs on android consoles like Ayn Thor.": "AmbiAnalog дает вам эффект ambilight и профиль для каждой игры для аналогов на консолях Android, таких как Ayn Thor.",
+    "Temporary root recovery for HONOR 400 (DNY-NX9), with standalone and Shizuku-assisted recovery paths. A device-specific fork of ghostlock-app.": "Временное корневое восстановление для HONOR 400 (DNY-NX9) с автономными путями восстановления и восстановления с помощью Shizuku. Ответвление приложения Ghostlock для конкретного устройства.",
+    "Turn your phone's notch into a gesture button (Shizuku / Accessibility). Material 3, FOSS.": "Превратите вырез вашего телефона в кнопку жестов (Shizuku/Accessibility). Материал 3, ФОСС."
   }
 }
