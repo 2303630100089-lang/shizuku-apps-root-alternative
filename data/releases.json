@@ -16170,5 +16170,203 @@
     ],
     "mirror_release_tag": "tvlauncher-v54",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tvlauncher-v54"
+  },
+  "ethertether": {
+    "source_repository": "oytuncagil/ethertether",
+    "source_release_id": 425586464,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-28T09:38:18Z",
+    "synced_at": "2026-10-29T05:25:04.699599+00:00",
+    "assets": [
+      {
+        "source_asset_id": 681881913,
+        "filename": "EtherTether-1.0.0.apk",
+        "original_filename": "EtherTether-1.0.0.apk",
+        "sha256": "eecc33c9f04271a8e46173f2db078e998dbfa612e73dfe7c214cf4755514efa3",
+        "file_size": 5197709,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ethertether-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ethertether-v1.0.0"
+  },
+  "miyorare": {
+    "source_repository": "Noirero/Miyorare",
+    "source_release_id": 425665030,
+    "source_tag": "v1.4.15",
+    "source_published_at": "2026-10-27T15:49:01Z",
+    "synced_at": "2026-10-29T05:25:10.031246+00:00",
+    "assets": [
+      {
+        "source_asset_id": 682064053,
+        "filename": "Miyorare-v1.4.15.apk",
+        "original_filename": "Miyorare-v1.4.15.apk",
+        "sha256": "14a9c54842a0f4de4fcebe6385489ad77f0c8230612e585cada3c501446300bf",
+        "file_size": 30061991,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "miyorare-v1.4.15",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/miyorare-v1.4.15"
+  },
+  "shelly": {
+    "source_repository": "RYOITABASHI/Shelly",
+    "source_release_id": 427477611,
+    "source_tag": "v8.1.2",
+    "source_published_at": "2026-10-29T04:49:40Z",
+    "synced_at": "2026-10-29T05:25:42.732040+00:00",
+    "assets": [
+      {
+        "source_asset_id": 687389159,
+        "filename": "Shelly-v8.1.2.apk",
+        "original_filename": "Shelly-v8.1.2.apk",
+        "sha256": "b2f7ed101612ce150a16a2e156a96a6400095d30164dd04fdd5d0fd38a47f074",
+        "file_size": 694070057,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shelly-v8.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shelly-v8.1.2"
+  },
+  "heracles": {
+    "source_repository": "theohowie/Heracles",
+    "source_release_id": 424272220,
+    "source_tag": "v0.2.2",
+    "source_published_at": "2026-10-26T13:16:41Z",
+    "synced_at": "2026-10-29T05:25:47.480155+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678223398,
+        "filename": "Heracles-v0.2.2.apk",
+        "original_filename": "Heracles-v0.2.2.apk",
+        "sha256": "3530158c4319917419b3307401dd36214f391472578d7b83e4fddf230765fdd2",
+        "file_size": 21871491,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "heracles-v0.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/heracles-v0.2.2"
+  },
+  "immersion-player": {
+    "source_repository": "finchett/Immersion-Player",
+    "source_release_id": 427438991,
+    "source_tag": "v0.9.0",
+    "source_published_at": "2026-10-29T03:44:19Z",
+    "synced_at": "2026-10-29T05:25:54.448023+00:00",
+    "assets": [
+      {
+        "source_asset_id": 687248443,
+        "filename": "immersion-player-0.9.0-arm64.apk",
+        "original_filename": "immersion-player-0.9.0-arm64.apk",
+        "sha256": "516db9000eb1f5d8b8e2e279f3eba887cb773e0dd63138632e2d966646bae730",
+        "file_size": 83299679,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "immersion-player-v0.9.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/immersion-player-v0.9.0"
+  },
+  "elsewhere": {
+    "source_repository": "CalciumSparks/ELSEWHERE",
+    "source_release_id": 426824882,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-28T15:09:41Z",
+    "synced_at": "2026-10-29T05:25:58.499710+00:00",
+    "assets": [
+      {
+        "source_asset_id": 685371418,
+        "filename": "elsewhere-1.0.0.apk",
+        "original_filename": "elsewhere-1.0.0.apk",
+        "sha256": "1d7e1f7a7fa15ac4be5a2dcbfef231434f20383c10d77807c2daa7c0dea256d5",
+        "file_size": 9120488,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "elsewhere-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/elsewhere-v1.0.0"
+  },
+  "oassist": {
+    "source_repository": "outsidepro-arts/OAssist",
+    "source_release_id": 423180880,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-10-25T06:07:58Z",
+    "synced_at": "2026-10-29T05:26:02.609670+00:00",
+    "assets": [
+      {
+        "source_asset_id": 674253218,
+        "filename": "OAssist_v1.1.apk",
+        "original_filename": "OAssist_v1.1.apk",
+        "sha256": "b714539bc9b826a9b797e5b05eba2e17550336b3e6fb397a542765a44e4962b5",
+        "file_size": 5681677,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "oassist-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/oassist-v1.1"
+  },
+  "resync": {
+    "source_repository": "lucasvasconcelosrocha-ui/ReSync",
+    "source_release_id": 427489859,
+    "source_tag": "v1.0.24",
+    "source_published_at": "2026-10-29T05:13:42Z",
+    "synced_at": "2026-10-29T05:26:06.467898+00:00",
+    "assets": [
+      {
+        "source_asset_id": 687438519,
+        "filename": "ReSync-v1.0.24.apk",
+        "original_filename": "ReSync-v1.0.24.apk",
+        "sha256": "4d4e75c271e78d6b17c690b15483f7c3e1f343010a936527f443c2998fa4aa1a",
+        "file_size": 6310901,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "resync-v1.0.24",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/resync-v1.0.24"
+  },
+  "wearbridgeadb": {
+    "source_repository": "novakin777/WearBridgeADB",
+    "source_release_id": 427135390,
+    "source_tag": "v1.45",
+    "source_published_at": "2026-10-28T20:05:12Z",
+    "synced_at": "2026-10-29T05:26:12.267640+00:00",
+    "assets": [
+      {
+        "source_asset_id": 686188360,
+        "filename": "WearBridgeADB-phone-v1.45.apk",
+        "original_filename": "WearBridgeADB-phone-v1.45.apk",
+        "sha256": "51b14ec00b0e2a5cf7c4d494e88b505396399690a40233aadcc228a368a46033",
+        "file_size": 2776871,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 686188351,
+        "filename": "WearBridgeADB-wear-v1.33.apk",
+        "original_filename": "WearBridgeADB-wear-v1.33.apk",
+        "sha256": "1c5615e6f9ab0a8471917387a809e3f3c2940eb98a7a5aa78d6bbc9c2a674791",
+        "file_size": 2854483,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "wearbridgeadb-v1.45",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wearbridgeadb-v1.45"
+  },
+  "deepseekharness-android": {
+    "source_repository": "jackwener/DeepseekHarness-Android",
+    "source_release_id": 427123905,
+    "source_tag": "v0.1.2",
+    "source_published_at": "2026-10-28T19:53:23Z",
+    "synced_at": "2026-10-29T05:26:19.867511+00:00",
+    "assets": [
+      {
+        "source_asset_id": 686157704,
+        "filename": "DSH-Android-v0.1.2-arm64.apk",
+        "original_filename": "DSH-Android-v0.1.2-arm64.apk",
+        "sha256": "b4525564479b9f9db7886a05d3d36edd170773369410779d461ac9b65a1f44b5",
+        "file_size": 84724474,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "deepseekharness-android-v0.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseekharness-android-v0.1.2"
   }
 }

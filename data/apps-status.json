@@ -1114,7 +1114,7 @@
   },
   "droidtop": {
     "status": "no-update",
-    "last_checked": "2026-10-24T15:46:06.460665+00:00",
+    "last_checked": "2026-10-29T05:25:58.929759+00:00",
     "latest_version": "v1.12.1",
     "last_synced": "2026-10-01T17:53:47.755666+00:00"
   },
@@ -4420,5 +4420,74 @@
     "last_checked": "2026-10-28T18:16:39.350603+00:00",
     "latest_version": "v54",
     "last_synced": "2026-10-28T18:16:39.350603+00:00"
+  },
+  "ethertether": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:25:04.699620+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-29T05:25:04.699620+00:00"
+  },
+  "dual-full-app-samsung": {
+    "status": "no-apk",
+    "last_checked": "2026-10-29T05:25:05.027720+00:00",
+    "latest_version": "build-6"
+  },
+  "miyorare": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:25:10.031266+00:00",
+    "latest_version": "v1.4.15",
+    "last_synced": "2026-10-29T05:25:10.031266+00:00"
+  },
+  "mcarplay": {
+    "status": "no-apk",
+    "last_checked": "2026-10-29T05:25:10.413226+00:00"
+  },
+  "shelly": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:25:42.732058+00:00",
+    "latest_version": "v8.1.2",
+    "last_synced": "2026-10-29T05:25:42.732058+00:00"
+  },
+  "heracles": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:25:47.480176+00:00",
+    "latest_version": "v0.2.2",
+    "last_synced": "2026-10-29T05:25:47.480176+00:00"
+  },
+  "immersion-player": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:25:54.448040+00:00",
+    "latest_version": "v0.9.0",
+    "last_synced": "2026-10-29T05:25:54.448040+00:00"
+  },
+  "elsewhere": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:25:58.499724+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-29T05:25:58.499724+00:00"
+  },
+  "oassist": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:26:02.609682+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-10-29T05:26:02.609682+00:00"
+  },
+  "resync": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:26:06.467927+00:00",
+    "latest_version": "v1.0.24",
+    "last_synced": "2026-10-29T05:26:06.467927+00:00"
+  },
+  "wearbridgeadb": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:26:12.267653+00:00",
+    "latest_version": "v1.45",
+    "last_synced": "2026-10-29T05:26:12.267653+00:00"
+  },
+  "deepseekharness-android": {
+    "status": "synced",
+    "last_checked": "2026-10-29T05:26:19.867526+00:00",
+    "latest_version": "v0.1.2",
+    "last_synced": "2026-10-29T05:26:19.867526+00:00"
   }
 }
