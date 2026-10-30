@@ -265,16 +265,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Zlip** | cayankuzu | `v1.1.2` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zlip-v1.1.2) | [Upstream](https://github.com/cayankuzu/Zlip/releases) |
-| ⚡ **wifi-tile** | pencelheimer | `dbba064` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wifi-tile-dbba064) | [Upstream](https://github.com/pencelheimer/wifi-tile/releases) |
-| ⚡ **TVLauncher** | Mahmoud-Elgamal2026 | `v54` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tvlauncher-v54) | [Upstream](https://github.com/Mahmoud-Elgamal2026/TVLauncher/releases) |
-| ⚡ **XB-Tool** | keliandexiaobingCN | `v1.3.7` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xb-tool-v1.3.7) | [Upstream](https://github.com/keliandexiaobingCN/XB-Tool/releases) |
-| ⚡ **tinykit** | Order52 | `v1.13.0` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tinykit-v1.13.0) | [Upstream](https://github.com/Order52/tinykit/releases) |
-| ⚡ **cloudy-u-android** | diegonmarcos | `cloud-comms-matrix-20261028.171216` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cloudy-u-android-cloud-comms-matrix-20261028.171216) | [Upstream](https://github.com/diegonmarcos/cloudy-u-android/releases) |
-| ⚡ **DualSenseDeadzone** | jkBegginer | `v0.1.0` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dualsensedeadzone-v0.1.0) | [Upstream](https://github.com/jkBegginer/DualSenseDeadzone/releases) |
-| ⚡ **ripplefocus.github.io** | ripplefocus | `v0.1.5` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripplefocus-github-io-v0.1.5) | [Upstream](https://github.com/ripplefocus/ripplefocus.github.io/releases) |
-| ⚡ **HaloLight** | fan-world-me | `v2.0.5` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/halolight-v2.0.5) | [Upstream](https://github.com/fan-world-me/HaloLight/releases) |
-| ⚡ **itsme-hp** | OBKENTUNG01 | `hp-v0.4` | 2026-10-28 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/itsme-hp-hp-v0.4) | [Upstream](https://github.com/OBKENTUNG01/itsme-hp/releases) |
+| ⚡ **setedit-master** | NETO-DEV66 | `v3.7` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/setedit-master-v3.7) | [Upstream](https://github.com/NETO-DEV66/setedit-master/releases) |
+| ⚡ **totch** | ptt98hd | `v1.7.0` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/totch-v1.7.0) | [Upstream](https://github.com/ptt98hd/totch/releases) |
+| ⚡ **cuelet** | DogT1 | `v0.1.2` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cuelet-v0.1.2) | [Upstream](https://github.com/DogT1/cuelet/releases) |
+| ⚡ **bunnylock-private** | 717998477 | `v1.3.4-patched.4` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-private-v1.3.4-patched.4) | [Upstream](https://github.com/717998477/bunnylock-private/releases) |
+| ⚡ **ClassicPixelSearch** | Nornthenight | `v1.1` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/classicpixelsearch-v1.1) | [Upstream](https://github.com/Nornthenight/ClassicPixelSearch/releases) |
+| ⚡ **AmbiAnalog** | mkaflowski | `v1.1` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ambianalog-v1.1) | [Upstream](https://github.com/mkaflowski/AmbiAnalog/releases) |
+| ⚡ **chronics** | HmnDev-Tech | `v1.0.0-beta01` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chronics-v1.0.0-beta01) | [Upstream](https://github.com/HmnDev-Tech/chronics/releases) |
+| ⚡ **CarDroid** | pavunato | `v0.1.2` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cardroid-v0.1.2) | [Upstream](https://github.com/pavunato/CarDroid/releases) |
+| ⚡ **ReSync** | lucasvasconcelosrocha-ui | `v1.0.24` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/resync-v1.0.24) | [Upstream](https://github.com/lucasvasconcelosrocha-ui/ReSync/releases) |
+| ⚡ **Shelly** | RYOITABASHI | `v8.1.2` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shelly-v8.1.2) | [Upstream](https://github.com/RYOITABASHI/Shelly/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
