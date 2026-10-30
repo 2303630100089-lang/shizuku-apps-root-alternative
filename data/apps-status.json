@@ -2405,9 +2405,9 @@
   },
   "appman": {
     "status": "synced",
-    "last_checked": "2026-10-10T17:15:48.516769+00:00",
-    "latest_version": "Latest",
-    "last_synced": "2026-10-10T17:15:48.516769+00:00"
+    "last_checked": "2026-10-30T05:24:33.792880+00:00",
+    "latest_version": "v0.1.3",
+    "last_synced": "2026-10-30T05:24:33.792880+00:00"
   },
   "tachiyomix": {
     "status": "synced",
@@ -4556,5 +4556,76 @@
     "last_checked": "2026-10-29T18:22:12.626360+00:00",
     "latest_version": "v1.0.0-beta01",
     "last_synced": "2026-10-29T18:22:12.626360+00:00"
+  },
+  "dualclone": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:24:32.917992+00:00",
+    "latest_version": "v1.0.7",
+    "last_synced": "2026-10-30T05:24:32.917992+00:00"
+  },
+  "dsh-go": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:24:43.808481+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-10-30T05:24:43.808481+00:00"
+  },
+  "android-phone-bridge": {
+    "status": "no-apk",
+    "last_checked": "2026-10-30T05:24:44.117151+00:00"
+  },
+  "legend-tuner": {
+    "status": "no-apk",
+    "last_checked": "2026-10-30T05:24:44.409263+00:00",
+    "latest_version": "v1.1.0"
+  },
+  "agent-workspace-android": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:24:50.739911+00:00",
+    "latest_version": "v2.6.1",
+    "last_synced": "2026-10-30T05:24:50.739911+00:00"
+  },
+  "xiaomi17ultra-nfc-eink": {
+    "status": "no-apk",
+    "last_checked": "2026-10-30T05:24:51.082106+00:00"
+  },
+  "codehub-android": {
+    "status": "no-apk",
+    "last_checked": "2026-10-30T05:24:51.428941+00:00"
+  },
+  "dirtyfalg-vr": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:24:54.684118+00:00",
+    "latest_version": "v1.16-vr",
+    "last_synced": "2026-10-30T05:24:54.684118+00:00"
+  },
+  "procmanager": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:24:57.636997+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-10-30T05:24:57.636997+00:00"
+  },
+  "autojs6-plugin-nodejs-runtime": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:25:16.482686+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-10-30T05:25:16.482686+00:00"
+  },
+  "taskdeck": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:25:19.372535+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-10-30T05:25:19.372535+00:00"
+  },
+  "autojs6-plugin-imgui": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:25:29.449856+00:00",
+    "latest_version": "v1.14.0",
+    "last_synced": "2026-10-30T05:25:29.449856+00:00"
+  },
+  "deepseek-harness-for-android-by-x": {
+    "status": "synced",
+    "last_checked": "2026-10-30T05:25:47.604610+00:00",
+    "latest_version": "v1.2.50",
+    "last_synced": "2026-10-30T05:25:47.604610+00:00"
   }
 }
