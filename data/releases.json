@@ -4645,22 +4645,22 @@
   },
   "shizuku-next": {
     "source_repository": "rushiranpise/Shizuku-Next",
-    "source_release_id": 399160331,
-    "source_tag": "v14.0.6-next",
-    "source_published_at": "2026-09-29T13:10:56Z",
-    "synced_at": "2026-09-29T17:34:56.360610+00:00",
+    "source_release_id": 426824844,
+    "source_tag": "v14.0.31-next",
+    "source_published_at": "2026-10-28T15:25:32Z",
+    "synced_at": "2026-10-30T17:57:38.719725+00:00",
     "assets": [
       {
-        "source_asset_id": 598255503,
-        "filename": "shizuku-v14.0.6-next.apk",
-        "original_filename": "shizuku-v14.0.6-next.apk",
-        "sha256": "5826cc108200a0d35e63b70cc93c925dd3a8038b24914bd8874efdcd9fbce63e",
-        "file_size": 4872539,
+        "source_asset_id": 685371233,
+        "filename": "shizuku-v14.0.31-next.apk",
+        "original_filename": "shizuku-v14.0.31-next.apk",
+        "sha256": "f75b8b74727d281f3d7fd242298f676bfb4ee81d2feb5298aa719b05284fa149",
+        "file_size": 6768236,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizuku-next-v14.0.6-next",
-    "mirror_release_url": "https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/shizuku-next-v14.0.6-next"
+    "mirror_release_tag": "shizuku-next-v14.0.31-next",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-next-v14.0.31-next"
   },
   "lai": {
     "source_repository": "soobujmiah/lai",
@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 423135137,
-    "source_tag": "v1.4.9.66",
-    "source_published_at": "2026-10-25T03:56:36Z",
-    "synced_at": "2026-10-25T04:18:16.579265+00:00",
+    "source_release_id": 429317767,
+    "source_tag": "v1.4.9.82",
+    "source_published_at": "2026-10-30T17:37:54Z",
+    "synced_at": "2026-10-30T17:57:20.084834+00:00",
     "assets": [
       {
-        "source_asset_id": 674029509,
-        "filename": "ApexAgent-v1.4.9.66-release-arm64-f05d9400.apk",
-        "original_filename": "ApexAgent-v1.4.9.66-release-arm64-f05d9400.apk",
-        "sha256": "1145be0bb623fe6667a99877c3b83c745b3f152058a8cf618fc66c87167771db",
-        "file_size": 341222051,
+        "source_asset_id": 692894457,
+        "filename": "ApexAgent-v1.4.9.82-release-arm64-e27f3c6a.apk",
+        "original_filename": "ApexAgent-v1.4.9.82-release-arm64-e27f3c6a.apk",
+        "sha256": "c35c6d40ef1bb073fa005e81484af1fddbf7395c18f44b941f7d5543383a3d17",
+        "file_size": 340934783,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 674029504,
-        "filename": "ApexAgent-v1.4.9.66-release-universal-f05d9400.apk",
-        "original_filename": "ApexAgent-v1.4.9.66-release-universal-f05d9400.apk",
-        "sha256": "191adf0dfd00d9d020309da840f88f8834d7288d72bae43bced1f6f3b8f09648",
-        "file_size": 956145976,
+        "source_asset_id": 692894453,
+        "filename": "ApexAgent-v1.4.9.82-release-universal-e27f3c6a.apk",
+        "original_filename": "ApexAgent-v1.4.9.82-release-universal-e27f3c6a.apk",
+        "sha256": "3faefa602ec067175301ada001d421951b4b4b67fcaf0a11241ce90fa06ac062",
+        "file_size": 955858702,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.4.9.66",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.66"
+    "mirror_release_tag": "android-guru-agent-v1.4.9.82",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.82"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -10204,22 +10204,22 @@
   },
   "appman": {
     "source_repository": "utkarsh-naman/AppMan",
-    "source_release_id": 428413825,
-    "source_tag": "v0.1.3",
-    "source_published_at": "2026-10-29T21:29:00Z",
-    "synced_at": "2026-10-30T05:24:33.792859+00:00",
+    "source_release_id": 429236128,
+    "source_tag": "v0.1.4",
+    "source_published_at": "2026-10-30T16:30:18Z",
+    "synced_at": "2026-10-30T17:56:16.169027+00:00",
     "assets": [
       {
-        "source_asset_id": 689961343,
+        "source_asset_id": 692652240,
         "filename": "AppMan-release.apk",
         "original_filename": "AppMan-release.apk",
-        "sha256": "b45d15a84dcb26ed3cb22bda2ae12c12c7ecb41396b55e2b5516c7a75c538b15",
-        "file_size": 12154391,
+        "sha256": "bd9f813a49e642a0cf11158ec2dfab7627ef699e23789c7d5554e4c273a7ec55",
+        "file_size": 11285841,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "appman-v0.1.3",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appman-v0.1.3"
+    "mirror_release_tag": "appman-v0.1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appman-v0.1.4"
   },
   "tachiyomix": {
     "source_repository": "zhzipu/TachiyomiX",
@@ -16766,5 +16766,81 @@
     ],
     "mirror_release_tag": "deepseek-harness-for-android-by-x-v1.2.50",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-for-android-by-x-v1.2.50"
+  },
+  "bdsu-adb-dsu": {
+    "source_repository": "ayzlol/bdsu-adb-dsu",
+    "source_release_id": 428911440,
+    "source_tag": "v1.3.2",
+    "source_published_at": "2026-10-30T10:42:06Z",
+    "synced_at": "2026-10-30T17:56:20.812096+00:00",
+    "assets": [
+      {
+        "source_asset_id": 691778199,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ba8e0c06338bd7b6541edf6b1c29efd07441dc320f88541f30256ad599feb77e",
+        "file_size": 1898989,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "bdsu-adb-dsu-v1.3.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bdsu-adb-dsu-v1.3.2"
+  },
+  "split-voice": {
+    "source_repository": "meatcar/split-voice",
+    "source_release_id": 385215314,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-09-09T03:57:56Z",
+    "synced_at": "2026-10-30T17:57:24.674601+00:00",
+    "assets": [
+      {
+        "source_asset_id": 551932739,
+        "filename": "split-voice-v0.1.0.apk",
+        "original_filename": "split-voice-v0.1.0.apk",
+        "sha256": "9bc6e23bf69a7a0900cc45fd1a16216e7ed90faf26fcf6202382ea473080a384",
+        "file_size": 132080,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "split-voice-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/split-voice-v0.1.0"
+  },
+  "rabbit-sleep-guard": {
+    "source_repository": "rabbitujiang/rabbit-sleep-guard",
+    "source_release_id": 378527469,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-08-28T14:07:14Z",
+    "synced_at": "2026-10-30T17:57:29.948514+00:00",
+    "assets": [
+      {
+        "source_asset_id": 533888840,
+        "filename": "rabbit-sleep-guard-v0.3.0.apk",
+        "original_filename": "rabbit-sleep-guard-v0.3.0.apk",
+        "sha256": "6b53ebdc89c111153866a8ddb4ade90b32be6d41b15fa3ddd8947966e6364675",
+        "file_size": 31508,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "rabbit-sleep-guard-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rabbit-sleep-guard-v0.3.0"
+  },
+  "game-booster-2-0": {
+    "source_repository": "gailowilly649-linux/GAME-BOOSTER-2.0",
+    "source_release_id": 429177746,
+    "source_tag": "v20.6.1-PRO",
+    "source_published_at": "2026-10-30T15:16:39Z",
+    "synced_at": "2026-10-30T17:57:36.963977+00:00",
+    "assets": [
+      {
+        "source_asset_id": 692492614,
+        "filename": "Game_Space.apk",
+        "original_filename": "Game_Space.apk",
+        "sha256": "4ef566e943602e0a8c1a898573b65f4c77c90399fb89f0f44f93057cddbb3905",
+        "file_size": 53532658,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "game-booster-2-0-v20.6.1-PRO",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-2-0-v20.6.1-PRO"
   }
 }

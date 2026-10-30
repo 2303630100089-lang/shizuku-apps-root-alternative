@@ -1885,7 +1885,15 @@
     "Dear ImGui runtime plugin for AutoJs6": "尊敬的AutoJs6 ImGui运行时插件",
     "ptt98hd": "ptt98hd",
     "Tablet-first Android editor for GRID Legends graphics preferences. Root, Shizuku, or manual file access.": "适用于网格传奇图形偏好的平板电脑首款Android编辑器。Root、Shizuku或手动文件访问。",
-    "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.": "dsh-go — DeepSeek线束装进口袋：手机本机运行 ，也能遥控你的电脑。 Android ·非官方。"
+    "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.": "dsh-go — DeepSeek线束装进口袋：手机本机运行 ，也能遥控你的电脑。 Android ·非官方。",
+    "bDSU (adb-dsu)  An app/tool that allows you to use DSU via ADB": "bDSU (adb-dsu) 允许您通过 ADB 使用 DSU 的应用程序/工具",
+    "Free & Open Source Mobile Mixed Reality (MR) and VR Operating System for Android with 6DoF, Hand Tracking, and OpenXR Runtime.": "适用于 Android 的免费开源移动混合现实 (MR) 和 VR 操作系统，具有 6DoF、手部追踪和 OpenXR 运行时。",
+    "Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.": "Android 软件包安装程序支持 APK、XAPK、APKS、APKM 和自定义 APKV 加密格式 - 具有内置应用程序管理器、备份以及通过 root 或 Shizuku 进行静默安装。",
+    "An open-source Android tool that helps prevent unwanted ad redirects and deep links to external apps, with permission prompts and automatic return to the previous app.": "一款开源 Android 工具，可帮助防止不需要的广告重定向和指向外部应用程序的深层链接，并具有权限提示和自动返回到先前应用程序的功能。",
+    "Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.": "实验性 Android 快速设置路由：通过 Shizuku 接收麦克风输入和 LE 耳机输出。",
+    "Native open-source ADB client for iOS: wireless debugging pairing, app manager, APK install, file transfer and shell": "适用于 iOS 的本机开源 ADB 客户端：无线调试配对、应用程序管理器、APK 安装、文件传输和 shell",
+    "Bidirectional sync, import, and export tool for Minecraft worlds between Windows and Android via OneDrive.": "通过 OneDrive 在 Windows 和 Android 之间进行 Minecraft 世界的双向同步、导入和导出工具。",
+    "Use an Android phone with a broken screen from any Windows or Mac laptop. scrcpy + adb launcher, wireless mode, speed tuning, AI phone agent. No root, no app on the phone.": "使用任何 Windows 或 Mac 笔记本电脑屏幕损坏的 Android 手机。 scrcpy + adb启动器，无线模式，速度调节，AI电话代理。没有root，手机上没有应用程序。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3773,6 +3781,14 @@
     "Dear ImGui runtime plugin for AutoJs6": "Уважаемый плагин среды выполнения ImGui для AutoJs6",
     "ptt98hd": "ptt98hd",
     "Tablet-first Android editor for GRID Legends graphics preferences. Root, Shizuku, or manual file access.": "Первый планшетный редактор Android для графических настроек GRID Legends. Root, Shizuku или ручной доступ к файлам.",
-    "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.": "dsh-go — жгут проводов 装进口袋DeepSeek ：手机本机运行，也能遥控你的电脑。Android · Неофициальный."
+    "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.": "dsh-go — жгут проводов 装进口袋DeepSeek ：手机本机运行，也能遥控你的电脑。Android · Неофициальный.",
+    "bDSU (adb-dsu)  An app/tool that allows you to use DSU via ADB": "bDSU (adb-dsu) Приложение/инструмент, позволяющий использовать DSU через ADB.",
+    "Free & Open Source Mobile Mixed Reality (MR) and VR Operating System for Android with 6DoF, Hand Tracking, and OpenXR Runtime.": "Бесплатная мобильная операционная система смешанной реальности (MR) и виртуальной реальности с открытым исходным кодом для Android с 6DoF, отслеживанием рук и средой выполнения OpenXR.",
+    "An open-source Android tool that helps prevent unwanted ad redirects and deep links to external apps, with permission prompts and automatic return to the previous app.": "Инструмент Android с открытым исходным кодом, который помогает предотвратить нежелательные перенаправления рекламы и глубокие ссылки на внешние приложения с помощью запросов на разрешение и автоматического возврата к предыдущему приложению.",
+    "Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format — with built-in app manager, backup, and silent install via root or Shizuku.": "Установщик пакетов Android, поддерживающий APK, XAPK, APKS, APKM и собственный зашифрованный формат APKV — со встроенным менеджером приложений, резервным копированием и автоматической установкой через root или Shizuku.",
+    "Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.": "Экспериментальная маршрутизация быстрых настроек Android: вход для микрофона приемника и выход для наушников LE через Shizuku.",
+    "Native open-source ADB client for iOS: wireless debugging pairing, app manager, APK install, file transfer and shell": "Собственный клиент ADB с открытым исходным кодом для iOS: сопряжение для беспроводной отладки, менеджер приложений, установка APK, передача файлов и оболочка.",
+    "Bidirectional sync, import, and export tool for Minecraft worlds between Windows and Android via OneDrive.": "Инструмент двунаправленной синхронизации, импорта и экспорта миров Minecraft между Windows и Android через OneDrive.",
+    "Use an Android phone with a broken screen from any Windows or Mac laptop. scrcpy + adb launcher, wireless mode, speed tuning, AI phone agent. No root, no app on the phone.": "Используйте телефон Android с разбитым экраном с любого ноутбука с Windows или Mac. scrcpy + программа запуска adb, беспроводной режим, настройка скорости, телефонный агент AI. Ни рута, ни приложения на телефоне."
   }
 }
