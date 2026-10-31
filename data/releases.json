@@ -7376,22 +7376,22 @@
   },
   "folkpatch": {
     "source_repository": "LyraVoid/FolkPatch",
-    "source_release_id": 410559361,
-    "source_tag": "115357",
-    "source_published_at": "2026-10-12T12:03:07Z",
-    "synced_at": "2026-10-14T04:33:36.813828+00:00",
+    "source_release_id": 429247963,
+    "source_tag": "115404",
+    "source_published_at": "2026-10-30T16:24:35Z",
+    "synced_at": "2026-10-31T05:08:40.318367+00:00",
     "assets": [
       {
-        "source_asset_id": 633672084,
-        "filename": "FolkPatch_115357_a843c526_on_main-release.apk",
-        "original_filename": "FolkPatch_115357_a843c526_on_main-release.apk",
-        "sha256": "f73a3cd9438f871e3461954123174aabcf9631e53f465225f729f27a3371cb06",
-        "file_size": 17805181,
+        "source_asset_id": 692684648,
+        "filename": "FolkPatch_115404_0f3f42ba_on_main-release.apk",
+        "original_filename": "FolkPatch_115404_0f3f42ba_on_main-release.apk",
+        "sha256": "1d29c147443ce0986e3d9f5241f9d377dc1e9c7a60ea51c165737748c5302d2f",
+        "file_size": 17378611,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "folkpatch-115357",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/folkpatch-115357"
+    "mirror_release_tag": "folkpatch-115404",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/folkpatch-115404"
   },
   "nearestplane": {
     "source_repository": "Blueangelman36/NearestPlane",
@@ -16842,5 +16842,297 @@
     ],
     "mirror_release_tag": "game-booster-2-0-v20.6.1-PRO",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-2-0-v20.6.1-PRO"
+  },
+  "danmaku-assistant": {
+    "source_repository": "ganzhong2/danmaku-assistant",
+    "source_release_id": 429711520,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-31T04:14:10Z",
+    "synced_at": "2026-10-31T05:08:44.309275+00:00",
+    "assets": [
+      {
+        "source_asset_id": 694311019,
+        "filename": "1.0.apk",
+        "original_filename": "1.0.apk",
+        "sha256": "f96c29cd4f7cb0ab4d645fbf676978f586d44006b6fa86bc84fa3bcae15ba236",
+        "file_size": 6996985,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "danmaku-assistant-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/danmaku-assistant-v1.0.0"
+  },
+  "switchai": {
+    "source_repository": "WSTxda/SwitchAI",
+    "source_release_id": 415229139,
+    "source_tag": "4.2",
+    "source_published_at": "2026-10-17T02:46:17Z",
+    "synced_at": "2026-10-31T05:08:47.846616+00:00",
+    "assets": [
+      {
+        "source_asset_id": 648235554,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "866cb2443560dd1d0b0d9c660b964cb056a3218d007c24dd243d8f1536f0703f",
+        "file_size": 2987830,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "switchai-4.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/switchai-4.2"
+  },
+  "unknownauto": {
+    "source_repository": "GitMag/UnknownAuto",
+    "source_release_id": 428743158,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-10-30T07:13:15Z",
+    "synced_at": "2026-10-31T05:08:50.722902+00:00",
+    "assets": [
+      {
+        "source_asset_id": 691277868,
+        "filename": "UnknownAuto-1.1.apk",
+        "original_filename": "UnknownAuto-1.1.apk",
+        "sha256": "a04d658d3da22c4fbcfd75ee325d2dad54120c93b9217e6185d5a4ce6de8722a",
+        "file_size": 49579,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "unknownauto-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/unknownauto-v1.1"
+  },
+  "voyager": {
+    "source_repository": "AlanHuang99/Voyager",
+    "source_release_id": 425332943,
+    "source_tag": "v1.14.0",
+    "source_published_at": "2026-10-27T10:55:24Z",
+    "synced_at": "2026-10-31T05:09:04.340680+00:00",
+    "assets": [
+      {
+        "source_asset_id": 681311750,
+        "filename": "voyager-v1.14.0-arm64-v8a.apk",
+        "original_filename": "voyager-v1.14.0-arm64-v8a.apk",
+        "sha256": "bf3ed31eaa916e23241043c848f48180ae4ee469195f37418d9e6355ad188651",
+        "file_size": 13349676,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 681311744,
+        "filename": "voyager-v1.14.0-armeabi-v7a.apk",
+        "original_filename": "voyager-v1.14.0-armeabi-v7a.apk",
+        "sha256": "daa97c3ec3e8a8e3d23aff0094c9fd1268c6e238fcbccc4604557915062529d3",
+        "file_size": 13346984,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 681311749,
+        "filename": "voyager-v1.14.0-universal.apk",
+        "original_filename": "voyager-v1.14.0-universal.apk",
+        "sha256": "72c1f2e25c2a4076b585dca746a772a72bfa200044a27e7d459321cc209f37e8",
+        "file_size": 13447612,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 681311748,
+        "filename": "voyager-v1.14.0-x86.apk",
+        "original_filename": "voyager-v1.14.0-x86.apk",
+        "sha256": "c550d6bc6a17bbba738dc004423c94e29bf1d7a362a18c7606e661e4abb4c955",
+        "file_size": 13347700,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 681311769,
+        "filename": "voyager-v1.14.0-x86_64.apk",
+        "original_filename": "voyager-v1.14.0-x86_64.apk",
+        "sha256": "6143f4348af6abe7bcc34706e349eb069540ef7f2597ec0fa5b218e9def8843e",
+        "file_size": 13348782,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "voyager-v1.14.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/voyager-v1.14.0"
+  },
+  "activitylocking": {
+    "source_repository": "Whyms1998/ActivityLocking",
+    "source_release_id": 429611910,
+    "source_tag": "v1.34.1",
+    "source_published_at": "2026-10-31T00:21:36Z",
+    "synced_at": "2026-10-31T05:09:07.679580+00:00",
+    "assets": [
+      {
+        "source_asset_id": 693863365,
+        "filename": "ActivityLock-v1.34.1.apk",
+        "original_filename": "ActivityLock-v1.34.1.apk",
+        "sha256": "9b68d00e0d8a9ca87331ab4b96b15f1ad7073b5cbe690df8334315c5c79db7da",
+        "file_size": 1742955,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "activitylocking-v1.34.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/activitylocking-v1.34.1"
+  },
+  "lunamacro": {
+    "source_repository": "2581414411-blip/LunaMacro",
+    "source_release_id": 429724681,
+    "source_tag": "v0.7.12",
+    "source_published_at": "2026-10-31T04:38:44Z",
+    "synced_at": "2026-10-31T05:09:13.215492+00:00",
+    "assets": [
+      {
+        "source_asset_id": 694373711,
+        "filename": "LunaMacro-0.7.12.apk",
+        "original_filename": "LunaMacro-0.7.12.apk",
+        "sha256": "25bd200401a0b6ea626369077a34afef9a1a2517b4bbba74c41182b2d457022a",
+        "file_size": 46789709,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "lunamacro-v0.7.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lunamacro-v0.7.12"
+  },
+  "autotask": {
+    "source_repository": "chenyubo10665/AutoTask",
+    "source_release_id": 429726505,
+    "source_tag": "v1.5.1",
+    "source_published_at": "2026-10-31T04:43:39Z",
+    "synced_at": "2026-10-31T05:09:24.041311+00:00",
+    "assets": [
+      {
+        "source_asset_id": 694426121,
+        "filename": "AutoTask-1.5.1-arm64-v8a.apk",
+        "original_filename": "AutoTask-1.5.1-arm64-v8a.apk",
+        "sha256": "d8125dc27d2c6e9354ca4eae631eed85507252120f722a9ccfb4387e348a63f6",
+        "file_size": 5613434,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 694426241,
+        "filename": "AutoTask-1.5.1-armeabi-v7a.apk",
+        "original_filename": "AutoTask-1.5.1-armeabi-v7a.apk",
+        "sha256": "8eadd2f4165c35c1c5533517d98afb2bbd52ed0ebe4581bbb49d037fb6373e67",
+        "file_size": 4184308,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 694426003,
+        "filename": "AutoTask-1.5.1-universal.apk",
+        "original_filename": "AutoTask-1.5.1-universal.apk",
+        "sha256": "97d7ad59380447b7bfdf6809e304c9040a21f67ab46ad3b628ecad542124aadb",
+        "file_size": 6406510,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 694426484,
+        "filename": "AutoTask-1.5.1-x86.apk",
+        "original_filename": "AutoTask-1.5.1-x86.apk",
+        "sha256": "aaca655335bf3a34128ef3df622d4456d8335bce7a2f77fa5234765998cda8e3",
+        "file_size": 4299316,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 694426386,
+        "filename": "AutoTask-1.5.1-x86_64.apk",
+        "original_filename": "AutoTask-1.5.1-x86_64.apk",
+        "sha256": "78c02d24d14155e2f4b2be3fa7e5110e3d9f66a4b96934d54cceb377cc73eedd",
+        "file_size": 4325467,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "autotask-v1.5.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotask-v1.5.1"
+  },
+  "fluxlinux": {
+    "source_repository": "zenithblue-oss/fluxlinux",
+    "source_release_id": 406730709,
+    "source_tag": "v2.0.1",
+    "source_published_at": "2026-10-08T11:02:54Z",
+    "synced_at": "2026-10-31T05:09:34.896935+00:00",
+    "assets": [
+      {
+        "source_asset_id": 621570937,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "7e2648aa6039d5bf31776120180ed2a46b7e861b9a91883f4736d1c90a270d81",
+        "file_size": 162887900,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "fluxlinux-v2.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fluxlinux-v2.0.1"
+  },
+  "stop": {
+    "source_repository": "burakgon/stop",
+    "source_release_id": 424049556,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-10-26T09:23:54Z",
+    "synced_at": "2026-10-31T05:09:38.419766+00:00",
+    "assets": [
+      {
+        "source_asset_id": 677647477,
+        "filename": "stop-1.0.0.apk",
+        "original_filename": "stop-1.0.0.apk",
+        "sha256": "13026204657c23a5a53dd2b55c812006c6abdd17d2c2cc5cbf5729432ebcd66c",
+        "file_size": 3312205,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "stop-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stop-v1.0.0"
+  },
+  "alma-android": {
+    "source_repository": "lazyeo/alma-android",
+    "source_release_id": 428887126,
+    "source_tag": "v0.1.4",
+    "source_published_at": "2026-10-30T10:13:42Z",
+    "synced_at": "2026-10-31T05:09:42.461931+00:00",
+    "assets": [
+      {
+        "source_asset_id": 691710771,
+        "filename": "alma-android-v0.1.4.apk",
+        "original_filename": "alma-android-v0.1.4.apk",
+        "sha256": "bcf1a9ad38fc88cd321ffae3c1a64ff3f5f1dfc49e8f870f0e6d80e5e9b24418",
+        "file_size": 9503322,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "alma-android-v0.1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/alma-android-v0.1.4"
+  },
+  "abcheck": {
+    "source_repository": "abanana84/abCheck",
+    "source_release_id": 420842963,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-22T14:46:35Z",
+    "synced_at": "2026-10-31T05:09:45.928767+00:00",
+    "assets": [
+      {
+        "source_asset_id": 666150754,
+        "filename": "abCheck-1.3.0.apk",
+        "original_filename": "abCheck-1.3.0.apk",
+        "sha256": "ac4b1871c37a55066163fdab81db7b96277e5ea05d4cc1b612609baf52a90217",
+        "file_size": 3058597,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "abcheck-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/abcheck-v1.3.0"
+  },
+  "droidbubble": {
+    "source_repository": "Velocity081/droidbubble",
+    "source_release_id": 428283562,
+    "source_tag": "1.3.0",
+    "source_published_at": "2026-10-29T19:05:39Z",
+    "synced_at": "2026-10-31T05:09:51.911064+00:00",
+    "assets": [
+      {
+        "source_asset_id": 689595950,
+        "filename": "Droidbubble.apk",
+        "original_filename": "Droidbubble.apk",
+        "sha256": "443e6fcfc145b2b084a4e44d561f635e2f38f5a2bd27ab186910d78c06708689",
+        "file_size": 67761689,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "droidbubble-1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidbubble-1.3.0"
   }
 }

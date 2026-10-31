@@ -1893,7 +1893,23 @@
     "Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.": "实验性 Android 快速设置路由：通过 Shizuku 接收麦克风输入和 LE 耳机输出。",
     "Native open-source ADB client for iOS: wireless debugging pairing, app manager, APK install, file transfer and shell": "适用于 iOS 的本机开源 ADB 客户端：无线调试配对、应用程序管理器、APK 安装、文件传输和 shell",
     "Bidirectional sync, import, and export tool for Minecraft worlds between Windows and Android via OneDrive.": "通过 OneDrive 在 Windows 和 Android 之间进行 Minecraft 世界的双向同步、导入和导出工具。",
-    "Use an Android phone with a broken screen from any Windows or Mac laptop. scrcpy + adb launcher, wireless mode, speed tuning, AI phone agent. No root, no app on the phone.": "使用任何 Windows 或 Mac 笔记本电脑屏幕损坏的 Android 手机。 scrcpy + adb启动器，无线模式，速度调节，AI电话代理。没有root，手机上没有应用程序。"
+    "Use an Android phone with a broken screen from any Windows or Mac laptop. scrcpy + adb launcher, wireless mode, speed tuning, AI phone agent. No root, no app on the phone.": "使用任何 Windows 或 Mac 笔记本电脑屏幕损坏的 Android 手机。 scrcpy + adb启动器，无线模式，速度调节，AI电话代理。没有root，手机上没有应用程序。",
+    "Sideload and install your favourite Android Auto applications from unknown souces using UnknownAuto with just your phone.": "仅使用您的手机使用 UnknownAuto 从未知来源旁加载并安装您最喜爱的 Android Auto 应用程序。",
+    "Material Design 3 file browser for Android with SFTP, FTP, SMB, WebDAV support": "适用于 Android 的 Material Design 3 文件浏览器，支持 SFTP、FTP、SMB、WebDAV",
+    "FluxLinux is Linux on Android, advanced orchestrator application that transforms your Android device into a versatile Linux workstation.": "FluxLinux 是 Android 上的 Linux 高级编排器应用程序，可将您的 Android 设备转变为多功能 Linux 工作站。",
+    "954349345": "954349345",
+    "自动任务® —— 支持 Shizuku 与无障碍服务的 Android 自动化 App（原作者 xjunz/AutoTask 的后续维护版）": "AutoTask® —— 支持 Shizuku 与无障碍服务的 Android 自动化应用程序（原作者 xjunz/AutoTask 的后续维护版本）",
+    "Easily select, start, and manage your preferred AI digital assistants on Android.": "在 Android 上轻松选择、启动和管理您首选的 AI 数字助理。",
+    "给本地 / 网盘播放器挂上实时弹幕的小工具：自动识别片名、跨平台匹配弹幕、透明悬浮窗实时滚动显示。Windows + Android 双版本（GPL-3.0）。": "给本地/网盘播放器挂上实时弹幕的小工具：自动识别片名、跨平台匹配弹幕、透明悬浮窗实时滚动显示。Windows + Android双版本（GPL-3.0）。",
+    "ccch1mneyyy": "ccch1mneyyy",
+    "WhitePepperLambSoup": "白胡椒羊肉汤",
+    "gailowilly649-linux": "盖洛威利649-linux",
+    "LunaMacro — Local-first Android automation assistant: voice wake-up, offline ASR & vision (Qwen2-VL), Shizuku injection, game automation.    宏月 LunaMacro —— Android 全能自动化助手：本地语音唤醒 · 离线视觉识别 · Shizuku 注入 · 游戏托管": "LunaMacro — 本地优先的 Android 自动化助手：语音唤醒、离线 ASR 和视觉 (Qwen2-VL)、Shizuku 注入、游戏自动化。 宏月 LunaMacro —— Android 全能自动化助手：本地语音唤醒 · 离线视觉识别 · Shizuku 填充 · 游戏托管",
+    "ayzlol": "艾兹洛尔",
+    "Open-source Android device and system diagnostics: hardware info, tests, live monitors and battery tools. No ads or analytics. Formerly ABattery.": "开源 Android 设备和系统诊断：硬件信息、测试、实时监视器和电池工具。没有广告或分析。以前称为 A 电池。",
+    "Xiax550": "夏克斯550",
+    "Unofficial Android client for Alma Desktop — pair over Alma's end-to-end encrypted relay": "Alma Desktop的非官方Android客户端——通过Alma的端到端加密中继进行配对",
+    "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。": "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），突破到点锁死，数据可云端迁移。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3789,6 +3805,22 @@
     "Experimental Android Quick Settings routing: receiver microphone input and LE headphone output through Shizuku.": "Экспериментальная маршрутизация быстрых настроек Android: вход для микрофона приемника и выход для наушников LE через Shizuku.",
     "Native open-source ADB client for iOS: wireless debugging pairing, app manager, APK install, file transfer and shell": "Собственный клиент ADB с открытым исходным кодом для iOS: сопряжение для беспроводной отладки, менеджер приложений, установка APK, передача файлов и оболочка.",
     "Bidirectional sync, import, and export tool for Minecraft worlds between Windows and Android via OneDrive.": "Инструмент двунаправленной синхронизации, импорта и экспорта миров Minecraft между Windows и Android через OneDrive.",
-    "Use an Android phone with a broken screen from any Windows or Mac laptop. scrcpy + adb launcher, wireless mode, speed tuning, AI phone agent. No root, no app on the phone.": "Используйте телефон Android с разбитым экраном с любого ноутбука с Windows или Mac. scrcpy + программа запуска adb, беспроводной режим, настройка скорости, телефонный агент AI. Ни рута, ни приложения на телефоне."
+    "Use an Android phone with a broken screen from any Windows or Mac laptop. scrcpy + adb launcher, wireless mode, speed tuning, AI phone agent. No root, no app on the phone.": "Используйте телефон Android с разбитым экраном с любого ноутбука с Windows или Mac. scrcpy + программа запуска adb, беспроводной режим, настройка скорости, телефонный агент AI. Ни рута, ни приложения на телефоне.",
+    "Material Design 3 file browser for Android with SFTP, FTP, SMB, WebDAV support": "Файловый браузер Material Design 3 для Android с поддержкой SFTP, FTP, SMB, WebDAV",
+    "Sideload and install your favourite Android Auto applications from unknown souces using UnknownAuto with just your phone.": "Загружайте и устанавливайте любимые приложения Android Auto из неизвестных источников с помощью UnknownAuto только на своем телефоне.",
+    "FluxLinux is Linux on Android, advanced orchestrator application that transforms your Android device into a versatile Linux workstation.": "FluxLinux — это Linux на Android, расширенное приложение-оркестратор, которое превращает ваше устройство Android в универсальную рабочую станцию ​​Linux.",
+    "954349345": "954349345",
+    "给本地 / 网盘播放器挂上实时弹幕的小工具：自动识别片名、跨平台匹配弹幕、透明悬浮窗实时滚动显示。Windows + Android 双版本（GPL-3.0）。": "给本地 /网盘播放器挂上实时弹幕的小工具:自动识别片名、跨平Используйте Windows. + Android 双版本(GPL-3.0).",
+    "Easily select, start, and manage your preferred AI digital assistants on Android.": "Легко выбирайте, запускайте и управляйте предпочитаемыми цифровыми помощниками с искусственным интеллектом на Android.",
+    "自动任务® —— 支持 Shizuku 与无障碍服务的 Android 自动化 App（原作者 xjunz/AutoTask 的后续维护版）": "自动任务® —— 支持 Shizuku 与无障碍服务的 Приложение 自动化 для Android (原作者 xjunz/AutoTask 的后续维护版)",
+    "gailowilly649-linux": "gailowilly649-linux",
+    "Open-source Android device and system diagnostics: hardware info, tests, live monitors and battery tools. No ads or analytics. Formerly ABattery.": "Диагностика устройств и систем Android с открытым исходным кодом: информация об оборудовании, тесты, живые мониторы и инструменты для работы с аккумулятором. Никакой рекламы и аналитики. Ранее ABattery.",
+    "Xiax550": "Сякс550",
+    "ccch1mneyyy": "ccch1mneyyy",
+    "WhitePepperLambSoup": "БелыйперецЯгненокСуп",
+    "Unofficial Android client for Alma Desktop — pair over Alma's end-to-end encrypted relay": "Неофициальный Android-клиент для Alma Desktop — подключение через сквозной зашифрованный ретранслятор Alma",
+    "LunaMacro — Local-first Android automation assistant: voice wake-up, offline ASR & vision (Qwen2-VL), Shizuku injection, game automation.    宏月 LunaMacro —— Android 全能自动化助手：本地语音唤醒 · 离线视觉识别 · Shizuku 注入 · 游戏托管": "LunaMacro — первый локальный помощник по автоматизации Android: голосовое пробуждение, автономное ASR и зрение (Qwen2-VL), внедрение Shizuku, автоматизация игр. Приложение LunaMacro —— Android 全能自动化助手:本地语音唤醒 · 离线视觉识别 · Shizuku 注入 · 游戏托管",
+    "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。": "Shizuku 版 Android 界面锁定 + приложение 自律工具:锁住任意的任意界面（推荐流/朋友圈）,限额到点锁死,数据可云端迁移。",
+    "ayzlol": "айзлол"
   }
 }
