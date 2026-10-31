@@ -260,16 +260,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **setedit-master** | NETO-DEV66 | `v3.7` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/setedit-master-v3.7) | [Upstream](https://github.com/NETO-DEV66/setedit-master/releases) |
-| ⚡ **totch** | ptt98hd | `v1.7.0` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/totch-v1.7.0) | [Upstream](https://github.com/ptt98hd/totch/releases) |
-| ⚡ **cuelet** | DogT1 | `v0.1.2` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cuelet-v0.1.2) | [Upstream](https://github.com/DogT1/cuelet/releases) |
-| ⚡ **bunnylock-private** | 717998477 | `v1.3.4-patched.4` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bunnylock-private-v1.3.4-patched.4) | [Upstream](https://github.com/717998477/bunnylock-private/releases) |
-| ⚡ **ClassicPixelSearch** | Nornthenight | `v1.1` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/classicpixelsearch-v1.1) | [Upstream](https://github.com/Nornthenight/ClassicPixelSearch/releases) |
-| ⚡ **AmbiAnalog** | mkaflowski | `v1.1` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ambianalog-v1.1) | [Upstream](https://github.com/mkaflowski/AmbiAnalog/releases) |
-| ⚡ **chronics** | HmnDev-Tech | `v1.0.0-beta01` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chronics-v1.0.0-beta01) | [Upstream](https://github.com/HmnDev-Tech/chronics/releases) |
-| ⚡ **CarDroid** | pavunato | `v0.1.2` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cardroid-v0.1.2) | [Upstream](https://github.com/pavunato/CarDroid/releases) |
-| ⚡ **ReSync** | lucasvasconcelosrocha-ui | `v1.0.24` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/resync-v1.0.24) | [Upstream](https://github.com/lucasvasconcelosrocha-ui/ReSync/releases) |
-| ⚡ **Shelly** | RYOITABASHI | `v8.1.2` | 2026-10-29 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shelly-v8.1.2) | [Upstream](https://github.com/RYOITABASHI/Shelly/releases) |
+| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.4.9.82` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.82) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
+| ⚡ **AppMan** | utkarsh-naman | `v0.1.4` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appman-v0.1.4) | [Upstream](https://github.com/utkarsh-naman/AppMan/releases) |
+| ⚡ **GAME-BOOSTER-2.0** | gailowilly649-linux | `v20.6.1-PRO` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/game-booster-2-0-v20.6.1-PRO) | [Upstream](https://github.com/gailowilly649-linux/GAME-BOOSTER-2.0/releases) |
+| ⚡ **bdsu-adb-dsu** | ayzlol | `v1.3.2` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bdsu-adb-dsu-v1.3.2) | [Upstream](https://github.com/ayzlol/bdsu-adb-dsu/releases) |
+| ⚡ **DeepSeek-Harness-for-Android-by-X** | Xiax550 | `v1.2.50` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-for-android-by-x-v1.2.50) | [Upstream](https://github.com/Xiax550/DeepSeek-Harness-for-Android-by-X/releases) |
+| ⚡ **AutoJs6-Plugin-NodeJs-Runtime** | SuperMonster003 | `v2.0.0` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autojs6-plugin-nodejs-runtime-v2.0.0) | [Upstream](https://github.com/SuperMonster003/AutoJs6-Plugin-NodeJs-Runtime/releases) |
+| ⚡ **AutoJs6-Plugin-ImGui** | SuperMonster003 | `v1.14.0` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autojs6-plugin-imgui-v1.14.0) | [Upstream](https://github.com/SuperMonster003/AutoJs6-Plugin-ImGui/releases) |
+| ⚡ **agent-workspace-android** | WhitePepperLambSoup | `v2.6.1` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/agent-workspace-android-v2.6.1) | [Upstream](https://github.com/WhitePepperLambSoup/agent-workspace-android/releases) |
+| ⚡ **dsh-go** | ccch1mneyyy | `v1.0.0` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-go-v1.0.0) | [Upstream](https://github.com/ccch1mneyyy/dsh-go/releases) |
+| ⚡ **procmanager** | 954349345 | `v1.1` | 2026-10-30 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/procmanager-v1.1) | [Upstream](https://github.com/954349345/procmanager/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
