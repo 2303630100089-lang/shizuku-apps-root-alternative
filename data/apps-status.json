@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-30T17:57:25.980725+00:00",
+    "last_checked": "2026-10-31T17:09:27.413161+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-30T17:57:39.589973+00:00",
+    "last_checked": "2026-10-31T17:09:26.897451+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -332,10 +332,10 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "no-update",
-    "last_checked": "2026-10-30T17:57:37.586049+00:00",
-    "latest_version": "zako3.16hp",
-    "last_synced": "2026-10-17T15:23:20.236157+00:00"
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:26.327514+00:00",
+    "latest_version": "zako3.17",
+    "last_synced": "2026-10-31T17:09:26.327514+00:00"
   },
   "aether": {
     "status": "no-update",
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-30T17:56:22.430928+00:00",
+    "last_checked": "2026-10-31T17:09:27.903913+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-30T17:56:21.751265+00:00",
+    "last_checked": "2026-10-31T17:09:28.489218+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-30T17:57:25.384508+00:00",
+    "last_checked": "2026-10-31T17:09:25.156104+00:00",
     "latest_version": "v0.3.7",
     "last_synced": "2026-10-29T18:21:24.320336+00:00"
   },
@@ -999,7 +999,7 @@
   },
   "phoneguard": {
     "status": "no-apk",
-    "last_checked": "2026-10-30T17:57:30.502031+00:00",
+    "last_checked": "2026-10-31T17:09:24.449090+00:00",
     "latest_version": "v0.4.0",
     "last_synced": "2026-10-01T03:38:31.435544+00:00"
   },
@@ -1041,9 +1041,9 @@
   },
   "android-guru-agent": {
     "status": "synced",
-    "last_checked": "2026-10-30T17:57:20.084857+00:00",
-    "latest_version": "v1.4.9.82",
-    "last_synced": "2026-10-30T17:57:20.084857+00:00"
+    "last_checked": "2026-10-31T17:10:51.563103+00:00",
+    "latest_version": "v1.5.10",
+    "last_synced": "2026-10-31T17:10:51.563103+00:00"
   },
   "project-v7": {
     "status": "no-apk",
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-30T17:57:38.942306+00:00",
+    "last_checked": "2026-10-31T17:10:57.277985+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1685,7 +1685,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-30T17:57:38.841723+00:00",
+    "last_checked": "2026-10-31T17:09:25.281525+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -4732,5 +4732,68 @@
     "last_checked": "2026-10-31T05:09:51.911081+00:00",
     "latest_version": "1.3.0",
     "last_synced": "2026-10-31T05:09:51.911081+00:00"
+  },
+  "freeze": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:05.749465+00:00",
+    "latest_version": "v2.3.0",
+    "last_synced": "2026-10-31T17:09:05.749465+00:00"
+  },
+  "guang-lab": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:09.895549+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-10-31T17:09:09.895549+00:00"
+  },
+  "io-github-codecodegogogo-freeze": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:13.392771+00:00",
+    "latest_version": "20300-2.3.0-g4d5683c",
+    "last_synced": "2026-10-31T17:09:13.392771+00:00"
+  },
+  "hybridfilexfer": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:16.677202+00:00",
+    "latest_version": "v3.1.0",
+    "last_synced": "2026-10-31T17:09:16.677202+00:00"
+  },
+  "shiroikuma-jiyusagyoban": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:21.076561+00:00",
+    "latest_version": "0.2.94+2026-09-30.11-19.ga3b4fda4+113",
+    "last_synced": "2026-10-31T17:09:21.076561+00:00"
+  },
+  "brig": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:24.288722+00:00",
+    "latest_version": "v1.5",
+    "last_synced": "2026-10-31T17:09:24.288722+00:00"
+  },
+  "redmagicx": {
+    "status": "no-apk",
+    "last_checked": "2026-10-31T17:09:28.741381+00:00",
+    "latest_version": "v0.5.0"
+  },
+  "fe-by-andy": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:09:32.533082+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-10-31T17:09:32.533082+00:00"
+  },
+  "jarvis": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:10:57.182464+00:00",
+    "latest_version": "v0.0.2",
+    "last_synced": "2026-10-31T17:10:57.182464+00:00"
+  },
+  "bridgecoil": {
+    "status": "synced",
+    "last_checked": "2026-10-31T17:11:01.464028+00:00",
+    "latest_version": "v0.1.7",
+    "last_synced": "2026-10-31T17:11:01.464028+00:00"
+  },
+  "cleanyourtv-magcubic-hy320pro-launcher": {
+    "status": "no-apk",
+    "last_checked": "2026-10-31T17:11:01.777439+00:00"
   }
 }

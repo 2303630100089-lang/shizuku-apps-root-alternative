@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 415475054,
-    "source_tag": "zako3.16hp",
-    "source_published_at": "2026-10-17T00:03:20Z",
-    "synced_at": "2026-10-17T15:23:20.236136+00:00",
+    "source_release_id": 429728943,
+    "source_tag": "zako3.17",
+    "source_published_at": "2026-10-31T05:24:12Z",
+    "synced_at": "2026-10-31T17:09:26.327493+00:00",
     "assets": [
       {
-        "source_asset_id": 650376868,
-        "filename": "shizako-zako3.16hp-release.apk",
-        "original_filename": "shizako-zako3.16hp-release.apk",
-        "sha256": "2e2b00d7804283025645fa179d72d807e7a585b814e75b3a5fd78128bd83c58b",
-        "file_size": 7331240,
+        "source_asset_id": 694457981,
+        "filename": "shizako-zako3.17-release.apk",
+        "original_filename": "shizako-zako3.17-release.apk",
+        "sha256": "07c0c96df59875d0061b6b6f51e987c059df2114915518f244fb275d7be0505e",
+        "file_size": 7340276,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.16hp",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.16hp"
+    "mirror_release_tag": "shizako-zako3.17",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.17"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 429317767,
-    "source_tag": "v1.4.9.82",
-    "source_published_at": "2026-10-30T17:37:54Z",
-    "synced_at": "2026-10-30T17:57:20.084834+00:00",
+    "source_release_id": 430065331,
+    "source_tag": "v1.5.10",
+    "source_published_at": "2026-10-31T16:58:58Z",
+    "synced_at": "2026-10-31T17:10:51.563082+00:00",
     "assets": [
       {
-        "source_asset_id": 692894457,
-        "filename": "ApexAgent-v1.4.9.82-release-arm64-e27f3c6a.apk",
-        "original_filename": "ApexAgent-v1.4.9.82-release-arm64-e27f3c6a.apk",
-        "sha256": "c35c6d40ef1bb073fa005e81484af1fddbf7395c18f44b941f7d5543383a3d17",
-        "file_size": 340934783,
+        "source_asset_id": 695945858,
+        "filename": "ApexAgent-v1.5.10-release-arm64-676a9f6d.apk",
+        "original_filename": "ApexAgent-v1.5.10-release-arm64-676a9f6d.apk",
+        "sha256": "c08b88b0a65eec10a398d2c26d9107bb715ff6c16ca624070490cd09a89b1b8d",
+        "file_size": 341393616,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 692894453,
-        "filename": "ApexAgent-v1.4.9.82-release-universal-e27f3c6a.apk",
-        "original_filename": "ApexAgent-v1.4.9.82-release-universal-e27f3c6a.apk",
-        "sha256": "3faefa602ec067175301ada001d421951b4b4b67fcaf0a11241ce90fa06ac062",
-        "file_size": 955858702,
+        "source_asset_id": 695945857,
+        "filename": "ApexAgent-v1.5.10-release-universal-676a9f6d.apk",
+        "original_filename": "ApexAgent-v1.5.10-release-universal-676a9f6d.apk",
+        "sha256": "f0136b60c3dced094cbefc4199af2ec17553f2ed29ff6d8e8a781d1851b8a4ba",
+        "file_size": 956315056,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.4.9.82",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.4.9.82"
+    "mirror_release_tag": "android-guru-agent-v1.5.10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.5.10"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -17134,5 +17134,176 @@
     ],
     "mirror_release_tag": "droidbubble-1.3.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidbubble-1.3.0"
+  },
+  "freeze": {
+    "source_repository": "codecodegogogo/Freeze",
+    "source_release_id": 424588957,
+    "source_tag": "v2.3.0",
+    "source_published_at": "2026-10-26T18:02:33Z",
+    "synced_at": "2026-10-31T17:09:05.749434+00:00",
+    "assets": [
+      {
+        "source_asset_id": 679006261,
+        "filename": "Calendar-v2.3.0-g4d5683c.apk",
+        "original_filename": "Calendar-v2.3.0-g4d5683c.apk",
+        "sha256": "d1f19be9949e9c88c658f059d22a5dcf1a7837f13f84144381281961ce888d2d",
+        "file_size": 5603721,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "freeze-v2.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/freeze-v2.3.0"
+  },
+  "guang-lab": {
+    "source_repository": "Yukstarlight/guang-lab",
+    "source_release_id": 429991630,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-10-31T14:39:50Z",
+    "synced_at": "2026-10-31T17:09:09.895527+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695624511,
+        "filename": "GuangLab-1.0.1.apk",
+        "original_filename": "GuangLab-1.0.1.apk",
+        "sha256": "4955d4438d13f71cbdb734096893479dbdcd4b3fa0a86b76d794ffa70f609fe5",
+        "file_size": 5129905,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "guang-lab-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guang-lab-v1.0.1"
+  },
+  "io-github-codecodegogogo-freeze": {
+    "source_repository": "Xposed-Modules-Repo/io.github.codecodegogogo.Freeze",
+    "source_release_id": 425222991,
+    "source_tag": "20300-2.3.0-g4d5683c",
+    "source_published_at": "2026-10-27T09:02:35Z",
+    "synced_at": "2026-10-31T17:09:13.392745+00:00",
+    "assets": [
+      {
+        "source_asset_id": 681028450,
+        "filename": "Calendar-v2.3.0-g4d5683c.apk",
+        "original_filename": "Calendar-v2.3.0-g4d5683c.apk",
+        "sha256": "d1f19be9949e9c88c658f059d22a5dcf1a7837f13f84144381281961ce888d2d",
+        "file_size": 5603721,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "io-github-codecodegogogo-freeze-20300-2.3.0-g4d5683c",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/io-github-codecodegogogo-freeze-20300-2.3.0-g4d5683c"
+  },
+  "hybridfilexfer": {
+    "source_repository": "yizhiruonan/HybridFileXfer",
+    "source_release_id": 430035972,
+    "source_tag": "v3.1.0",
+    "source_published_at": "2026-10-31T16:03:13Z",
+    "synced_at": "2026-10-31T17:09:16.677179+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695817067,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "7940c523df9d6e5cbbff488b70a75525b06659c53579b075c6b5ec20aadfc05e",
+        "file_size": 2894129,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hybridfilexfer-v3.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hybridfilexfer-v3.1.0"
+  },
+  "shiroikuma-jiyusagyoban": {
+    "source_repository": "ShiroiKuma0/shiroikuma-jiyusagyoban",
+    "source_release_id": 429857959,
+    "source_tag": "0.2.94+2026-09-30.11-19.ga3b4fda4+113",
+    "source_published_at": "2026-10-31T10:09:38Z",
+    "synced_at": "2026-10-31T17:09:21.076536+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695029419,
+        "filename": "shiroikuma-jiyusagyoban_0.2.94-2026-09-30.11-19.ga3b4fda4-113_arm64-v8a.apk",
+        "original_filename": "shiroikuma-jiyusagyoban_0.2.94+2026-09-30.11-19.ga3b4fda4+113_arm64-v8a.apk",
+        "sha256": "49c9dae3cd575feb5f095652faea76e0afa7bbfb6d1b9c792aec71b071f17971",
+        "file_size": 17291964,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-113",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-113"
+  },
+  "brig": {
+    "source_repository": "pridgey/Brig",
+    "source_release_id": 430066329,
+    "source_tag": "v1.5",
+    "source_published_at": "2026-10-31T17:00:19Z",
+    "synced_at": "2026-10-31T17:09:24.288701+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695949572,
+        "filename": "Brig-1.5.apk",
+        "original_filename": "Brig-1.5.apk",
+        "sha256": "472221c84e16c0c78506ff7c99a64a1a07b1d3c70f40d793f1ef10fd29c60c8f",
+        "file_size": 3330218,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "brig-v1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brig-v1.5"
+  },
+  "fe-by-andy": {
+    "source_repository": "Andy-scy/fe-by-Andy",
+    "source_release_id": 429973293,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-10-31T14:04:49Z",
+    "synced_at": "2026-10-31T17:09:32.533061+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695541482,
+        "filename": "Fe-v0.1.0.apk",
+        "original_filename": "Fe-v0.1.0.apk",
+        "sha256": "c976f40d0360dac200fefae73ee7773ac1f9ad245cbb8da2e59f9cc64baaf5fa",
+        "file_size": 19829387,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "fe-by-andy-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fe-by-andy-v0.1.0"
+  },
+  "jarvis": {
+    "source_repository": "mengtian999/jarvis",
+    "source_release_id": 429889310,
+    "source_tag": "v0.0.2",
+    "source_published_at": "2026-10-31T11:19:01Z",
+    "synced_at": "2026-10-31T17:10:57.182450+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695182115,
+        "filename": "Jarvis-v0.0.2.apk",
+        "original_filename": "Jarvis-v0.0.2.apk",
+        "sha256": "fbb1692574c661ec5ec3751d206a520e6f8c7df0ac307a81ef9838768e6a3ea8",
+        "file_size": 65889819,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "jarvis-v0.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-v0.0.2"
+  },
+  "bridgecoil": {
+    "source_repository": "johnneerdael/bridgecoil",
+    "source_release_id": 429955473,
+    "source_tag": "v0.1.7",
+    "source_published_at": "2026-10-31T13:29:49Z",
+    "synced_at": "2026-10-31T17:11:01.464010+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695464606,
+        "filename": "Bridgecoil-0.1.7-arm64.apk",
+        "original_filename": "Bridgecoil-0.1.7-arm64.apk",
+        "sha256": "247dcece9524e791b3a93a556a7b783e133cb4352a40bfa3707a75592d274823",
+        "file_size": 25593669,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bridgecoil-v0.1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridgecoil-v0.1.7"
   }
 }

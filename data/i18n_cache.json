@@ -1909,7 +1909,17 @@
     "Open-source Android device and system diagnostics: hardware info, tests, live monitors and battery tools. No ads or analytics. Formerly ABattery.": "开源 Android 设备和系统诊断：硬件信息、测试、实时监视器和电池工具。没有广告或分析。以前称为 A 电池。",
     "Xiax550": "夏克斯550",
     "Unofficial Android client for Alma Desktop — pair over Alma's end-to-end encrypted relay": "Alma Desktop的非官方Android客户端——通过Alma的端到端加密中继进行配对",
-    "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。": "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），突破到点锁死，数据可云端迁移。"
+    "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。": "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），突破到点锁死，数据可云端迁移。",
+    "MAIN PROJECT: CleanYourTV-based Magcubic HY320 Pro launcher. Basic and Advanced editions, integrated settings, optional helper, source, APK releases and setup/recovery guides.": "主要项目：基于 CleanYourTV 的 Magcubic HY320 Pro 启动器。基本版和高级版、集成设置、可选帮助程序、源代码、APK 版本和设置/恢复指南。",
+    "⚡ Modern, high-performance SA/VC/III .IMG archive & .TXD texture tool for Android (Android 12-16) with Shizuku & Material 3": "⚡ 现代、高性能 SA/VC/III .IMG 存档和 .TXD 纹理工具，适用于 Android (Android 12-16)，带有 Shizuku 和 Material 3",
+    "白い熊 作業盤 — downstream fork of OpenTasker (FOSS Tasker alternative), renamed to install side-by-side, with custom intent actions to drive the sister apps.": "白い熊 作业盘 — OpenTasker（FOSS Tasker 替代品）的下游分支，重命名为并排安装，具有自定义意图操作来驱动姐妹应用程序。",
+    "一个在hail的基础上继续开发的APP停用/隐藏项目，支持root等模式": "一个在冰雹的基础上隐藏继续开发的APP失效/项目，支持root等模式",
+    "光 · 实验室 — 终极 Android 工具箱：Shizuku / 无线调试 ADB / Root 三通道 shell 直写，一键授权、冻结卸载、任意命令。GPL-3.0": "光 · 实验室 — 终极 Android 工具箱：Shizuku / 无线调试 ADB / Root 三通道 shell 直写，一键授权、冻结卸载、任意命令。GPL-3.0",
+    "Desktop app (Python + Tkinter) that cleans up an Android TV over wireless ADB, reversibly. First version; see TV-Debloat-designUNIQUE.": "桌面应用程序（Python + Tkinter）通过无线 ADB 可逆地清理 Android TV。第一个版本；参见 TV-Debloat-designUNIQUE。",
+    "App-Store für freie Software aus F-Droid-Paketquellen, mit Begleit-App für Wear OS · App store for free software from F-Droid repositories, with a Wear OS companion": "F-Droid-Paketquellen 的免费软件应用程序商店，适用于 Wear OS 的 Begleit-App · 来自 F-Droid 存储库的免费软件的应用程序商店，以及 Wear OS 伴侣",
+    "MCP server that gives coding agents hands and eyes on a real Android device: screenshots, UI tree, taps, typing, app lifecycle, logcat, wireless adb.": "MCP 服务器为编码代理提供了真实 Android 设备的手和眼：屏幕截图、UI 树、点击、打字、应用程序生命周期、logcat、无线 adb。",
+    "Fe（by Andy）：读取本机 E听说 已下载作业答案的 Android 阅读器 · Material 3 / Monet 动态取色 / Shizuku 直读 / 答案速览面板": "Fe（作者：Andy）：读取本机 E听说已下载作业答案的Android阅读器·素材3 / 莫奈动态取色 / 雫直读 / 答案速览面板",
+    "荣耀临时 root 工具，目前仅在 Magic9 Pro Max 测试，仅用于个人研究。Experimental temporary-root research tool for Honor (tested on Magic9 Pro Max - WKL-AN20/WKL-AN80).": "荣耀临时root工具，目前仅在Magic9 Pro Max测试，仅供个人研究。荣耀实验性临时root研究工具（在Magic9 Pro Max - WKL-AN20/WKL-AN80上测试）。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3821,6 +3831,16 @@
     "Unofficial Android client for Alma Desktop — pair over Alma's end-to-end encrypted relay": "Неофициальный Android-клиент для Alma Desktop — подключение через сквозной зашифрованный ретранслятор Alma",
     "LunaMacro — Local-first Android automation assistant: voice wake-up, offline ASR & vision (Qwen2-VL), Shizuku injection, game automation.    宏月 LunaMacro —— Android 全能自动化助手：本地语音唤醒 · 离线视觉识别 · Shizuku 注入 · 游戏托管": "LunaMacro — первый локальный помощник по автоматизации Android: голосовое пробуждение, автономное ASR и зрение (Qwen2-VL), внедрение Shizuku, автоматизация игр. Приложение LunaMacro —— Android 全能自动化助手:本地语音唤醒 · 离线视觉识别 · Shizuku 注入 · 游戏托管",
     "Shizuku 版 Android 界面锁定 + 自律工具：锁住任意 App 的任意界面（推荐流/朋友圈），限额到点锁死，数据可云端迁移。": "Shizuku 版 Android 界面锁定 + приложение 自律工具:锁住任意的任意界面（推荐流/朋友圈）,限额到点锁死,数据可云端迁移。",
-    "ayzlol": "айзлол"
+    "ayzlol": "айзлол",
+    "MAIN PROJECT: CleanYourTV-based Magcubic HY320 Pro launcher. Basic and Advanced editions, integrated settings, optional helper, source, APK releases and setup/recovery guides.": "ОСНОВНОЙ ПРОЕКТ: Программа запуска Magcubic HY320 Pro на базе CleanYourTV. Базовая и расширенная версии, встроенные настройки, дополнительный помощник, исходный код, выпуски APK и руководства по настройке и восстановлению.",
+    "⚡ Modern, high-performance SA/VC/III .IMG archive & .TXD texture tool for Android (Android 12-16) with Shizuku & Material 3": "⚡ Современный высокопроизводительный инструмент для архивирования SA/VC/III .IMG и текстур .TXD для Android (Android 12–16) с Shizuku и Material 3.",
+    "白い熊 作業盤 — downstream fork of OpenTasker (FOSS Tasker alternative), renamed to install side-by-side, with custom intent actions to drive the sister apps.": "白い熊 作業盤 — нижестоящая ветвь OpenTasker (альтернатива FOSS Tasker), переименованная для параллельной установки, с настраиваемыми действиями по намерению для управления родственными приложениями.",
+    "Desktop app (Python + Tkinter) that cleans up an Android TV over wireless ADB, reversibly. First version; see TV-Debloat-designUNIQUE.": "Настольное приложение (Python + Tkinter), которое очищает Android TV через беспроводной ADB, обратимо. Первая версия; см. TV-Debloat-designUNIQUE.",
+    "一个在hail的基础上继续开发的APP停用/隐藏项目，支持root等模式": "一个在hail的基础上继续开发的APP停用/隐藏项目，支持root等模式",
+    "光 · 实验室 — 终极 Android 工具箱：Shizuku / 无线调试 ADB / Root 三通道 shell 直写，一键授权、冻结卸载、任意命令。GPL-3.0": "光 · 实验室 — 终极 Android Версия: Shizuku / 无线调试 ADB / Root 三通道 оболочка GPL-3.0 распространяется на лицензии GPL-3.0.",
+    "荣耀临时 root 工具，目前仅在 Magic9 Pro Max 测试，仅用于个人研究。Experimental temporary-root research tool for Honor (tested on Magic9 Pro Max - WKL-AN20/WKL-AN80).": "Экспериментальный инструмент исследования временных корневых прав для Honor (проверено на Magic9 Pro Max — WKL-AN20/WKL-AN80).",
+    "App-Store für freie Software aus F-Droid-Paketquellen, mit Begleit-App für Wear OS · App store for free software from F-Droid repositories, with a Wear OS companion": "Магазин приложений для бесплатного программного обеспечения на F-Droid-Paketquellen, mit Begleit-App for Wear OS · Магазин приложений для бесплатного программного обеспечения из репозиториев F-Droid с сопутствующим Wear OS",
+    "MCP server that gives coding agents hands and eyes on a real Android device: screenshots, UI tree, taps, typing, app lifecycle, logcat, wireless adb.": "Сервер MCP, который дает агентам кодирования руки и глаза на реальном устройстве Android: снимки экрана, дерево пользовательского интерфейса, нажатия, ввод текста, жизненный цикл приложения, logcat, беспроводной adb.",
+    "Fe（by Andy）：读取本机 E听说 已下载作业答案的 Android 阅读器 · Material 3 / Monet 动态取色 / Shizuku 直读 / 答案速览面板": "Fe (от Энди): 读取本机 E听说 已下载作业答案的 Android 阅读器 · Material 3 / Monet 动态取色 / Shizuku 直读 / 答案速览面板"
   }
 }
