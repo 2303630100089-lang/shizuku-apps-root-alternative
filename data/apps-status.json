@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-10-31T17:09:27.413161+00:00",
+    "last_checked": "2026-11-01T17:51:43.642644+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-10-31T17:09:26.897451+00:00",
+    "last_checked": "2026-11-01T17:52:06.895820+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -332,8 +332,8 @@
     "last_synced": "2026-09-29T11:52:14.226535+00:00"
   },
   "shizako": {
-    "status": "synced",
-    "last_checked": "2026-10-31T17:09:26.327514+00:00",
+    "status": "no-update",
+    "last_checked": "2026-11-01T17:51:55.287220+00:00",
     "latest_version": "zako3.17",
     "last_synced": "2026-10-31T17:09:26.327514+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-10-31T17:09:27.903913+00:00",
+    "last_checked": "2026-11-01T17:51:37.565809+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-10-31T17:09:28.489218+00:00",
+    "last_checked": "2026-11-01T17:51:59.851969+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-10-31T17:09:25.156104+00:00",
+    "last_checked": "2026-11-01T17:51:43.070848+00:00",
     "latest_version": "v0.3.7",
     "last_synced": "2026-10-29T18:21:24.320336+00:00"
   },
@@ -999,7 +999,7 @@
   },
   "phoneguard": {
     "status": "no-apk",
-    "last_checked": "2026-10-31T17:09:24.449090+00:00",
+    "last_checked": "2026-11-01T17:51:43.211100+00:00",
     "latest_version": "v0.4.0",
     "last_synced": "2026-10-01T03:38:31.435544+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-10-31T17:10:57.277985+00:00",
+    "last_checked": "2026-11-01T17:51:54.837145+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1489,7 +1489,7 @@
   },
   "folkpatch": {
     "status": "no-update",
-    "last_checked": "2026-11-01T05:40:48.559151+00:00",
+    "last_checked": "2026-11-01T17:51:42.426282+00:00",
     "latest_version": "115404",
     "last_synced": "2026-10-31T05:08:40.318405+00:00"
   },
@@ -1685,7 +1685,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-10-31T17:09:25.281525+00:00",
+    "last_checked": "2026-11-01T17:51:43.703116+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -4877,5 +4877,99 @@
     "status": "no-apk",
     "last_checked": "2026-11-01T05:41:29.223444+00:00",
     "latest_version": "v2.0.0"
+  },
+  "novafiles": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:51:41.686587+00:00",
+    "latest_version": "v1.0.0-beta3",
+    "last_synced": "2026-11-01T17:51:41.686587+00:00"
+  },
+  "kizuku": {
+    "status": "no-apk",
+    "last_checked": "2026-11-01T17:51:42.032248+00:00"
+  },
+  "auto-skip": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:51:46.887279+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-01T17:51:46.887279+00:00"
+  },
+  "openthumb": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:51:51.772893+00:00",
+    "latest_version": "v2.0.1",
+    "last_synced": "2026-11-01T17:51:51.772893+00:00"
+  },
+  "csync": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:51:54.751024+00:00",
+    "latest_version": "0.2.0",
+    "last_synced": "2026-11-01T17:51:54.751024+00:00"
+  },
+  "flipimeswitch": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:51:59.188366+00:00",
+    "latest_version": "v1.7",
+    "last_synced": "2026-11-01T17:51:59.188366+00:00"
+  },
+  "pocketsurf": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:02.824931+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-11-01T17:52:02.824931+00:00"
+  },
+  "fuck-cos-dark-mode-themes": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:05.913491+00:00",
+    "latest_version": "0.2.1",
+    "last_synced": "2026-11-01T17:52:05.913491+00:00"
+  },
+  "intoniva": {
+    "status": "no-apk",
+    "last_checked": "2026-11-01T17:52:06.346251+00:00"
+  },
+  "ambient-home": {
+    "status": "no-apk",
+    "last_checked": "2026-11-01T17:52:07.160550+00:00"
+  },
+  "8002cleanup-android": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:11.851103+00:00",
+    "latest_version": "v2.7.3",
+    "last_synced": "2026-11-01T17:52:11.851103+00:00"
+  },
+  "hyperdebloat-android": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:16.227947+00:00",
+    "latest_version": "v0.7.0",
+    "last_synced": "2026-11-01T17:52:16.227947+00:00"
+  },
+  "pikmin-android-tools": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:19.405081+00:00",
+    "latest_version": "pikmin-tools-v2.4",
+    "last_synced": "2026-11-01T17:52:19.405081+00:00"
+  },
+  "dsh-forandroid": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:47.714794+00:00",
+    "latest_version": "v0.2.1",
+    "last_synced": "2026-11-01T17:52:47.714794+00:00"
+  },
+  "callbridge": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:51.038264+00:00",
+    "latest_version": "v1.4.0",
+    "last_synced": "2026-11-01T17:52:51.038264+00:00"
+  },
+  "quietpilot": {
+    "status": "no-apk",
+    "last_checked": "2026-11-01T17:52:51.329647+00:00"
+  },
+  "acc-automatic-cache-cleaner-apk": {
+    "status": "synced",
+    "last_checked": "2026-11-01T17:52:54.263066+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-01T17:52:54.263066+00:00"
   }
 }

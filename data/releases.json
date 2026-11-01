@@ -17613,5 +17613,268 @@
     ],
     "mirror_release_tag": "ksulateload-v1.2",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ksulateload-v1.2"
+  },
+  "novafiles": {
+    "source_repository": "xan45/NovaFiles",
+    "source_release_id": 430745184,
+    "source_tag": "v1.0.0-beta3",
+    "source_published_at": "2026-11-01T17:38:24Z",
+    "synced_at": "2026-11-01T17:51:41.686561+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699029186,
+        "filename": "NovaFiles-v1.0.0-beta3-signed.apk",
+        "original_filename": "NovaFiles-v1.0.0-beta3-signed.apk",
+        "sha256": "77818dff87a656f690d54563d6c6e9a262416cecc0c87fbf35e33a5387abb9a3",
+        "file_size": 25851548,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "novafiles-v1.0.0-beta3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novafiles-v1.0.0-beta3"
+  },
+  "auto-skip": {
+    "source_repository": "eagle136/auto_skip",
+    "source_release_id": 429920974,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-10-31T12:23:00Z",
+    "synced_at": "2026-11-01T17:51:46.887258+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695316688,
+        "filename": "auto_skip-v1.0-com.xm0dskg8.knm7pu.apk",
+        "original_filename": "auto_skip-v1.0-com.xm0dskg8.knm7pu.apk",
+        "sha256": "0fa1cdba82e1edb7c5662b06f2c5844d54f752ad43fd6980af9ff607d11bc941",
+        "file_size": 3056680,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "auto-skip-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/auto-skip-v1.0"
+  },
+  "openthumb": {
+    "source_repository": "neulketing/openthumb",
+    "source_release_id": 430729317,
+    "source_tag": "v2.0.1",
+    "source_published_at": "2026-11-01T17:10:41Z",
+    "synced_at": "2026-11-01T17:51:51.772875+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698960693,
+        "filename": "OpenThumb-2.0.1-build35-arm64-v8a.apk",
+        "original_filename": "OpenThumb-2.0.1-build35-arm64-v8a.apk",
+        "sha256": "dccf6674c01285686828e23d8a9587179314bc531c913747bb2105bbe3bdb1d3",
+        "file_size": 40970888,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "openthumb-v2.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openthumb-v2.0.1"
+  },
+  "csync": {
+    "source_repository": "sakurday/CSync",
+    "source_release_id": 430738000,
+    "source_tag": "0.2.0",
+    "source_published_at": "2026-11-01T17:28:52Z",
+    "synced_at": "2026-11-01T17:51:54.750996+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698997829,
+        "filename": "CSync-0.2.0.apk",
+        "original_filename": "CSync-0.2.0.apk",
+        "sha256": "f727588cb3eb4a87d122e7c8f9e7ac774398c4ea92d42ebbb1374ebd1bc02f45",
+        "file_size": 2645744,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "csync-0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/csync-0.2.0"
+  },
+  "flipimeswitch": {
+    "source_repository": "MENGQIUNIAN/FlipImeSwitch",
+    "source_release_id": 430671972,
+    "source_tag": "v1.7",
+    "source_published_at": "2026-11-01T15:30:26Z",
+    "synced_at": "2026-11-01T17:51:59.188312+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698715088,
+        "filename": "FlipImeSwitch-v1.7.apk",
+        "original_filename": "FlipImeSwitch-v1.7.apk",
+        "sha256": "037788bb30ecc84b82375a8eb09dac9abccb5c9635d6ca03b16d43b60e4d33dc",
+        "file_size": 2517057,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "flipimeswitch-v1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipimeswitch-v1.7"
+  },
+  "pocketsurf": {
+    "source_repository": "silasdv/PocketSurf",
+    "source_release_id": 430724604,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-11-01T17:12:46Z",
+    "synced_at": "2026-11-01T17:52:02.824910+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698938832,
+        "filename": "PocketSurf-1.2.0.apk",
+        "original_filename": "PocketSurf-1.2.0.apk",
+        "sha256": "5795044da408f4c97231f9ff708dff036d54ea86ae0edcdf8a4ff04ed2f2df21",
+        "file_size": 1220744,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pocketsurf-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketsurf-v1.2.0"
+  },
+  "fuck-cos-dark-mode-themes": {
+    "source_repository": "xwdy114514/fuck-COS-dark-mode-themes",
+    "source_release_id": 430600202,
+    "source_tag": "0.2.1",
+    "source_published_at": "2026-11-01T13:23:24Z",
+    "synced_at": "2026-11-01T17:52:05.913473+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698411790,
+        "filename": "MCTGA-0.2.1.apk",
+        "original_filename": "MCTGA-0.2.1.apk",
+        "sha256": "89021f4913eade90d22f7cbdd2b5b1320f1680e391a9611213cdc5a55f984de5",
+        "file_size": 3904065,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "fuck-cos-dark-mode-themes-0.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fuck-cos-dark-mode-themes-0.2.1"
+  },
+  "8002cleanup-android": {
+    "source_repository": "salmanbashir80/8002CleanUp-Android",
+    "source_release_id": 430747416,
+    "source_tag": "v2.7.3",
+    "source_published_at": "2026-11-01T17:42:07Z",
+    "synced_at": "2026-11-01T17:52:11.851083+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699039882,
+        "filename": "8002CleanUp-Pro-v2.7.3.apk",
+        "original_filename": "8002CleanUp-Pro-v2.7.3.apk",
+        "sha256": "56a5b546f7b83f19839e7130a6e55bbd0642b1c14302ab75998261fcdaa31a80",
+        "file_size": 4519701,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 699039884,
+        "filename": "8002CleanUp-Pro.apk",
+        "original_filename": "8002CleanUp-Pro.apk",
+        "sha256": "56a5b546f7b83f19839e7130a6e55bbd0642b1c14302ab75998261fcdaa31a80",
+        "file_size": 4519701,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "8002cleanup-android-v2.7.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/8002cleanup-android-v2.7.3"
+  },
+  "hyperdebloat-android": {
+    "source_repository": "KayYesR/HyperDebloat--Android",
+    "source_release_id": 430646466,
+    "source_tag": "v0.7.0",
+    "source_published_at": "2026-11-01T14:44:55Z",
+    "synced_at": "2026-11-01T17:52:16.227930+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698611652,
+        "filename": "HyperDebloat-0.7.0.apk",
+        "original_filename": "HyperDebloat-0.7.0.apk",
+        "sha256": "b3e5796cd20fc0472cc4e0b3a5e1459c54f94c45fce5fa3f2238e7fe865e9b1f",
+        "file_size": 28546244,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "hyperdebloat-android-v0.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperdebloat-android-v0.7.0"
+  },
+  "pikmin-android-tools": {
+    "source_repository": "lesterppo/pikmin-android-tools",
+    "source_release_id": 390176492,
+    "source_tag": "pikmin-tools-v2.4",
+    "source_published_at": "2026-09-16T18:38:04Z",
+    "synced_at": "2026-11-01T17:52:19.405062+00:00",
+    "assets": [
+      {
+        "source_asset_id": 568557096,
+        "filename": "pikmin-tools-v2.4.apk",
+        "original_filename": "pikmin-tools-v2.4.apk",
+        "sha256": "739a953427910ab038cb779b96416198fee3925858e556a899f41cf55e097779",
+        "file_size": 9006863,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pikmin-android-tools-pikmin-tools-v2.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pikmin-android-tools-pikmin-tools-v2.4"
+  },
+  "dsh-forandroid": {
+    "source_repository": "ATRI072121/DSH-forAndroid",
+    "source_release_id": 430667564,
+    "source_tag": "v0.2.1",
+    "source_published_at": "2026-11-01T15:23:57Z",
+    "synced_at": "2026-11-01T17:52:47.714773+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698761652,
+        "filename": "DSH-Android-0.2.1-base.apk",
+        "original_filename": "DSH-Android-0.2.1-base.apk",
+        "sha256": "79f7d7beb2046cd3e5d1f4432f3178704384fe54724e818edede9996046e5520",
+        "file_size": 323249084,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 698763156,
+        "filename": "DSH-Android-0.2.1-full-plugins.apk",
+        "original_filename": "DSH-Android-0.2.1-full-plugins.apk",
+        "sha256": "7f6a2746396ae1bddc72eaf1df874bb11ed97b23d01a6ab34806bbe69792da4e",
+        "file_size": 386864060,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dsh-forandroid-v0.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-forandroid-v0.2.1"
+  },
+  "callbridge": {
+    "source_repository": "SerhanEnsar/CallBridge",
+    "source_release_id": 430747979,
+    "source_tag": "v1.4.0",
+    "source_published_at": "2026-11-01T17:43:20Z",
+    "synced_at": "2026-11-01T17:52:51.038247+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699042469,
+        "filename": "CallBridge-1.4.0-android.apk",
+        "original_filename": "CallBridge-1.4.0-android.apk",
+        "sha256": "6f6d5daabeb69bd1c4151e769404016310e8fcbabc6f17322ddd02628fd8b828",
+        "file_size": 7965797,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "callbridge-v1.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callbridge-v1.4.0"
+  },
+  "acc-automatic-cache-cleaner-apk": {
+    "source_repository": "raafi-abir/ACC--Automatic-Cache-Cleaner-apk",
+    "source_release_id": 430752059,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-11-01T17:51:04Z",
+    "synced_at": "2026-11-01T17:52:54.263044+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699059565,
+        "filename": "ACC-V1.0.apk",
+        "original_filename": "ACC-V1.0.apk",
+        "sha256": "99858d8b26efc46b030939d895c4ef2ab9ade51b1fc86e0d1a9e38a7b63c0329",
+        "file_size": 1441656,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "acc-automatic-cache-cleaner-apk-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/acc-automatic-cache-cleaner-apk-v1.0"
   }
 }
