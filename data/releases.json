@@ -9231,22 +9231,22 @@
   },
   "taixu": {
     "source_repository": "wkbin/taixu",
-    "source_release_id": 400255284,
-    "source_tag": "v0.20.0",
-    "source_published_at": "2026-09-30T16:55:39Z",
-    "synced_at": "2026-10-08T05:41:14.630893+00:00",
+    "source_release_id": 429676571,
+    "source_tag": "v1.8.0",
+    "source_published_at": "2026-10-31T02:44:39Z",
+    "synced_at": "2026-11-01T05:39:29.975540+00:00",
     "assets": [
       {
-        "source_asset_id": 601394896,
-        "filename": "TaiXu-arm64-v0.20.0.apk",
-        "original_filename": "TaiXu-arm64-v0.20.0.apk",
-        "sha256": "56509a8babc10353b33866e15548ca5176cbb481f6a6748746a0463db6839fb5",
-        "file_size": 21097055,
+        "source_asset_id": 694153397,
+        "filename": "TaiXu-arm64-v1.8.0.apk",
+        "original_filename": "TaiXu-arm64-v1.8.0.apk",
+        "sha256": "0ce81158c16c734c81c27ccb4b0b3123866440fb92007fcab6c021ac5ad91e07",
+        "file_size": 26388540,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "taixu-v0.20.0",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taixu-v0.20.0"
+    "mirror_release_tag": "taixu-v1.8.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taixu-v1.8.0"
   },
   "spotshift": {
     "source_repository": "BoraSarang/SpotShift",
@@ -17305,5 +17305,313 @@
     ],
     "mirror_release_tag": "bridgecoil-v0.1.7",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridgecoil-v0.1.7"
+  },
+  "breezelauncherandroid": {
+    "source_repository": "wisebreeze/BreezeLauncherAndroid",
+    "source_release_id": 430381375,
+    "source_tag": "v26.11.1",
+    "source_published_at": "2026-11-01T05:25:33Z",
+    "synced_at": "2026-11-01T05:39:17.077019+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697418350,
+        "filename": "BreezeLauncher-default-release.apk",
+        "original_filename": "BreezeLauncher-default-release.apk",
+        "sha256": "7ff91d8a29eb558e16ea265f3cca4e09da4f23f32b2582180b08dbb6cbe9849d",
+        "file_size": 48450088,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "breezelauncherandroid-v26.11.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breezelauncherandroid-v26.11.1"
+  },
+  "adb-root-toolbox": {
+    "source_repository": "Bingblop/ADB-Root-Toolbox",
+    "source_release_id": 429739440,
+    "source_tag": "v7.22.1",
+    "source_published_at": "2026-10-31T05:18:46Z",
+    "synced_at": "2026-11-01T05:39:28.222975+00:00",
+    "assets": [
+      {
+        "source_asset_id": 694448585,
+        "filename": "ADB_Application_Manager_Pro-v7.22.1-arm64-v8a.apk",
+        "original_filename": "ADB_Application_Manager_Pro-v7.22.1-arm64-v8a.apk",
+        "sha256": "c24cde48b99d84f1776061a4162564c4aaacbfeecc04fcf4d172b60bb106a0f2",
+        "file_size": 22224561,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 694448583,
+        "filename": "ADB_Application_Manager_Pro-v7.22.1-armeabi-v7a.apk",
+        "original_filename": "ADB_Application_Manager_Pro-v7.22.1-armeabi-v7a.apk",
+        "sha256": "b67c8dd097b09ff41e66b14f29b3879490b2f5eeb14b3a12fbcacf785345ecf0",
+        "file_size": 22826747,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 694448588,
+        "filename": "ADB_Application_Manager_Pro-v7.22.1-universal.apk",
+        "original_filename": "ADB_Application_Manager_Pro-v7.22.1-universal.apk",
+        "sha256": "2af5992ecfabcf8dd453c12a6a85c28afdd58c5998a31d9e9a34b913fec4d93e",
+        "file_size": 27320263,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "adb-root-toolbox-v7.22.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-root-toolbox-v7.22.1"
+  },
+  "universal-patch-manager": {
+    "source_repository": "Jman-Github/Universal-Patch-Manager",
+    "source_release_id": 427395426,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-10-29T02:18:05Z",
+    "synced_at": "2026-11-01T05:40:39.849069+00:00",
+    "assets": [
+      {
+        "source_asset_id": 687076322,
+        "filename": "revanced.v21-plugin.apk",
+        "original_filename": "revanced.v21-plugin.apk",
+        "sha256": "0200bc6311d99bb4a1f132a72ea380ac68422dd09bc410d96a189d381e25aed6",
+        "file_size": 171064824,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 687076096,
+        "filename": "revanced.v22-plugin.apk",
+        "original_filename": "revanced.v22-plugin.apk",
+        "sha256": "df6bd46101c5238a668420f60c2799449ab5a8b813940d437923a4f070430318",
+        "file_size": 88081222,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 687076256,
+        "filename": "universal-patch-manager-v2.0.0-arm64-v8a.apk",
+        "original_filename": "universal-patch-manager-v2.0.0-arm64-v8a.apk",
+        "sha256": "173e84cc7328a526c50bc03c2c095eef097f9c74fee2d0c1c664e4eef0c3c5c2",
+        "file_size": 130534131,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 687076138,
+        "filename": "universal-patch-manager-v2.0.0-armeabi-v7a.apk",
+        "original_filename": "universal-patch-manager-v2.0.0-armeabi-v7a.apk",
+        "sha256": "014ef7f9d7dbe6e75ff91c6571d2cede0109cbf6e1f9191e58d692d8ce5dc683",
+        "file_size": 129878463,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 687076296,
+        "filename": "universal-patch-manager-v2.0.0-universal.apk",
+        "original_filename": "universal-patch-manager-v2.0.0-universal.apk",
+        "sha256": "65dd0fd798b91ffc942fd5d08bb0a277fcb45545b4199445216d38aa4c2f9c09",
+        "file_size": 145559045,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 687076185,
+        "filename": "universal-patch-manager-v2.0.0-x86.apk",
+        "original_filename": "universal-patch-manager-v2.0.0-x86.apk",
+        "sha256": "030c0ca678b6f7977defefa6242f67c84c612856282ccdf3eaf16aa4985fc34b",
+        "file_size": 130890883,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 687076231,
+        "filename": "universal-patch-manager-v2.0.0-x86_64.apk",
+        "original_filename": "universal-patch-manager-v2.0.0-x86_64.apk",
+        "sha256": "f2f7fa3c51d6dff9f966d7e49eb18c72207a2ecb5a28ba92c6490534a65f2675",
+        "file_size": 130973901,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "universal-patch-manager-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/universal-patch-manager-v2.0.0"
+  },
+  "ka0sgfx": {
+    "source_repository": "ulolol/Ka0SGFX",
+    "source_release_id": 430359496,
+    "source_tag": "v2.1.1",
+    "source_published_at": "2026-11-01T04:23:03Z",
+    "synced_at": "2026-11-01T05:40:47.744076+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697307082,
+        "filename": "KaosGFX-v2.1.1.apk",
+        "original_filename": "KaosGFX-v2.1.1.apk",
+        "sha256": "62a051642c3695657a6cd4bfe2de68a85542a59c52091d8f784a30994906f857",
+        "file_size": 66409353,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ka0sgfx-v2.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ka0sgfx-v2.1.1"
+  },
+  "honor-anb-an00-root": {
+    "source_repository": "Chuniex-0631/honor-anb-an00-root",
+    "source_release_id": 430285701,
+    "source_tag": "v2.3.2",
+    "source_published_at": "2026-11-01T01:02:55Z",
+    "synced_at": "2026-11-01T05:40:52.564292+00:00",
+    "assets": [
+      {
+        "source_asset_id": 696933220,
+        "filename": "ANB-Root-2.3.2.apk",
+        "original_filename": "ANB-Root-2.3.2.apk",
+        "sha256": "aab748de4ea2ad73fda0dbb387e6eca00af163521b48fa610bf7b794b5ae099d",
+        "file_size": 8312686,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "honor-anb-an00-root-v2.3.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-anb-an00-root-v2.3.2"
+  },
+  "aoooa-adb-android": {
+    "source_repository": "aoooa101/aoooa-adb-android",
+    "source_release_id": 430383895,
+    "source_tag": "v2.8.7",
+    "source_published_at": "2026-11-01T05:32:58Z",
+    "synced_at": "2026-11-01T05:41:02.009254+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697430975,
+        "filename": "aoooa-adb-2.8.7-arm64-v8a.apk",
+        "original_filename": "aoooa-adb-2.8.7-arm64-v8a.apk",
+        "sha256": "9f00d8c0f01f7dd9fba01f425d384f99ff4298609e81f0a144a493c66931635d",
+        "file_size": 15303859,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 697431050,
+        "filename": "aoooa-adb-2.8.7-armeabi-v7a.apk",
+        "original_filename": "aoooa-adb-2.8.7-armeabi-v7a.apk",
+        "sha256": "9873c08bf9322963881b8fd422ff3799d3d028c1c9229f42ea5ee9b0c1fc9fe2",
+        "file_size": 14287501,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 697431140,
+        "filename": "aoooa-adb-2.8.7-universal.apk",
+        "original_filename": "aoooa-adb-2.8.7-universal.apk",
+        "sha256": "76b85834f9816e35c1d3199da020c09bc4bfa6a7e54b402747335155eb148b0d",
+        "file_size": 17204102,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "aoooa-adb-android-v2.8.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aoooa-adb-android-v2.8.7"
+  },
+  "libtool2-0": {
+    "source_repository": "gailowilly649-linux/libtool2.0",
+    "source_release_id": 429985876,
+    "source_tag": "v3.5",
+    "source_published_at": "2026-10-31T14:29:50Z",
+    "synced_at": "2026-11-01T05:41:07.489037+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695597303,
+        "filename": "LibTool-v3.5.apk",
+        "original_filename": "LibTool-v3.5.apk",
+        "sha256": "5c5eaa4bdd3e32f3a6db1b6587f9f1f95d38bf12a7c18f8039f935a14287cf1d",
+        "file_size": 26407093,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "libtool2-0-v3.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/libtool2-0-v3.5"
+  },
+  "nazarick-agent": {
+    "source_repository": "magicrulerr-art/Nazarick-agent",
+    "source_release_id": 430175702,
+    "source_tag": "v0.01",
+    "source_published_at": "2026-10-31T20:44:19Z",
+    "synced_at": "2026-11-01T05:41:14.626004+00:00",
+    "assets": [
+      {
+        "source_asset_id": 696441931,
+        "filename": "nazarick-agent-v0.01-arm64-v8a.apk",
+        "original_filename": "nazarick-agent-v0.01-arm64-v8a.apk",
+        "sha256": "b607c384357c8b2d6339fa61740c6ce3241227bf624df52298acea58699781fa",
+        "file_size": 59112444,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "nazarick-agent-v0.01",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nazarick-agent-v0.01"
+  },
+  "foldfix": {
+    "source_repository": "washington-gif/FoldFix",
+    "source_release_id": 430375058,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-01T05:07:04Z",
+    "synced_at": "2026-11-01T05:41:17.950807+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697389097,
+        "filename": "FoldFix.apk",
+        "original_filename": "FoldFix.apk",
+        "sha256": "5b82c44dd829577798e2ae8c3d351df86b55a359b384470826286879c3d27608",
+        "file_size": 2144965,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "foldfix-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/foldfix-v1.0.0"
+  },
+  "mineapp-lsposed": {
+    "source_repository": "MiaoluoYuanlina/MineApp-LSPosed",
+    "source_release_id": 430380762,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-01T05:23:58Z",
+    "synced_at": "2026-11-01T05:41:21.160157+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697415292,
+        "filename": "MineApp-LSPosed-v1.0.0.apk",
+        "original_filename": "MineApp-LSPosed-v1.0.0.apk",
+        "sha256": "6656a6318c66e6b4be2ed40e29a236a712ea3e69e37736953cd4cfb507ded927",
+        "file_size": 692271,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "mineapp-lsposed-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mineapp-lsposed-v1.0.0"
+  },
+  "tetherfi-mod-kugo": {
+    "source_repository": "Guizx-098/TetherFi-Mod-Kugo",
+    "source_release_id": 430382285,
+    "source_tag": "v1.0.3",
+    "source_published_at": "2026-11-01T05:28:11Z",
+    "synced_at": "2026-11-01T05:41:25.527930+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697422471,
+        "filename": "Kugo-Hotspot-v1.0.3.apk",
+        "original_filename": "Kugo-Hotspot-v1.0.3.apk",
+        "sha256": "321f7d1276cc2019e99155f4160d425b31278e5ccca4c7b552478ebd19517601",
+        "file_size": 18473917,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tetherfi-mod-kugo-v1.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tetherfi-mod-kugo-v1.0.3"
+  },
+  "ksulateload": {
+    "source_repository": "NanoTurtle1145/KsuLateLoad",
+    "source_release_id": 430378298,
+    "source_tag": "v1.2",
+    "source_published_at": "2026-11-01T05:16:21Z",
+    "synced_at": "2026-11-01T05:41:28.949591+00:00",
+    "assets": [
+      {
+        "source_asset_id": 697402706,
+        "filename": "KsuLateLoad-v1.2.apk",
+        "original_filename": "KsuLateLoad-v1.2.apk",
+        "sha256": "baee9cb67c77765bd1b99b952763aaddca3c249edd636bd80e92904110cfd6d0",
+        "file_size": 2184453,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "ksulateload-v1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ksulateload-v1.2"
   }
 }

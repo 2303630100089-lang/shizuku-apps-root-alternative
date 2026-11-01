@@ -1488,8 +1488,8 @@
     "last_synced": "2026-10-03T16:07:09.953806+00:00"
   },
   "folkpatch": {
-    "status": "synced",
-    "last_checked": "2026-10-31T05:08:40.318405+00:00",
+    "status": "no-update",
+    "last_checked": "2026-11-01T05:40:48.559151+00:00",
     "latest_version": "115404",
     "last_synced": "2026-10-31T05:08:40.318405+00:00"
   },
@@ -2067,9 +2067,9 @@
   },
   "taixu": {
     "status": "synced",
-    "last_checked": "2026-10-08T05:41:14.630909+00:00",
-    "latest_version": "v0.20.0",
-    "last_synced": "2026-10-08T05:41:14.630909+00:00"
+    "last_checked": "2026-11-01T05:39:29.975565+00:00",
+    "latest_version": "v1.8.0",
+    "last_synced": "2026-11-01T05:39:29.975565+00:00"
   },
   "spotshift": {
     "status": "synced",
@@ -4795,5 +4795,87 @@
   "cleanyourtv-magcubic-hy320pro-launcher": {
     "status": "no-apk",
     "last_checked": "2026-10-31T17:11:01.777439+00:00"
+  },
+  "breezelauncherandroid": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:39:17.077049+00:00",
+    "latest_version": "v26.11.1",
+    "last_synced": "2026-11-01T05:39:17.077049+00:00"
+  },
+  "adb-root-toolbox": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:39:28.222995+00:00",
+    "latest_version": "v7.22.1",
+    "last_synced": "2026-11-01T05:39:28.222995+00:00"
+  },
+  "universal-patch-manager": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:40:39.849092+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-11-01T05:40:39.849092+00:00"
+  },
+  "ka0sgfx": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:40:47.744094+00:00",
+    "latest_version": "v2.1.1",
+    "last_synced": "2026-11-01T05:40:47.744094+00:00"
+  },
+  "background-killer": {
+    "status": "no-apk",
+    "last_checked": "2026-11-01T05:40:48.075302+00:00",
+    "latest_version": "v1.1.0"
+  },
+  "honor-anb-an00-root": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:40:52.564311+00:00",
+    "latest_version": "v2.3.2",
+    "last_synced": "2026-11-01T05:40:52.564311+00:00"
+  },
+  "aoooa-adb-android": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:02.009274+00:00",
+    "latest_version": "v2.8.7",
+    "last_synced": "2026-11-01T05:41:02.009274+00:00"
+  },
+  "libtool2-0": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:07.489057+00:00",
+    "latest_version": "v3.5",
+    "last_synced": "2026-11-01T05:41:07.489057+00:00"
+  },
+  "nazarick-agent": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:14.626024+00:00",
+    "latest_version": "v0.01",
+    "last_synced": "2026-11-01T05:41:14.626024+00:00"
+  },
+  "foldfix": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:17.950827+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-01T05:41:17.950827+00:00"
+  },
+  "mineapp-lsposed": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:21.160174+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-01T05:41:21.160174+00:00"
+  },
+  "tetherfi-mod-kugo": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:25.527946+00:00",
+    "latest_version": "v1.0.3",
+    "last_synced": "2026-11-01T05:41:25.527946+00:00"
+  },
+  "ksulateload": {
+    "status": "synced",
+    "last_checked": "2026-11-01T05:41:28.949608+00:00",
+    "latest_version": "v1.2",
+    "last_synced": "2026-11-01T05:41:28.949608+00:00"
+  },
+  "avault": {
+    "status": "no-apk",
+    "last_checked": "2026-11-01T05:41:29.223444+00:00",
+    "latest_version": "v2.0.0"
   }
 }
