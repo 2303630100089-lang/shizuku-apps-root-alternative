@@ -202,6 +202,14 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[tandem](https://github.com/ZahakJ/tandem)** | 适用于 Android 手持设备的开源双屏游戏前端 | GPL-3.0 | [GitHub 源码](https://github.com/ZahakJ/tandem) • [下载发布](https://github.com/ZahakJ/tandem/releases) |
+| **[ShellStore](https://github.com/rentianyu/ShellStore)** | Shell商店·Android命令与组件速查台（SMD数据源） | MIT | [GitHub 源码](https://github.com/rentianyu/ShellStore) • [下载发布](https://github.com/rentianyu/ShellStore/releases) |
+| **[Pairly](https://github.com/TheTobiTiger02/Pairly)** | 配对：通过 Windows PC 使用 Android 手机。通过本地网络进行剪贴板、通知、短信、照片、文件和屏幕镜像。 | See project | [GitHub 源码](https://github.com/TheTobiTiger02/Pairly) • [下载发布](https://github.com/TheTobiTiger02/Pairly/releases) |
+| **[ApKilla](https://github.com/Bl0ck154/ApKilla)** | 从“快速设置”中一按 Android 强制停止。没有 root、ADB、Shizuku、Tasker 或 Internet 权限。 | MIT | [GitHub 源码](https://github.com/Bl0ck154/ApKilla) • [下载发布](https://github.com/Bl0ck154/ApKilla/releases) |
+| **[DeskCast](https://github.com/RezoxNemesis/DeskCast)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/RezoxNemesis/DeskCast) • [下载发布](https://github.com/RezoxNemesis/DeskCast/releases) |
+| **[FCMGuard-Plus-For-HyperOS4](https://github.com/rsps1008/FCMGuard-Plus-For-HyperOS4)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/rsps1008/FCMGuard-Plus-For-HyperOS4) • [下载发布](https://github.com/rsps1008/FCMGuard-Plus-For-HyperOS4/releases) |
+| **[spyhound](https://github.com/BEKO2210/spyhound)** | 检查您的 Android 手机是否有已知间谍软件和跟踪软件的痕迹 - 离线、在手机上、无需 PC。 | Apache-2.0 | [GitHub 源码](https://github.com/BEKO2210/spyhound) • [下载发布](https://github.com/BEKO2210/spyhound/releases) |
+| **[deepseek-harness](https://github.com/kai6666666/deepseek-harness)** | DeepSeek Harness 的 Android 主机：PRoot Ubuntu + node + dsh + 环回 MCP 桥 | MIT | [GitHub 源码](https://github.com/kai6666666/deepseek-harness) • [下载发布](https://github.com/kai6666666/deepseek-harness/releases) |
 | **[ACC--Automatic-Cache-Cleaner-apk](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk) • [下载发布](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk/releases) |
 | **[QuietPilot](https://github.com/Cyclopsxu/QuietPilot)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/Cyclopsxu/QuietPilot) • [下载发布](https://github.com/Cyclopsxu/QuietPilot/releases) |
 | **[CallBridge](https://github.com/SerhanEnsar/CallBridge)** | SIM'li cihaza gelen çağrıyı aynı ağdaki başka bir cihazdan goster ve yönet | Apache-2.0 | [GitHub 源码](https://github.com/SerhanEnsar/CallBridge) • [下载发布](https://github.com/SerhanEnsar/CallBridge/releases) |
@@ -278,16 +286,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Brig** | pridgey | `v1.5` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brig-v1.5) | [Upstream](https://github.com/pridgey/Brig/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.5.10` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.5.10) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **HybridFileXfer** | yizhiruonan | `v3.1.0` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hybridfilexfer-v3.1.0) | [Upstream](https://github.com/yizhiruonan/HybridFileXfer/releases) |
-| ⚡ **guang-lab** | Yukstarlight | `v1.0.1` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guang-lab-v1.0.1) | [Upstream](https://github.com/Yukstarlight/guang-lab/releases) |
-| ⚡ **fe-by-Andy** | Andy-scy | `v0.1.0` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fe-by-andy-v0.1.0) | [Upstream](https://github.com/Andy-scy/fe-by-Andy/releases) |
-| ⚡ **bridgecoil** | johnneerdael | `v0.1.7` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridgecoil-v0.1.7) | [Upstream](https://github.com/johnneerdael/bridgecoil/releases) |
-| ⚡ **jarvis** | 梦天999 | `v0.0.2` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-v0.0.2) | [Upstream](https://github.com/mengtian999/jarvis/releases) |
-| ⚡ **shiroikuma-jiyusagyoban** | ShiroiKuma0 | `0.2.94+2026-09-30.11-19.ga3b4fda4+113` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-113) | [Upstream](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.17` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.17) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **AutoTask** | chenyubo10665 | `v1.5.1` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotask-v1.5.1) | [Upstream](https://github.com/chenyubo10665/AutoTask/releases) |
+| ⚡ **ACC--Automatic-Cache-Cleaner-apk** | 拉菲阿比尔 | `v1.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/acc-automatic-cache-cleaner-apk-v1.0) | [Upstream](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk/releases) |
+| ⚡ **CallBridge** | 塞尔罕·恩萨尔 | `v1.4.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callbridge-v1.4.0) | [Upstream](https://github.com/SerhanEnsar/CallBridge/releases) |
+| ⚡ **8002CleanUp-Android** | 萨尔曼巴希尔80 | `v2.7.3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/8002cleanup-android-v2.7.3) | [Upstream](https://github.com/salmanbashir80/8002CleanUp-Android/releases) |
+| ⚡ **NovaFiles** | xan45 | `v1.0.0-beta3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novafiles-v1.0.0-beta3) | [Upstream](https://github.com/xan45/NovaFiles/releases) |
+| ⚡ **CSync** | 星期六 | `0.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/csync-0.2.0) | [Upstream](https://github.com/sakurday/CSync/releases) |
+| ⚡ **PocketSurf** | 西拉斯病毒 | `v1.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketsurf-v1.2.0) | [Upstream](https://github.com/silasdv/PocketSurf/releases) |
+| ⚡ **openthumb** | 神经抑制 | `v2.0.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openthumb-v2.0.1) | [Upstream](https://github.com/neulketing/openthumb/releases) |
+| ⚡ **FlipImeSwitch** | 梦秋年 | `v1.7` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipimeswitch-v1.7) | [Upstream](https://github.com/MENGQIUNIAN/FlipImeSwitch/releases) |
+| ⚡ **DSH-forAndroid** | ATRI072121 | `v0.2.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-forandroid-v0.2.1) | [Upstream](https://github.com/ATRI072121/DSH-forAndroid/releases) |
+| ⚡ **HyperDebloat--Android** | 凯耶斯R | `v0.7.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperdebloat-android-v0.7.0) | [Upstream](https://github.com/KayYesR/HyperDebloat--Android/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

@@ -17876,5 +17876,165 @@
     ],
     "mirror_release_tag": "acc-automatic-cache-cleaner-apk-v1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/acc-automatic-cache-cleaner-apk-v1.0"
+  },
+  "deepseek-harness": {
+    "source_repository": "kai6666666/deepseek-harness",
+    "source_release_id": 430538904,
+    "source_tag": "v0.4.2",
+    "source_published_at": "2026-11-01T11:31:19Z",
+    "synced_at": "2026-11-02T05:37:44.357435+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698151510,
+        "filename": "dsh-android-0.4.2-arm64.apk",
+        "original_filename": "dsh-android-0.4.2-arm64.apk",
+        "sha256": "9e81986bc737e42bd1c1710b3e8e38a5ad1e87d0bf461e8be50b424c9a660984",
+        "file_size": 185668979,
+        "architecture": "arm64"
+      },
+      {
+        "source_asset_id": 699137884,
+        "filename": "dsh-android-0.4.2-gecko-arm64.apk",
+        "original_filename": "dsh-android-0.4.2-gecko-arm64.apk",
+        "sha256": "42e25be1f5cbe7606399315cecce378f0a63512abfe72e9b236090db7fc176a3",
+        "file_size": 274823839,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "deepseek-harness-v0.4.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-harness-v0.4.2"
+  },
+  "spyhound": {
+    "source_repository": "BEKO2210/spyhound",
+    "source_release_id": 430930415,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-01T23:32:46Z",
+    "synced_at": "2026-11-02T05:37:47.752400+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699846161,
+        "filename": "spyhound-0.1.0.apk",
+        "original_filename": "spyhound-0.1.0.apk",
+        "sha256": "55108216c8b4e86d17212974f8783aba6dd9f413804fb281d36933053ba2591e",
+        "file_size": 15304352,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "spyhound-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spyhound-v0.1.0"
+  },
+  "fcmguard-plus-for-hyperos4": {
+    "source_repository": "rsps1008/FCMGuard-Plus-For-HyperOS4",
+    "source_release_id": 417916219,
+    "source_tag": "v1.6.2",
+    "source_published_at": "2026-10-20T01:40:41Z",
+    "synced_at": "2026-11-02T05:37:50.630175+00:00",
+    "assets": [
+      {
+        "source_asset_id": 658008537,
+        "filename": "FCMGuard-1.6.2.apk",
+        "original_filename": "FCMGuard-1.6.2.apk",
+        "sha256": "a09515994eb8b79573c7f73292331039645c639883d5ad4e58e380e28b8d038c",
+        "file_size": 210732,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "fcmguard-plus-for-hyperos4-v1.6.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fcmguard-plus-for-hyperos4-v1.6.2"
+  },
+  "deskcast": {
+    "source_repository": "RezoxNemesis/DeskCast",
+    "source_release_id": 431037592,
+    "source_tag": "v1.0.5",
+    "source_published_at": "2026-11-02T03:19:52Z",
+    "synced_at": "2026-11-02T05:37:53.572710+00:00",
+    "assets": [
+      {
+        "source_asset_id": 700360178,
+        "filename": "DeskCast-v1.0.5.apk",
+        "original_filename": "DeskCast-v1.0.5.apk",
+        "sha256": "9c600a248eae28f8be4a01ad70de02aafe9ccbcb1c560266320401dc2fc289e1",
+        "file_size": 2366025,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "deskcast-v1.0.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deskcast-v1.0.5"
+  },
+  "apkilla": {
+    "source_repository": "Bl0ck154/ApKilla",
+    "source_release_id": 430984684,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-11-02T01:33:17Z",
+    "synced_at": "2026-11-02T05:37:56.295306+00:00",
+    "assets": [
+      {
+        "source_asset_id": 700102829,
+        "filename": "ApKilla-0.4.0-release.apk",
+        "original_filename": "ApKilla-0.4.0-release.apk",
+        "sha256": "9f5d24d5c73788744e66de64c4c2720b9ac60827ff05ea5f227b458588f54b7b",
+        "file_size": 29496,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "apkilla-v0.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/apkilla-v0.4.0"
+  },
+  "pairly": {
+    "source_repository": "TheTobiTiger02/Pairly",
+    "source_release_id": 431009591,
+    "source_tag": "v1.3.1",
+    "source_published_at": "2026-11-02T02:26:03Z",
+    "synced_at": "2026-11-02T05:37:59.379354+00:00",
+    "assets": [
+      {
+        "source_asset_id": 700238501,
+        "filename": "Pairly.apk",
+        "original_filename": "Pairly.apk",
+        "sha256": "38441ba66d47f5b7d9036e6708c762bfd203e966f9035e20a44ab65d8baeea67",
+        "file_size": 1900367,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pairly-v1.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pairly-v1.3.1"
+  },
+  "shellstore": {
+    "source_repository": "rentianyu/ShellStore",
+    "source_release_id": 431105021,
+    "source_tag": "v0.14.0",
+    "source_published_at": "2026-11-02T05:36:07Z",
+    "synced_at": "2026-11-02T05:38:02.664229+00:00",
+    "assets": [
+      {
+        "source_asset_id": 700648822,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ca6218986bc61c6e49d8d236779fa26598beb98071e8d5db61aae86e6cfbdd0c",
+        "file_size": 8704121,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shellstore-v0.14.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shellstore-v0.14.0"
+  },
+  "tandem": {
+    "source_repository": "ZahakJ/tandem",
+    "source_release_id": 424351938,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-10-26T14:27:51Z",
+    "synced_at": "2026-11-02T05:38:05.877883+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678415154,
+        "filename": "tandem-0.3.1.apk",
+        "original_filename": "tandem-0.3.1.apk",
+        "sha256": "83fc9dfe6012232fcda35c173f8a3f9abc60ef39e49c8fcee7ff08b6abfaf6d0",
+        "file_size": 6590303,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tandem-v0.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tandem-v0.3.1"
   }
 }

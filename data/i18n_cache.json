@@ -1957,7 +1957,23 @@
     "仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）": "只需ADB/Shizuku权限即可使用息屏运行APP（v22修改版本，基于WuDi-ZhanShen/ScreenOff）",
     "Android debloat & system control — real shell execution via Shizuku/ADB": "Android debloat 和系统控制 — 通过 Shizuku/ADB 执行真正的 shell",
     "Sync clipboard between Windows and Android.": "在 Windows 和 Android 之间同步剪贴板。",
-    "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，22 项系统级限制，PIN 应用锁与纯离线挑战-应答重置。免 root。": "WiFi锁定/轻量MDM工具：设备所有者+Shizuku双路线锁死WiFi开关，22项系统级限制，PIN应用锁与纯离线挑战-重置重置。免root。"
+    "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，22 项系统级限制，PIN 应用锁与纯离线挑战-应答重置。免 root。": "WiFi锁定/轻量MDM工具：设备所有者+Shizuku双路线锁死WiFi开关，22项系统级限制，PIN应用锁与纯离线挑战-重置重置。免root。",
+    "Check your Android phone for traces of known spyware and stalkerware – offline, on the phone, no PC needed.": "检查您的 Android 手机是否有已知间谍软件和跟踪软件的痕迹 - 离线、在手机上、无需 PC。",
+    "Android host for DeepSeek Harness: PRoot Ubuntu + node + dsh + loopback MCP bridge": "DeepSeek Harness 的 Android 主机：PRoot Ubuntu + node + dsh + 环回 MCP 桥",
+    "salmanbashir80": "萨尔曼巴希尔80",
+    "sakurday": "星期六",
+    "SerhanEnsar": "塞尔罕·恩萨尔",
+    "KayYesR": "凯耶斯R",
+    "silasdv": "西拉斯病毒",
+    "Open-source dual-screen game frontend for Android handhelds": "适用于 Android 手持设备的开源双屏游戏前端",
+    "Pairly: use your Android phone from your Windows PC. Clipboard, notifications, SMS, photos, files and screen mirroring over your local network.": "配对：通过 Windows PC 使用 Android 手机。通过本地网络进行剪贴板、通知、短信、照片、文件和屏幕镜像。",
+    "xan45": "xan45",
+    "ATRI072121": "ATRI072121",
+    "One-tap Android force-stop from Quick Settings. No root, ADB, Shizuku, Tasker, or Internet permission.": "从“快速设置”中一按 Android 强制停止。没有 root、ADB、Shizuku、Tasker 或 Internet 权限。",
+    "Shell 商店 · Android 命令与组件速查台（SMD 数据源）": "Shell商店·Android命令与组件速查台（SMD数据源）",
+    "raafi-abir": "拉菲阿比尔",
+    "MENGQIUNIAN": "梦秋年",
+    "neulketing": "神经抑制"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3917,6 +3933,22 @@
     "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，22 项系统级限制，PIN 应用锁与纯离线挑战-应答重置。免 root。": "Wi-Fi 锁定 / 轻量 MDM 工具: Владелец устройства + Shizuku 双路线锁死 WiFi 开关, 22 项系统级限制, PIN-код应用锁与纯离线挑战-应答重置。免 root。",
     "Android debloat & system control — real shell execution via Shizuku/ADB": "Разблокировка Android и управление системой — реальное выполнение оболочки через Shizuku/ADB",
     "仅 ADB/Shizuku 权限即可使用的息屏运行 APP（v22 修改版，基于 WuDi-ZhanShen/ScreenOff）": "仅 ADB/Shizuku 权限即可使用的息屏运行 APP (v22 修改版,基于 WuDi-ZhanShen/ScreenOff)",
-    "Sync clipboard between Windows and Android.": "Синхронизируйте буфер обмена между Windows и Android."
+    "Sync clipboard between Windows and Android.": "Синхронизируйте буфер обмена между Windows и Android.",
+    "Android host for DeepSeek Harness: PRoot Ubuntu + node + dsh + loopback MCP bridge": "Хост Android для DeepSeek Harness: PROot Ubuntu + узел + dsh + мост с обратной связью MCP",
+    "Check your Android phone for traces of known spyware and stalkerware – offline, on the phone, no PC needed.": "Проверьте свой телефон Android на наличие следов известных шпионских и преследующих программ — в автономном режиме, на телефоне, компьютер не требуется.",
+    "salmanbashir80": "Салманбашир80",
+    "sakurday": "суббота",
+    "KayYesR": "КейДаР",
+    "SerhanEnsar": "СерханЭнсар",
+    "Open-source dual-screen game frontend for Android handhelds": "Интерфейс игры с двумя экранами с открытым исходным кодом для портативных устройств Android",
+    "Pairly: use your Android phone from your Windows PC. Clipboard, notifications, SMS, photos, files and screen mirroring over your local network.": "Параллельно: используйте свой телефон Android с ПК с Windows. Буфер обмена, уведомления, SMS, фотографии, файлы и зеркальное отображение экрана в локальной сети.",
+    "One-tap Android force-stop from Quick Settings. No root, ADB, Shizuku, Tasker, or Internet permission.": "Принудительная остановка Android одним касанием из быстрых настроек. Нет root, ADB, Shizuku, Tasker или разрешений Интернета.",
+    "xan45": "ксан45",
+    "silasdv": "силасдв",
+    "Shell 商店 · Android 命令与组件速查台（SMD 数据源）": "Поддержка Shell · Android 命令与组件速查台(SMD 数据源)",
+    "neulketing": "нейлкетинг",
+    "raafi-abir": "Раафи-Абир",
+    "MENGQIUNIAN": "МЭНЦЮНЯН",
+    "ATRI072121": "ATRI072121"
   }
 }
