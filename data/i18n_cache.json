@@ -1973,7 +1973,20 @@
     "Shell 商店 · Android 命令与组件速查台（SMD 数据源）": "Shell商店·Android命令与组件速查台（SMD数据源）",
     "raafi-abir": "拉菲阿比尔",
     "MENGQIUNIAN": "梦秋年",
-    "neulketing": "神经抑制"
+    "neulketing": "神经抑制",
+    "Pocketdesk — your desktop from your phone. Low-latency remote desktop for Linux (Wayland-native) and Windows, with KDE Connect features, over LAN, Tailscale or iroh. Pure Rust server + native Android app; no port forwarding.": "Pocketdesk — 您手机上的桌面。适用于 Linux（Wayland 原生）和 Windows 的低延迟远程桌面，具有 KDE Con​​nect 功能，通过 LAN、Tailscale 或 iroh。纯 Rust 服务器 + 原生 Android 应用程序；没有端口转发。",
+    "Clipping feature specifically for the ayn thor similar to medals clipping.": "专门针对艾因托尔的剪辑功能类似于奖牌剪辑。",
+    "KDE Connect Android with Shizuku clipboard sync": "KDE Con​​nect Android 与 Shizuku 剪贴板同步",
+    "Feature phones has Miracast, Pixel don't": "功能手机有 Miracast，Pixel 没有",
+    "Telegram userbot: antispam pings, mute modes, folder broadcasts, inline buttons. Python/Telethon + Android APK.": "Telegram 用户机器人：反垃圾邮件 ping、静音模式、文件夹广播、内联按钮。 Python/Telethon + Android APK。",
+    "Offline Android security audit tool. 75 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "离线Android安全审计工具。跨多个权限级别（基本、ADB、Shizuku、root）进行 75 次只读检查，0-100 分并保存报告。注重隐私，无需互联网许可，零遥测，完全本地化。",
+    "Qivomo is a local input-mapping tool that runs on Android.": "Qivomo 是一个在 Android 上运行的本地输入映射工具。",
+    "Windows 液态玻璃风格 ADB/Fastboot 工具箱：应用管理、免Root激活、刷写、双清、终端与重启矩阵": "Windows 吸附玻璃风格 ADB/Fastboot 工具箱：应用管理、免Root激活、刷写、双清、启动与重启矩阵",
+    "Exemplo Android de captura AVM do Haval via Qualcomm AIS/QCarCam e Shizuku root, com APK e guia de integração.": "例如，通过 Qualcomm AIS/QCarCam 和 Shizuku root、com APK 和集成界面来捕获 Haval 的 AVM。",
+    "Call recorder": "通话录音机",
+    "Debloat your phone": "让你的手机膨胀",
+    "Android app that checks a supported Vivo X200 Ultra, then uses Shizuku to attempt temporary root with CVE-2026-98260 and load KernelSU. Optional boot auto-root; one attempt per boot.": "Android 应用程序检查受支持的 Vivo X200 Ultra，然后使用 Shizuku 尝试使用 CVE-2026-98260 进行临时 root 并加载 KernelSU。可选开机自动root；每次启动一次尝试。",
+    "ADBeesh is a library that allows an Android app to perform ADB pairing and establish a local ADB connection to the device via Wireless Debugging (mirrored from GitLab). Development: https://gitlab.com/IndiDevs/adbeesh": "ADBeesh 是一个库，允许 Android 应用程序执行 ADB 配对并通过无线调试（从 GitLab 镜像）建立与设备的本地 ADB 连接。开发：https://gitlab.com/IndiDevs/adbeesh"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3949,6 +3962,19 @@
     "neulketing": "нейлкетинг",
     "raafi-abir": "Раафи-Абир",
     "MENGQIUNIAN": "МЭНЦЮНЯН",
-    "ATRI072121": "ATRI072121"
+    "ATRI072121": "ATRI072121",
+    "Pocketdesk — your desktop from your phone. Low-latency remote desktop for Linux (Wayland-native) and Windows, with KDE Connect features, over LAN, Tailscale or iroh. Pure Rust server + native Android app; no port forwarding.": "Pocketdesk — ваш рабочий стол с телефона. Удаленный рабочий стол с малой задержкой для Linux (родной вариант Wayland) и Windows с функциями KDE Connect по локальной сети, Tailscale или iroh. Сервер Pure Rust + собственное приложение для Android; нет переадресации портов.",
+    "Feature phones has Miracast, Pixel don't": "В функциональных телефонах есть Miracast, а в Pixel — нет.",
+    "KDE Connect Android with Shizuku clipboard sync": "KDE Connect Android с синхронизацией буфера обмена Shizuku",
+    "Clipping feature specifically for the ayn thor similar to medals clipping.": "Функция обрезки специально для айн Тора аналогична обрезке медалей.",
+    "Offline Android security audit tool. 75 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "Автономный инструмент аудита безопасности Android. 75 проверок только для чтения на нескольких уровнях привилегий (базовый, ADB, Shizuku, root), оценка 0–100 и сохраненные отчеты. Ориентирован на конфиденциальность, без разрешения в Интернет, без телеметрии, полностью локально.",
+    "Exemplo Android de captura AVM do Haval via Qualcomm AIS/QCarCam e Shizuku root, com APK e guia de integração.": "Пример Android-захвата AVM для Haval через Qualcomm AIS/QCarCam и корневой каталог Shizuku, вместе с APK и руководством по интеграции.",
+    "Android app that checks a supported Vivo X200 Ultra, then uses Shizuku to attempt temporary root with CVE-2026-98260 and load KernelSU. Optional boot auto-root; one attempt per boot.": "Приложение для Android, которое проверяет поддерживаемый Vivo X200 Ultra, затем использует Shizuku для попытки получения временного root-прав с помощью CVE-2026-98260 и загрузки KernelSU. Дополнительный загрузочный автоматический root; одна попытка на загрузку.",
+    "Windows 液态玻璃风格 ADB/Fastboot 工具箱：应用管理、免Root激活、刷写、双清、终端与重启矩阵": "Windows поддерживает ADB/Fastboot. Доступен для загрузки: 应用管理, Root.",
+    "Telegram userbot: antispam pings, mute modes, folder broadcasts, inline buttons. Python/Telethon + Android APK.": "Пользовательский бот Telegram: антиспам-пинги, режимы отключения звука, трансляции папок, встроенные кнопки. Python/Telethon + Android APK.",
+    "Qivomo is a local input-mapping tool that runs on Android.": "Qivomo — это локальный инструмент сопоставления ввода, работающий на Android.",
+    "Call recorder": "Запись звонков",
+    "Debloat your phone": "Разблокируйте свой телефон",
+    "ADBeesh is a library that allows an Android app to perform ADB pairing and establish a local ADB connection to the device via Wireless Debugging (mirrored from GitLab). Development: https://gitlab.com/IndiDevs/adbeesh": "ADBeesh — это библиотека, которая позволяет приложению Android выполнять сопряжение с ADB и устанавливать локальное соединение ADB с устройством посредством беспроводной отладки (зеркало из GitLab). Разработка: https://gitlab.com/IndiDevs/adbeesh"
   }
 }

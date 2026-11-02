@@ -17270,22 +17270,22 @@
   },
   "jarvis": {
     "source_repository": "mengtian999/jarvis",
-    "source_release_id": 429889310,
-    "source_tag": "v0.0.2",
-    "source_published_at": "2026-10-31T11:19:01Z",
-    "synced_at": "2026-10-31T17:10:57.182450+00:00",
+    "source_release_id": 430091722,
+    "source_tag": "v0.0.3",
+    "source_published_at": "2026-10-31T17:50:35Z",
+    "synced_at": "2026-11-02T21:39:24.498273+00:00",
     "assets": [
       {
-        "source_asset_id": 695182115,
-        "filename": "Jarvis-v0.0.2.apk",
-        "original_filename": "Jarvis-v0.0.2.apk",
-        "sha256": "fbb1692574c661ec5ec3751d206a520e6f8c7df0ac307a81ef9838768e6a3ea8",
-        "file_size": 65889819,
+        "source_asset_id": 696065190,
+        "filename": "Jarvis-v0.0.3.apk",
+        "original_filename": "Jarvis-v0.0.3.apk",
+        "sha256": "00f8d1528bf98225d1aaee04725538f491e8f71a47a38adc470a99c74f7456c7",
+        "file_size": 65883051,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "jarvis-v0.0.2",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-v0.0.2"
+    "mirror_release_tag": "jarvis-v0.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-v0.0.3"
   },
   "bridgecoil": {
     "source_repository": "johnneerdael/bridgecoil",
@@ -18036,5 +18036,203 @@
     ],
     "mirror_release_tag": "tandem-v0.3.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tandem-v0.3.1"
+  },
+  "vrec": {
+    "source_repository": "N2K02/VREC",
+    "source_release_id": 431809164,
+    "source_tag": "v6.1",
+    "source_published_at": "2026-11-02T18:11:39Z",
+    "synced_at": "2026-11-02T21:39:21.137517+00:00",
+    "assets": [
+      {
+        "source_asset_id": 702701374,
+        "filename": "VREC-6.1.apk",
+        "original_filename": "VREC-6.1.apk",
+        "sha256": "afd426b06c5a4978b10b8fa6427434cfa30cc0ade8283dd5ace4f4292496e465",
+        "file_size": 13920312,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vrec-v6.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vrec-v6.1"
+  },
+  "private-dns-changer": {
+    "source_repository": "neteinstein/Private-DNS-Changer",
+    "source_release_id": 431796129,
+    "source_tag": "v1.0.6",
+    "source_published_at": "2026-11-02T18:03:44Z",
+    "synced_at": "2026-11-02T21:39:28.841695+00:00",
+    "assets": [
+      {
+        "source_asset_id": 702678668,
+        "filename": "PrivateDnsChanger_version1_0_6.apk",
+        "original_filename": "PrivateDnsChanger_version1_0_6.apk",
+        "sha256": "bfbc04bd585ed91856c6f0ec90ae9838bb313fd70f1524654ed19d3bed49b27f",
+        "file_size": 3626780,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "private-dns-changer-v1.0.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/private-dns-changer-v1.0.6"
+  },
+  "kdeconnect-android-shizuku-independent": {
+    "source_repository": "Adiker/kdeconnect-android-shizuku-independent",
+    "source_release_id": 431890926,
+    "source_tag": "v1.37.0-shizuku-clipboard",
+    "source_published_at": "2026-11-02T19:40:46Z",
+    "synced_at": "2026-11-02T21:39:33.441954+00:00",
+    "assets": [
+      {
+        "source_asset_id": 702948668,
+        "filename": "kdeconnect-shizuku.apk",
+        "original_filename": "kdeconnect-shizuku.apk",
+        "sha256": "d40bc67749e2fdb5375f2535163a2844962d38f79d6396ce862728cfc834c9d4",
+        "file_size": 7223992,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kdeconnect-android-shizuku-independent-v1.37.0-shizuku-clipboard",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kdeconnect-android-shizuku-independent-v1.37.0-shizuku-clipboard"
+  },
+  "pocodebloat": {
+    "source_repository": "pinadi22/PocoDebloat",
+    "source_release_id": 431402033,
+    "source_tag": "v1.0.5",
+    "source_published_at": "2026-11-02T11:51:44Z",
+    "synced_at": "2026-11-02T21:39:40.722190+00:00",
+    "assets": [
+      {
+        "source_asset_id": 701588078,
+        "filename": "PocoDebloat-v1.0.5.apk",
+        "original_filename": "PocoDebloat-v1.0.5.apk",
+        "sha256": "30ebebe7d3a6c99f55d739ea7d97c0b5c9ab6aa5b9895bfe62046a4f2fabd470",
+        "file_size": 9551216,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pocodebloat-v1.0.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocodebloat-v1.0.5"
+  },
+  "qivomo": {
+    "source_repository": "WeilerQi/Qivomo",
+    "source_release_id": 431907127,
+    "source_tag": "v1.4.6",
+    "source_published_at": "2026-11-02T20:12:13Z",
+    "synced_at": "2026-11-02T21:39:46.859359+00:00",
+    "assets": [
+      {
+        "source_asset_id": 703000287,
+        "filename": "Qivomo-v1.4.6.apk",
+        "original_filename": "Qivomo-v1.4.6.apk",
+        "sha256": "bb05ed5ddc110132a2d376b3735d59f5f694fe41b5e36d61783eefb4d490a1c6",
+        "file_size": 1862066,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "qivomo-v1.4.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qivomo-v1.4.6"
+  },
+  "pocketdesk": {
+    "source_repository": "sreevarshan-xenoz/Pocketdesk",
+    "source_release_id": 429790772,
+    "source_tag": "v0.8.3",
+    "source_published_at": "2026-10-31T07:39:21Z",
+    "synced_at": "2026-11-02T21:39:53.036935+00:00",
+    "assets": [
+      {
+        "source_asset_id": 694724265,
+        "filename": "pocketdesk-v0.8.3-android-arm64.apk",
+        "original_filename": "pocketdesk-v0.8.3-android-arm64.apk",
+        "sha256": "662a24f2adad6f342e8199c832e020db98b77cd7a6661744325ad9ed82d36dc0",
+        "file_size": 22070194,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pocketdesk-v0.8.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketdesk-v0.8.3"
+  },
+  "mirra": {
+    "source_repository": "BlueCartoonCat/mirra",
+    "source_release_id": 431925103,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-11-02T20:17:09Z",
+    "synced_at": "2026-11-02T21:39:57.793633+00:00",
+    "assets": [
+      {
+        "source_asset_id": 703055702,
+        "filename": "mirra-2.0.0.apk",
+        "original_filename": "mirra-2.0.0.apk",
+        "sha256": "eb169a160ddd54644570009d3b3bef9c4c2e281c94baaf8201e1485cb8a32f13",
+        "file_size": 12352738,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "mirra-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mirra-v2.0.0"
+  },
+  "opencode-android": {
+    "source_repository": "s1lex312/opencode-android",
+    "source_release_id": 431984807,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-11-02T21:23:30Z",
+    "synced_at": "2026-11-02T21:40:13.045883+00:00",
+    "assets": [
+      {
+        "source_asset_id": 703228287,
+        "filename": "opencode-android-full-v1.3.0.apk",
+        "original_filename": "opencode-android-full-v1.3.0.apk",
+        "sha256": "a6a72c230972cb3c8d9501e38cd61b55817b0983a71e231392fb434db4802223",
+        "file_size": 135968180,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 703228288,
+        "filename": "opencode-android-lite-v1.3.0.apk",
+        "original_filename": "opencode-android-lite-v1.3.0.apk",
+        "sha256": "e20990fd31b1134543fe0c44138027e5b69267d5b3a52993356dbe94d4979942",
+        "file_size": 21165358,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "opencode-android-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-android-v1.3.0"
+  },
+  "thor-clips": {
+    "source_repository": "abdulazizaaalkadi-cmyk/thor-clips",
+    "source_release_id": 431987642,
+    "source_tag": "v0.1.23",
+    "source_published_at": "2026-11-02T21:26:46Z",
+    "synced_at": "2026-11-02T21:40:16.697636+00:00",
+    "assets": [
+      {
+        "source_asset_id": 703235937,
+        "filename": "ThorClips-0.1.23.apk",
+        "original_filename": "ThorClips-0.1.23.apk",
+        "sha256": "68212b8136910a9853e55b235364c18c2d2c8a13df4093a4a4f3925ca10a5ce3",
+        "file_size": 2895605,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "thor-clips-v0.1.23",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thor-clips-v0.1.23"
+  },
+  "colemailer": {
+    "source_repository": "Kleisym/Colemailer",
+    "source_release_id": 431997389,
+    "source_tag": "v3.4.12",
+    "source_published_at": "2026-11-02T21:38:57Z",
+    "synced_at": "2026-11-02T21:40:23.751578+00:00",
+    "assets": [
+      {
+        "source_asset_id": 703264515,
+        "filename": "colemailer.apk",
+        "original_filename": "colemailer.apk",
+        "sha256": "7aa25582f85f3a835b6e34067c324b507fd183bed90868a23e249dfd03b16b7b",
+        "file_size": 52398534,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "colemailer-v3.4.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12"
   }
 }
