@@ -275,16 +275,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Brig** | pridgey | `v1.5` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/brig-v1.5) | [Upstream](https://github.com/pridgey/Brig/releases) |
-| ⚡ **Android-Guru-Agent** | AceGuru-mjh | `v1.5.10` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.5.10) | [Upstream](https://github.com/AceGuru-mjh/Android-Guru-Agent/releases) |
-| ⚡ **HybridFileXfer** | yizhiruonan | `v3.1.0` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hybridfilexfer-v3.1.0) | [Upstream](https://github.com/yizhiruonan/HybridFileXfer/releases) |
-| ⚡ **guang-lab** | Yukstarlight | `v1.0.1` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guang-lab-v1.0.1) | [Upstream](https://github.com/Yukstarlight/guang-lab/releases) |
-| ⚡ **fe-by-Andy** | Andy-scy | `v0.1.0` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fe-by-andy-v0.1.0) | [Upstream](https://github.com/Andy-scy/fe-by-Andy/releases) |
-| ⚡ **bridgecoil** | johnneerdael | `v0.1.7` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bridgecoil-v0.1.7) | [Upstream](https://github.com/johnneerdael/bridgecoil/releases) |
-| ⚡ **jarvis** | mengtian999 | `v0.0.2` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarvis-v0.0.2) | [Upstream](https://github.com/mengtian999/jarvis/releases) |
-| ⚡ **shiroikuma-jiyusagyoban** | ShiroiKuma0 | `0.2.94+2026-09-30.11-19.ga3b4fda4+113` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shiroikuma-jiyusagyoban-0.2.94-2026-09-30.11-19.ga3b4fda4-113) | [Upstream](https://github.com/ShiroiKuma0/shiroikuma-jiyusagyoban/releases) |
-| ⚡ **Shizako** | xm1437 | `zako3.17` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.17) | [Upstream](https://github.com/xm1437/Shizako/releases) |
-| ⚡ **AutoTask** | chenyubo10665 | `v1.5.1` | 2026-10-31 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotask-v1.5.1) | [Upstream](https://github.com/chenyubo10665/AutoTask/releases) |
+| ⚡ **ACC--Automatic-Cache-Cleaner-apk** | raafi-abir | `v1.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/acc-automatic-cache-cleaner-apk-v1.0) | [Upstream](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk/releases) |
+| ⚡ **CallBridge** | SerhanEnsar | `v1.4.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callbridge-v1.4.0) | [Upstream](https://github.com/SerhanEnsar/CallBridge/releases) |
+| ⚡ **8002CleanUp-Android** | salmanbashir80 | `v2.7.3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/8002cleanup-android-v2.7.3) | [Upstream](https://github.com/salmanbashir80/8002CleanUp-Android/releases) |
+| ⚡ **NovaFiles** | xan45 | `v1.0.0-beta3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novafiles-v1.0.0-beta3) | [Upstream](https://github.com/xan45/NovaFiles/releases) |
+| ⚡ **CSync** | sakurday | `0.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/csync-0.2.0) | [Upstream](https://github.com/sakurday/CSync/releases) |
+| ⚡ **PocketSurf** | silasdv | `v1.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketsurf-v1.2.0) | [Upstream](https://github.com/silasdv/PocketSurf/releases) |
+| ⚡ **openthumb** | neulketing | `v2.0.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openthumb-v2.0.1) | [Upstream](https://github.com/neulketing/openthumb/releases) |
+| ⚡ **FlipImeSwitch** | MENGQIUNIAN | `v1.7` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipimeswitch-v1.7) | [Upstream](https://github.com/MENGQIUNIAN/FlipImeSwitch/releases) |
+| ⚡ **DSH-forAndroid** | ATRI072121 | `v0.2.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-forandroid-v0.2.1) | [Upstream](https://github.com/ATRI072121/DSH-forAndroid/releases) |
+| ⚡ **HyperDebloat--Android** | KayYesR | `v0.7.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperdebloat-android-v0.7.0) | [Upstream](https://github.com/KayYesR/HyperDebloat--Android/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
