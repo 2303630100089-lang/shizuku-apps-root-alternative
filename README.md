@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **ACC--Automatic-Cache-Cleaner-apk** | raafi-abir | `v1.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/acc-automatic-cache-cleaner-apk-v1.0) | [Upstream](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk/releases) |
-| ⚡ **CallBridge** | SerhanEnsar | `v1.4.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callbridge-v1.4.0) | [Upstream](https://github.com/SerhanEnsar/CallBridge/releases) |
-| ⚡ **8002CleanUp-Android** | salmanbashir80 | `v2.7.3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/8002cleanup-android-v2.7.3) | [Upstream](https://github.com/salmanbashir80/8002CleanUp-Android/releases) |
-| ⚡ **NovaFiles** | xan45 | `v1.0.0-beta3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novafiles-v1.0.0-beta3) | [Upstream](https://github.com/xan45/NovaFiles/releases) |
-| ⚡ **CSync** | sakurday | `0.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/csync-0.2.0) | [Upstream](https://github.com/sakurday/CSync/releases) |
-| ⚡ **PocketSurf** | silasdv | `v1.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketsurf-v1.2.0) | [Upstream](https://github.com/silasdv/PocketSurf/releases) |
-| ⚡ **openthumb** | neulketing | `v2.0.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openthumb-v2.0.1) | [Upstream](https://github.com/neulketing/openthumb/releases) |
-| ⚡ **FlipImeSwitch** | MENGQIUNIAN | `v1.7` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipimeswitch-v1.7) | [Upstream](https://github.com/MENGQIUNIAN/FlipImeSwitch/releases) |
-| ⚡ **DSH-forAndroid** | ATRI072121 | `v0.2.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-forandroid-v0.2.1) | [Upstream](https://github.com/ATRI072121/DSH-forAndroid/releases) |
-| ⚡ **HyperDebloat--Android** | KayYesR | `v0.7.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperdebloat-android-v0.7.0) | [Upstream](https://github.com/KayYesR/HyperDebloat--Android/releases) |
+| ⚡ **Colemailer** | Kleisym | `v3.4.12` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12) | [Upstream](https://github.com/Kleisym/Colemailer/releases) |
+| ⚡ **thor-clips** | abdulazizaaalkadi-cmyk | `v0.1.23` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thor-clips-v0.1.23) | [Upstream](https://github.com/abdulazizaaalkadi-cmyk/thor-clips/releases) |
+| ⚡ **opencode-android** | s1lex312 | `v1.3.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-android-v1.3.0) | [Upstream](https://github.com/s1lex312/opencode-android/releases) |
+| ⚡ **mirra** | BlueCartoonCat | `v2.0.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mirra-v2.0.0) | [Upstream](https://github.com/BlueCartoonCat/mirra/releases) |
+| ⚡ **Qivomo** | WeilerQi | `v1.4.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qivomo-v1.4.6) | [Upstream](https://github.com/WeilerQi/Qivomo/releases) |
+| ⚡ **kdeconnect-android-shizuku-independent** | Adiker | `v1.37.0-shizuku-clipboard` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kdeconnect-android-shizuku-independent-v1.37.0-shizuku-clipboard) | [Upstream](https://github.com/Adiker/kdeconnect-android-shizuku-independent/releases) |
+| ⚡ **VREC** | N2K02 | `v6.1` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vrec-v6.1) | [Upstream](https://github.com/N2K02/VREC/releases) |
+| ⚡ **Private-DNS-Changer** | neteinstein | `v1.0.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/private-dns-changer-v1.0.6) | [Upstream](https://github.com/neteinstein/Private-DNS-Changer/releases) |
+| ⚡ **PocoDebloat** | pinadi22 | `v1.0.5` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocodebloat-v1.0.5) | [Upstream](https://github.com/pinadi22/PocoDebloat/releases) |
+| ⚡ **ShellStore** | rentianyu | `v0.14.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shellstore-v0.14.0) | [Upstream](https://github.com/rentianyu/ShellStore/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
