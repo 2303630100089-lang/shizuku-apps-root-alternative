@@ -202,6 +202,15 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[ripple](https://github.com/tumingke0/ripple)** | 涟漪 (Ripple) · 免费 Android 和 iOS（屏幕时间 API）应用程序拦截器，具有 15 分钟单调冷却时间、Shorts/Reels/微信频道提要拦截器、家长解锁代码和防卸载 · 免费无广告的安卓与 iOS戒短视频及防卸载管手机工具 | See project | [GitHub 源码](https://github.com/tumingke0/ripple) • [下载发布](https://github.com/tumingke0/ripple/releases) |
+| **[tapilot](https://github.com/tapilot-ai/tapilot)** | 用自然语言控制您的 Android 手机。无需电脑。由 Midscene 提供支持，带有 Skills 和 Codex 插件。 | MIT | [GitHub 源码](https://github.com/tapilot-ai/tapilot) • [下载发布](https://github.com/tapilot-ai/tapilot/releases) |
+| **[rustclipsync-mobile](https://github.com/Infinifar/rustclipsync-mobile)** | 本地 Android 和 iOS 客户端共享 Rust 移动外观和 rustclipsync-core | MIT | [GitHub 源码](https://github.com/Infinifar/rustclipsync-mobile) • [下载发布](https://github.com/Infinifar/rustclipsync-mobile/releases) |
+| **[yingkong](https://github.com/yingge-dev/yingkong)** | 颖控·安卓调度仪表台（M1可点原型） | See project | [GitHub 源码](https://github.com/yingge-dev/yingkong) • [下载发布](https://github.com/yingge-dev/yingkong/releases) |
+| **[violet-mcp](https://github.com/aileboeth-web/violet-mcp)** | 与 Shizuku 兼容的 Android 工具。 | GPL-3.0 | [GitHub 源码](https://github.com/aileboeth-web/violet-mcp) • [下载发布](https://github.com/aileboeth-web/violet-mcp/releases) |
+| **[Waschbeken1](https://github.com/Waschbeken/Waschbeken1)** | 1 | GPL-3.0 | [GitHub 源码](https://github.com/Waschbeken/Waschbeken1) • [下载发布](https://github.com/Waschbeken/Waschbeken1/releases) |
+| **[openfinalshell](https://github.com/kexue-aihao/openfinalshell)** | 开源finalshell | See project | [GitHub 源码](https://github.com/kexue-aihao/openfinalshell) • [下载发布](https://github.com/kexue-aihao/openfinalshell/releases) |
+| **[t9-apk-tools](https://github.com/engrtarun/t9-apk-tools)** | 无根 Android 倒计时可切换飞行模式以刷新 Jio 热点 IP。 Native Java，由 GitHub Actions 构建。 | MIT | [GitHub 源码](https://github.com/engrtarun/t9-apk-tools) • [下载发布](https://github.com/engrtarun/t9-apk-tools/releases) |
+| **[weblogcat](https://github.com/hzl000/weblogcat)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/hzl000/weblogcat) • [下载发布](https://github.com/hzl000/weblogcat/releases) |
 | **[void-apps](https://github.com/privshell/void-apps)** | PowerFull 应用程序管理器、防火墙和权限管理器，具有很多功能。 | MIT | [GitHub 源码](https://github.com/privshell/void-apps) • [下载发布](https://github.com/privshell/void-apps/releases) |
 | **[haval-camera](https://github.com/paulovitin/haval-camera)** | 例如，通过 Qualcomm AIS/QCarCam 和 Shizuku root、com APK 和集成界面来捕获 Haval 的 AVM。 | AGPL-3.0 | [GitHub 源码](https://github.com/paulovitin/haval-camera) • [下载发布](https://github.com/paulovitin/haval-camera/releases) |
 | **[phoneguard](https://github.com/monarchsofchaos004-gif/phoneguard)** | 老年电话接管卫士：无障碍服务卫士+救援按钮+加密中继。 长辈手机占领守门哨 | MIT | [GitHub 源码](https://github.com/monarchsofchaos004-gif/phoneguard) • [下载发布](https://github.com/monarchsofchaos004-gif/phoneguard/releases) |
@@ -269,16 +278,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **ACC--Automatic-Cache-Cleaner-apk** | 拉菲阿比尔 | `v1.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/acc-automatic-cache-cleaner-apk-v1.0) | [Upstream](https://github.com/raafi-abir/ACC--Automatic-Cache-Cleaner-apk/releases) |
-| ⚡ **CallBridge** | 塞尔罕·恩萨尔 | `v1.4.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callbridge-v1.4.0) | [Upstream](https://github.com/SerhanEnsar/CallBridge/releases) |
-| ⚡ **8002CleanUp-Android** | 萨尔曼巴希尔80 | `v2.7.3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/8002cleanup-android-v2.7.3) | [Upstream](https://github.com/salmanbashir80/8002CleanUp-Android/releases) |
-| ⚡ **NovaFiles** | xan45 | `v1.0.0-beta3` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/novafiles-v1.0.0-beta3) | [Upstream](https://github.com/xan45/NovaFiles/releases) |
-| ⚡ **CSync** | 星期六 | `0.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/csync-0.2.0) | [Upstream](https://github.com/sakurday/CSync/releases) |
-| ⚡ **PocketSurf** | 西拉斯病毒 | `v1.2.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketsurf-v1.2.0) | [Upstream](https://github.com/silasdv/PocketSurf/releases) |
-| ⚡ **openthumb** | 神经抑制 | `v2.0.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openthumb-v2.0.1) | [Upstream](https://github.com/neulketing/openthumb/releases) |
-| ⚡ **FlipImeSwitch** | 梦秋年 | `v1.7` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipimeswitch-v1.7) | [Upstream](https://github.com/MENGQIUNIAN/FlipImeSwitch/releases) |
-| ⚡ **DSH-forAndroid** | ATRI072121 | `v0.2.1` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-forandroid-v0.2.1) | [Upstream](https://github.com/ATRI072121/DSH-forAndroid/releases) |
-| ⚡ **HyperDebloat--Android** | 凯耶斯R | `v0.7.0` | 2026-11-01 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperdebloat-android-v0.7.0) | [Upstream](https://github.com/KayYesR/HyperDebloat--Android/releases) |
+| ⚡ **Colemailer** | 克莱西姆 | `v3.4.12` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12) | [Upstream](https://github.com/Kleisym/Colemailer/releases) |
+| ⚡ **thor-clips** | 阿卜杜勒阿齐扎阿卡迪-CMYK | `v0.1.23` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thor-clips-v0.1.23) | [Upstream](https://github.com/abdulazizaaalkadi-cmyk/thor-clips/releases) |
+| ⚡ **opencode-android** | s1lex312 | `v1.3.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-android-v1.3.0) | [Upstream](https://github.com/s1lex312/opencode-android/releases) |
+| ⚡ **mirra** | 蓝色卡通猫 | `v2.0.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mirra-v2.0.0) | [Upstream](https://github.com/BlueCartoonCat/mirra/releases) |
+| ⚡ **Qivomo** | 奇维勒 | `v1.4.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qivomo-v1.4.6) | [Upstream](https://github.com/WeilerQi/Qivomo/releases) |
+| ⚡ **kdeconnect-android-shizuku-independent** | 阿迪克 | `v1.37.0-shizuku-clipboard` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kdeconnect-android-shizuku-independent-v1.37.0-shizuku-clipboard) | [Upstream](https://github.com/Adiker/kdeconnect-android-shizuku-independent/releases) |
+| ⚡ **VREC** | N2K02 | `v6.1` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vrec-v6.1) | [Upstream](https://github.com/N2K02/VREC/releases) |
+| ⚡ **Private-DNS-Changer** | 内斯坦 | `v1.0.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/private-dns-changer-v1.0.6) | [Upstream](https://github.com/neteinstein/Private-DNS-Changer/releases) |
+| ⚡ **PocoDebloat** | 皮纳迪22 | `v1.0.5` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocodebloat-v1.0.5) | [Upstream](https://github.com/pinadi22/PocoDebloat/releases) |
+| ⚡ **ShellStore** | 人天鱼 | `v0.14.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shellstore-v0.14.0) | [Upstream](https://github.com/rentianyu/ShellStore/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

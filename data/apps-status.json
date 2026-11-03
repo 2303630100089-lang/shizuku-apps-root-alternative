@@ -5083,5 +5083,55 @@
   "haval-camera": {
     "status": "no-apk",
     "last_checked": "2026-11-02T21:40:24.308686+00:00"
+  },
+  "weblogcat": {
+    "status": "no-apk",
+    "last_checked": "2026-11-03T06:17:42.905404+00:00",
+    "latest_version": "v0.3.4"
+  },
+  "t9-apk-tools": {
+    "status": "synced",
+    "last_checked": "2026-11-03T06:17:46.213043+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-11-03T06:17:46.213043+00:00"
+  },
+  "openfinalshell": {
+    "status": "synced",
+    "last_checked": "2026-11-03T06:17:58.943148+00:00",
+    "latest_version": "v0.30.32",
+    "last_synced": "2026-11-03T06:17:58.943148+00:00"
+  },
+  "waschbeken1": {
+    "status": "synced",
+    "last_checked": "2026-11-03T06:18:02.018595+00:00",
+    "latest_version": "app-v1.0.30",
+    "last_synced": "2026-11-03T06:18:02.018595+00:00"
+  },
+  "violet-mcp": {
+    "status": "synced",
+    "last_checked": "2026-11-03T06:18:04.806577+00:00",
+    "latest_version": "v1.4.0",
+    "last_synced": "2026-11-03T06:18:04.806577+00:00"
+  },
+  "yingkong": {
+    "status": "no-apk",
+    "last_checked": "2026-11-03T06:18:05.115387+00:00",
+    "latest_version": "v0.19.0-m2"
+  },
+  "rustclipsync-mobile": {
+    "status": "synced",
+    "last_checked": "2026-11-03T06:18:09.671820+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-11-03T06:18:09.671820+00:00"
+  },
+  "tapilot": {
+    "status": "no-apk",
+    "last_checked": "2026-11-03T06:18:09.963806+00:00"
+  },
+  "ripple": {
+    "status": "synced",
+    "last_checked": "2026-11-03T06:18:13.509361+00:00",
+    "latest_version": "v0.1.7",
+    "last_synced": "2026-11-03T06:18:13.509361+00:00"
   }
 }

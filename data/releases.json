@@ -18234,5 +18234,151 @@
     ],
     "mirror_release_tag": "colemailer-v3.4.12",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12"
+  },
+  "t9-apk-tools": {
+    "source_repository": "engrtarun/t9-apk-tools",
+    "source_release_id": 432333193,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-11-03T06:06:53Z",
+    "synced_at": "2026-11-03T06:17:46.213022+00:00",
+    "assets": [
+      {
+        "source_asset_id": 704519763,
+        "filename": "t9-apk-tools.apk",
+        "original_filename": "t9-apk-tools.apk",
+        "sha256": "021fd37208c26005989c069172ee8b45e42bca42fa066e8a1cb414589fa35ce4",
+        "file_size": 4148710,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "t9-apk-tools-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t9-apk-tools-v1.2.0"
+  },
+  "openfinalshell": {
+    "source_repository": "kexue-aihao/openfinalshell",
+    "source_release_id": 420507635,
+    "source_tag": "v0.30.32",
+    "source_published_at": "2026-10-22T09:06:16Z",
+    "synced_at": "2026-11-03T06:17:58.943121+00:00",
+    "assets": [
+      {
+        "source_asset_id": 665756616,
+        "filename": "OpenFinalShell-0.30.32-android-arm64-v8a.apk",
+        "original_filename": "OpenFinalShell-0.30.32-android-arm64-v8a.apk",
+        "sha256": "b364170680b2a4679cd86b9eaf5d254993628c20adcbb0ad8c59ef3b88ea5a03",
+        "file_size": 14252459,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 665756603,
+        "filename": "OpenFinalShell-0.30.32-android-armeabi-v7a.apk",
+        "original_filename": "OpenFinalShell-0.30.32-android-armeabi-v7a.apk",
+        "sha256": "69ce7c99fc6de231007930a40cf896bce68e15edee1844edb74f0cfc5d574dc4",
+        "file_size": 14256853,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 665756617,
+        "filename": "OpenFinalShell-0.30.32-android-universal.apk",
+        "original_filename": "OpenFinalShell-0.30.32-android-universal.apk",
+        "sha256": "65ee64713f8a7f7131582024dc6f6ec822e4287cf6ad9e0259f393f95ea21ec6",
+        "file_size": 14299610,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 665756612,
+        "filename": "OpenFinalShell-0.30.32-android-x86.apk",
+        "original_filename": "OpenFinalShell-0.30.32-android-x86.apk",
+        "sha256": "4a0cfee59f4da91f91967d7e16d9f61f5957203ca696c1de0688834407b699e9",
+        "file_size": 14253789,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 665756614,
+        "filename": "OpenFinalShell-0.30.32-android-x86_64.apk",
+        "original_filename": "OpenFinalShell-0.30.32-android-x86_64.apk",
+        "sha256": "8412275a75c209ead0c91c3270f89ead0fefed3d2f8b5f3eb7aa21119867fea9",
+        "file_size": 14253158,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "openfinalshell-v0.30.32",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openfinalshell-v0.30.32"
+  },
+  "waschbeken1": {
+    "source_repository": "Waschbeken/Waschbeken1",
+    "source_release_id": 432339959,
+    "source_tag": "app-v1.0.30",
+    "source_published_at": "2026-11-03T06:17:47Z",
+    "synced_at": "2026-11-03T06:18:02.018571+00:00",
+    "assets": [
+      {
+        "source_asset_id": 704545307,
+        "filename": "heliolink-1.0.30.apk",
+        "original_filename": "heliolink-1.0.30.apk",
+        "sha256": "336b07ff5a71b46058f1a4bab9229d87ac84e48621bc6cf09a03b9ef69e3e123",
+        "file_size": 1909361,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "waschbeken1-app-v1.0.30",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/waschbeken1-app-v1.0.30"
+  },
+  "violet-mcp": {
+    "source_repository": "aileboeth-web/violet-mcp",
+    "source_release_id": 425493630,
+    "source_tag": "v1.4.0",
+    "source_published_at": "2026-10-27T13:24:28Z",
+    "synced_at": "2026-11-03T06:18:04.806556+00:00",
+    "assets": [
+      {
+        "source_asset_id": 681669478,
+        "filename": "violet-mcp-1.4.0-release.apk",
+        "original_filename": "violet-mcp-1.4.0-release.apk",
+        "sha256": "c0dee9d3c439c98f80cfa01fd84cb9d75c40887bb9402907fd23bf43a46366e4",
+        "file_size": 1280055,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "violet-mcp-v1.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/violet-mcp-v1.4.0"
+  },
+  "rustclipsync-mobile": {
+    "source_repository": "Infinifar/rustclipsync-mobile",
+    "source_release_id": 432322387,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-11-03T05:48:14Z",
+    "synced_at": "2026-11-03T06:18:09.671800+00:00",
+    "assets": [
+      {
+        "source_asset_id": 704477819,
+        "filename": "rustclipsync-mobile-0.2.0-android.apk",
+        "original_filename": "rustclipsync-mobile-0.2.0-android.apk",
+        "sha256": "87fb02c4134b229707a3deed9fc66fa8e776b63ad2d7515153afbf63831b426e",
+        "file_size": 34974716,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "rustclipsync-mobile-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rustclipsync-mobile-v0.2.0"
+  },
+  "ripple": {
+    "source_repository": "tumingke0/ripple",
+    "source_release_id": 432118963,
+    "source_tag": "v0.1.7",
+    "source_published_at": "2026-11-03T00:33:04Z",
+    "synced_at": "2026-11-03T06:18:13.509342+00:00",
+    "assets": [
+      {
+        "source_asset_id": 703696835,
+        "filename": "ripple-v0.1.7.apk",
+        "original_filename": "ripple-v0.1.7.apk",
+        "sha256": "e8c9043bf9636333e903fa02853f59237a2cca2153df7ed6d2dac25d8321d688",
+        "file_size": 9078729,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ripple-v0.1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripple-v0.1.7"
   }
 }

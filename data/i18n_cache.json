@@ -1986,7 +1986,22 @@
     "Call recorder": "通话录音机",
     "Debloat your phone": "让你的手机膨胀",
     "Android app that checks a supported Vivo X200 Ultra, then uses Shizuku to attempt temporary root with CVE-2026-98260 and load KernelSU. Optional boot auto-root; one attempt per boot.": "Android 应用程序检查受支持的 Vivo X200 Ultra，然后使用 Shizuku 尝试使用 CVE-2026-98260 进行临时 root 并加载 KernelSU。可选开机自动root；每次启动一次尝试。",
-    "ADBeesh is a library that allows an Android app to perform ADB pairing and establish a local ADB connection to the device via Wireless Debugging (mirrored from GitLab). Development: https://gitlab.com/IndiDevs/adbeesh": "ADBeesh 是一个库，允许 Android 应用程序执行 ADB 配对并通过无线调试（从 GitLab 镜像）建立与设备的本地 ADB 连接。开发：https://gitlab.com/IndiDevs/adbeesh"
+    "ADBeesh is a library that allows an Android app to perform ADB pairing and establish a local ADB connection to the device via Wireless Debugging (mirrored from GitLab). Development: https://gitlab.com/IndiDevs/adbeesh": "ADBeesh 是一个库，允许 Android 应用程序执行 ADB 配对并通过无线调试（从 GitLab 镜像）建立与设备的本地 ADB 连接。开发：https://gitlab.com/IndiDevs/adbeesh",
+    "s1lex312": "s1lex312",
+    "N2K02": "N2K02",
+    "abdulazizaaalkadi-cmyk": "阿卜杜勒阿齐扎阿卡迪-CMYK",
+    "开源finalshell": "开源finalshell",
+    "Native Android and iOS clients sharing a Rust mobile facade and rustclipsync-core": "本地 Android 和 iOS 客户端共享 Rust 移动外观和 rustclipsync-core",
+    "No-root Android countdown that toggles Airplane mode to refresh a Jio hotspot IP. Native Java, built by GitHub Actions.": "无根 Android 倒计时可切换飞行模式以刷新 Jio 热点 IP。 Native Java，由 GitHub Actions 构建。",
+    "rentianyu": "人天鱼",
+    "BlueCartoonCat": "蓝色卡通猫",
+    "颖控 · 安卓调度仪表台（M1 可点原型）": "颖控·安卓调度仪表台（M1可点原型）",
+    "pinadi22": "皮纳迪22",
+    "Adiker": "阿迪克",
+    "WeilerQi": "奇维勒",
+    "Control your Android phone with natural language. No computer required. Powered by Midscene, with Skills and a Codex plugin.": "用自然语言控制您的 Android 手机。无需电脑。由 Midscene 提供支持，带有 Skills 和 Codex 插件。",
+    "neteinstein": "内斯坦",
+    "Kleisym": "克莱西姆"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -3975,6 +3990,21 @@
     "Qivomo is a local input-mapping tool that runs on Android.": "Qivomo — это локальный инструмент сопоставления ввода, работающий на Android.",
     "Call recorder": "Запись звонков",
     "Debloat your phone": "Разблокируйте свой телефон",
-    "ADBeesh is a library that allows an Android app to perform ADB pairing and establish a local ADB connection to the device via Wireless Debugging (mirrored from GitLab). Development: https://gitlab.com/IndiDevs/adbeesh": "ADBeesh — это библиотека, которая позволяет приложению Android выполнять сопряжение с ADB и устанавливать локальное соединение ADB с устройством посредством беспроводной отладки (зеркало из GitLab). Разработка: https://gitlab.com/IndiDevs/adbeesh"
+    "ADBeesh is a library that allows an Android app to perform ADB pairing and establish a local ADB connection to the device via Wireless Debugging (mirrored from GitLab). Development: https://gitlab.com/IndiDevs/adbeesh": "ADBeesh — это библиотека, которая позволяет приложению Android выполнять сопряжение с ADB и устанавливать локальное соединение ADB с устройством посредством беспроводной отладки (зеркало из GitLab). Разработка: https://gitlab.com/IndiDevs/adbeesh",
+    "abdulazizaaalkadi-cmyk": "Абдулазизааалкади-cmyk",
+    "N2K02": "Н2К02",
+    "开源finalshell": "开源finalshell",
+    "s1lex312": "s1lex312",
+    "BlueCartoonCat": "СинийМультфильмКошка",
+    "rentianyu": "Рентианью",
+    "No-root Android countdown that toggles Airplane mode to refresh a Jio hotspot IP. Native Java, built by GitHub Actions.": "Обратный отсчет Android без root-доступа, который переключает режим полета для обновления IP-адреса точки доступа Jio. Собственная Java, созданная GitHub Actions.",
+    "Native Android and iOS clients sharing a Rust mobile facade and rustclipsync-core": "Нативные клиенты для Android и iOS, использующие мобильный фасад Rust и ядро ​​Rustclipsync.",
+    "颖控 · 安卓调度仪表台（M1 可点原型）": "颖控 · 安卓调度仪表台(M1 可点原型)",
+    "WeilerQi": "ВейлерЦи",
+    "pinadi22": "пинади22",
+    "Adiker": "Адикер",
+    "Control your Android phone with natural language. No computer required. Powered by Midscene, with Skills and a Codex plugin.": "Управляйте своим телефоном Android с помощью естественного языка. Компьютер не требуется. Создано Midscene, с навыками и плагином Кодекса.",
+    "neteinstein": "Нетенштейн",
+    "Kleisym": "Клейсим"
   }
 }
