@@ -2001,7 +2001,20 @@
     "WeilerQi": "奇维勒",
     "Control your Android phone with natural language. No computer required. Powered by Midscene, with Skills and a Codex plugin.": "用自然语言控制您的 Android 手机。无需电脑。由 Midscene 提供支持，带有 Skills 和 Codex 插件。",
     "neteinstein": "内斯坦",
-    "Kleisym": "克莱西姆"
+    "Kleisym": "克莱西姆",
+    "Minimal Android debloater example using Shizuku and MIT license": "使用 Shizuku 和 MIT 许可证的最小 Android debloater 示例",
+    "A Material You home-screen widget for Clash of Clans": "《部落冲突》的 Material You 主屏幕小部件",
+    "Android app that silently deletes political SMS from unknown numbers using keyword filtering and Shizuku": "Android 应用程序使用关键字过滤和 Shizuku 静默删除未知号码中的政治短信",
+    "AstrBot for Android 个人分支（HZP-BT）：新增 SnowLuma 扩展，可替代 NapCat；仅源码，不含 APK、运行镜像或账号数据": "AstrBot for Android个人分支（HZP-BT）：新增SnowLuma扩展，可替代NapCat；纯源码，清晰APK、运行镜像或账号数据",
+    "Cross-brand Android Wi-Fi migration from your Windows PC. Import, organize, convert, and transfer saved Wi-Fi networks using multiple methods.": "从 Windows PC 跨品牌 Android Wi-Fi 迁移。使用多种方法导入、组织、转换和传输保存的 Wi-Fi 网络。",
+    "Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format. with built-in app manager, backup, and silent install via root or Shizuku.": "Android 包安装程序支持 APK、XAPK、APKS、APKM 和自定义 APKV 加密格式。具有内置应用程序管理器、备份以及通过 root 或 Shizuku 静默安装。",
+    "Persönlicher lokaler Android-Geräteassistent mit KI-Interpreter, Dateiverwaltung, App-Steuerung und ADB/Shizuku-Integration.": "个人化的 Android-Geräteascient 与 KI-Interpreter、Dateiverwaltung、App-Steuerung 和 ADB/Shizuku-Integration。",
+    "Standalone buildable Android application with zero-copy Vulkan 1.3 bokeh engine": "具有零拷贝 Vulkan 1.3 散景引擎的独立可构建 Android 应用程序",
+    "Android app for installing and removing GBL chainload on supported OPPO Find X9 Ultra firmware using temporary root.": "Android 应用程序，用于使用临时 root 在受支持的 OPPO Find X9 Ultra 固件上安装和删除 GBL chainload。",
+    "Upaya menghapus berkas sistem android": "Upaya menghapus 安卓系统",
+    "A spatial desktop for XREAL glasses, run from your Android phone. Free and open source.": "适用于 XREAL 眼镜的空间桌面，可通过 Android 手机运行。免费且开源。",
+    "Native Android chat GUI for Claude Code running in Termux (proot Ubuntu) with a local SSE bridge and adb phone control": "Claude Code 的本机 Android 聊天 GUI 在 Termux (proot Ubuntu) 中运行，具有本地 SSE 桥和 adb 电话控制",
+    "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，24 项系统级限制（含蓝牙服务级冻结、防卸载），PIN 应用锁与纯离线挑战-应答重置。免 root。": "WiFi锁定/轻量MDM工具：设备所有者+Shizuku双路线锁死WiFi开关，24项系统级（含蓝牙服务级冻结、卸载），PIN应用锁与纯离线挑战-初始化限制重置。免root。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4005,6 +4018,19 @@
     "Adiker": "Адикер",
     "Control your Android phone with natural language. No computer required. Powered by Midscene, with Skills and a Codex plugin.": "Управляйте своим телефоном Android с помощью естественного языка. Компьютер не требуется. Создано Midscene, с навыками и плагином Кодекса.",
     "neteinstein": "Нетенштейн",
-    "Kleisym": "Клейсим"
+    "Kleisym": "Клейсим",
+    "A Material You home-screen widget for Clash of Clans": "Виджет Material You на главном экране для Clash of Clans",
+    "Minimal Android debloater example using Shizuku and MIT license": "Минимальный пример деблокатора Android с использованием лицензии Shizuku и MIT",
+    "Android app that silently deletes political SMS from unknown numbers using keyword filtering and Shizuku": "Приложение для Android, которое автоматически удаляет политические SMS с неизвестных номеров с помощью фильтрации по ключевым словам и Shizuku.",
+    "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，24 项系统级限制（含蓝牙服务级冻结、防卸载），PIN 应用锁与纯离线挑战-应答重置。免 root。": "WiFi 锁定 / 轻量 MDM 工具: Владелец устройства + Shizuku 双路线锁死 WiFi 开关，24 Используйте PIN-код для получения root-прав.",
+    "AstrBot for Android 个人分支（HZP-BT）：新增 SnowLuma 扩展，可替代 NapCat；仅源码，不含 APK、运行镜像或账号数据": "AstrBot для Android 个人分支（HZP-BT）:新增 SnowLuma 扩展，可替代 NapCat；仅源码，不含 APK、运行镜像或账号数据",
+    "Android package installer supporting APK, XAPK, APKS, APKM, and the custom APKV encrypted format. with built-in app manager, backup, and silent install via root or Shizuku.": "Установщик пакетов Android, поддерживающий APK, XAPK, APKS, APKM и собственный зашифрованный формат APKV. со встроенным менеджером приложений, резервным копированием и автоматической установкой через root или Shizuku.",
+    "Persönlicher lokaler Android-Geräteassistent mit KI-Interpreter, Dateiverwaltung, App-Steuerung und ADB/Shizuku-Integration.": "Локальный помощник Android с KI-интерпретатором, датой, управлением приложениями и интеграцией ADB/Shizuku.",
+    "Standalone buildable Android application with zero-copy Vulkan 1.3 bokeh engine": "Автономное сборное приложение для Android с механизмом боке Vulkan 1.3 без копирования.",
+    "Android app for installing and removing GBL chainload on supported OPPO Find X9 Ultra firmware using temporary root.": "Приложение Android для установки и удаления цепной загрузки GBL на поддерживаемой прошивке OPPO Find X9 Ultra с использованием временного root.",
+    "Upaya menghapus berkas sistem android": "Upaya menghapus berkas sistem android",
+    "Native Android chat GUI for Claude Code running in Termux (proot Ubuntu) with a local SSE bridge and adb phone control": "Собственный графический интерфейс чата Android для кода Claude, работающего в Termux (корневая версия Ubuntu) с локальным мостом SSE и управлением телефоном через adb.",
+    "Cross-brand Android Wi-Fi migration from your Windows PC. Import, organize, convert, and transfer saved Wi-Fi networks using multiple methods.": "Межбрендовая миграция Android Wi-Fi с вашего ПК с Windows. Импортируйте, систематизируйте, конвертируйте и переносите сохраненные сети Wi-Fi несколькими способами.",
+    "A spatial desktop for XREAL glasses, run from your Android phone. Free and open source.": "Пространственный рабочий стол для очков XREAL, запускаемый с вашего телефона Android. Бесплатный и с открытым исходным кодом."
   }
 }

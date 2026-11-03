@@ -18380,5 +18380,81 @@
     ],
     "mirror_release_tag": "ripple-v0.1.7",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripple-v0.1.7"
+  },
+  "pocket-xr": {
+    "source_repository": "pocket-xr/pocket-xr",
+    "source_release_id": 433102945,
+    "source_tag": "v1.1.3",
+    "source_published_at": "2026-11-03T19:02:21Z",
+    "synced_at": "2026-11-03T19:23:54.186006+00:00",
+    "assets": [
+      {
+        "source_asset_id": 706741003,
+        "filename": "pocketxr-1.1.3.apk",
+        "original_filename": "pocketxr-1.1.3.apk",
+        "sha256": "73a2a0177af675102e7b4358be88bd5c783d0c2edc17cbeb74037bccad84fd76",
+        "file_size": 57429327,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pocket-xr-v1.1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.1.3"
+  },
+  "x9u-gbl-chainload-app": {
+    "source_repository": "koaaN/x9u-gbl-chainload-app",
+    "source_release_id": 432988609,
+    "source_tag": "v0.3.4",
+    "source_published_at": "2026-11-03T17:05:59Z",
+    "synced_at": "2026-11-03T19:23:58.112665+00:00",
+    "assets": [
+      {
+        "source_asset_id": 706402289,
+        "filename": "x9u-root-flasher-v0.3.4.apk",
+        "original_filename": "x9u-root-flasher-v0.3.4.apk",
+        "sha256": "93b4dba02768e80bc9f450e86aba503981c5ff08d5fa614c3057697a7308db28",
+        "file_size": 1493133,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "x9u-gbl-chainload-app-v0.3.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/x9u-gbl-chainload-app-v0.3.4"
+  },
+  "astrbot-for-android-snowluma": {
+    "source_repository": "HZP-BT/astrbot-for-android-snowluma",
+    "source_release_id": 433089832,
+    "source_tag": "v1.3.0-snowluma-7",
+    "source_published_at": "2026-11-03T18:50:21Z",
+    "synced_at": "2026-11-03T19:24:46.592715+00:00",
+    "assets": [
+      {
+        "source_asset_id": 706779139,
+        "filename": "AstrBot-for-Android-v1.3.0-snowluma-7-arm64-v8a.apk",
+        "original_filename": "AstrBot-for-Android-v1.3.0-snowluma-7-arm64-v8a.apk",
+        "sha256": "8ece7f8d4b75fe132238eaec5d242ded21a8bb89a2420e7c7f3756c0e0fe07d6",
+        "file_size": 754143828,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "astrbot-for-android-snowluma-v1.3.0-snowluma-7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/astrbot-for-android-snowluma-v1.3.0-snowluma-7"
+  },
+  "clash-timers": {
+    "source_repository": "memehammad/clash-timers",
+    "source_release_id": 433083080,
+    "source_tag": "v1.0.20",
+    "source_published_at": "2026-11-03T18:41:23Z",
+    "synced_at": "2026-11-03T19:24:52.353065+00:00",
+    "assets": [
+      {
+        "source_asset_id": 706680577,
+        "filename": "ClashTimers.apk",
+        "original_filename": "ClashTimers.apk",
+        "sha256": "35585b357973bcc9dabf2e7c7b000af76011ddfe1313ca81367f6e3a7ca5a204",
+        "file_size": 19065237,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "clash-timers-v1.0.20",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clash-timers-v1.0.20"
   }
 }
