@@ -202,6 +202,13 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[Galaxy-Dual-app-Plus](https://github.com/samson910022/Galaxy-Dual-app-Plus)** | 三星双应用启用器：LSPod API102 auto、Shizuku 后备（无安全文件夹/Knox） | MIT | [GitHub 源码](https://github.com/samson910022/Galaxy-Dual-app-Plus) • [下载发布](https://github.com/samson910022/Galaxy-Dual-app-Plus/releases) |
+| **[LocalAdb](https://github.com/N2K02/LocalAdb)** | LocalAdb 用于授予应用程序特权访问权限 | See project | [GitHub 源码](https://github.com/N2K02/LocalAdb) • [下载发布](https://github.com/N2K02/LocalAdb/releases) |
+| **[deepseek-ai](https://github.com/hf805864818/deepseek-ai)** | Deepseek智能体 | GPL-3.0 | [GitHub 源码](https://github.com/hf805864818/deepseek-ai) • [下载发布](https://github.com/hf805864818/deepseek-ai/releases) |
+| **[device_manager](https://github.com/reyhanaarch64/device_manager)** | 设备管理器：Android 应用程序（Kotlin + Jetpack Compose）可用于 ADB 无线调试。开源，麻省理工学院。 | MIT | [GitHub 源码](https://github.com/reyhanaarch64/device_manager) • [下载发布](https://github.com/reyhanaarch64/device_manager/releases) |
+| **[yalevpn](https://github.com/yaleedhaque/yalevpn)** | 适用于 Android 的 WireGuard VPN + Shizuku 研究实验室 | See project | [GitHub 源码](https://github.com/yaleedhaque/yalevpn) • [下载发布](https://github.com/yaleedhaque/yalevpn/releases) |
+| **[HoshimiLocalify-en](https://github.com/Project-Hoshimi/HoshimiLocalify-en)** | HoshimiLocalify + sumire-sr 私人服务器支持 | GPL-3.0 | [GitHub 源码](https://github.com/Project-Hoshimi/HoshimiLocalify-en) • [下载发布](https://github.com/Project-Hoshimi/HoshimiLocalify-en/releases) |
+| **[VRCDI](https://github.com/WanliuStudio/VRCDI)** | VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。 | MIT | [GitHub 源码](https://github.com/WanliuStudio/VRCDI) • [下载发布](https://github.com/WanliuStudio/VRCDI/releases) |
 | **[clash-timers](https://github.com/memehammad/clash-timers)** | 《部落冲突》的 Material You 主屏幕小部件 | MIT | [GitHub 源码](https://github.com/memehammad/clash-timers) • [下载发布](https://github.com/memehammad/clash-timers/releases) |
 | **[android-wifi-migrate](https://github.com/YesterdayDreamer/android-wifi-migrate)** | 从 Windows PC 跨品牌 Android Wi-Fi 迁移。使用多种方法导入、组织、转换和传输保存的 Wi-Fi 网络。 | MIT | [GitHub 源码](https://github.com/YesterdayDreamer/android-wifi-migrate) • [下载发布](https://github.com/YesterdayDreamer/android-wifi-migrate/releases) |
 | **[claude-droid](https://github.com/minedmap/claude-droid)** | Claude Code 的本机 Android 聊天 GUI 在 Termux (proot Ubuntu) 中运行，具有本地 SSE 桥和 adb 电话控制 | Apache-2.0 | [GitHub 源码](https://github.com/minedmap/claude-droid) • [下载发布](https://github.com/minedmap/claude-droid/releases) |
@@ -268,16 +275,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **pocket-xr** | 口袋-xr | `v1.1.3` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.1.3) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
+| ⚡ **astrbot-for-android-snowluma** | HZP-BT | `v1.3.0-snowluma-7` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/astrbot-for-android-snowluma-v1.3.0-snowluma-7) | [Upstream](https://github.com/HZP-BT/astrbot-for-android-snowluma/releases) |
+| ⚡ **clash-timers** | 梅梅哈默德 | `v1.0.20` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clash-timers-v1.0.20) | [Upstream](https://github.com/memehammad/clash-timers/releases) |
+| ⚡ **x9u-gbl-chainload-app** | 科阿N | `v0.3.4` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/x9u-gbl-chainload-app-v0.3.4) | [Upstream](https://github.com/koaaN/x9u-gbl-chainload-app/releases) |
+| ⚡ **Waschbeken1** | 瓦施贝肯 | `app-v1.0.30` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/waschbeken1-app-v1.0.30) | [Upstream](https://github.com/Waschbeken/Waschbeken1/releases) |
+| ⚡ **t9-apk-tools** | 恩格尔塔伦 | `v1.2.0` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t9-apk-tools-v1.2.0) | [Upstream](https://github.com/engrtarun/t9-apk-tools/releases) |
+| ⚡ **rustclipsync-mobile** | 英菲尼法尔 | `v0.2.0` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rustclipsync-mobile-v0.2.0) | [Upstream](https://github.com/Infinifar/rustclipsync-mobile/releases) |
+| ⚡ **ripple** | 图明客0 | `v0.1.7` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripple-v0.1.7) | [Upstream](https://github.com/tumingke0/ripple/releases) |
 | ⚡ **Colemailer** | 克莱西姆 | `v3.4.12` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12) | [Upstream](https://github.com/Kleisym/Colemailer/releases) |
 | ⚡ **thor-clips** | 阿卜杜勒阿齐扎阿卡迪-CMYK | `v0.1.23` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thor-clips-v0.1.23) | [Upstream](https://github.com/abdulazizaaalkadi-cmyk/thor-clips/releases) |
-| ⚡ **opencode-android** | s1lex312 | `v1.3.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-android-v1.3.0) | [Upstream](https://github.com/s1lex312/opencode-android/releases) |
-| ⚡ **mirra** | 蓝色卡通猫 | `v2.0.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mirra-v2.0.0) | [Upstream](https://github.com/BlueCartoonCat/mirra/releases) |
-| ⚡ **Qivomo** | 奇维勒 | `v1.4.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qivomo-v1.4.6) | [Upstream](https://github.com/WeilerQi/Qivomo/releases) |
-| ⚡ **kdeconnect-android-shizuku-independent** | 阿迪克 | `v1.37.0-shizuku-clipboard` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kdeconnect-android-shizuku-independent-v1.37.0-shizuku-clipboard) | [Upstream](https://github.com/Adiker/kdeconnect-android-shizuku-independent/releases) |
-| ⚡ **VREC** | N2K02 | `v6.1` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vrec-v6.1) | [Upstream](https://github.com/N2K02/VREC/releases) |
-| ⚡ **Private-DNS-Changer** | 内斯坦 | `v1.0.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/private-dns-changer-v1.0.6) | [Upstream](https://github.com/neteinstein/Private-DNS-Changer/releases) |
-| ⚡ **PocoDebloat** | 皮纳迪22 | `v1.0.5` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocodebloat-v1.0.5) | [Upstream](https://github.com/pinadi22/PocoDebloat/releases) |
-| ⚡ **ShellStore** | 人天鱼 | `v0.14.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shellstore-v0.14.0) | [Upstream](https://github.com/rentianyu/ShellStore/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

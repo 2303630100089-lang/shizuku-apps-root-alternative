@@ -11304,30 +11304,30 @@
   },
   "hoshimilocalify-en": {
     "source_repository": "tokanada/HoshimiLocalify-en",
-    "source_release_id": 412153336,
-    "source_tag": "v1.4.1",
-    "source_published_at": "2026-10-13T22:12:50Z",
-    "synced_at": "2026-10-14T04:33:12.006880+00:00",
+    "source_release_id": 429360680,
+    "source_tag": "v1.4.2-data.20261030_105031",
+    "source_published_at": "2026-10-30T18:28:38Z",
+    "synced_at": "2026-11-04T05:53:04.940413+00:00",
     "assets": [
       {
-        "source_asset_id": 638768983,
-        "filename": "HoshimiLocalify-en-full-v1.4.1.apk",
-        "original_filename": "HoshimiLocalify-en-full-v1.4.1.apk",
-        "sha256": "5c05525a75312172f498cf32fa0e0a9409f87899b915dbccfe83f9de6be03e50",
-        "file_size": 72349229,
+        "source_asset_id": 708372194,
+        "filename": "HoshimiLocalify-en-full-v1.4.2-data.20261030_105031.apk",
+        "original_filename": "HoshimiLocalify-en-full-v1.4.2-data.20261030_105031.apk",
+        "sha256": "9866937ceeb3b3923597c6df49eff065121e708cc01611ff7165171c5a88f9cb",
+        "file_size": 72887949,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 638768984,
-        "filename": "HoshimiLocalify-en-lite-v1.4.1.apk",
-        "original_filename": "HoshimiLocalify-en-lite-v1.4.1.apk",
-        "sha256": "193f71ca153626acbc3dcaec8c61990b79a2bed05eb63be5f8d2dc49a8771d0c",
-        "file_size": 72316461,
+        "source_asset_id": 708372193,
+        "filename": "HoshimiLocalify-en-lite-v1.4.2-data.20261030_105031.apk",
+        "original_filename": "HoshimiLocalify-en-lite-v1.4.2-data.20261030_105031.apk",
+        "sha256": "dbad3e441c6fdec8d917efa65b2dd66137309b04b4aa2438325de8804a9dfd3c",
+        "file_size": 72838797,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "hoshimilocalify-en-v1.4.1",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hoshimilocalify-en-v1.4.1"
+    "mirror_release_tag": "hoshimilocalify-en-v1.4.2-data.20261030_105031",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hoshimilocalify-en-v1.4.2-data.20261030_105031"
   },
   "blaqclaw": {
     "source_repository": "geniuscr8/BlaqClaw",
@@ -18456,5 +18456,81 @@
     ],
     "mirror_release_tag": "clash-timers-v1.0.20",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clash-timers-v1.0.20"
+  },
+  "yalevpn": {
+    "source_repository": "yaleedhaque/yalevpn",
+    "source_release_id": 433520489,
+    "source_tag": "v0.7.1",
+    "source_published_at": "2026-11-04T04:41:22Z",
+    "synced_at": "2026-11-04T05:53:09.504624+00:00",
+    "assets": [
+      {
+        "source_asset_id": 708252509,
+        "filename": "YaleVPN-0.7.1.apk",
+        "original_filename": "YaleVPN-0.7.1.apk",
+        "sha256": "607281ef33a40d74eab86fdccef7a72486975cc12c7d77314602601655432930",
+        "file_size": 11844677,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "yalevpn-v0.7.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yalevpn-v0.7.1"
+  },
+  "deepseek-ai": {
+    "source_repository": "hf805864818/deepseek-ai",
+    "source_release_id": 433515886,
+    "source_tag": "v1.0.245",
+    "source_published_at": "2026-11-04T04:32:34Z",
+    "synced_at": "2026-11-04T05:53:15.211459+00:00",
+    "assets": [
+      {
+        "source_asset_id": 708232116,
+        "filename": "Ai-v1.0.245.apk",
+        "original_filename": "Ai-v1.0.245.apk",
+        "sha256": "b56b5746f5f02d8b381f3028eb8a9f928aa084647cbad15f810b2c6446eebce7",
+        "file_size": 45553845,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "deepseek-ai-v1.0.245",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-ai-v1.0.245"
+  },
+  "localadb": {
+    "source_repository": "N2K02/LocalAdb",
+    "source_release_id": 433551629,
+    "source_tag": "v2.0",
+    "source_published_at": "2026-11-04T05:37:04Z",
+    "synced_at": "2026-11-04T05:53:19.375562+00:00",
+    "assets": [
+      {
+        "source_asset_id": 708372195,
+        "filename": "LocalAdb-2.0.apk",
+        "original_filename": "LocalAdb-2.0.apk",
+        "sha256": "14824fc04ce964c809e79c3de7d5c921f56de1924d7f0955fbfd40248b2e482f",
+        "file_size": 18577292,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "localadb-v2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/localadb-v2.0"
+  },
+  "galaxy-dual-app-plus": {
+    "source_repository": "samson910022/Galaxy-Dual-app-Plus",
+    "source_release_id": 433314658,
+    "source_tag": "v0.0.1",
+    "source_published_at": "2026-11-03T23:05:03Z",
+    "synced_at": "2026-11-04T05:53:22.717750+00:00",
+    "assets": [
+      {
+        "source_asset_id": 707420445,
+        "filename": "Galaxy-Dual-app-Plus-0.0.1.apk",
+        "original_filename": "Galaxy-Dual-app-Plus-0.0.1.apk",
+        "sha256": "c1f730c8eb1e1b1309867fca6bf18a45e10a3858cf621b59b54db568fc950b98",
+        "file_size": 2082032,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "galaxy-dual-app-plus-v0.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-dual-app-plus-v0.0.1"
   }
 }

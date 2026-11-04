@@ -2014,7 +2014,22 @@
     "Upaya menghapus berkas sistem android": "Upaya menghapus 安卓系统",
     "A spatial desktop for XREAL glasses, run from your Android phone. Free and open source.": "适用于 XREAL 眼镜的空间桌面，可通过 Android 手机运行。免费且开源。",
     "Native Android chat GUI for Claude Code running in Termux (proot Ubuntu) with a local SSE bridge and adb phone control": "Claude Code 的本机 Android 聊天 GUI 在 Termux (proot Ubuntu) 中运行，具有本地 SSE 桥和 adb 电话控制",
-    "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，24 项系统级限制（含蓝牙服务级冻结、防卸载），PIN 应用锁与纯离线挑战-应答重置。免 root。": "WiFi锁定/轻量MDM工具：设备所有者+Shizuku双路线锁死WiFi开关，24项系统级（含蓝牙服务级冻结、卸载），PIN应用锁与纯离线挑战-初始化限制重置。免root。"
+    "WiFi 锁定 / 轻量 MDM 工具：Device Owner + Shizuku 双路线锁死 WiFi 开关，24 项系统级限制（含蓝牙服务级冻结、防卸载），PIN 应用锁与纯离线挑战-应答重置。免 root。": "WiFi锁定/轻量MDM工具：设备所有者+Shizuku双路线锁死WiFi开关，24项系统级（含蓝牙服务级冻结、卸载），PIN应用锁与纯离线挑战-初始化限制重置。免root。",
+    "Samsung Dual app enabler: LSPosed API102 auto, Shizuku fallback (no Secure Folder/Knox)": "三星双应用启用器：LSPod API102 auto、Shizuku 后备（无安全文件夹/Knox）",
+    "Device Manager: aplikasi Android (Kotlin + Jetpack Compose) untuk memantau dan mengelola perangkat sendiri lewat ADB wireless debugging. Open source, MIT.": "设备管理器：Android 应用程序（Kotlin + Jetpack Compose）可用于 ADB 无线调试。开源，麻省理工学院。",
+    "koaaN": "科阿N",
+    "memehammad": "梅梅哈默德",
+    "HZP-BT": "HZP-BT",
+    "HoshimiLocalify + sumire-sr private-server support": "HoshimiLocalify + sumire-sr 私人服务器支持",
+    "tumingke0": "图明客0",
+    "Infinifar": "英菲尼法尔",
+    "engrtarun": "恩格尔塔伦",
+    "deepseek智能体": "Deepseek智能体",
+    "WireGuard VPN + Shizuku research lab for Android": "适用于 Android 的 WireGuard VPN + Shizuku 研究实验室",
+    "LocalAdb for giving apps privilege acess": "LocalAdb 用于授予应用程序特权访问权限",
+    "pocket-xr": "口袋-xr",
+    "Waschbeken": "瓦施贝肯",
+    "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。": "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4031,6 +4046,21 @@
     "Upaya menghapus berkas sistem android": "Upaya menghapus berkas sistem android",
     "Native Android chat GUI for Claude Code running in Termux (proot Ubuntu) with a local SSE bridge and adb phone control": "Собственный графический интерфейс чата Android для кода Claude, работающего в Termux (корневая версия Ubuntu) с локальным мостом SSE и управлением телефоном через adb.",
     "Cross-brand Android Wi-Fi migration from your Windows PC. Import, organize, convert, and transfer saved Wi-Fi networks using multiple methods.": "Межбрендовая миграция Android Wi-Fi с вашего ПК с Windows. Импортируйте, систематизируйте, конвертируйте и переносите сохраненные сети Wi-Fi несколькими способами.",
-    "A spatial desktop for XREAL glasses, run from your Android phone. Free and open source.": "Пространственный рабочий стол для очков XREAL, запускаемый с вашего телефона Android. Бесплатный и с открытым исходным кодом."
+    "A spatial desktop for XREAL glasses, run from your Android phone. Free and open source.": "Пространственный рабочий стол для очков XREAL, запускаемый с вашего телефона Android. Бесплатный и с открытым исходным кодом.",
+    "Samsung Dual app enabler: LSPosed API102 auto, Shizuku fallback (no Secure Folder/Knox)": "Активатор двойного приложения Samsung: автоматический LSPosed API102, резервный вариант Shizuku (без защищенной папки/Knox)",
+    "Device Manager: aplikasi Android (Kotlin + Jetpack Compose) untuk memantau dan mengelola perangkat sendiri lewat ADB wireless debugging. Open source, MIT.": "Диспетчер устройств: приложение Android (Kotlin + Jetpack Compose) для создания и изменения настроек беспроводной отладки ADB. Открытый исходный код, Массачусетский технологический институт.",
+    "HZP-BT": "ХЗП-БТ",
+    "memehammad": "мемхаммад",
+    "koaaN": "коааН",
+    "HoshimiLocalify + sumire-sr private-server support": "HoshimiLocalify + поддержка частных серверов sumire-sr",
+    "deepseek智能体": "DeepSeek — песня",
+    "tumingke0": "tumingke0",
+    "Infinifar": "Инфинифар",
+    "engrtarun": "ингртарун",
+    "Waschbeken": "Вашбекен",
+    "pocket-xr": "карман-XR",
+    "LocalAdb for giving apps privilege acess": "LocalAdb для предоставления привилегированного доступа приложениям",
+    "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。": "VRChat использует OSC, а Shizuku — Shizuku, OSC Chatbox и OSC Chatbox.",
+    "WireGuard VPN + Shizuku research lab for Android": "WireGuard VPN + исследовательская лаборатория Сидзуку для Android"
   }
 }

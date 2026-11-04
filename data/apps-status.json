@@ -2751,9 +2751,9 @@
   },
   "hoshimilocalify-en": {
     "status": "synced",
-    "last_checked": "2026-10-14T04:33:12.006901+00:00",
-    "latest_version": "v1.4.1",
-    "last_synced": "2026-10-14T04:33:12.006901+00:00"
+    "last_checked": "2026-11-04T05:53:04.940440+00:00",
+    "latest_version": "v1.4.2-data.20261030_105031",
+    "last_synced": "2026-11-04T05:53:04.940440+00:00"
   },
   "blaqclaw": {
     "status": "synced",
@@ -5179,5 +5179,38 @@
     "last_checked": "2026-11-03T19:24:52.353086+00:00",
     "latest_version": "v1.0.20",
     "last_synced": "2026-11-03T19:24:52.353086+00:00"
+  },
+  "vrcdi": {
+    "status": "no-apk",
+    "last_checked": "2026-11-04T05:53:00.676365+00:00"
+  },
+  "yalevpn": {
+    "status": "synced",
+    "last_checked": "2026-11-04T05:53:09.504647+00:00",
+    "latest_version": "v0.7.1",
+    "last_synced": "2026-11-04T05:53:09.504647+00:00"
+  },
+  "device-manager": {
+    "status": "no-apk",
+    "last_checked": "2026-11-04T05:53:09.799796+00:00",
+    "latest_version": "v1.1.0"
+  },
+  "deepseek-ai": {
+    "status": "synced",
+    "last_checked": "2026-11-04T05:53:15.211479+00:00",
+    "latest_version": "v1.0.245",
+    "last_synced": "2026-11-04T05:53:15.211479+00:00"
+  },
+  "localadb": {
+    "status": "synced",
+    "last_checked": "2026-11-04T05:53:19.375586+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-11-04T05:53:19.375586+00:00"
+  },
+  "galaxy-dual-app-plus": {
+    "status": "synced",
+    "last_checked": "2026-11-04T05:53:22.717771+00:00",
+    "latest_version": "v0.0.1",
+    "last_synced": "2026-11-04T05:53:22.717771+00:00"
   }
 }
