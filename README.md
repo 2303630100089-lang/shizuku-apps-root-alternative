@@ -265,16 +265,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **pocket-xr** | pocket-xr | `v1.1.3` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.1.3) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
+| ⚡ **astrbot-for-android-snowluma** | HZP-BT | `v1.3.0-snowluma-7` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/astrbot-for-android-snowluma-v1.3.0-snowluma-7) | [Upstream](https://github.com/HZP-BT/astrbot-for-android-snowluma/releases) |
+| ⚡ **clash-timers** | memehammad | `v1.0.20` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clash-timers-v1.0.20) | [Upstream](https://github.com/memehammad/clash-timers/releases) |
+| ⚡ **x9u-gbl-chainload-app** | koaaN | `v0.3.4` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/x9u-gbl-chainload-app-v0.3.4) | [Upstream](https://github.com/koaaN/x9u-gbl-chainload-app/releases) |
+| ⚡ **Waschbeken1** | Waschbeken | `app-v1.0.30` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/waschbeken1-app-v1.0.30) | [Upstream](https://github.com/Waschbeken/Waschbeken1/releases) |
+| ⚡ **t9-apk-tools** | engrtarun | `v1.2.0` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t9-apk-tools-v1.2.0) | [Upstream](https://github.com/engrtarun/t9-apk-tools/releases) |
+| ⚡ **rustclipsync-mobile** | Infinifar | `v0.2.0` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rustclipsync-mobile-v0.2.0) | [Upstream](https://github.com/Infinifar/rustclipsync-mobile/releases) |
+| ⚡ **ripple** | tumingke0 | `v0.1.7` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripple-v0.1.7) | [Upstream](https://github.com/tumingke0/ripple/releases) |
 | ⚡ **Colemailer** | Kleisym | `v3.4.12` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12) | [Upstream](https://github.com/Kleisym/Colemailer/releases) |
 | ⚡ **thor-clips** | abdulazizaaalkadi-cmyk | `v0.1.23` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thor-clips-v0.1.23) | [Upstream](https://github.com/abdulazizaaalkadi-cmyk/thor-clips/releases) |
-| ⚡ **opencode-android** | s1lex312 | `v1.3.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencode-android-v1.3.0) | [Upstream](https://github.com/s1lex312/opencode-android/releases) |
-| ⚡ **mirra** | BlueCartoonCat | `v2.0.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mirra-v2.0.0) | [Upstream](https://github.com/BlueCartoonCat/mirra/releases) |
-| ⚡ **Qivomo** | WeilerQi | `v1.4.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qivomo-v1.4.6) | [Upstream](https://github.com/WeilerQi/Qivomo/releases) |
-| ⚡ **kdeconnect-android-shizuku-independent** | Adiker | `v1.37.0-shizuku-clipboard` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kdeconnect-android-shizuku-independent-v1.37.0-shizuku-clipboard) | [Upstream](https://github.com/Adiker/kdeconnect-android-shizuku-independent/releases) |
-| ⚡ **VREC** | N2K02 | `v6.1` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vrec-v6.1) | [Upstream](https://github.com/N2K02/VREC/releases) |
-| ⚡ **Private-DNS-Changer** | neteinstein | `v1.0.6` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/private-dns-changer-v1.0.6) | [Upstream](https://github.com/neteinstein/Private-DNS-Changer/releases) |
-| ⚡ **PocoDebloat** | pinadi22 | `v1.0.5` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocodebloat-v1.0.5) | [Upstream](https://github.com/pinadi22/PocoDebloat/releases) |
-| ⚡ **ShellStore** | rentianyu | `v0.14.0` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shellstore-v0.14.0) | [Upstream](https://github.com/rentianyu/ShellStore/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
