@@ -18532,5 +18532,143 @@
     ],
     "mirror_release_tag": "galaxy-dual-app-plus-v0.0.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-dual-app-plus-v0.0.1"
+  },
+  "batterymonitor": {
+    "source_repository": "Shikochin/BatteryMonitor",
+    "source_release_id": 434085851,
+    "source_tag": "1.0",
+    "source_published_at": "2026-11-04T15:11:52Z",
+    "synced_at": "2026-11-04T19:39:18.131230+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710060353,
+        "filename": "BatteryMonitor-1.0-build16-arm64-v8a.apk",
+        "original_filename": "BatteryMonitor-1.0-build16-arm64-v8a.apk",
+        "sha256": "8004721ea37160ba0bb2ff7b413e432d2c5c8ddfc01c9d0f242b5dfdcee503da",
+        "file_size": 2276134,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "batterymonitor-1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batterymonitor-1.0"
+  },
+  "rime-updater": {
+    "source_repository": "viui798/rime-updater",
+    "source_release_id": 434271612,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-04T18:07:45Z",
+    "synced_at": "2026-11-04T19:39:35.999405+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710425403,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "12d5ffb68c82e0781a506b9ba56851dafe532c4e228e918c19761ec4db7787fe",
+        "file_size": 18877572,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 710425399,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "eb842396ecf3e5f1f54d1071db1017938d59b9dfbdedb16ea5ed38e8b4f6a876",
+        "file_size": 16722908,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 710425401,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ed04fd5d93153d2132a04501681f9a4498e3e5a28baa5114654680d08ec2ef55",
+        "file_size": 55037866,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      },
+      {
+        "source_asset_id": 710425398,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "944ae3615e50fb5dfb7ea8d15bdfeb9f49f8f98349775c13a5d8c433290847dd",
+        "file_size": 20385422,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "rime-updater-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rime-updater-v1.0.0"
+  },
+  "blueaudiosink": {
+    "source_repository": "liubaiqing/BlueAudioSink",
+    "source_release_id": 434234919,
+    "source_tag": "v0.2.16",
+    "source_published_at": "2026-11-04T17:29:56Z",
+    "synced_at": "2026-11-04T19:39:41.712540+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710319845,
+        "filename": "BlueAudioSink-Sender-0.2.16.apk",
+        "original_filename": "BlueAudioSink-Sender-0.2.16.apk",
+        "sha256": "cf6dfc837a9fc35c2fea387d1c44a86f37c23c1d07cddae08beac3fcd28ea8f3",
+        "file_size": 18004647,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "blueaudiosink-v0.2.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blueaudiosink-v0.2.16"
+  },
+  "quicksettings": {
+    "source_repository": "fauyds/QuickSettings",
+    "source_release_id": 430961744,
+    "source_tag": "1.1.1",
+    "source_published_at": "2026-11-02T00:44:38Z",
+    "synced_at": "2026-11-04T19:39:48.041020+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699989451,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "1a35882dc7583e0e98351b968d55f542fea7bc7c9874ffeb94a531f793d87ef6",
+        "file_size": 17781290,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "quicksettings-1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quicksettings-1.1.1"
+  },
+  "hypergesture": {
+    "source_repository": "Rohith-E-S/HyperGesture",
+    "source_release_id": 434327847,
+    "source_tag": "v2.0.13",
+    "source_published_at": "2026-11-04T19:03:03Z",
+    "synced_at": "2026-11-04T19:39:54.886908+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710580523,
+        "filename": "hypergesture.apk",
+        "original_filename": "hypergesture.apk",
+        "sha256": "98781eae2685b856b7bf7094f0f4698cfdb2b47465c172d608a34c572314e2b7",
+        "file_size": 3027194,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hypergesture-v2.0.13",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypergesture-v2.0.13"
+  },
+  "callreplay": {
+    "source_repository": "Uriel1010/CallReplay",
+    "source_release_id": 434024258,
+    "source_tag": "v2.1.0",
+    "source_published_at": "2026-11-04T14:21:50Z",
+    "synced_at": "2026-11-04T19:39:59.060954+00:00",
+    "assets": [
+      {
+        "source_asset_id": 709775645,
+        "filename": "CallReplay-2.1.0-release.apk",
+        "original_filename": "CallReplay-2.1.0-release.apk",
+        "sha256": "b8d45213b4962715252e4e3c1e738374f25e5451860ba48c8bae6d27488ba71a",
+        "file_size": 4850541,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "callreplay-v2.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callreplay-v2.1.0"
   }
 }

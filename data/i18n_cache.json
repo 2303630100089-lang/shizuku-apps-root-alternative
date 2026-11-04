@@ -2029,7 +2029,19 @@
     "LocalAdb for giving apps privilege acess": "LocalAdb 用于授予应用程序特权访问权限",
     "pocket-xr": "口袋-xr",
     "Waschbeken": "瓦施贝肯",
-    "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。": "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。"
+    "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。": "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。",
+    "Edge gestures for Xiaomi HyperOS, so you can keep the launcher you actually like.": "小米 HyperOS 的边缘手势，因此您可以保留您真正喜欢的启动器。",
+    "Your Android TV or Google TV from the Mac menu bar: remote, live keyboard, volume, apps and screen mirroring over wireless ADB.": "Mac 菜单栏中的 Android TV 或 Google TV：通过无线 ADB 进行远程、实时键盘、音量、应用程序和屏幕镜像。",
+    "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配电脑，读屏/点按/虚拟屏/定时任务和整套技能都随包；它还能在手机上自己编译、打包、签名、发布。 Android APK for DeepSeek Harness — no Termux, no root, no PC. Screen control, virtual display, scheduled tasks and bundled skills out of the box; it builds, signs and releases itself on the phone.": "把 DeepSeek Harness 备份成能直接安装的 Android APK：不用 Termux、不用 root、不用配电脑，读屏/点按/虚拟屏/定时任务和整套技能都随包；它还可以在手机上自己编译、备份、签名、发布。 DeepSeek Harness 的 Android APK — 无需 Termux、无需 root、无需 PC。开箱即用的屏幕控制、虚拟显示、计划任务和捆绑技能；它在手机上自行构建、签名和发布。",
+    "Android 11 QS Panel with Material 3 Expressive features": "具有 Material 3 Expressive 功能的 Android 11 QS 面板",
+    "On-device MCP server for Android. Connect ChatGPT through OpenAI's official secure tunnel, let AI agents operate your phone and run scheduled automations on it — App edition (Accessibility/Shizuku) or root edition (Magisk/KernelSU/APatch). No PC, no ADB. 卓爱桥": "适用于 Android 的设备上 MCP 服务器。通过 OpenAI 的官方安全隧道连接 ChatGPT，让 AI 代理操作您的手机并在其上运行预定的自动化 - 应用程序版本（Accessibility/Shizuku）或 root 版本（Magisk/KernelSU/APatch）。没有电脑，就没有亚行。 卓爱桥",
+    "Process M — monitor del sistema y gestor de tareas para Android": "Process M — Android 系统监控和管理",
+    "Projeto completo: Claude Code com OpenRouter, APIs de vídeo baratas (Seedance 2.5), Dreamina, Higgsfield, GFX Tool, Shizuku, SmartHertz e otimização Android. Todos os links da conversa de 3 de novembro de 2026.": "完整项目：Claude Code com OpenRouter、视频 API (Seedance 2.5)、Dreamina、Higgsfield、GFX Tool、Shizuku、SmartHertz 和 Android。待办事项链接将于 2026 年 11 月 3 日进行。",
+    "轻量 Windows 手机音频接收器：蓝牙接收与局域网 Wi-Fi 传输，配套 Android 发送端": "轻量Windows手机音频接收器：蓝牙接收与蓝牙Wi-Fi传输，配套Android发送端",
+    "芝士虎整 Rime 方案包的多设备一键更新器": "芝士虎整Rime方案包的多设备一键更新器",
+    "A supervised, self-modifying autonomous agent that lives on a device as its body. Reference agent: Niba.": "一个受监督的、自我修改的自主代理，以设备为主体。参考代理人：尼巴。",
+    "一键开关 Android 调试状态的本地工具，支持免root/root/Shizuku环境，可开关 USB 调试、无线调试与开发者选项，可从桌面菜单或通知磁贴一键操作；关闭调试后会常驻一条通知，点击即可恢复，支持「实时动态」状态栏胶囊。可创建快捷方式，在启用其他应用时自动关闭。A local tool for toggling Android debug status with one click, supporting non-root, root, and Shizuku environments. It allows you to enable or disable USB debugging, wireless debugging, and Developer Options.": "一键切换Android调试状态的本地工具，支持免root/root/Shizuku环境，可切换USB调试、无线调试与开发者选项，可从桌面菜单或通知磁贴一键操作；关闭调试后会常驻一条通知，点击即可恢复，支持「实时创建动态」状态栏胶囊。可快捷方式，在启用其他应用时自动关闭。一键切换Android调试状态的本地工具，支持非root、root、Shizuku环境。它允许您启用或禁用 USB 调试、无线调试和开发人员选项。",
+    "Android call recorder with playable call logs, recording sharing, and Hebrew RTL UI. Independent ShizuCallRecorder fork.": "Android 通话录音器，具有可播放的通话记录、录音共享和希伯来语 RTL UI。独立的 ShizuCallRecorder 分支。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4061,6 +4073,18 @@
     "pocket-xr": "карман-XR",
     "LocalAdb for giving apps privilege acess": "LocalAdb для предоставления привилегированного доступа приложениям",
     "VRChat移动端使用的OSC工具，它可以通过Shizuku读取你的设备配置、设备状态并通过OSC Chatbox发送。": "VRChat использует OSC, а Shizuku — Shizuku, OSC Chatbox и OSC Chatbox.",
-    "WireGuard VPN + Shizuku research lab for Android": "WireGuard VPN + исследовательская лаборатория Сидзуку для Android"
+    "WireGuard VPN + Shizuku research lab for Android": "WireGuard VPN + исследовательская лаборатория Сидзуку для Android",
+    "Edge gestures for Xiaomi HyperOS, so you can keep the launcher you actually like.": "Жесты Edge для Xiaomi HyperOS, чтобы вы могли сохранить тот лаунчер, который вам действительно нравится.",
+    "Android 11 QS Panel with Material 3 Expressive features": "Панель QS Android 11 с выразительными функциями Material 3",
+    "Your Android TV or Google TV from the Mac menu bar: remote, live keyboard, volume, apps and screen mirroring over wireless ADB.": "Ваш Android TV или Google TV из строки меню Mac: удаленное управление, живая клавиатура, громкость, приложения и зеркальное отображение экрана через беспроводной ADB.",
+    "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配电脑，读屏/点按/虚拟屏/定时任务和整套技能都随包；它还能在手机上自己编译、打包、签名、发布。 Android APK for DeepSeek Harness — no Termux, no root, no PC. Screen control, virtual display, scheduled tasks and bundled skills out of the box; it builds, signs and releases itself on the phone.": "Скачать DeepSeek Harness 打包成能直接装的安卓 APK:不用 Termux、不用root、不用配电脑，读屏/点按/虚拟屏/定时任务和整套技能都随包；它还能在手机上自己编译、打包、签名、发布。 Android APK для DeepSeek Harness — без Termux, без рута, без ПК. Управление экраном, виртуальный дисплей, запланированные задачи и встроенные навыки «из коробки»; он строит, подписывает и публикует себя на телефоне.",
+    "Process M — monitor del sistema y gestor de tareas para Android": "Process M — мониторинг системы и управление тарифами для Android",
+    "Projeto completo: Claude Code com OpenRouter, APIs de vídeo baratas (Seedance 2.5), Dreamina, Higgsfield, GFX Tool, Shizuku, SmartHertz e otimização Android. Todos os links da conversa de 3 de novembro de 2026.": "Полный проект: Claude Code для OpenRouter, API-интерфейсы для видео (Seedance 2.5), Dreamina, Higgsfield, GFX Tool, Shizuku, SmartHertz и оптимизация Android. Все ссылки на разговор от 3 ноября 2026 года.",
+    "一键开关 Android 调试状态的本地工具，支持免root/root/Shizuku环境，可开关 USB 调试、无线调试与开发者选项，可从桌面菜单或通知磁贴一键操作；关闭调试后会常驻一条通知，点击即可恢复，支持「实时动态」状态栏胶囊。可创建快捷方式，在启用其他应用时自动关闭。A local tool for toggling Android debug status with one click, supporting non-root, root, and Shizuku environments. It allows you to enable or disable USB debugging, wireless debugging, and Developer Options.": "一键开关 Android 调试状态的本地工具, root/root/Shizuku环境, 可开关 USB调试、无线调试与开发者选项，可从桌面菜单或通知磁贴一键操作；关闭调试后会常驻一条通知，点击即可恢复,支持「实时动态」状态栏胶囊。可创建快捷方式, 在启用其他应用时自动关闭。A локальный инструмент для переключения статуса отладки Android одним щелчком мыши, поддерживающий среды без полномочий root, root и Shizuku. Он позволяет включать или отключать отладку по USB, беспроводную отладку и параметры разработчика.",
+    "On-device MCP server for Android. Connect ChatGPT through OpenAI's official secure tunnel, let AI agents operate your phone and run scheduled automations on it — App edition (Accessibility/Shizuku) or root edition (Magisk/KernelSU/APatch). No PC, no ADB. 卓爱桥": "Сервер MCP на устройстве для Android. Подключите ChatGPT через официальный безопасный туннель OpenAI, позвольте агентам ИИ управлять вашим телефоном и запускать на нем запланированные автоматизации — версию приложения (Accessibility/Shizuku) или корневую версию (Magisk/KernelSU/APatch). Ни ПК, ни АБР. 卓爱桥",
+    "A supervised, self-modifying autonomous agent that lives on a device as its body. Reference agent: Niba.": "Контролируемый, самомодифицирующийся автономный агент, который живет на устройстве в качестве его тела. Справочный агент: Ниба.",
+    "轻量 Windows 手机音频接收器：蓝牙接收与局域网 Wi-Fi 传输，配套 Android 发送端": "Поддержка Windows 传输, 配套 Android 发送端",
+    "Android call recorder with playable call logs, recording sharing, and Hebrew RTL UI. Independent ShizuCallRecorder fork.": "Регистратор вызовов Android с воспроизводимыми журналами вызовов, возможностью совместного использования записей и пользовательским интерфейсом с письмом справа налево на иврите. Независимый форк ShizuCallRecorder.",
+    "芝士虎整 Rime 方案包的多设备一键更新器": "芝士虎整 Rime 方案包的多设备一键更新器"
   }
 }
