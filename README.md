@@ -264,16 +264,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
+| ⚡ **HyperGesture** | Rohith-E-S | `v2.0.13` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypergesture-v2.0.13) | [Upstream](https://github.com/Rohith-E-S/HyperGesture/releases) |
+| ⚡ **rime-updater** | viui798 | `v1.0.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rime-updater-v1.0.0) | [Upstream](https://github.com/viui798/rime-updater/releases) |
+| ⚡ **BlueAudioSink** | liubaiqing | `v0.2.16` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blueaudiosink-v0.2.16) | [Upstream](https://github.com/liubaiqing/BlueAudioSink/releases) |
+| ⚡ **BatteryMonitor** | Shikochin | `1.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batterymonitor-1.0) | [Upstream](https://github.com/Shikochin/BatteryMonitor/releases) |
+| ⚡ **CallReplay** | Uriel1010 | `v2.1.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callreplay-v2.1.0) | [Upstream](https://github.com/Uriel1010/CallReplay/releases) |
+| ⚡ **LocalAdb** | N2K02 | `v2.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/localadb-v2.0) | [Upstream](https://github.com/N2K02/LocalAdb/releases) |
+| ⚡ **yalevpn** | yaleedhaque | `v0.7.1` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yalevpn-v0.7.1) | [Upstream](https://github.com/yaleedhaque/yalevpn/releases) |
+| ⚡ **deepseek-ai** | hf805864818 | `v1.0.245` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-ai-v1.0.245) | [Upstream](https://github.com/hf805864818/deepseek-ai/releases) |
+| ⚡ **Galaxy-Dual-app-Plus** | samson910022 | `v0.0.1` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-dual-app-plus-v0.0.1) | [Upstream](https://github.com/samson910022/Galaxy-Dual-app-Plus/releases) |
 | ⚡ **pocket-xr** | pocket-xr | `v1.1.3` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.1.3) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
-| ⚡ **astrbot-for-android-snowluma** | HZP-BT | `v1.3.0-snowluma-7` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/astrbot-for-android-snowluma-v1.3.0-snowluma-7) | [Upstream](https://github.com/HZP-BT/astrbot-for-android-snowluma/releases) |
-| ⚡ **clash-timers** | memehammad | `v1.0.20` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clash-timers-v1.0.20) | [Upstream](https://github.com/memehammad/clash-timers/releases) |
-| ⚡ **x9u-gbl-chainload-app** | koaaN | `v0.3.4` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/x9u-gbl-chainload-app-v0.3.4) | [Upstream](https://github.com/koaaN/x9u-gbl-chainload-app/releases) |
-| ⚡ **Waschbeken1** | Waschbeken | `app-v1.0.30` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/waschbeken1-app-v1.0.30) | [Upstream](https://github.com/Waschbeken/Waschbeken1/releases) |
-| ⚡ **t9-apk-tools** | engrtarun | `v1.2.0` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/t9-apk-tools-v1.2.0) | [Upstream](https://github.com/engrtarun/t9-apk-tools/releases) |
-| ⚡ **rustclipsync-mobile** | Infinifar | `v0.2.0` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rustclipsync-mobile-v0.2.0) | [Upstream](https://github.com/Infinifar/rustclipsync-mobile/releases) |
-| ⚡ **ripple** | tumingke0 | `v0.1.7` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ripple-v0.1.7) | [Upstream](https://github.com/tumingke0/ripple/releases) |
-| ⚡ **Colemailer** | Kleisym | `v3.4.12` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colemailer-v3.4.12) | [Upstream](https://github.com/Kleisym/Colemailer/releases) |
-| ⚡ **thor-clips** | abdulazizaaalkadi-cmyk | `v0.1.23` | 2026-11-02 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/thor-clips-v0.1.23) | [Upstream](https://github.com/abdulazizaaalkadi-cmyk/thor-clips/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
