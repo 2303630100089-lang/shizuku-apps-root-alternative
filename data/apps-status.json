@@ -779,9 +779,9 @@
   },
   "gearslip": {
     "status": "synced",
-    "last_checked": "2026-10-25T04:17:11.432811+00:00",
-    "latest_version": "v0.3.01-alpha",
-    "last_synced": "2026-10-25T04:17:11.432811+00:00"
+    "last_checked": "2026-11-05T06:14:53.705889+00:00",
+    "latest_version": "v0.3.12-alpha",
+    "last_synced": "2026-11-05T06:14:53.705889+00:00"
   },
   "loli-ai": {
     "status": "synced",
@@ -892,7 +892,7 @@
   },
   "ai-agent": {
     "status": "no-apk",
-    "last_checked": "2026-10-31T05:08:50.826442+00:00",
+    "last_checked": "2026-11-05T06:14:58.462565+00:00",
     "latest_version": "ci-run-234"
   },
   "xhizuku": {
@@ -4189,7 +4189,7 @@
   },
   "dsh-android": {
     "status": "no-update",
-    "last_checked": "2026-11-03T19:23:48.472135+00:00",
+    "last_checked": "2026-11-05T06:15:16.490950+00:00",
     "latest_version": "v1.21.9",
     "last_synced": "2026-10-26T18:37:41.440821+00:00"
   },
@@ -5262,5 +5262,73 @@
     "last_checked": "2026-11-04T19:39:59.060971+00:00",
     "latest_version": "v2.1.0",
     "last_synced": "2026-11-04T19:39:59.060971+00:00"
+  },
+  "cheertok-recovery": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:14:10.278599+00:00",
+    "latest_version": "v0.6.0",
+    "last_synced": "2026-11-05T06:14:10.278599+00:00"
+  },
+  "gps-changer-shizuku-pro": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:14:14.238305+00:00",
+    "latest_version": "v14.0.32.r1992-pro",
+    "last_synced": "2026-11-05T06:14:14.238305+00:00"
+  },
+  "honor-system-controller": {
+    "status": "no-apk",
+    "last_checked": "2026-11-05T06:14:14.595988+00:00",
+    "latest_version": "latest"
+  },
+  "sector-scout": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:14:21.166272+00:00",
+    "latest_version": "v1.0.5",
+    "last_synced": "2026-11-05T06:14:21.166272+00:00"
+  },
+  "nontonyuk": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:14:34.857342+00:00",
+    "latest_version": "build-6",
+    "last_synced": "2026-11-05T06:14:34.857342+00:00"
+  },
+  "android-me": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:14:51.954557+00:00",
+    "latest_version": "v30.7.8",
+    "last_synced": "2026-11-05T06:14:51.954557+00:00"
+  },
+  "qalbum": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:14:58.323620+00:00",
+    "latest_version": "29895172-1.0.1",
+    "last_synced": "2026-11-05T06:14:58.323620+00:00"
+  },
+  "tingshusourceinstaller": {
+    "status": "no-apk",
+    "last_checked": "2026-11-05T06:14:58.858153+00:00",
+    "latest_version": "v12.1"
+  },
+  "paopaocat-deepseek-harness-mobile": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:15:10.048763+00:00",
+    "latest_version": "v0.83.1",
+    "last_synced": "2026-11-05T06:15:10.048763+00:00"
+  },
+  "opendash": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:15:15.612127+00:00",
+    "latest_version": "v0.1.2",
+    "last_synced": "2026-11-05T06:15:15.612127+00:00"
+  },
+  "ofm-gateway-android": {
+    "status": "no-apk",
+    "last_checked": "2026-11-05T06:15:16.089281+00:00"
+  },
+  "iwphonemodules": {
+    "status": "synced",
+    "last_checked": "2026-11-05T06:15:22.577464+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-11-05T06:15:22.577464+00:00"
   }
 }

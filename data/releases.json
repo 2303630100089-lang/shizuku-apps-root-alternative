@@ -4929,22 +4929,22 @@
   },
   "gearslip": {
     "source_repository": "Seb3thehacker/gearslip",
-    "source_release_id": 414595411,
-    "source_tag": "v0.3.01-alpha",
-    "source_published_at": "2026-10-16T05:42:37Z",
-    "synced_at": "2026-10-25T04:17:11.432783+00:00",
+    "source_release_id": 423097366,
+    "source_tag": "v0.3.12-alpha",
+    "source_published_at": "2026-10-25T02:07:48Z",
+    "synced_at": "2026-11-05T06:14:53.705867+00:00",
     "assets": [
       {
-        "source_asset_id": 646284806,
+        "source_asset_id": 673853528,
         "filename": "Gearslip-release.apk",
         "original_filename": "Gearslip-release.apk",
-        "sha256": "37d89813df8346cc26ed7b22d48d916968a183b5f793e9726f369b920ac19cc0",
-        "file_size": 29362522,
+        "sha256": "4707eb8afbb77adda31d57a3c338760a0fe82ddae528bc0a584f670dd5cb49bd",
+        "file_size": 29477598,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "gearslip-v0.3.01-alpha",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gearslip-v0.3.01-alpha"
+    "mirror_release_tag": "gearslip-v0.3.12-alpha",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gearslip-v0.3.12-alpha"
   },
   "loli-ai": {
     "source_repository": "Lucky2356/loli_ai",
@@ -18670,5 +18670,192 @@
     ],
     "mirror_release_tag": "callreplay-v2.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callreplay-v2.1.0"
+  },
+  "cheertok-recovery": {
+    "source_repository": "hillofsky/cheertok-recovery",
+    "source_release_id": 434768605,
+    "source_tag": "v0.6.0",
+    "source_published_at": "2026-11-05T04:03:07Z",
+    "synced_at": "2026-11-05T06:14:10.278574+00:00",
+    "assets": [
+      {
+        "source_asset_id": 711994670,
+        "filename": "CheerTok-Recovery-0.6.apk",
+        "original_filename": "CheerTok-Recovery-0.6.apk",
+        "sha256": "f9d10e687897d95c343e378173b1ee42ece90ce8a17071a38ffa6a5a81163bef",
+        "file_size": 49489,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cheertok-recovery-v0.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cheertok-recovery-v0.6.0"
+  },
+  "gps-changer-shizuku-pro": {
+    "source_repository": "seandyadryan/GPS-changer-Shizuku-Pro",
+    "source_release_id": 434800463,
+    "source_tag": "v14.0.32.r1992-pro",
+    "source_published_at": "2026-11-05T05:00:48Z",
+    "synced_at": "2026-11-05T06:14:14.238288+00:00",
+    "assets": [
+      {
+        "source_asset_id": 712135171,
+        "filename": "shizuku-pro-v14.0.32.r1992-pro-release.apk",
+        "original_filename": "shizuku-pro-v14.0.32.r1992-pro-release.apk",
+        "sha256": "ccc61940492de880614fd9100e761229d695386cdc125cd0a00d2f7336a3974f",
+        "file_size": 6885359,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gps-changer-shizuku-pro-v14.0.32.r1992-pro",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gps-changer-shizuku-pro-v14.0.32.r1992-pro"
+  },
+  "sector-scout": {
+    "source_repository": "tsalisbury0/sector-scout",
+    "source_release_id": 433150174,
+    "source_tag": "v1.0.5",
+    "source_published_at": "2026-11-03T19:53:21Z",
+    "synced_at": "2026-11-05T06:14:21.166255+00:00",
+    "assets": [
+      {
+        "source_asset_id": 710509128,
+        "filename": "sector-scout-1.0.5.apk",
+        "original_filename": "sector-scout-1.0.5.apk",
+        "sha256": "c6ed9cbce05164639fd1b8fd2a0c8d6e67cce2a0ce1b1923e23d89e539939a9a",
+        "file_size": 53385432,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sector-scout-v1.0.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sector-scout-v1.0.5"
+  },
+  "nontonyuk": {
+    "source_repository": "aingbandung/NontonYuk",
+    "source_release_id": 434833337,
+    "source_tag": "build-6",
+    "source_published_at": "2026-11-05T05:58:37Z",
+    "synced_at": "2026-11-05T06:14:34.857319+00:00",
+    "assets": [
+      {
+        "source_asset_id": 712263587,
+        "filename": "NontonYuk-universal.apk",
+        "original_filename": "NontonYuk-universal.apk",
+        "sha256": "9b6df7919c2a04a47eca83df03ecf1cc0212831d4139b1059cafbdfe7fbc507f",
+        "file_size": 150194435,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nontonyuk-build-6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nontonyuk-build-6"
+  },
+  "android-me": {
+    "source_repository": "arghya339/android-me",
+    "source_release_id": 374215263,
+    "source_tag": "v30.7.8",
+    "source_published_at": "2026-08-21T07:07:01Z",
+    "synced_at": "2026-11-05T06:14:51.954538+00:00",
+    "assets": [
+      {
+        "source_asset_id": 567050422,
+        "filename": "Picsart-rushiranpise-morphe-patches_v30.7.8-1.22.0.apk",
+        "original_filename": "Picsart-rushiranpise-morphe-patches_v30.7.8-1.22.0.apk",
+        "sha256": "b01a022a69f44ec69350ad9c1464d22e2c248d642edc7a9450e8f30bf7e6f2a7",
+        "file_size": 88063341,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 567048391,
+        "filename": "Picsart_v30.7.8-993830708.apk",
+        "original_filename": "Picsart_v30.7.8-993830708.apk",
+        "sha256": "10a43ee08595b8d59ef42ed934730a0f608cdb7e2b20644c518bf7ee3b5ce77c",
+        "file_size": 86723957,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "android-me-v30.7.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-me-v30.7.8"
+  },
+  "qalbum": {
+    "source_repository": "xiaojiuwo233/QAlbum",
+    "source_release_id": 432710643,
+    "source_tag": "29895172-1.0.1",
+    "source_published_at": "2026-11-03T13:07:20Z",
+    "synced_at": "2026-11-05T06:14:58.323597+00:00",
+    "assets": [
+      {
+        "source_asset_id": 705645277,
+        "filename": "QAlbum-1.0.1-29895172.apk",
+        "original_filename": "QAlbum-1.0.1-29895172.apk",
+        "sha256": "2e6bab941a0deff2d7bceb183872b3301e2999eac297eab069df9ef6756bc760",
+        "file_size": 10847475,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "qalbum-29895172-1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qalbum-29895172-1.0.1"
+  },
+  "paopaocat-deepseek-harness-mobile": {
+    "source_repository": "zmm863-commits/paopaocat-deepseek-harness-mobile",
+    "source_release_id": 434810343,
+    "source_tag": "v0.83.1",
+    "source_published_at": "2026-11-05T05:18:06Z",
+    "synced_at": "2026-11-05T06:15:10.048746+00:00",
+    "assets": [
+      {
+        "source_asset_id": 712174997,
+        "filename": "paopaocat-preview-0.83.1-20261105-full-arm64-v8a.apk",
+        "original_filename": "paopaocat-preview-0.83.1-20261105-full-arm64-v8a.apk",
+        "sha256": "1e26b28532a53e950f15161c3769c40f825b7dbeb2542784956cabb51d13565d",
+        "file_size": 120729933,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "paopaocat-deepseek-harness-mobile-v0.83.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/paopaocat-deepseek-harness-mobile-v0.83.1"
+  },
+  "opendash": {
+    "source_repository": "openmartapp/opendash",
+    "source_release_id": 434829189,
+    "source_tag": "v0.1.2",
+    "source_published_at": "2026-11-05T05:51:13Z",
+    "synced_at": "2026-11-05T06:15:15.612104+00:00",
+    "assets": [
+      {
+        "source_asset_id": 712246978,
+        "filename": "dashplayer-0.1.2.apk",
+        "original_filename": "dashplayer-0.1.2.apk",
+        "sha256": "5b47699d9699b37dbb59d5344d6ba9e83e0e105a94f74892dd6d2bd23897275d",
+        "file_size": 150548,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 712246979,
+        "filename": "opendash-0.1.2.apk",
+        "original_filename": "opendash-0.1.2.apk",
+        "sha256": "a617026715b729242f87fcce710a9997a266a793bcdf009f20fc803180fa4f67",
+        "file_size": 5898437,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "opendash-v0.1.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opendash-v0.1.2"
+  },
+  "iwphonemodules": {
+    "source_repository": "haothtrteen/IwphoneModules",
+    "source_release_id": 430546029,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-11-01T11:45:13Z",
+    "synced_at": "2026-11-05T06:15:22.577443+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698184467,
+        "filename": "ShellManager-v1.3.0.apk",
+        "original_filename": "ShellManager-v1.3.0.apk",
+        "sha256": "484f4bd583d8ff9ac0737d55a57923be70f3dfa1fae5eeb081416055aed27cc3",
+        "file_size": 39198759,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "iwphonemodules-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/iwphonemodules-v1.3.0"
   }
 }
