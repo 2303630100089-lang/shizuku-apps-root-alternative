@@ -18857,5 +18857,154 @@
     ],
     "mirror_release_tag": "iwphonemodules-v1.3.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/iwphonemodules-v1.3.0"
+  },
+  "opencover": {
+    "source_repository": "Shmubbier/OpenCover",
+    "source_release_id": 435632822,
+    "source_tag": "v0.2",
+    "source_published_at": "2026-11-05T19:30:18Z",
+    "synced_at": "2026-11-05T19:48:34.689476+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714542393,
+        "filename": "OpenCover-0.2.apk",
+        "original_filename": "OpenCover-0.2.apk",
+        "sha256": "4275c9ceef0fbe3fe18b9ff7d8721306556476eacfd812be30778be6fccc4860",
+        "file_size": 47019967,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "opencover-v0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencover-v0.2"
+  },
+  "spotifyplus": {
+    "source_repository": "LeNerd46/SpotifyPlus",
+    "source_release_id": 434957627,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-05T09:02:11Z",
+    "synced_at": "2026-11-05T19:48:51.787490+00:00",
+    "assets": [
+      {
+        "source_asset_id": 712703777,
+        "filename": "spotifyplus-1.0.0.apk",
+        "original_filename": "spotifyplus-1.0.0.apk",
+        "sha256": "4043c4689d27d6e9bbd50f6e20a6a1a3ce3eee986d3bfe3fff5453cea5099db2",
+        "file_size": 207730452,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "spotifyplus-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-v1.0.0"
+  },
+  "tailbond": {
+    "source_repository": "kaovilai/tailbond",
+    "source_release_id": 435418753,
+    "source_tag": "v0.1.13",
+    "source_published_at": "2026-11-05T16:02:08Z",
+    "synced_at": "2026-11-05T19:48:57.481647+00:00",
+    "assets": [
+      {
+        "source_asset_id": 713961179,
+        "filename": "tailbond-android.apk",
+        "original_filename": "tailbond-android.apk",
+        "sha256": "26ae558297a7597c86615c53042861264e50b98b48a02aa10560ef117187fef1",
+        "file_size": 20161277,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "tailbond-v0.1.13",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailbond-v0.1.13"
+  },
+  "filesctrl": {
+    "source_repository": "VoidedKN0X/FilesCtrl",
+    "source_release_id": 435650764,
+    "source_tag": "v1.9.4",
+    "source_published_at": "2026-11-05T19:43:57Z",
+    "synced_at": "2026-11-05T19:49:01.838547+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714590546,
+        "filename": "FilesCtrl-v1.9.4.apk",
+        "original_filename": "FilesCtrl-v1.9.4.apk",
+        "sha256": "d73565e32cfeeac791940e81eef047a51ad7bbf111803bbfa85c4b45907e4d8e",
+        "file_size": 15856977,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "filesctrl-v1.9.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/filesctrl-v1.9.4"
+  },
+  "tv-launcher": {
+    "source_repository": "ChrnX0/tv-launcher",
+    "source_release_id": 435638355,
+    "source_tag": "v444689",
+    "source_published_at": "2026-11-05T19:31:58Z",
+    "synced_at": "2026-11-05T19:49:07.444624+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714556689,
+        "filename": "tv-launcher.apk",
+        "original_filename": "tv-launcher.apk",
+        "sha256": "a9f12b92794a3fa2cca374a67c6d30b3facbb341cdb51555e7d76ab9de8d0c71",
+        "file_size": 3478144,
+        "architecture": "armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "tv-launcher-v444689",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-launcher-v444689"
+  },
+  "breadboard-launcher": {
+    "source_repository": "mariusschaffrath/breadboard-launcher",
+    "source_release_id": 435627055,
+    "source_tag": "v1.0.0-breadboard",
+    "source_published_at": "2026-11-05T19:20:45Z",
+    "synced_at": "2026-11-05T19:49:28.731135+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714525390,
+        "filename": "BreadBoard-arm64-v8a.apk",
+        "original_filename": "BreadBoard-arm64-v8a.apk",
+        "sha256": "546ba8ba7299b9e3e638dee6a7fad4daa9d7a4e4a3c9521acf7843ffc9a1a3ff",
+        "file_size": 65257027,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 714525391,
+        "filename": "BreadBoard-armeabi-v7a.apk",
+        "original_filename": "BreadBoard-armeabi-v7a.apk",
+        "sha256": "a5dabbaba36f70684ba2a74a8a53efdc701d9eb39c3b80cc39b15026396a989f",
+        "file_size": 62475316,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 714525392,
+        "filename": "BreadBoard-universal.apk",
+        "original_filename": "BreadBoard-universal.apk",
+        "sha256": "84d4480f5894dca34ec9d4ded45d51b7c55d38e943f21d9294d5a498b5a4a6a9",
+        "file_size": 123847496,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "breadboard-launcher-v1.0.0-breadboard",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breadboard-launcher-v1.0.0-breadboard"
+  },
+  "dockpad": {
+    "source_repository": "Adonzin/DockPad",
+    "source_release_id": 435652198,
+    "source_tag": "latest",
+    "source_published_at": "2026-11-05T19:45:28Z",
+    "synced_at": "2026-11-05T19:49:32.735836+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714594756,
+        "filename": "DockPad.apk",
+        "original_filename": "DockPad.apk",
+        "sha256": "00c16fee1362d268de9092cba242768f7729717ccfaa960713ba64962e4d58b8",
+        "file_size": 4270298,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dockpad-latest",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dockpad-latest"
   }
 }

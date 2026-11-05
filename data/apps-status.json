@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:50.351598+00:00",
+    "last_checked": "2026-11-05T19:48:28.016905+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:42.918430+00:00",
+    "last_checked": "2026-11-05T19:48:52.539000+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:36.884842+00:00",
+    "last_checked": "2026-11-05T19:48:36.502586+00:00",
     "latest_version": "zako3.17",
     "last_synced": "2026-10-31T17:09:26.327514+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:42.331617+00:00",
+    "last_checked": "2026-11-05T19:48:35.248049+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:49.701860+00:00",
+    "last_checked": "2026-11-05T19:49:03.472318+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:18.869288+00:00",
+    "last_checked": "2026-11-05T19:49:02.634142+00:00",
     "latest_version": "v0.3.7",
     "last_synced": "2026-10-29T18:21:24.320336+00:00"
   },
@@ -999,7 +999,7 @@
   },
   "phoneguard": {
     "status": "no-apk",
-    "last_checked": "2026-11-04T19:39:48.892917+00:00",
+    "last_checked": "2026-11-05T19:48:35.416614+00:00",
     "latest_version": "v0.4.0",
     "last_synced": "2026-10-01T03:38:31.435544+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-11-04T19:39:43.036969+00:00",
+    "last_checked": "2026-11-05T19:48:51.924676+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1685,7 +1685,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-11-04T19:39:49.823467+00:00",
+    "last_checked": "2026-11-05T19:49:01.964347+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -5330,5 +5330,56 @@
     "last_checked": "2026-11-05T06:15:22.577464+00:00",
     "latest_version": "v1.3.0",
     "last_synced": "2026-11-05T06:15:22.577464+00:00"
+  },
+  "opencover": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:48:34.689501+00:00",
+    "latest_version": "v0.2",
+    "last_synced": "2026-11-05T19:48:34.689501+00:00"
+  },
+  "mcp-android": {
+    "status": "no-apk",
+    "last_checked": "2026-11-05T19:48:35.891524+00:00",
+    "latest_version": "v0.8.24"
+  },
+  "spotifyplus": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:48:51.787512+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-05T19:48:51.787512+00:00"
+  },
+  "tailbond": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:48:57.481673+00:00",
+    "latest_version": "v0.1.13",
+    "last_synced": "2026-11-05T19:48:57.481673+00:00"
+  },
+  "filesctrl": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:49:01.838569+00:00",
+    "latest_version": "v1.9.4",
+    "last_synced": "2026-11-05T19:49:01.838569+00:00"
+  },
+  "tv-launcher": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:49:07.444647+00:00",
+    "latest_version": "v444689",
+    "last_synced": "2026-11-05T19:49:07.444647+00:00"
+  },
+  "breadboard-launcher": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:49:28.731156+00:00",
+    "latest_version": "v1.0.0-breadboard",
+    "last_synced": "2026-11-05T19:49:28.731156+00:00"
+  },
+  "muted-color-filter": {
+    "status": "no-apk",
+    "last_checked": "2026-11-05T19:49:29.069785+00:00"
+  },
+  "dockpad": {
+    "status": "synced",
+    "last_checked": "2026-11-05T19:49:32.735857+00:00",
+    "latest_version": "latest",
+    "last_synced": "2026-11-05T19:49:32.735857+00:00"
   }
 }
