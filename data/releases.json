@@ -9231,22 +9231,22 @@
   },
   "taixu": {
     "source_repository": "wkbin/taixu",
-    "source_release_id": 429676571,
-    "source_tag": "v1.8.0",
-    "source_published_at": "2026-10-31T02:44:39Z",
-    "synced_at": "2026-11-01T05:39:29.975540+00:00",
+    "source_release_id": 432791464,
+    "source_tag": "v1.9.0",
+    "source_published_at": "2026-11-03T14:17:56Z",
+    "synced_at": "2026-11-06T06:08:09.487304+00:00",
     "assets": [
       {
-        "source_asset_id": 694153397,
-        "filename": "TaiXu-arm64-v1.8.0.apk",
-        "original_filename": "TaiXu-arm64-v1.8.0.apk",
-        "sha256": "0ce81158c16c734c81c27ccb4b0b3123866440fb92007fcab6c021ac5ad91e07",
-        "file_size": 26388540,
+        "source_asset_id": 705864488,
+        "filename": "TaiXu-arm64-v1.9.0.apk",
+        "original_filename": "TaiXu-arm64-v1.9.0.apk",
+        "sha256": "ccf708dba93a0551071ff822d32be987f765527b64815c4502beb2fa4656eeaf",
+        "file_size": 26487552,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "taixu-v1.8.0",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taixu-v1.8.0"
+    "mirror_release_tag": "taixu-v1.9.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taixu-v1.9.0"
   },
   "spotshift": {
     "source_repository": "BoraSarang/SpotShift",
@@ -19006,5 +19006,195 @@
     ],
     "mirror_release_tag": "dockpad-latest",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dockpad-latest"
+  },
+  "set": {
+    "source_repository": "AnishtayiN/Set",
+    "source_release_id": 435958493,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-06T01:12:59Z",
+    "synced_at": "2026-11-06T06:08:00.707467+00:00",
+    "assets": [
+      {
+        "source_asset_id": 715442273,
+        "filename": "Set-v1.0.0.apk",
+        "original_filename": "Set-v1.0.0.apk",
+        "sha256": "67dc2ce1893fb5c02dffc33b2e0eabf9aba44938cd8f27e6469746ab79df27b2",
+        "file_size": 2679876,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "set-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/set-v1.0.0"
+  },
+  "securecap": {
+    "source_repository": "uzairdeveloper223/SecureCap",
+    "source_release_id": 436100393,
+    "source_tag": "1.0",
+    "source_published_at": "2026-11-06T04:31:14Z",
+    "synced_at": "2026-11-06T06:08:03.454971+00:00",
+    "assets": [
+      {
+        "source_asset_id": 715903320,
+        "filename": "SecureCap_v1.0.apk",
+        "original_filename": "SecureCap_v1.0.apk",
+        "sha256": "7a84e2c6cb640720ed5538bf9cb70dd4eead79ba29dd20a218ec30d4002916ee",
+        "file_size": 225730,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "securecap-1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/securecap-1.0"
+  },
+  "zhiwei-manager": {
+    "source_repository": "mingxiozsg-star/zhiwei-manager",
+    "source_release_id": 436148162,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-11-06T05:56:11Z",
+    "synced_at": "2026-11-06T06:08:07.878273+00:00",
+    "assets": [
+      {
+        "source_asset_id": 716090007,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "7df15b800c35f853e607bba2a8107ebe30a33c4edaa68b7dc67414173fdf6e02",
+        "file_size": 14941158,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zhiwei-manager-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zhiwei-manager-v1.3.0"
+  },
+  "samsungregionoverride": {
+    "source_repository": "RitelDevs/SamsungRegionOverride",
+    "source_release_id": 386115534,
+    "source_tag": "v4.0.1",
+    "source_published_at": "2026-09-10T08:48:33Z",
+    "synced_at": "2026-11-06T06:08:13.907197+00:00",
+    "assets": [
+      {
+        "source_asset_id": 554616875,
+        "filename": "SamsungRegionOverride-v4.0.1.apk",
+        "original_filename": "SamsungRegionOverride-v4.0.1.apk",
+        "sha256": "f5f070bb9abf28f4c91b936535838edf83757fe3ed9766a46bdac81f32d2120d",
+        "file_size": 25647782,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "samsungregionoverride-v4.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/samsungregionoverride-v4.0.1"
+  },
+  "shinonome": {
+    "source_repository": "wonderhoy-labs/shinonome",
+    "source_release_id": 436074006,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-06T03:40:53Z",
+    "synced_at": "2026-11-06T06:08:16.946733+00:00",
+    "assets": [
+      {
+        "source_asset_id": 715792955,
+        "filename": "shinonome-v0.1.0.apk",
+        "original_filename": "shinonome-v0.1.0.apk",
+        "sha256": "f63def2107ab88948f7a1ff453c181e4c257a1e60a4accf46eef53bfafd15bc7",
+        "file_size": 2286721,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "shinonome-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shinonome-v0.1.0"
+  },
+  "copyover": {
+    "source_repository": "aritabryan/copyover",
+    "source_release_id": 436029803,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-06T02:25:25Z",
+    "synced_at": "2026-11-06T06:08:20.353555+00:00",
+    "assets": [
+      {
+        "source_asset_id": 715858697,
+        "filename": "Puente.apk",
+        "original_filename": "Puente.apk",
+        "sha256": "a03c71f669310f8f429434e9f7b2aa5a050b78d2286b6cfbfc4dd9dc89ea5b9c",
+        "file_size": 8975131,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "copyover-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/copyover-v1.0.1"
+  },
+  "guodelist-android": {
+    "source_repository": "TankNee/guodelist-android",
+    "source_release_id": 436148739,
+    "source_tag": "v0.4.19",
+    "source_published_at": "2026-11-06T05:57:11Z",
+    "synced_at": "2026-11-06T06:08:23.597093+00:00",
+    "assets": [
+      {
+        "source_asset_id": 716092066,
+        "filename": "guodelist-android-0.4.19-release.apk",
+        "original_filename": "guodelist-android-0.4.19-release.apk",
+        "sha256": "ee0a808fb079fe4b868f827ef16e28ff013a4c1f1ecef0d25df51363cdf79922",
+        "file_size": 11540784,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "guodelist-android-v0.4.19",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guodelist-android-v0.4.19"
+  },
+  "andagent": {
+    "source_repository": "congduan/andagent",
+    "source_release_id": 435469747,
+    "source_tag": "v0.25.5",
+    "source_published_at": "2026-11-05T16:52:06Z",
+    "synced_at": "2026-11-06T06:08:29.243321+00:00",
+    "assets": [
+      {
+        "source_asset_id": 714108518,
+        "filename": "andagent-v0.26.0.apk",
+        "original_filename": "andagent-v0.26.0.apk",
+        "sha256": "e7ac297925b5733841f172e09ac8daf65b27b00088b51ef03afeeb538f5e3b8d",
+        "file_size": 46390077,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "andagent-v0.25.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/andagent-v0.25.5"
+  },
+  "morphe-download-helper": {
+    "source_repository": "GeneralZyonix/morphe-download-helper",
+    "source_release_id": 436142944,
+    "source_tag": "v1.6.7",
+    "source_published_at": "2026-11-06T05:46:36Z",
+    "synced_at": "2026-11-06T06:08:32.085225+00:00",
+    "assets": [
+      {
+        "source_asset_id": 716068682,
+        "filename": "MorpheDownloadHelper-v1.6.7-universal.apk",
+        "original_filename": "MorpheDownloadHelper-v1.6.7-universal.apk",
+        "sha256": "6a31e5608d08d61e6e8e94e5e40720ea25f1bdc78c1a97063e75635152b5dc75",
+        "file_size": 4147601,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "morphe-download-helper-v1.6.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-download-helper-v1.6.7"
+  },
+  "gamershub": {
+    "source_repository": "spideycandy973-web/GamersHub",
+    "source_release_id": 436121991,
+    "source_tag": "v6.2.0",
+    "source_published_at": "2026-11-06T05:11:15Z",
+    "synced_at": "2026-11-06T06:08:36.015214+00:00",
+    "assets": [
+      {
+        "source_asset_id": 716000856,
+        "filename": "GamersHub-v6.2.0.apk",
+        "original_filename": "GamersHub-v6.2.0.apk",
+        "sha256": "423aa724b794b4cefa716094190419be6b56e51c594c0147bd22133d4e729846",
+        "file_size": 19496787,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gamershub-v6.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gamershub-v6.2.0"
   }
 }

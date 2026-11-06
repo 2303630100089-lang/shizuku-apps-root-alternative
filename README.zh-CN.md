@@ -202,6 +202,21 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[GamersHub](https://github.com/spideycandy973-web/GamersHub)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/spideycandy973-web/GamersHub) • [下载发布](https://github.com/spideycandy973-web/GamersHub/releases) |
+| **[morphe-download-helper](https://github.com/GeneralZyonix/morphe-download-helper)** | Morphe Manager的非官方APK下载助手： APKMirror、APKPure、Uptodown、F-Droid和Aptoide回退 | MIT | [GitHub 源码](https://github.com/GeneralZyonix/morphe-download-helper) • [下载发布](https://github.com/GeneralZyonix/morphe-download-helper/releases) |
+| **[andagent](https://github.com/congduan/andagent)** | 适用于Android的开源设备上AI代理：原生工具、LiveLoop、内存、QuickJS、NFC和自带LLM | Apache-2.0 | [GitHub 源码](https://github.com/congduan/andagent) • [下载发布](https://github.com/congduan/andagent/releases) |
+| **[audio-focus-mixer](https://github.com/milkei/audio-focus-mixer)** | 一款由 Shizuku 支持的轻量级 Android 应用程序，用于每个应用程序的音频焦点控制。 | MIT | [GitHub 源码](https://github.com/milkei/audio-focus-mixer) • [下载发布](https://github.com/milkei/audio-focus-mixer/releases) |
+| **[Jarvis](https://github.com/AbuZar-Ansarii/Jarvis)** | 一个自主的、本地优先的设备上AI代理和安卓操作系统自动化框架，具有完整的可访问性控制、│持续的语音智能和自我进化的工作流程执行。 | MIT | [GitHub 源码](https://github.com/AbuZar-Ansarii/Jarvis) • [下载发布](https://github.com/AbuZar-Ansarii/Jarvis/releases) |
+| **[Ai-agent](https://github.com/ethan71950701/Ai-agent)** | 与 Shizuku 兼容的 Android 工具。 | Apache-2.0 | [GitHub 源码](https://github.com/ethan71950701/Ai-agent) • [下载发布](https://github.com/ethan71950701/Ai-agent/releases) |
+| **[guodelist-android](https://github.com/TankNee/guodelist-android)** | Guodelist Android客户端 | MIT | [GitHub 源码](https://github.com/TankNee/guodelist-android) • [下载发布](https://github.com/TankNee/guodelist-android/releases) |
+| **[copyover](https://github.com/aritabryan/copyover)** | 您可以通过本地网络在每台设备上使用剪贴板： iPhone、Android、Windows和Linux | MIT | [GitHub 源码](https://github.com/aritabryan/copyover) • [下载发布](https://github.com/aritabryan/copyover/releases) |
+| **[shinonome](https://github.com/wonderhoy-labs/shinonome)** | Pixel的桌面模式，无需显示器。 | Apache-2.0 | [GitHub 源码](https://github.com/wonderhoy-labs/shinonome) • [下载发布](https://github.com/wonderhoy-labs/shinonome/releases) |
+| **[SamsungRegionOverride](https://github.com/RitelDevs/SamsungRegionOverride)** | 暂时将SIM卡区域Android报告更改为三星和其他区域锁定应用程序。Shizuku ，无根，一键恢复。 | MIT | [GitHub 源码](https://github.com/RitelDevs/SamsungRegionOverride) • [下载发布](https://github.com/RitelDevs/SamsungRegionOverride/releases) |
+| **[taixu](https://github.com/taixu-lab/taixu)** | Android 无根 Linux 运行时 · 本机代理框架 · PTY 终端 · 工作空间和工具生态系统 | GPL-3.0 | [GitHub 源码](https://github.com/taixu-lab/taixu) • [下载发布](https://github.com/taixu-lab/taixu/releases) |
+| **[DSH-Android](https://github.com/jackwener/DSH-Android)** | 免ROOT免Termux，在安卓手机上跑DeepSeek Harness的一个APK。引擎内嵌App进程·读屏操作App·修改系统设置·定时/条件自动化·任选Shizuku | Apache-2.0 | [GitHub 源码](https://github.com/jackwener/DSH-Android) • [下载发布](https://github.com/jackwener/DSH-Android/releases) |
+| **[zhiwei-manager](https://github.com/mingxiozsg-star/zhiwei-manager)** | 知微管理器 — 借鉴 MT 管理器的 Android 文件管理器 + 逆向工具链（ Dex/Smali/Jar/APK ） ， Kotlin + Compose | See project | [GitHub 源码](https://github.com/mingxiozsg-star/zhiwei-manager) • [下载发布](https://github.com/mingxiozsg-star/zhiwei-manager/releases) |
+| **[SecureCap](https://github.com/uzairdeveloper223/SecureCap)** | 绕过FLAG_SECURE的Android 11屏幕录像机 | MIT | [GitHub 源码](https://github.com/uzairdeveloper223/SecureCap) • [下载发布](https://github.com/uzairdeveloper223/SecureCap/releases) |
+| **[Set](https://github.com/AnishtayiN/Set)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/AnishtayiN/Set) • [下载发布](https://github.com/AnishtayiN/Set/releases) |
 | **[DockPad](https://github.com/Adonzin/DockPad)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Adonzin/DockPad) • [下载发布](https://github.com/Adonzin/DockPad/releases) |
 | **[muted-color-filter](https://github.com/0mega28/muted-color-filter)** | 适用于 Android (Pixel 8+) 的全屏静音/柔和色彩滤镜。辅助功能叠加 + 可选的 Shizuku 真实去饱和。 | MIT | [GitHub 源码](https://github.com/0mega28/muted-color-filter) • [下载发布](https://github.com/0mega28/muted-color-filter/releases) |
 | **[breadboard-launcher](https://github.com/mariusschaffrath/breadboard-launcher)** | BreadBoard – 适用于 Fire 7 和 Home Assistant 的定制 Apple HomeView 智能显示启动器 | See project | [GitHub 源码](https://github.com/mariusschaffrath/breadboard-launcher) • [下载发布](https://github.com/mariusschaffrath/breadboard-launcher/releases) |
@@ -262,16 +277,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **HyperGesture** | 罗希特-E-S | `v2.0.13` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypergesture-v2.0.13) | [Upstream](https://github.com/Rohith-E-S/HyperGesture/releases) |
-| ⚡ **rime-updater** | viui798 | `v1.0.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rime-updater-v1.0.0) | [Upstream](https://github.com/viui798/rime-updater/releases) |
-| ⚡ **BlueAudioSink** | 刘白清 | `v0.2.16` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blueaudiosink-v0.2.16) | [Upstream](https://github.com/liubaiqing/BlueAudioSink/releases) |
-| ⚡ **BatteryMonitor** | 色古钦 | `1.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batterymonitor-1.0) | [Upstream](https://github.com/Shikochin/BatteryMonitor/releases) |
-| ⚡ **CallReplay** | 乌列1010 | `v2.1.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callreplay-v2.1.0) | [Upstream](https://github.com/Uriel1010/CallReplay/releases) |
-| ⚡ **LocalAdb** | N2K02 | `v2.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/localadb-v2.0) | [Upstream](https://github.com/N2K02/LocalAdb/releases) |
-| ⚡ **yalevpn** | 耶利达克 | `v0.7.1` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yalevpn-v0.7.1) | [Upstream](https://github.com/yaleedhaque/yalevpn/releases) |
-| ⚡ **deepseek-ai** | HF805864818 | `v1.0.245` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-ai-v1.0.245) | [Upstream](https://github.com/hf805864818/deepseek-ai/releases) |
-| ⚡ **Galaxy-Dual-app-Plus** | 萨姆森910022 | `v0.0.1` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-dual-app-plus-v0.0.1) | [Upstream](https://github.com/samson910022/Galaxy-Dual-app-Plus/releases) |
-| ⚡ **pocket-xr** | 口袋-xr | `v1.1.3` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.1.3) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
+| ⚡ **DockPad** | Adonzin | `latest` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dockpad-latest) | [Upstream](https://github.com/Adonzin/DockPad/releases) |
+| ⚡ **FilesCtrl** | VoidedKN0X | `v1.9.4` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/filesctrl-v1.9.4) | [Upstream](https://github.com/VoidedKN0X/FilesCtrl/releases) |
+| ⚡ **tv-launcher** | ChrnX0 | `v444689` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-launcher-v444689) | [Upstream](https://github.com/ChrnX0/tv-launcher/releases) |
+| ⚡ **OpenCover** | Shmubbier | `v0.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencover-v0.2) | [Upstream](https://github.com/Shmubbier/OpenCover/releases) |
+| ⚡ **breadboard-launcher** | mariusschaffrath | `v1.0.0-breadboard` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breadboard-launcher-v1.0.0-breadboard) | [Upstream](https://github.com/mariusschaffrath/breadboard-launcher/releases) |
+| ⚡ **tailbond** | kaovilai | `v0.1.13` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailbond-v0.1.13) | [Upstream](https://github.com/kaovilai/tailbond/releases) |
+| ⚡ **SpotifyPlus** | LeNerd46 | `v1.0.0` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-v1.0.0) | [Upstream](https://github.com/LeNerd46/SpotifyPlus/releases) |
+| ⚡ **NontonYuk** | aingbandung | `build-6` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nontonyuk-build-6) | [Upstream](https://github.com/aingbandung/NontonYuk/releases) |
+| ⚡ **opendash** | openmartapp | `v0.1.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opendash-v0.1.2) | [Upstream](https://github.com/openmartapp/opendash/releases) |
+| ⚡ **paopaocat-deepseek-harness-mobile** | zmm863-commits | `v0.83.1` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/paopaocat-deepseek-harness-mobile-v0.83.1) | [Upstream](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

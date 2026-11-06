@@ -892,7 +892,7 @@
   },
   "ai-agent": {
     "status": "no-apk",
-    "last_checked": "2026-11-05T06:14:58.462565+00:00",
+    "last_checked": "2026-11-06T06:08:23.710720+00:00",
     "latest_version": "ci-run-234"
   },
   "xhizuku": {
@@ -2067,9 +2067,9 @@
   },
   "taixu": {
     "status": "synced",
-    "last_checked": "2026-11-01T05:39:29.975565+00:00",
-    "latest_version": "v1.8.0",
-    "last_synced": "2026-11-01T05:39:29.975565+00:00"
+    "last_checked": "2026-11-06T06:08:09.487323+00:00",
+    "latest_version": "v1.9.0",
+    "last_synced": "2026-11-06T06:08:09.487323+00:00"
   },
   "spotshift": {
     "status": "synced",
@@ -4189,7 +4189,7 @@
   },
   "dsh-android": {
     "status": "no-update",
-    "last_checked": "2026-11-05T06:15:16.490950+00:00",
+    "last_checked": "2026-11-06T06:08:08.177036+00:00",
     "latest_version": "v1.21.9",
     "last_synced": "2026-10-26T18:37:41.440821+00:00"
   },
@@ -4782,7 +4782,7 @@
   },
   "jarvis": {
     "status": "no-update",
-    "last_checked": "2026-11-04T19:39:19.268324+00:00",
+    "last_checked": "2026-11-06T06:08:24.019091+00:00",
     "latest_version": "v0.0.3",
     "last_synced": "2026-11-02T21:39:24.498298+00:00"
   },
@@ -5381,5 +5381,69 @@
     "last_checked": "2026-11-05T19:49:32.735857+00:00",
     "latest_version": "latest",
     "last_synced": "2026-11-05T19:49:32.735857+00:00"
+  },
+  "set": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:00.707496+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-06T06:08:00.707496+00:00"
+  },
+  "securecap": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:03.454991+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-11-06T06:08:03.454991+00:00"
+  },
+  "zhiwei-manager": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:07.878290+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-11-06T06:08:07.878290+00:00"
+  },
+  "samsungregionoverride": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:13.907216+00:00",
+    "latest_version": "v4.0.1",
+    "last_synced": "2026-11-06T06:08:13.907216+00:00"
+  },
+  "shinonome": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:16.946750+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-06T06:08:16.946750+00:00"
+  },
+  "copyover": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:20.353574+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-06T06:08:20.353574+00:00"
+  },
+  "guodelist-android": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:23.597110+00:00",
+    "latest_version": "v0.4.19",
+    "last_synced": "2026-11-06T06:08:23.597110+00:00"
+  },
+  "audio-focus-mixer": {
+    "status": "no-apk",
+    "last_checked": "2026-11-06T06:08:24.332080+00:00"
+  },
+  "andagent": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:29.243339+00:00",
+    "latest_version": "v0.25.5",
+    "last_synced": "2026-11-06T06:08:29.243339+00:00"
+  },
+  "morphe-download-helper": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:32.085243+00:00",
+    "latest_version": "v1.6.7",
+    "last_synced": "2026-11-06T06:08:32.085243+00:00"
+  },
+  "gamershub": {
+    "status": "synced",
+    "last_checked": "2026-11-06T06:08:36.015231+00:00",
+    "latest_version": "v6.2.0",
+    "last_synced": "2026-11-06T06:08:36.015231+00:00"
   }
 }
