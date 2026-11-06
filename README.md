@@ -259,16 +259,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **HyperGesture** | Rohith-E-S | `v2.0.13` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hypergesture-v2.0.13) | [Upstream](https://github.com/Rohith-E-S/HyperGesture/releases) |
-| ⚡ **rime-updater** | viui798 | `v1.0.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rime-updater-v1.0.0) | [Upstream](https://github.com/viui798/rime-updater/releases) |
-| ⚡ **BlueAudioSink** | liubaiqing | `v0.2.16` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blueaudiosink-v0.2.16) | [Upstream](https://github.com/liubaiqing/BlueAudioSink/releases) |
-| ⚡ **BatteryMonitor** | Shikochin | `1.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batterymonitor-1.0) | [Upstream](https://github.com/Shikochin/BatteryMonitor/releases) |
-| ⚡ **CallReplay** | Uriel1010 | `v2.1.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callreplay-v2.1.0) | [Upstream](https://github.com/Uriel1010/CallReplay/releases) |
-| ⚡ **LocalAdb** | N2K02 | `v2.0` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/localadb-v2.0) | [Upstream](https://github.com/N2K02/LocalAdb/releases) |
-| ⚡ **yalevpn** | yaleedhaque | `v0.7.1` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/yalevpn-v0.7.1) | [Upstream](https://github.com/yaleedhaque/yalevpn/releases) |
-| ⚡ **deepseek-ai** | hf805864818 | `v1.0.245` | 2026-11-04 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/deepseek-ai-v1.0.245) | [Upstream](https://github.com/hf805864818/deepseek-ai/releases) |
-| ⚡ **Galaxy-Dual-app-Plus** | samson910022 | `v0.0.1` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-dual-app-plus-v0.0.1) | [Upstream](https://github.com/samson910022/Galaxy-Dual-app-Plus/releases) |
-| ⚡ **pocket-xr** | pocket-xr | `v1.1.3` | 2026-11-03 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.1.3) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
+| ⚡ **DockPad** | Adonzin | `latest` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dockpad-latest) | [Upstream](https://github.com/Adonzin/DockPad/releases) |
+| ⚡ **FilesCtrl** | VoidedKN0X | `v1.9.4` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/filesctrl-v1.9.4) | [Upstream](https://github.com/VoidedKN0X/FilesCtrl/releases) |
+| ⚡ **tv-launcher** | ChrnX0 | `v444689` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-launcher-v444689) | [Upstream](https://github.com/ChrnX0/tv-launcher/releases) |
+| ⚡ **OpenCover** | Shmubbier | `v0.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencover-v0.2) | [Upstream](https://github.com/Shmubbier/OpenCover/releases) |
+| ⚡ **breadboard-launcher** | mariusschaffrath | `v1.0.0-breadboard` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breadboard-launcher-v1.0.0-breadboard) | [Upstream](https://github.com/mariusschaffrath/breadboard-launcher/releases) |
+| ⚡ **tailbond** | kaovilai | `v0.1.13` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailbond-v0.1.13) | [Upstream](https://github.com/kaovilai/tailbond/releases) |
+| ⚡ **SpotifyPlus** | LeNerd46 | `v1.0.0` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-v1.0.0) | [Upstream](https://github.com/LeNerd46/SpotifyPlus/releases) |
+| ⚡ **NontonYuk** | aingbandung | `build-6` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nontonyuk-build-6) | [Upstream](https://github.com/aingbandung/NontonYuk/releases) |
+| ⚡ **opendash** | openmartapp | `v0.1.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opendash-v0.1.2) | [Upstream](https://github.com/openmartapp/opendash/releases) |
+| ⚡ **paopaocat-deepseek-harness-mobile** | zmm863-commits | `v0.83.1` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/paopaocat-deepseek-harness-mobile-v0.83.1) | [Upstream](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
