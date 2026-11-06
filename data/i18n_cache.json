@@ -2088,7 +2088,23 @@
     "mariusschaffrath": "mariusschaffrath",
     "Your clipboard on every device: iPhone, Android, Windows and Linux, over your local network": "您可以通过本地网络在每台设备上使用剪贴板： iPhone、Android、Windows和Linux",
     "Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks": "Morphe Manager的非官方APK下载助手： APKMirror、APKPure、Uptodown、F-Droid和Aptoide回退",
-    "Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.": "暂时将SIM卡区域Android报告更改为三星和其他区域锁定应用程序。Shizuku ，无根，一键恢复。"
+    "Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.": "暂时将SIM卡区域Android报告更改为三星和其他区域锁定应用程序。Shizuku ，无根，一键恢复。",
+    "OpenJarvisProject assistant app: Rust + Slint, Linux and Android, local models": "OpenJarvisProject助手应用程序： Rust + Slint ， Linux和Android ，本地模型",
+    "Your whole Android desk, pinned in space. Every app on its own head-tracked screen in VITURE Pro 2 XR glasses, with Bluetooth keyboard and mouse. Open source, no cloud, no account.": "您的整个Android桌面，固定在太空中。VITURE Pro 2 XR眼镜的每个应用程序都有自己的头部跟踪屏幕，带有蓝牙键盘和鼠标。开源，无云，无账号。",
+    "Icon Formatter: app Flutter + Rust (Windows/Android) per comporre, stilizzare e ripulire le icone dei launcher, con icon pack applicato in Nothing Launcher tramite Shizuku": "图标格式化程序：每个Comporre的Flutter + Rust （ Windows/Android ）应用程序、Stilizzare e ripulire le icone dei启动器、Nothing Launcher tramite Shizuku中的Con图标包应用程序",
+    "Offline Android security audit tool. 90 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "离线Android安全审计工具。跨多个权限级别（基本、ADB、Shizuku、root ）的90个只读检查， 0–100分和已保存的报告。以隐私为导向，无互联网许可，零遥测，完全本地化。",
+    "XDesk: external display Linux desktop for Android, based on Termux:X11": "XDesk ：适用于Android的外置显示屏Linux桌面，基于Termux ： X11",
+    "Android thermal, power and FPS monitor with on-device session recording and a local LAN web dashboard (Kotlin, Jetpack Compose, Shizuku)": "Android热能、电源和FPS监视器，带有设备上会话录制和本地LAN Web控制面板（ Kotlin、Jetpack Compose、Shizuku ）",
+    "适配 dhizuku / shevery / shizuku 的 Android 应用隔离工具": "适配 dhizuku/shevery/shizuku的安卓 应用隔离工具",
+    "Battery app for Android 16/17: coulomb-counter drain, per-app attribution and battery health via Shizuku. No network access. GPL-3.0-or-later.": "适用于Android 16/17的电池应用程序：通过Shizuku进行库仑计数器消耗、每个应用程序的归因和电池健康。无法访问网络。GPL-3.0或更高版本。",
+    "让 Android 手机 / 平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件": "让 Android手机/平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件",
+    "A lightweight alternative for hermes which doesnt need a vps or virtual machine for hosting": "爱马仕的轻量级替代品，不需要vps或虚拟机来托管",
+    "Toggle USB debugging, wireless debugging and Developer options from a bubble, Quick Settings tiles or per app rules. Android, MIT.": "从气泡、快速设置图块或每个应用规则切换USB调试、无线调试和开发人员选项。Android、MIT。",
+    "111": "#huojianche#图纸IV",
+    "Material 3 Expressive Browser For Android": "材料3适用于Android的表达式浏览器",
+    "Android ↔ macOS over Bluetooth: clipboard, notifications, files and diagnostics": "通过蓝牙的Android ↔ macOS ：剪贴板、通知、文件和诊断",
+    "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!": "Translucent Nothing风格的图标生成器-让您的应用程序更加Lucent ！",
+    "Dual-panel Android file manager & reverse engineering suite (MT Manager alternative). DEX/Smali & HEX editor, Apktool, AntiSplit, ARSC/AXML editor, Shizuku & Root.": "双面板Android文件管理器和逆向工程套件（ MT管理器替代方案）。DEX/Smali和十六进制编辑器、Apktool、AntiSplit、ARSC/AXML编辑器、Shizuku和Root。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4179,6 +4195,22 @@
     "VoidedKN0X": "VoidedKN0X",
     "Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks": "Неофициальный помощник по загрузке APK для Morphe Manager: запасные версии APKMirror, APKPure, Uptodown, F-Droid и Aptoide",
     "Your clipboard on every device: iPhone, Android, Windows and Linux, over your local network": "Буфер обмена на каждом устройстве: iPhone, Android, Windows и Linux, по локальной сети",
-    "Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.": "Временно измените отчеты SIM-карты Android на Samsung и другие приложения, заблокированные в регионе. Сидзуку, без корня, восстановление одним нажатием."
+    "Temporarily change the SIM region Android reports to Samsung and other region-locked apps. Shizuku, no root, one-tap restore.": "Временно измените отчеты SIM-карты Android на Samsung и другие приложения, заблокированные в регионе. Сидзуку, без корня, восстановление одним нажатием.",
+    "OpenJarvisProject assistant app: Rust + Slint, Linux and Android, local models": "Приложение-ассистент OpenJarvisProject: Rust + Slint, Linux и Android, локальные модели",
+    "Offline Android security audit tool. 90 read-only checks across multiple privilege levels (base, ADB, Shizuku, root), 0–100 score and saved reports. Privacy-oriented, no internet permission, zero telemetry, fully local.": "Автономный инструмент аудита безопасности Android. 90 проверок только для чтения на нескольких уровнях привилегий (Base, ADB, Shizuku, root), 0–100 баллов и сохраненные отчеты. Ориентирован на конфиденциальность, без разрешения на доступ в Интернет, без телеметрии, полностью локальный.",
+    "Icon Formatter: app Flutter + Rust (Windows/Android) per comporre, stilizzare e ripulire le icone dei launcher, con icon pack applicato in Nothing Launcher tramite Shizuku": "Icon Formatter: App Flutter + Rust (Windows/Android) per comporre, stilizzare e ripulire le icone dei launcher, con icon pack applato in Nothing Launcher tramite Shizuku",
+    "Your whole Android desk, pinned in space. Every app on its own head-tracked screen in VITURE Pro 2 XR glasses, with Bluetooth keyboard and mouse. Open source, no cloud, no account.": "Весь ваш стол Android закреплен в пространстве. Каждое приложение на отдельном головном экране в очках VITURE Pro 2 XR с клавиатурой и мышью Bluetooth. Открытый исходный код, нет облака, нет аккаунта.",
+    "适配 dhizuku / shevery / shizuku 的 Android 应用隔离工具": "适配 dhizuku / shevery / shizuku 的 Android 应用隔离工具",
+    "Battery app for Android 16/17: coulomb-counter drain, per-app attribution and battery health via Shizuku. No network access. GPL-3.0-or-later.": "Приложение Battery для Android 16/17: разрядка счетчика кулонов, атрибуция для каждого приложения и работоспособность батареи через Shizuku. Нет доступа к сети. GPL-3.0-or-later.",
+    "Android thermal, power and FPS monitor with on-device session recording and a local LAN web dashboard (Kotlin, Jetpack Compose, Shizuku)": "Монитор Android Thermal, Power и FPS с записью сеанса на устройстве и локальной веб-панелью управления LAN (Kotlin, Jetpack Compose, Shizuku)",
+    "XDesk: external display Linux desktop for Android, based on Termux:X11": "XDesk: внешний дисплей рабочего стола Linux для Android, основанный на Termux:X11",
+    "让 Android 手机 / 平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件": "让 Android手机/平板上的《崩坏：星穹铁道》识别到游戏手柄的 Shizuku 插件",
+    "Toggle USB debugging, wireless debugging and Developer options from a bubble, Quick Settings tiles or per app rules. Android, MIT.": "Переключите отладку USB, беспроводную отладку и параметры разработчика из пузыря, плиток быстрых настроек или правил для каждого приложения. Android, MIT.",
+    "111": "111",
+    "A lightweight alternative for hermes which doesnt need a vps or virtual machine for hosting": "Легкая альтернатива для Hermes, которая не требует vps или виртуальной машины для хостинга",
+    "Android ↔ macOS over Bluetooth: clipboard, notifications, files and diagnostics": "Android ↔ macOS через Bluetooth: буфер обмена, уведомления, файлы и диагностика",
+    "Material 3 Expressive Browser For Android": "Выразительный браузер Material 3 для Android",
+    "Dual-panel Android file manager & reverse engineering suite (MT Manager alternative). DEX/Smali & HEX editor, Apktool, AntiSplit, ARSC/AXML editor, Shizuku & Root.": "Двухпанельный файловый менеджер Android и пакет обратного инжиниринга (альтернатива MT Manager). Редактор DEX/Smali & HEX, Apktool, AntiSplit, редактор ARSC/AXML, Shizuku & Root.",
+    "Translucent Nothing-style icon generator - Making your apps a bit more Lucent!": "Генератор значков в стиле Translucent Nothing - Сделайте ваши приложения немного более Lucent!"
   }
 }

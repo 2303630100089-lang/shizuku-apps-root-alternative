@@ -19196,5 +19196,243 @@
     ],
     "mirror_release_tag": "gamershub-v6.2.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gamershub-v6.2.0"
+  },
+  "openmanager": {
+    "source_repository": "uamo11/OpenManager",
+    "source_release_id": 433921878,
+    "source_tag": "v1.9.44",
+    "source_published_at": "2026-11-04T12:56:36Z",
+    "synced_at": "2026-11-06T19:13:53.502858+00:00",
+    "assets": [
+      {
+        "source_asset_id": 709511126,
+        "filename": "OpenManager-v1.9.44-release.apk",
+        "original_filename": "OpenManager-v1.9.44-release.apk",
+        "sha256": "d7892bc76bed687099f0f9766561e97b087af4b1eaddcfbbfd34edffe1efe99c",
+        "file_size": 30202991,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "openmanager-v1.9.44",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openmanager-v1.9.44"
+  },
+  "veyro-debloat-engine": {
+    "source_repository": "skvsmdarman/veyro-debloat-engine",
+    "source_release_id": 436705222,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-11-06T16:01:20Z",
+    "synced_at": "2026-11-06T19:13:57.523000+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717698486,
+        "filename": "veyro-debloat-engine.apk",
+        "original_filename": "veyro-debloat-engine.apk",
+        "sha256": "d1959369a001e840175e84c65f3513319f53f4b5dc1730440fffdc1c7ca524dc",
+        "file_size": 1399052,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "veyro-debloat-engine-v1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/veyro-debloat-engine-v1.1.1"
+  },
+  "controllerstarrail": {
+    "source_repository": "1caru3zz3/ControllerStarRail",
+    "source_release_id": 436702240,
+    "source_tag": "v0.2.3",
+    "source_published_at": "2026-11-06T15:58:26Z",
+    "synced_at": "2026-11-06T19:14:05.146831+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717686218,
+        "filename": "ControllerStarRail-v0.2.3.apk",
+        "original_filename": "ControllerStarRail-v0.2.3.apk",
+        "sha256": "541ea18c455c9d3a5f39976bf880876438a827d77f1bcc866cda56eea7615da1",
+        "file_size": 5563072,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "controllerstarrail-v0.2.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/controllerstarrail-v0.2.3"
+  },
+  "petal": {
+    "source_repository": "shreyagarwal72/petal",
+    "source_release_id": 431796439,
+    "source_tag": "v4.6.0",
+    "source_published_at": "2026-11-02T18:03:49Z",
+    "synced_at": "2026-11-06T19:15:18.788295+00:00",
+    "assets": [
+      {
+        "source_asset_id": 718064737,
+        "filename": "petal-browser-arm64-v8a-release.apk",
+        "original_filename": "petal-browser-arm64-v8a-release.apk",
+        "sha256": "6ffccc4bb8d8147e24be13c4a4583b896e5ca83238ebff6f990464b43f2bb193",
+        "file_size": 188260203,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 718065068,
+        "filename": "petal-browser-armeabi-v7a-release.apk",
+        "original_filename": "petal-browser-armeabi-v7a-release.apk",
+        "sha256": "7da8d1518cc95d384285bb27430ec8a37a1847ec18280bc4e6b566d8a59ac08f",
+        "file_size": 177924026,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 718066423,
+        "filename": "petal-browser-universal-release.apk",
+        "original_filename": "petal-browser-universal-release.apk",
+        "sha256": "6cf3f17401e21948682affbf5d102b0dc3a4f12a45ab342457ad1b6c2cd9ed84",
+        "file_size": 519097370,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      },
+      {
+        "source_asset_id": 718067259,
+        "filename": "petal-browser-x86-release.apk",
+        "original_filename": "petal-browser-x86-release.apk",
+        "sha256": "eb9a77b4b8d7dc8345914e7704f02a8c603869938c75699c0c99f8348379de61",
+        "file_size": 102962706,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 718067489,
+        "filename": "petal-browser-x86_64-release.apk",
+        "original_filename": "petal-browser-x86_64-release.apk",
+        "sha256": "16e6b7e96f0cef10a2230883ddc4d23a060c53ac62c33f8bbd29c6560fa513d6",
+        "file_size": 196633594,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "petal-v4.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/petal-v4.6.0"
+  },
+  "vela": {
+    "source_repository": "parth5012/Vela",
+    "source_release_id": 430536831,
+    "source_tag": "3.6",
+    "source_published_at": "2026-11-01T11:28:06Z",
+    "synced_at": "2026-11-06T19:15:33.225286+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698140448,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "728692fbd0d8d56b80622b6bc2cadbfb077db1271edc209bc9e415b7ab1cfcf5",
+        "file_size": 119204569,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 698140442,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "da64537c1505896170edba0458cc9d8da916ca32207ad68abf9266fb64c7f5bb",
+        "file_size": 67315454,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "vela-3.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vela-3.6"
+  },
+  "xdesk": {
+    "source_repository": "n2ray/xdesk",
+    "source_release_id": 436792903,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-11-06T17:28:19Z",
+    "synced_at": "2026-11-06T19:15:39.890481+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717948537,
+        "filename": "loader.apk",
+        "original_filename": "loader.apk",
+        "sha256": "323bb804b0a06d404e185fa4f83303d6e98b07c7589a878ddf176a8ea4b34534",
+        "file_size": 3339,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 717948536,
+        "filename": "xdesk.apk",
+        "original_filename": "xdesk.apk",
+        "sha256": "6834ae8a5eb64e8d300f75c9433da13ec634712541d9e14094aef1f384c22529",
+        "file_size": 9185921,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "xdesk-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xdesk-v0.2.0"
+  },
+  "moon-light": {
+    "source_repository": "ScellyP/Moon-light",
+    "source_release_id": 436485486,
+    "source_tag": "v1.13.01",
+    "source_published_at": "2026-11-06T12:39:09Z",
+    "synced_at": "2026-11-06T19:15:48.117956+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717131449,
+        "filename": "moonlight-v1.13.01.apk",
+        "original_filename": "moonlight-v1.13.01.apk",
+        "sha256": "55528603755591f5b21b03d5efee58fe2c6710f2c7c1b1a1378350fcbed33da4",
+        "file_size": 99610790,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "moon-light-v1.13.01",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moon-light-v1.13.01"
+  },
+  "conduit": {
+    "source_repository": "ogolknev/conduit",
+    "source_release_id": 436880338,
+    "source_tag": "v0.3.3",
+    "source_published_at": "2026-11-06T19:05:19Z",
+    "synced_at": "2026-11-06T19:15:52.913459+00:00",
+    "assets": [
+      {
+        "source_asset_id": 718229547,
+        "filename": "conduit-companion-0.3.3.apk",
+        "original_filename": "conduit-companion-0.3.3.apk",
+        "sha256": "b7d3f069177fd240ee20e22bab8f69f97b438a8baa039bee0f4ac4a6dee8376e",
+        "file_size": 828185,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "conduit-v0.3.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/conduit-v0.3.3"
+  },
+  "orbitwalker": {
+    "source_repository": "Kno2gether-Labs-LTD/orbitwalker",
+    "source_release_id": 436799218,
+    "source_tag": "v0.13.0",
+    "source_published_at": "2026-11-06T17:35:07Z",
+    "synced_at": "2026-11-06T19:15:57.869665+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717968542,
+        "filename": "OrbitWalker.apk",
+        "original_filename": "OrbitWalker.apk",
+        "sha256": "4e323eb9ee4b56b20be47125e841f52fd2d3eedb92b0d9a53bb2c30395efa141",
+        "file_size": 40461591,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "orbitwalker-v0.13.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orbitwalker-v0.13.0"
+  },
+  "nothing-icongen": {
+    "source_repository": "linuxct/nothing-icongen",
+    "source_release_id": 436852703,
+    "source_tag": "build-1.0.0.12-12.1793989939",
+    "source_published_at": "2026-11-06T18:34:40Z",
+    "synced_at": "2026-11-06T19:16:05.150206+00:00",
+    "assets": [
+      {
+        "source_asset_id": 718142175,
+        "filename": "IconGen.apk",
+        "original_filename": "IconGen.apk",
+        "sha256": "ce0ab1f57de2e5e4aad66902a2c55de66ba37861a897e7db57953d9b64324e43",
+        "file_size": 38833413,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nothing-icongen-build-1.0.0.12-12.1793989939",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nothing-icongen-build-1.0.0.12-12.1793989939"
   }
 }
