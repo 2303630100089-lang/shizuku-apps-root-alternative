@@ -12184,22 +12184,22 @@
   },
   "latch": {
     "source_repository": "wized2/Latch",
-    "source_release_id": 414894879,
-    "source_tag": "v0.6.2",
-    "source_published_at": "2026-10-16T11:36:08Z",
-    "synced_at": "2026-10-16T16:29:18.779568+00:00",
+    "source_release_id": 420665959,
+    "source_tag": "v0.6.3",
+    "source_published_at": "2026-10-22T11:58:55Z",
+    "synced_at": "2026-11-07T17:42:25.028878+00:00",
     "assets": [
       {
-        "source_asset_id": 647586139,
+        "source_asset_id": 671532959,
         "filename": "Latch-release.apk",
         "original_filename": "Latch-release.apk",
-        "sha256": "927ce44c6887f1eb0afba3ae01c803e8a34b4d9cb33ae8b8035a1f1149336f62",
-        "file_size": 1239059,
+        "sha256": "7e486979e45edfe3cf8b17cbed04c6011e776eceaeaeade634b0e4be8ad2a4ff",
+        "file_size": 1257782,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "latch-v0.6.2",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/latch-v0.6.2"
+    "mirror_release_tag": "latch-v0.6.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/latch-v0.6.3"
   },
   "jav": {
     "source_repository": "k4wai1/jav",
@@ -19567,5 +19567,211 @@
     ],
     "mirror_release_tag": "oktobot-releases-v2.6.41",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/oktobot-releases-v2.6.41"
+  },
+  "memi-musicplayer": {
+    "source_repository": "mumuji-colar/MEMI_MusicPlayer",
+    "source_release_id": 437722485,
+    "source_tag": "v1.20",
+    "source_published_at": "2026-11-07T17:21:49Z",
+    "synced_at": "2026-11-07T17:41:42.236467+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721378233,
+        "filename": "MEMI-1.20-2611201.apk",
+        "original_filename": "MEMI-1.20-2611201.apk",
+        "sha256": "79de096e3be7e547baec47a1513a8e8318e27a6573a67abedd4a7615de4f2990",
+        "file_size": 15166780,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "memi-musicplayer-v1.20",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/memi-musicplayer-v1.20"
+  },
+  "gpay-india-accessibility-fix": {
+    "source_repository": "gdr1999/gpay-india-accessibility-fix",
+    "source_release_id": 437668085,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-11-07T15:45:48Z",
+    "synced_at": "2026-11-07T17:41:51.415402+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721123749,
+        "filename": "GPayReady-v1.1.apk",
+        "original_filename": "GPayReady-v1.1.apk",
+        "sha256": "07462a30a068d19cf82d9d9ce7dec4a76b5a98ada9960d057159cdfa1d48ea38",
+        "file_size": 30742611,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 721123751,
+        "filename": "GPayReady.apk",
+        "original_filename": "GPayReady.apk",
+        "sha256": "07462a30a068d19cf82d9d9ce7dec4a76b5a98ada9960d057159cdfa1d48ea38",
+        "file_size": 30742611,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gpay-india-accessibility-fix-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gpay-india-accessibility-fix-v1.1"
+  },
+  "wisp": {
+    "source_repository": "david-x3d/wisp",
+    "source_release_id": 437694487,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-07T16:30:52Z",
+    "synced_at": "2026-11-07T17:41:59.222405+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721246821,
+        "filename": "Wisp-v1.1.0-release.apk",
+        "original_filename": "Wisp-v1.1.0-release.apk",
+        "sha256": "b40a9a35bc011b4dc08ce7a4aba97253b0a7641f44b1a3a0478e6fc8bdbdbed5",
+        "file_size": 52841256,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "wisp-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wisp-v1.1.0"
+  },
+  "sonderassist": {
+    "source_repository": "Verisonder/SonderAssist",
+    "source_release_id": 437724969,
+    "source_tag": "v8.6",
+    "source_published_at": "2026-11-07T17:24:22Z",
+    "synced_at": "2026-11-07T17:42:04.406090+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721390380,
+        "filename": "SonderAssist-8.6.apk",
+        "original_filename": "SonderAssist-8.6.apk",
+        "sha256": "d946230ae51b1e60b781fe602574808b2c8c437e2dc09ac5c909e6aa9f0c954a",
+        "file_size": 2689258,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sonderassist-v8.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sonderassist-v8.6"
+  },
+  "esim-matrix": {
+    "source_repository": "hg552/eSIM-Matrix",
+    "source_release_id": 437727963,
+    "source_tag": "v1.4.2",
+    "source_published_at": "2026-11-07T17:30:00Z",
+    "synced_at": "2026-11-07T17:42:13.133386+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721403176,
+        "filename": "eSIM-Matrix-v1.4.2.apk",
+        "original_filename": "eSIM-Matrix-v1.4.2.apk",
+        "sha256": "89e760ce55d3fefba99f4795a538c07be19a8e5312982ad53357caec4c3b001e",
+        "file_size": 62476168,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "esim-matrix-v1.4.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/esim-matrix-v1.4.2"
+  },
+  "pkmn-installer": {
+    "source_repository": "bdaenen/pkmn-installer",
+    "source_release_id": 437725545,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-07T17:25:17Z",
+    "synced_at": "2026-11-07T17:42:18.829419+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721401275,
+        "filename": "pkmn-installer.apk",
+        "original_filename": "pkmn-installer.apk",
+        "sha256": "30d8b43c60d6a3d251ac90c1e1b52ffe52b2a2fecaea86bc442bf550c09efc1d",
+        "file_size": 1292398,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pkmn-installer-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pkmn-installer-v0.1.0"
+  },
+  "cliphistory-android": {
+    "source_repository": "saroo98/cliphistory-android",
+    "source_release_id": 430885566,
+    "source_tag": "v1.4.5",
+    "source_published_at": "2026-11-01T21:59:37Z",
+    "synced_at": "2026-11-07T17:42:23.892371+00:00",
+    "assets": [
+      {
+        "source_asset_id": 699644669,
+        "filename": "ClipHistory-1.4.5.apk",
+        "original_filename": "ClipHistory-1.4.5.apk",
+        "sha256": "4f60af8bf952db2d344a7fe939ea8b4f0b8296ee40e733e8859b895e5194bc63",
+        "file_size": 2672759,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "cliphistory-android-v1.4.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cliphistory-android-v1.4.5"
+  },
+  "backgroundappsweep": {
+    "source_repository": "theboyrickyg/BackgroundAppSweep",
+    "source_release_id": 437732828,
+    "source_tag": "build-11",
+    "source_published_at": "2026-11-07T17:38:49Z",
+    "synced_at": "2026-11-07T17:42:29.316145+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721427641,
+        "filename": "BackgroundAppSweep.apk",
+        "original_filename": "BackgroundAppSweep.apk",
+        "sha256": "b5c1bb8f6532dd5ae80ca0b55c6abb968ceefc12562ffc347e9fcee5019a9512",
+        "file_size": 18275723,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "backgroundappsweep-build-11",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/backgroundappsweep-build-11"
+  },
+  "simbridge": {
+    "source_repository": "ttabouch12/simbridge",
+    "source_release_id": 437697550,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-07T16:36:25Z",
+    "synced_at": "2026-11-07T17:42:35.002571+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721261132,
+        "filename": "SimBridge-1.1.0.apk",
+        "original_filename": "SimBridge-1.1.0.apk",
+        "sha256": "44bf08d2516c5b5754bcd9e5151856a9d234d8a9379ae7ca8e09ee7f0c04d569",
+        "file_size": 2408265,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 721261197,
+        "filename": "SimBridge-Gateway-1.1.0.apk",
+        "original_filename": "SimBridge-Gateway-1.1.0.apk",
+        "sha256": "ad1f1a3c81fd29737583c9b3393ea02fcf97e1b191fcd3d10ab8124517bb964c",
+        "file_size": 2585292,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "simbridge-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simbridge-v1.1.0"
+  },
+  "bypass-control": {
+    "source_repository": "JDD700/bypass-control",
+    "source_release_id": 437659825,
+    "source_tag": "v1.9.2",
+    "source_published_at": "2026-11-07T15:28:59Z",
+    "synced_at": "2026-11-07T17:42:38.863562+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721082108,
+        "filename": "BypassControl-v12.apk",
+        "original_filename": "BypassControl-v12.apk",
+        "sha256": "ea1a5a9132377658f4def863fca7b015915e40fa1b872f174c5f089c01963752",
+        "file_size": 82753,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "bypass-control-v1.9.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bypass-control-v1.9.2"
   }
 }
