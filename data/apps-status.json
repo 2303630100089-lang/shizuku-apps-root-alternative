@@ -1872,8 +1872,8 @@
     "last_synced": "2026-10-07T05:32:30.527713+00:00"
   },
   "warden": {
-    "status": "synced",
-    "last_checked": "2026-10-07T05:32:35.845611+00:00",
+    "status": "no-update",
+    "last_checked": "2026-11-07T05:38:55.712855+00:00",
     "latest_version": "v0.1.0",
     "last_synced": "2026-10-07T05:32:35.845611+00:00"
   },
@@ -2340,9 +2340,9 @@
   },
   "luwi": {
     "status": "synced",
-    "last_checked": "2026-10-10T17:15:11.186159+00:00",
-    "latest_version": "v2.7.5",
-    "last_synced": "2026-10-10T17:15:11.186159+00:00"
+    "last_checked": "2026-11-07T05:38:58.023478+00:00",
+    "latest_version": "v2.7.10",
+    "last_synced": "2026-11-07T05:38:58.023478+00:00"
   },
   "re-amachiromaker-android": {
     "status": "synced",
@@ -5521,5 +5521,64 @@
   "rikkahub-agent-ultra": {
     "status": "no-apk",
     "last_checked": "2026-11-06T19:16:05.613485+00:00"
+  },
+  "dsh-remote": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:38:46.854431+00:00",
+    "latest_version": "v1.6.25",
+    "last_synced": "2026-11-07T05:38:46.854431+00:00"
+  },
+  "qarentenapp": {
+    "status": "no-apk",
+    "last_checked": "2026-11-07T05:38:47.117171+00:00"
+  },
+  "ertyu": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:38:50.986954+00:00",
+    "latest_version": "v2026.11.07-0515",
+    "last_synced": "2026-11-07T05:38:50.986954+00:00"
+  },
+  "jarviscz": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:38:55.368369+00:00",
+    "latest_version": "v1.4.0-cz",
+    "last_synced": "2026-11-07T05:38:55.368369+00:00"
+  },
+  "pudding-root": {
+    "status": "no-apk",
+    "last_checked": "2026-11-07T05:38:58.430878+00:00"
+  },
+  "mo": {
+    "status": "no-apk",
+    "last_checked": "2026-11-07T05:38:58.853362+00:00"
+  },
+  "majician": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:39:02.214916+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-07T05:39:02.214916+00:00"
+  },
+  "careshield-project": {
+    "status": "no-apk",
+    "last_checked": "2026-11-07T05:39:02.453147+00:00",
+    "latest_version": "v1.6.1"
+  },
+  "max-ai": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:39:08.707836+00:00",
+    "latest_version": "v1.1.12",
+    "last_synced": "2026-11-07T05:39:08.707836+00:00"
+  },
+  "tinymcserver": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:39:15.609849+00:00",
+    "latest_version": "v1.3.4",
+    "last_synced": "2026-11-07T05:39:15.609849+00:00"
+  },
+  "oktobot-releases": {
+    "status": "synced",
+    "last_checked": "2026-11-07T05:39:27.524256+00:00",
+    "latest_version": "v2.6.41",
+    "last_synced": "2026-11-07T05:39:27.524256+00:00"
   }
 }

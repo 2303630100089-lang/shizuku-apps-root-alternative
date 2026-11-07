@@ -10014,22 +10014,22 @@
   },
   "luwi": {
     "source_repository": "yuloong07-star/Luwi",
-    "source_release_id": 409068155,
-    "source_tag": "v2.7.5",
-    "source_published_at": "2026-10-10T16:36:06Z",
-    "synced_at": "2026-10-10T17:15:11.186139+00:00",
+    "source_release_id": 430346080,
+    "source_tag": "v2.7.10",
+    "source_published_at": "2026-11-01T03:47:52Z",
+    "synced_at": "2026-11-07T05:38:58.023450+00:00",
     "assets": [
       {
-        "source_asset_id": 628448679,
-        "filename": "DSH-LW-2.7.5.apk",
-        "original_filename": "DSH-LW-2.7.5.apk",
-        "sha256": "7f12cb286ea120611df2b4bab5ff7c634b5280f1441afa8be5dd3dec70fb000a",
-        "file_size": 226399216,
+        "source_asset_id": 697246265,
+        "filename": "Luwi-2.7.10.apk",
+        "original_filename": "Luwi-2.7.10.apk",
+        "sha256": "f89348b9cb73d6638b04ae8ee144134e67bc264e2036a74d613dd5eca2f19296",
+        "file_size": 250390159,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "luwi-v2.7.5",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/luwi-v2.7.5"
+    "mirror_release_tag": "luwi-v2.7.10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/luwi-v2.7.10"
   },
   "re-amachiromaker-android": {
     "source_repository": "ynlp0624/RE-Amachiromaker-Android",
@@ -19434,5 +19434,138 @@
     ],
     "mirror_release_tag": "nothing-icongen-build-1.0.0.12-12.1793989939",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nothing-icongen-build-1.0.0.12-12.1793989939"
+  },
+  "dsh-remote": {
+    "source_repository": "c6huli/dsh-remote",
+    "source_release_id": 437360663,
+    "source_tag": "v1.6.25",
+    "source_published_at": "2026-11-07T05:30:18Z",
+    "synced_at": "2026-11-07T05:38:46.854401+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719728501,
+        "filename": "dsh-remote-1.6.25-ts.apk",
+        "original_filename": "dsh-remote-1.6.25-ts.apk",
+        "sha256": "929c5f045b67c23ccfcef6f4e0d5b74981ad86939c6b862fce64e48735833293",
+        "file_size": 12789754,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dsh-remote-v1.6.25",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-remote-v1.6.25"
+  },
+  "ertyu": {
+    "source_repository": "y3881811-oss/ertyu",
+    "source_release_id": 437356770,
+    "source_tag": "v2026.11.07-0515",
+    "source_published_at": "2026-11-07T05:20:37Z",
+    "synced_at": "2026-11-07T05:38:50.986935+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719708697,
+        "filename": "MTFM-v2026.11.07-0515.apk",
+        "original_filename": "MTFM-v2026.11.07-0515.apk",
+        "sha256": "229b9cf8d7f6a30de7e9560e74c57c579f2cbfa3d1131dbceda720bff5798cfb",
+        "file_size": 14363290,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ertyu-v2026.11.07-0515",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ertyu-v2026.11.07-0515"
+  },
+  "jarviscz": {
+    "source_repository": "InsaneBadPC/JarvisCZ",
+    "source_release_id": 437339244,
+    "source_tag": "v1.4.0-cz",
+    "source_published_at": "2026-11-07T04:44:54Z",
+    "synced_at": "2026-11-07T05:38:55.368344+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719633620,
+        "filename": "jarvis-release-cz.apk",
+        "original_filename": "jarvis-release-cz.apk",
+        "sha256": "7f01b0372759baa1c97f2cead3fb9743553fd272ab57c814502377bd02f7f134",
+        "file_size": 69748507,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "jarviscz-v1.4.0-cz",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jarviscz-v1.4.0-cz"
+  },
+  "majician": {
+    "source_repository": "udmodz0/majician",
+    "source_release_id": 437324494,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-07T04:16:43Z",
+    "synced_at": "2026-11-07T05:39:02.214896+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719571279,
+        "filename": "Majician-v1.0.0.apk",
+        "original_filename": "Majician-v1.0.0.apk",
+        "sha256": "c5ed35ba6a769e28d0e340fb21434deade0391ab7f65f28e64fc8575c6d4d3f4",
+        "file_size": 9079830,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "majician-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/majician-v1.0.0"
+  },
+  "max-ai": {
+    "source_repository": "shahin0964/Max-Ai",
+    "source_release_id": 437336585,
+    "source_tag": "v1.1.12",
+    "source_published_at": "2026-11-07T04:40:16Z",
+    "synced_at": "2026-11-07T05:39:08.707818+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719624568,
+        "filename": "MaxAi-v1.1.12.apk",
+        "original_filename": "MaxAi-v1.1.12.apk",
+        "sha256": "d92b4cdd77b098708123e5041a106e6fa65e2bbfb477d6b7261f63e309021540",
+        "file_size": 76944947,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "max-ai-v1.1.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/max-ai-v1.1.12"
+  },
+  "tinymcserver": {
+    "source_repository": "starclimber/TinyMCServer",
+    "source_release_id": 437363348,
+    "source_tag": "v1.3.4",
+    "source_published_at": "2026-11-07T05:36:25Z",
+    "synced_at": "2026-11-07T05:39:15.609830+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719740641,
+        "filename": "TinyMCserver-1.3.4.apk",
+        "original_filename": "TinyMCserver-1.3.4.apk",
+        "sha256": "2cef8162f807b65cdd7851db556a5e2b44996954e48b676fc406e187de180c25",
+        "file_size": 117350245,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tinymcserver-v1.3.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tinymcserver-v1.3.4"
+  },
+  "oktobot-releases": {
+    "source_repository": "seko121/oktobot-releases",
+    "source_release_id": 437331453,
+    "source_tag": "v2.6.41",
+    "source_published_at": "2026-11-07T04:29:53Z",
+    "synced_at": "2026-11-07T05:39:27.524234+00:00",
+    "assets": [
+      {
+        "source_asset_id": 719602348,
+        "filename": "Oktobot_v2.6.41.apk",
+        "original_filename": "Oktobot_v2.6.41.apk",
+        "sha256": "7b9e1848586c0e7f4a1252a0aad4a0187ad2a362672a95e673a501365ea245f5",
+        "file_size": 272951366,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "oktobot-releases-v2.6.41",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/oktobot-releases-v2.6.41"
   }
 }

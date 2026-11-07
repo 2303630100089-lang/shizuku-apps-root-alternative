@@ -202,6 +202,19 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[oktobot-releases](https://github.com/seko121/oktobot-releases)** | Oktobot：适用于 Android 的 AI 代理，具有可选的 Shizuku 支持。已签名的发布版本（闭源）。 | See project | [GitHub 源码](https://github.com/seko121/oktobot-releases) • [下载发布](https://github.com/seko121/oktobot-releases/releases) |
+| **[TinyMCServer](https://github.com/starclimber/TinyMCServer)** | 在 Android 上运行 Minecraft Java 服务器。没有 Termux，没有 root。香草/纸/紫珀/叶。 | AGPL-3.0 | [GitHub 源码](https://github.com/starclimber/TinyMCServer) • [下载发布](https://github.com/starclimber/TinyMCServer/releases) |
+| **[Max-Ai](https://github.com/shahin0964/Max-Ai)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/shahin0964/Max-Ai) • [下载发布](https://github.com/shahin0964/Max-Ai/releases) |
+| **[CareShield-project](https://github.com/DerekHemcis/CareShield-project)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/DerekHemcis/CareShield-project) • [下载发布](https://github.com/DerekHemcis/CareShield-project/releases) |
+| **[majician](https://github.com/udmodz0/majician)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/udmodz0/majician) • [下载发布](https://github.com/udmodz0/majician/releases) |
+| **[MO](https://github.com/alwansan/MO)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/alwansan/MO) • [下载发布](https://github.com/alwansan/MO/releases) |
+| **[pudding-root](https://github.com/cramqin/pudding-root)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/cramqin/pudding-root) • [下载发布](https://github.com/cramqin/pudding-root/releases) |
+| **[Luwi](https://github.com/Luwi-developers/Luwi)** | 适用于 Android 的 DSH，基于 LittleWhale 构建（dsh 由 Miuzarte 移植到 Android） | Apache-2.0 | [GitHub 源码](https://github.com/Luwi-developers/Luwi) • [下载发布](https://github.com/Luwi-developers/Luwi/releases) |
+| **[warden](https://github.com/abdulsamad/warden)** | 在打开挑剔的应用程序（银行、支付、ID）时关闭开发人员选项、USB 和无线调试以及辅助服务，并在您离开时将所有内容放回原处。没有root，没有互联网权限。 | GPL-3.0 | [GitHub 源码](https://github.com/abdulsamad/warden) • [下载发布](https://github.com/abdulsamad/warden/releases) |
+| **[JarvisCZ](https://github.com/InsaneBadPC/JarvisCZ)** | 安卓代理 | MIT | [GitHub 源码](https://github.com/InsaneBadPC/JarvisCZ) • [下载发布](https://github.com/InsaneBadPC/JarvisCZ/releases) |
+| **[ertyu](https://github.com/y3881811-oss/ertyu)** | 一个安卓的文件管理器 | GPL-3.0 | [GitHub 源码](https://github.com/y3881811-oss/ertyu) • [下载发布](https://github.com/y3881811-oss/ertyu/releases) |
+| **[QarentenApp](https://github.com/bersoage/QarentenApp)** | 冻结应用程序 | See project | [GitHub 源码](https://github.com/bersoage/QarentenApp) • [下载发布](https://github.com/bersoage/QarentenApp/releases) |
+| **[dsh-remote](https://github.com/c6huli/dsh-remote)** | DSH Remote - DeepSeek 线束 | MIT | [GitHub 源码](https://github.com/c6huli/dsh-remote) • [下载发布](https://github.com/c6huli/dsh-remote/releases) |
 | **[RikkaHub-Agent-Ultra](https://github.com/Oxai666/RikkaHub-Agent-Ultra)** | #huojianche#图纸IV | AGPL-3.0 | [GitHub 源码](https://github.com/Oxai666/RikkaHub-Agent-Ultra) • [下载发布](https://github.com/Oxai666/RikkaHub-Agent-Ultra/releases) |
 | **[nothing-icongen](https://github.com/linuxct/nothing-icongen)** | Translucent Nothing风格的图标生成器-让您的应用程序更加Lucent ！ | AGPL-3.0 | [GitHub 源码](https://github.com/linuxct/nothing-icongen) • [下载发布](https://github.com/linuxct/nothing-icongen/releases) |
 | **[komi-store](https://github.com/komi-store/komi-store)** | 🩵 一个免费的开源应用程序商店，供开发人员在 GitHub、Codeberg 和 Forgejo 上发布 - 一键浏览、发现和安装应用程序。以前是 GitHub 商店。 | Apache-2.0 | [GitHub 源码](https://github.com/komi-store/komi-store) • [下载发布](https://github.com/komi-store/komi-store/releases) |
@@ -269,16 +282,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **DockPad** | Adonzin | `latest` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dockpad-latest) | [Upstream](https://github.com/Adonzin/DockPad/releases) |
-| ⚡ **FilesCtrl** | VoidedKN0X | `v1.9.4` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/filesctrl-v1.9.4) | [Upstream](https://github.com/VoidedKN0X/FilesCtrl/releases) |
-| ⚡ **tv-launcher** | ChrnX0 | `v444689` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-launcher-v444689) | [Upstream](https://github.com/ChrnX0/tv-launcher/releases) |
-| ⚡ **OpenCover** | Shmubbier | `v0.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencover-v0.2) | [Upstream](https://github.com/Shmubbier/OpenCover/releases) |
-| ⚡ **breadboard-launcher** | mariusschaffrath | `v1.0.0-breadboard` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breadboard-launcher-v1.0.0-breadboard) | [Upstream](https://github.com/mariusschaffrath/breadboard-launcher/releases) |
-| ⚡ **tailbond** | kaovilai | `v0.1.13` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailbond-v0.1.13) | [Upstream](https://github.com/kaovilai/tailbond/releases) |
-| ⚡ **SpotifyPlus** | LeNerd46 | `v1.0.0` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-v1.0.0) | [Upstream](https://github.com/LeNerd46/SpotifyPlus/releases) |
-| ⚡ **NontonYuk** | aingbandung | `build-6` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nontonyuk-build-6) | [Upstream](https://github.com/aingbandung/NontonYuk/releases) |
-| ⚡ **opendash** | openmartapp | `v0.1.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opendash-v0.1.2) | [Upstream](https://github.com/openmartapp/opendash/releases) |
-| ⚡ **paopaocat-deepseek-harness-mobile** | zmm863-commits | `v0.83.1` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/paopaocat-deepseek-harness-mobile-v0.83.1) | [Upstream](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases) |
+| ⚡ **conduit** | 奥戈尔克涅夫 | `v0.3.3` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/conduit-v0.3.3) | [Upstream](https://github.com/ogolknev/conduit/releases) |
+| ⚡ **nothing-icongen** | linuxct | `build-1.0.0.12-12.1793989939` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nothing-icongen-build-1.0.0.12-12.1793989939) | [Upstream](https://github.com/linuxct/nothing-icongen/releases) |
+| ⚡ **orbitwalker** | Kno2gether 实验室有限公司 | `v0.13.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orbitwalker-v0.13.0) | [Upstream](https://github.com/Kno2gether-Labs-LTD/orbitwalker/releases) |
+| ⚡ **xdesk** | n2射线 | `v0.2.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xdesk-v0.2.0) | [Upstream](https://github.com/n2ray/xdesk/releases) |
+| ⚡ **veyro-debloat-engine** | 斯库斯姆达曼 | `v1.1.1` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/veyro-debloat-engine-v1.1.1) | [Upstream](https://github.com/skvsmdarman/veyro-debloat-engine/releases) |
+| ⚡ **ControllerStarRail** | 1caru3zz3 | `v0.2.3` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/controllerstarrail-v0.2.3) | [Upstream](https://github.com/1caru3zz3/ControllerStarRail/releases) |
+| ⚡ **Moon-light** | 斯塞利·P | `v1.13.01` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moon-light-v1.13.01) | [Upstream](https://github.com/ScellyP/Moon-light/releases) |
+| ⚡ **guodelist-android** | 坦克妮 | `v0.4.19` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guodelist-android-v0.4.19) | [Upstream](https://github.com/TankNee/guodelist-android/releases) |
+| ⚡ **zhiwei-manager** | 明孝星 | `v1.3.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zhiwei-manager-v1.3.0) | [Upstream](https://github.com/mingxiozsg-star/zhiwei-manager/releases) |
+| ⚡ **morphe-download-helper** | 佐奥尼克斯将军 | `v1.6.7` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-download-helper-v1.6.7) | [Upstream](https://github.com/GeneralZyonix/morphe-download-helper/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
