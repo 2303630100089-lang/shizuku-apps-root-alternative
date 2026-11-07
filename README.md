@@ -266,16 +266,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **DockPad** | Adonzin | `latest` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dockpad-latest) | [Upstream](https://github.com/Adonzin/DockPad/releases) |
-| ⚡ **FilesCtrl** | VoidedKN0X | `v1.9.4` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/filesctrl-v1.9.4) | [Upstream](https://github.com/VoidedKN0X/FilesCtrl/releases) |
-| ⚡ **tv-launcher** | ChrnX0 | `v444689` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-launcher-v444689) | [Upstream](https://github.com/ChrnX0/tv-launcher/releases) |
-| ⚡ **OpenCover** | Shmubbier | `v0.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opencover-v0.2) | [Upstream](https://github.com/Shmubbier/OpenCover/releases) |
-| ⚡ **breadboard-launcher** | mariusschaffrath | `v1.0.0-breadboard` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breadboard-launcher-v1.0.0-breadboard) | [Upstream](https://github.com/mariusschaffrath/breadboard-launcher/releases) |
-| ⚡ **tailbond** | kaovilai | `v0.1.13` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tailbond-v0.1.13) | [Upstream](https://github.com/kaovilai/tailbond/releases) |
-| ⚡ **SpotifyPlus** | LeNerd46 | `v1.0.0` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/spotifyplus-v1.0.0) | [Upstream](https://github.com/LeNerd46/SpotifyPlus/releases) |
-| ⚡ **NontonYuk** | aingbandung | `build-6` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nontonyuk-build-6) | [Upstream](https://github.com/aingbandung/NontonYuk/releases) |
-| ⚡ **opendash** | openmartapp | `v0.1.2` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opendash-v0.1.2) | [Upstream](https://github.com/openmartapp/opendash/releases) |
-| ⚡ **paopaocat-deepseek-harness-mobile** | zmm863-commits | `v0.83.1` | 2026-11-05 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/paopaocat-deepseek-harness-mobile-v0.83.1) | [Upstream](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases) |
+| ⚡ **conduit** | ogolknev | `v0.3.3` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/conduit-v0.3.3) | [Upstream](https://github.com/ogolknev/conduit/releases) |
+| ⚡ **nothing-icongen** | linuxct | `build-1.0.0.12-12.1793989939` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nothing-icongen-build-1.0.0.12-12.1793989939) | [Upstream](https://github.com/linuxct/nothing-icongen/releases) |
+| ⚡ **orbitwalker** | Kno2gether-Labs-LTD | `v0.13.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orbitwalker-v0.13.0) | [Upstream](https://github.com/Kno2gether-Labs-LTD/orbitwalker/releases) |
+| ⚡ **xdesk** | n2ray | `v0.2.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xdesk-v0.2.0) | [Upstream](https://github.com/n2ray/xdesk/releases) |
+| ⚡ **veyro-debloat-engine** | skvsmdarman | `v1.1.1` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/veyro-debloat-engine-v1.1.1) | [Upstream](https://github.com/skvsmdarman/veyro-debloat-engine/releases) |
+| ⚡ **ControllerStarRail** | 1caru3zz3 | `v0.2.3` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/controllerstarrail-v0.2.3) | [Upstream](https://github.com/1caru3zz3/ControllerStarRail/releases) |
+| ⚡ **Moon-light** | ScellyP | `v1.13.01` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moon-light-v1.13.01) | [Upstream](https://github.com/ScellyP/Moon-light/releases) |
+| ⚡ **guodelist-android** | TankNee | `v0.4.19` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guodelist-android-v0.4.19) | [Upstream](https://github.com/TankNee/guodelist-android/releases) |
+| ⚡ **zhiwei-manager** | mingxiozsg-star | `v1.3.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zhiwei-manager-v1.3.0) | [Upstream](https://github.com/mingxiozsg-star/zhiwei-manager/releases) |
+| ⚡ **morphe-download-helper** | GeneralZyonix | `v1.6.7` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-download-helper-v1.6.7) | [Upstream](https://github.com/GeneralZyonix/morphe-download-helper/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
