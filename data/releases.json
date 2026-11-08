@@ -18134,22 +18134,22 @@
   },
   "pocketdesk": {
     "source_repository": "sreevarshan-xenoz/Pocketdesk",
-    "source_release_id": 429790772,
-    "source_tag": "v0.8.3",
-    "source_published_at": "2026-10-31T07:39:21Z",
-    "synced_at": "2026-11-02T21:39:53.036935+00:00",
+    "source_release_id": 432980911,
+    "source_tag": "v0.9.0",
+    "source_published_at": "2026-11-03T16:58:56Z",
+    "synced_at": "2026-11-08T17:52:03.604511+00:00",
     "assets": [
       {
-        "source_asset_id": 694724265,
-        "filename": "pocketdesk-v0.8.3-android-arm64.apk",
-        "original_filename": "pocketdesk-v0.8.3-android-arm64.apk",
-        "sha256": "662a24f2adad6f342e8199c832e020db98b77cd7a6661744325ad9ed82d36dc0",
-        "file_size": 22070194,
+        "source_asset_id": 706381053,
+        "filename": "pocketdesk-v0.9.0-android-arm64.apk",
+        "original_filename": "pocketdesk-v0.9.0-android-arm64.apk",
+        "sha256": "1c63ba1334605d447f57ae7954490ec19cdb6a08e906f4d14ae97b813ff2d91b",
+        "file_size": 22660560,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "pocketdesk-v0.8.3",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketdesk-v0.8.3"
+    "mirror_release_tag": "pocketdesk-v0.9.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketdesk-v0.9.0"
   },
   "mirra": {
     "source_repository": "BlueCartoonCat/mirra",
@@ -20014,5 +20014,181 @@
     ],
     "mirror_release_tag": "baicodex-v1.12.1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/baicodex-v1.12.1"
+  },
+  "diabad": {
+    "source_repository": "blev001/diabad",
+    "source_release_id": 438414788,
+    "source_tag": "v49",
+    "source_published_at": "2026-11-08T17:50:18Z",
+    "synced_at": "2026-11-08T17:51:58.890166+00:00",
+    "assets": [
+      {
+        "source_asset_id": 724723826,
+        "filename": "DiaBAD.apk",
+        "original_filename": "DiaBAD.apk",
+        "sha256": "38ac3bd94363808c7f5a98b63c4e2211893ca12c71946e8b444ffcff70d833ea",
+        "file_size": 28960705,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "diabad-v49",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/diabad-v49"
+  },
+  "minimalsf-extended": {
+    "source_repository": "DHIRAJ-J-S/MinimalSF_Extended",
+    "source_release_id": 438345299,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-11-08T15:48:38Z",
+    "synced_at": "2026-11-08T17:52:01.666300+00:00",
+    "assets": [
+      {
+        "source_asset_id": 724399071,
+        "filename": "MinimalSF_Extended_v1.1.apk",
+        "original_filename": "MinimalSF_Extended_v1.1.apk",
+        "sha256": "7fbc6520d6b541183c1769bd011194c2b3203706dbf1c0229050f65527c94522",
+        "file_size": 61208,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "minimalsf-extended-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/minimalsf-extended-v1.1"
+  },
+  "chargecall-app": {
+    "source_repository": "Sammy219/chargecall-app",
+    "source_release_id": 438411039,
+    "source_tag": "v1.6.1",
+    "source_published_at": "2026-11-08T17:43:49Z",
+    "synced_at": "2026-11-08T17:52:08.142805+00:00",
+    "assets": [
+      {
+        "source_asset_id": 724704793,
+        "filename": "ChargeCall-1.6.1.apk",
+        "original_filename": "ChargeCall-1.6.1.apk",
+        "sha256": "39e365815c886c61d02ed9a816daf3e3527e687136e31bc906315089a2754220",
+        "file_size": 157468,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "chargecall-app-v1.6.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargecall-app-v1.6.1"
+  },
+  "dual-your-galaxy": {
+    "source_repository": "samson910022/Dual-your-galaxy",
+    "source_release_id": 433314658,
+    "source_tag": "v0.0.1",
+    "source_published_at": "2026-11-03T23:05:03Z",
+    "synced_at": "2026-11-08T17:52:11.044105+00:00",
+    "assets": [
+      {
+        "source_asset_id": 707420445,
+        "filename": "Galaxy-Dual-app-Plus-0.0.1.apk",
+        "original_filename": "Galaxy-Dual-app-Plus-0.0.1.apk",
+        "sha256": "c1f730c8eb1e1b1309867fca6bf18a45e10a3858cf621b59b54db568fc950b98",
+        "file_size": 2082032,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dual-your-galaxy-v0.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dual-your-galaxy-v0.0.1"
+  },
+  "zyraxon-mobile-ai": {
+    "source_repository": "onelpawarai-X/zyraxon-mobile-ai",
+    "source_release_id": 438408261,
+    "source_tag": "v6.23.9",
+    "source_published_at": "2026-11-08T17:38:42Z",
+    "synced_at": "2026-11-08T17:52:36.277312+00:00",
+    "assets": [
+      {
+        "source_asset_id": 724725876,
+        "filename": "ZYRAXON-v6.23.9.apk",
+        "original_filename": "ZYRAXON-v6.23.9.apk",
+        "sha256": "3a56e3c36739b7be90112031c6fd06cfc314cf6380267d83928e7ccc7d4dcb42",
+        "file_size": 488136966,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zyraxon-mobile-ai-v6.23.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zyraxon-mobile-ai-v6.23.9"
+  },
+  "honor-adb-root-guide": {
+    "source_repository": "freefishin86/honor-adb-root-guide",
+    "source_release_id": 438145141,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-08T09:22:21Z",
+    "synced_at": "2026-11-08T17:52:44.537656+00:00",
+    "assets": [
+      {
+        "source_asset_id": 723479313,
+        "filename": "KernelSU_v3.3.1_32680-release.apk",
+        "original_filename": "KernelSU_v3.3.1_32680-release.apk",
+        "sha256": "b4a059ace71de2fa65cc7f12b1c58d55fc23ab25e057ee4230ce779742abe450",
+        "file_size": 13637206,
+        "architecture": "arm64-v8a, riscv64, x86_64"
+      },
+      {
+        "source_asset_id": 723479329,
+        "filename": "RT98260-v11.45.apk",
+        "original_filename": "RT98260-v11.45.apk",
+        "sha256": "f155d7f61a927280ef9a2c340806e663e066adb528bf439980e349ea88ddb955",
+        "file_size": 271114,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 723479328,
+        "filename": "scenecraked.apk",
+        "original_filename": "scenecraked.apk",
+        "sha256": "eff2791982132cb6a897d8d7bdb008015f585d09f3c58ab8b8a5158180783b71",
+        "file_size": 17554472,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 723479339,
+        "filename": "shizuku.apk",
+        "original_filename": "shizuku.apk",
+        "sha256": "300d97639a79076ed83973bfe5b11bb878635244f150ace614f98299b43066f4",
+        "file_size": 2571964,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "honor-adb-root-guide-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-adb-root-guide-v1.0.0"
+  },
+  "bilimerge": {
+    "source_repository": "7k7k666OUO/bilimerge",
+    "source_release_id": 438356401,
+    "source_tag": "v1.5.4",
+    "source_published_at": "2026-11-08T16:07:53Z",
+    "synced_at": "2026-11-08T17:52:48.419683+00:00",
+    "assets": [
+      {
+        "source_asset_id": 724449530,
+        "filename": "BiliMerge-v1.5.4-arm64.apk",
+        "original_filename": "BiliMerge-v1.5.4-arm64.apk",
+        "sha256": "4237cff8bab79335de9dc33870ad9c269fcd3ce95736401bbdebadf813c16221",
+        "file_size": 27412576,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bilimerge-v1.5.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bilimerge-v1.5.4"
+  },
+  "clean-your-mobile": {
+    "source_repository": "0xgh0stri13y/Clean-Your-Mobile",
+    "source_release_id": 438094213,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-08T07:19:04Z",
+    "synced_at": "2026-11-08T17:52:51.624123+00:00",
+    "assets": [
+      {
+        "source_asset_id": 723221231,
+        "filename": "CleanYourMobile.apk",
+        "original_filename": "CleanYourMobile.apk",
+        "sha256": "9cf2f4201a39c655ceedfcd1212cba591256694a92fa12dfc4499e769453322a",
+        "file_size": 5704050,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "clean-your-mobile-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clean-your-mobile-v0.1.0"
   }
 }

@@ -2155,7 +2155,18 @@
     "Traductor de llamadas en tiempo real con IA para Android (inglés y chino → español)": "Traductor de llamadas en tiempo real con IA para Android (inglés y chino → español)",
     "bdaenen": "bdaenen",
     "跑在 Android 的 AI Agent 智能体（Android / Kotlin / Compose）：可以做到模型直连加工具调用，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限，Linux 沙箱等。官网 agent.ai.baiccb.cn": "跑在 Android 的 AI Agent 智能体（ Android/Kotlin/Compose ） ：可以做到模型直连加工具调用 ，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限 ， Linux 沙箱等。官网 agent.ai.baiccb.cn",
-    "Emo - on-device Android assistant that automates phone settings, apps, calls, messages and routines by voice (Flutter + Kotlin).": "Emo -设备上的Android助手，可通过语音（ Flutter + Kotlin ）自动执行手机设置、应用程序、通话、消息和例程。"
+    "Emo - on-device Android assistant that automates phone settings, apps, calls, messages and routines by voice (Flutter + Kotlin).": "Emo -设备上的Android助手，可通过语音（ Flutter + Kotlin ）自动执行手机设置、应用程序、通话、消息和例程。",
+    "ChargeCall: talking battery alerts for Android, no ads. Download site and releases.": "ChargeCall ：安卓通话电池提醒，无广告。下载站点和版本。",
+    "Power-user actions for the MinimalSF launcher: freeform, force stop, clear cache and data, freeze. Through Shizuku or root.": "MinimalSF启动器的高级用户操作：自由格式、强制停止、清除缓存和数据、冻结。通过Shizuku或ROOT。",
+    "Shizuku-powered Android app inspector: browse SQLite databases and statically extract network URLs from APKs.": "Shizuku支持的Android应用程序检查器：浏览SQLite数据库并从APK中静态提取网络URL。",
+    "| **[vivo-xfold6-cast-assistant](https://github.com/ccee2000/vivo-xfold6-cast-assistant)** | Personal hobby tool, AI-assisted, switch 4K/2K for vivo X Fold6 wired HDMI PC Mode \\| 自用小工具，AI辅助开发，vivo X Fold6 电脑模式有线HDMI外接屏 4K/2K 分辨率切换 | See project | [GitHub](https://github.com/ccee2000/vivo-xfold6-cast-assistant) |": "| * * [vivo-xfold6-cast-assistant](https://github.com/ccee2000/vivo-xfold6-cast-assistant) * * |个人爱好工具， AI辅助，为vivo X Fold6有线HDMI PC模式切换4K/2K自用小工具\\ |辅助开发 ， AI ， vivo X Fold6 电脑模式有线HDMI外接屏 4K/2K 分辨率切换 |查看项目| [GitHub](https://github.com/ccee2000/vivo-xfold6-cast-assistant) |",
+    "Android glucose monitor & hypo alarm (OtTai / Samsung One UI)": "安卓血糖监测和低血糖报警（ OtTai/Samsung One用户界面）",
+    "一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)": "一键开启开发者选项 /USB调试/无线调试· 网页版（ WebUSB 直连 ADB ） + Android应用程序（ root/Shizuku ）",
+    "ZYRAXON — the world's most advanced all-in-one mobile AI agent.": "ZYRAXON —世界上最先进的一体化移动AI代理。",
+    "B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）": "B 站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4 ，或把音轨转成 MP3 （原生 MediaMuxer + FFmpeg 双引擎）",
+    "Native AI agent client for Android. Development preview / pre-release, feedback welcome.": "适用于Android的本机AI代理客户端。开发预览/预发布，欢迎反馈。",
+    "Your phone, minus the bloat. Debloat any Android phone over Wi-Fi. Strip bloatware, ads, and telemetry with zero root.": "你的手机，减去臃肿。通过Wi-Fi卸载任何Android手机。以零根除去臃肿软件、广告和遥测。",
+    "Its like samsung dex same as samsung dex": "就像三星DEX一样"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4313,6 +4324,17 @@
     "Traductor de llamadas en tiempo real con IA para Android (inglés y chino → español)": "Traductor de llamadas en tiempo real con IA para Android (inglés y chino → español)",
     "跑在 Android 的 AI Agent 智能体（Android / Kotlin / Compose）：可以做到模型直连加工具调用，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限，Linux 沙箱等。官网 agent.ai.baiccb.cn": "跑在 Android 的 AI Agent 智能体（Android / Kotlin / Compose）：可以做到模型直连加工具调用，读写文件、执行命令、跑 Ubuntu 全在设备上完成。消息分支、永久记忆、角色卡与技能包、MCP、定时任务、三档执行权限，Linux 沙箱等。官网 agent.ai.baiccb.cn",
     "bdaenen": "bdaenen",
-    "Emo - on-device Android assistant that automates phone settings, apps, calls, messages and routines by voice (Flutter + Kotlin).": "Emo - помощник Android на устройстве, который автоматизирует настройки телефона, приложения, звонки, сообщения и процедуры голосом (Flutter + Kotlin)."
+    "Emo - on-device Android assistant that automates phone settings, apps, calls, messages and routines by voice (Flutter + Kotlin).": "Emo - помощник Android на устройстве, который автоматизирует настройки телефона, приложения, звонки, сообщения и процедуры голосом (Flutter + Kotlin).",
+    "ChargeCall: talking battery alerts for Android, no ads. Download site and releases.": "ChargeCall: говорящие оповещения об аккумуляторе для Android, без рекламы. Скачать сайт и релизы.",
+    "Shizuku-powered Android app inspector: browse SQLite databases and statically extract network URLs from APKs.": "Инспектор приложений Android на базе Shizuku: просматривайте базы данных SQLite и статически извлекайте сетевые URL-адреса из APK.",
+    "Power-user actions for the MinimalSF launcher: freeform, force stop, clear cache and data, freeze. Through Shizuku or root.": "Действия опытного пользователя для лаунчера MinimalSF: произвольная форма, принудительная остановка, очистка кэша и данных, заморозка. Через Сидзуку или корень.",
+    "| **[vivo-xfold6-cast-assistant](https://github.com/ccee2000/vivo-xfold6-cast-assistant)** | Personal hobby tool, AI-assisted, switch 4K/2K for vivo X Fold6 wired HDMI PC Mode \\| 自用小工具，AI辅助开发，vivo X Fold6 电脑模式有线HDMI外接屏 4K/2K 分辨率切换 | See project | [GitHub](https://github.com/ccee2000/vivo-xfold6-cast-assistant) |": "| ** [vivo-xfold6-cast-assistant](https://github.com/ccee2000/vivo-xfold6-cast-assistant) ** | Персональный инструмент для хобби, с поддержкой ИИ, переключатель 4K/2K для режима ПК vivo X Fold6 wired HDMI\\| 自用小工具辅助开发，AI ，vivo X 电脑模式有线Fold6 HDMI外接屏 4K/2K 分辨率切换 | См. проект | [GitHub](https://github.com/ccee2000/vivo-xfold6-cast-assistant) |",
+    "一键开启开发者选项 / USB 调试 / 无线调试 · 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)": "一键开启开发者选项 / USB调试/无线调试· 网页版(WebUSB 直连 ADB) + Android App(root/Shizuku)",
+    "Android glucose monitor & hypo alarm (OtTai / Samsung One UI)": "Android глюкометр и гипосигнализация (OtTai/ Samsung One UI)",
+    "B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）": "B站缓存导出：把 video.m4s + audio.m4s 无损封装成 MP4，或把音轨转成 MP3（原生 MediaMuxer + FFmpeg 双引擎）",
+    "ZYRAXON — the world's most advanced all-in-one mobile AI agent.": "ZYRAXON — самый передовой в мире мобильный агент искусственного интеллекта «все в одном».",
+    "Native AI agent client for Android. Development preview / pre-release, feedback welcome.": "Клиент нативного ИИ-агента для Android. Предварительный просмотр / предварительный выпуск разработки, приветствуется обратная связь.",
+    "Your phone, minus the bloat. Debloat any Android phone over Wi-Fi. Strip bloatware, ads, and telemetry with zero root.": "Твой телефон, за вычетом раздувания. Пользуйтесь любым телефоном Android через Wi-Fi. Удалите раздутое ПО, рекламу и телеметрию с нулевым корнем.",
+    "Its like samsung dex same as samsung dex": "Это как samsung dex, такой же как samsung dex"
   }
 }
