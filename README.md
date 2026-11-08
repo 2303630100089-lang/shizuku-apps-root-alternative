@@ -267,16 +267,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **conduit** | ogolknev | `v0.3.3` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/conduit-v0.3.3) | [Upstream](https://github.com/ogolknev/conduit/releases) |
-| ⚡ **nothing-icongen** | linuxct | `build-1.0.0.12-12.1793989939` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nothing-icongen-build-1.0.0.12-12.1793989939) | [Upstream](https://github.com/linuxct/nothing-icongen/releases) |
-| ⚡ **orbitwalker** | Kno2gether-Labs-LTD | `v0.13.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orbitwalker-v0.13.0) | [Upstream](https://github.com/Kno2gether-Labs-LTD/orbitwalker/releases) |
-| ⚡ **xdesk** | n2ray | `v0.2.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xdesk-v0.2.0) | [Upstream](https://github.com/n2ray/xdesk/releases) |
-| ⚡ **veyro-debloat-engine** | skvsmdarman | `v1.1.1` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/veyro-debloat-engine-v1.1.1) | [Upstream](https://github.com/skvsmdarman/veyro-debloat-engine/releases) |
-| ⚡ **ControllerStarRail** | 1caru3zz3 | `v0.2.3` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/controllerstarrail-v0.2.3) | [Upstream](https://github.com/1caru3zz3/ControllerStarRail/releases) |
-| ⚡ **Moon-light** | ScellyP | `v1.13.01` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/moon-light-v1.13.01) | [Upstream](https://github.com/ScellyP/Moon-light/releases) |
-| ⚡ **guodelist-android** | TankNee | `v0.4.19` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/guodelist-android-v0.4.19) | [Upstream](https://github.com/TankNee/guodelist-android/releases) |
-| ⚡ **zhiwei-manager** | mingxiozsg-star | `v1.3.0` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zhiwei-manager-v1.3.0) | [Upstream](https://github.com/mingxiozsg-star/zhiwei-manager/releases) |
-| ⚡ **morphe-download-helper** | GeneralZyonix | `v1.6.7` | 2026-11-06 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/morphe-download-helper-v1.6.7) | [Upstream](https://github.com/GeneralZyonix/morphe-download-helper/releases) |
+| ⚡ **BackgroundAppSweep** | theboyrickyg | `build-11` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/backgroundappsweep-build-11) | [Upstream](https://github.com/theboyrickyg/BackgroundAppSweep/releases) |
+| ⚡ **eSIM-Matrix** | hg552 | `v1.4.2` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/esim-matrix-v1.4.2) | [Upstream](https://github.com/hg552/eSIM-Matrix/releases) |
+| ⚡ **pkmn-installer** | bdaenen | `v0.1.0` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pkmn-installer-v0.1.0) | [Upstream](https://github.com/bdaenen/pkmn-installer/releases) |
+| ⚡ **SonderAssist** | Verisonder | `v8.6` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sonderassist-v8.6) | [Upstream](https://github.com/Verisonder/SonderAssist/releases) |
+| ⚡ **MEMI_MusicPlayer** | mumuji-colar | `v1.20` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/memi-musicplayer-v1.20) | [Upstream](https://github.com/mumuji-colar/MEMI_MusicPlayer/releases) |
+| ⚡ **simbridge** | ttabouch12 | `v1.1.0` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simbridge-v1.1.0) | [Upstream](https://github.com/ttabouch12/simbridge/releases) |
+| ⚡ **wisp** | david-x3d | `v1.1.0` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wisp-v1.1.0) | [Upstream](https://github.com/david-x3d/wisp/releases) |
+| ⚡ **gpay-india-accessibility-fix** | gdr1999 | `v1.1` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gpay-india-accessibility-fix-v1.1) | [Upstream](https://github.com/gdr1999/gpay-india-accessibility-fix/releases) |
+| ⚡ **bypass-control** | JDD700 | `v1.9.2` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bypass-control-v1.9.2) | [Upstream](https://github.com/JDD700/bypass-control/releases) |
+| ⚡ **TinyMCServer** | starclimber | `v1.3.4` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tinymcserver-v1.3.4) | [Upstream](https://github.com/starclimber/TinyMCServer/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
