@@ -5680,30 +5680,30 @@
   },
   "android-guru-agent": {
     "source_repository": "AceGuru-mjh/Android-Guru-Agent",
-    "source_release_id": 430065331,
-    "source_tag": "v1.5.10",
-    "source_published_at": "2026-10-31T16:58:58Z",
-    "synced_at": "2026-10-31T17:10:51.563082+00:00",
+    "source_release_id": 438050587,
+    "source_tag": "v1.5.43",
+    "source_published_at": "2026-11-08T05:21:51Z",
+    "synced_at": "2026-11-08T05:41:17.897166+00:00",
     "assets": [
       {
-        "source_asset_id": 695945858,
-        "filename": "ApexAgent-v1.5.10-release-arm64-676a9f6d.apk",
-        "original_filename": "ApexAgent-v1.5.10-release-arm64-676a9f6d.apk",
-        "sha256": "c08b88b0a65eec10a398d2c26d9107bb715ff6c16ca624070490cd09a89b1b8d",
-        "file_size": 341393616,
+        "source_asset_id": 722983697,
+        "filename": "ApexAgent-v1.5.43-release-arm64-8cc404de.apk",
+        "original_filename": "ApexAgent-v1.5.43-release-arm64-8cc404de.apk",
+        "sha256": "2eea6c8906063c2af8c7dc7a4ba2319cca2b3ac84072248799f7aad7e33c9c87",
+        "file_size": 342058666,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 695945857,
-        "filename": "ApexAgent-v1.5.10-release-universal-676a9f6d.apk",
-        "original_filename": "ApexAgent-v1.5.10-release-universal-676a9f6d.apk",
-        "sha256": "f0136b60c3dced094cbefc4199af2ec17553f2ed29ff6d8e8a781d1851b8a4ba",
-        "file_size": 956315056,
+        "source_asset_id": 722983694,
+        "filename": "ApexAgent-v1.5.43-release-universal-8cc404de.apk",
+        "original_filename": "ApexAgent-v1.5.43-release-universal-8cc404de.apk",
+        "sha256": "67703d875703a6aa3028d705b7262dc26e7f8f6d93ee3445c0f3bc54d608190f",
+        "file_size": 956980117,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "android-guru-agent-v1.5.10",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.5.10"
+    "mirror_release_tag": "android-guru-agent-v1.5.43",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-guru-agent-v1.5.43"
   },
   "azurpilot-for-android": {
     "source_repository": "wess09/AzurPilot-for-Android",
@@ -19773,5 +19773,246 @@
     ],
     "mirror_release_tag": "bypass-control-v1.9.2",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bypass-control-v1.9.2"
+  },
+  "xpatch-manager": {
+    "source_repository": "xunyyds/xpatch-manager",
+    "source_release_id": 437622642,
+    "source_tag": "v0.1.5",
+    "source_published_at": "2026-11-07T14:21:05Z",
+    "synced_at": "2026-11-08T05:40:34.613774+00:00",
+    "assets": [
+      {
+        "source_asset_id": 720912354,
+        "filename": "XPatch-manager-0.1.5.apk",
+        "original_filename": "XPatch-manager-0.1.5.apk",
+        "sha256": "82ffc9396d5401549cb32b823ea0ffa7b606fe14f3903f223f1e2518fea203b7",
+        "file_size": 3844216,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "xpatch-manager-v0.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xpatch-manager-v0.1.5"
+  },
+  "flipclose": {
+    "source_repository": "bv-ack/flipclose",
+    "source_release_id": 437989709,
+    "source_tag": "v10",
+    "source_published_at": "2026-11-08T02:39:17Z",
+    "synced_at": "2026-11-08T05:41:20.720460+00:00",
+    "assets": [
+      {
+        "source_asset_id": 722662374,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "e6d80418da2fbf0e3035a982e38f0137d7e1bed1945885cf83266b343d1ca7f7",
+        "file_size": 43202,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "flipclose-v10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipclose-v10"
+  },
+  "phnlnk": {
+    "source_repository": "richbeatty/PhnLnk",
+    "source_release_id": 437928375,
+    "source_tag": "v0.2.1",
+    "source_published_at": "2026-11-08T00:07:51Z",
+    "synced_at": "2026-11-08T05:41:23.472818+00:00",
+    "assets": [
+      {
+        "source_asset_id": 722351493,
+        "filename": "PhnLnk-MP01.apk",
+        "original_filename": "PhnLnk-MP01.apk",
+        "sha256": "4da781df9ca384a948b1a0d08aad73f7ccb64617dfec6ef806b827d2c688b563",
+        "file_size": 604810,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "phnlnk-v0.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phnlnk-v0.2.1"
+  },
+  "originsu": {
+    "source_repository": "samakshkambxj/OriginSU",
+    "source_release_id": 428180069,
+    "source_tag": "v4.2.7",
+    "source_published_at": "2026-10-29T17:24:44Z",
+    "synced_at": "2026-11-08T05:41:35.538512+00:00",
+    "assets": [
+      {
+        "source_asset_id": 689327839,
+        "filename": "OriginSU_v4.2.7_35444-arm64-v8a-release.apk",
+        "original_filename": "OriginSU_v4.2.7_35444-arm64-v8a-release.apk",
+        "sha256": "a221a09ba069e34bdf4aef035404dc845c3107a00e157ef5cc21576a8b21e5b7",
+        "file_size": 15211710,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 689327836,
+        "filename": "OriginSU_v4.2.7_35444-armeabi-v7a-release.apk",
+        "original_filename": "OriginSU_v4.2.7_35444-armeabi-v7a-release.apk",
+        "sha256": "cb6c05cb0337f5bdfc5d99855789b7c0508a67373ede0c5efd37a25018fa215a",
+        "file_size": 9735292,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 689327823,
+        "filename": "OriginSU_v4.2.7_35444-riscv64-release.apk",
+        "original_filename": "OriginSU_v4.2.7_35444-riscv64-release.apk",
+        "sha256": "850cc2826bd24616fe7ab8e512a5f7aa2aff1a9f28cfca402d6d3e12a1db7fd2",
+        "file_size": 10197946,
+        "architecture": "riscv64"
+      },
+      {
+        "source_asset_id": 689327817,
+        "filename": "OriginSU_v4.2.7_35444-universal-release.apk",
+        "original_filename": "OriginSU_v4.2.7_35444-universal-release.apk",
+        "sha256": "8ae5ec9fac1a4218d7a7a2224473aa21d6665d1d41dd0994cec65ac9b3d90986",
+        "file_size": 26665195,
+        "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
+      },
+      {
+        "source_asset_id": 689327838,
+        "filename": "OriginSU_v4.2.7_35444-x86_64-release.apk",
+        "original_filename": "OriginSU_v4.2.7_35444-x86_64-release.apk",
+        "sha256": "b35dec02e87a6193205224eb77555eb3dbf522fc008ebfd9e3395828c2e1ec74",
+        "file_size": 12954796,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "originsu-v4.2.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/originsu-v4.2.7"
+  },
+  "audioenhancerpro": {
+    "source_repository": "FDzaki-dev/AudioEnhancerPro",
+    "source_release_id": 438055289,
+    "source_tag": "v322-run42451015373",
+    "source_published_at": "2026-11-08T05:34:56Z",
+    "synced_at": "2026-11-08T05:41:38.482507+00:00",
+    "assets": [
+      {
+        "source_asset_id": 723009966,
+        "filename": "AudioEnhancerPro-v322-run42451015373-release.apk",
+        "original_filename": "AudioEnhancerPro-v322-run42451015373-release.apk",
+        "sha256": "1dca65a0b9f6f7b08dd9a4dbeaed9f642a04a432abf02c126adfcd78290a9425",
+        "file_size": 1634473,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "audioenhancerpro-v322-run42451015373",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioenhancerpro-v322-run42451015373"
+  },
+  "fuck-ets100": {
+    "source_repository": "laststudio/Fuck_ets100",
+    "source_release_id": 438055413,
+    "source_tag": "v2.3.5-b86a3d2bbe4",
+    "source_published_at": "2026-11-08T05:35:20Z",
+    "synced_at": "2026-11-08T05:41:41.866288+00:00",
+    "assets": [
+      {
+        "source_asset_id": 723010682,
+        "filename": "Fe_2.3.5.apk",
+        "original_filename": "Fe_2.3.5.apk",
+        "sha256": "a5aeca1ef31afbbbc711cc1d8faebed9f6d6bdff898dba724b8a4b13f0326227",
+        "file_size": 9461654,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "fuck-ets100-v2.3.5-b86a3d2bbe4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fuck-ets100-v2.3.5-b86a3d2bbe4"
+  },
+  "hidenav": {
+    "source_repository": "draumaz/hidenav",
+    "source_release_id": 437928944,
+    "source_tag": "1.0.0",
+    "source_published_at": "2026-11-08T00:09:15Z",
+    "synced_at": "2026-11-08T05:41:44.445930+00:00",
+    "assets": [
+      {
+        "source_asset_id": 722353937,
+        "filename": "hidenav-1.0.0-release.apk",
+        "original_filename": "hidenav-1.0.0-release.apk",
+        "sha256": "173935d8248f39a3f6f67d9ceb3c152f625b858adbdd09ac3deaa94ad6bc4f6c",
+        "file_size": 1730916,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hidenav-1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hidenav-1.0.0"
+  },
+  "traduya": {
+    "source_repository": "camilo661/Traduya",
+    "source_release_id": 438055224,
+    "source_tag": "v1.9.0",
+    "source_published_at": "2026-11-08T05:34:40Z",
+    "synced_at": "2026-11-08T05:41:49.342799+00:00",
+    "assets": [
+      {
+        "source_asset_id": 723009579,
+        "filename": "Traduya-1.9.0.apk",
+        "original_filename": "Traduya-1.9.0.apk",
+        "sha256": "5741b354a4186992b0dc0b2fe84cf48f0a0000f970d60324d2f30208c43699f7",
+        "file_size": 52750150,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "traduya-v1.9.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/traduya-v1.9.0"
+  },
+  "screentranslator-kotlin": {
+    "source_repository": "hyperfish-de/screentranslator-kotlin",
+    "source_release_id": 438047217,
+    "source_tag": "v2.10",
+    "source_published_at": "2026-11-08T05:11:39Z",
+    "synced_at": "2026-11-08T05:41:55.749619+00:00",
+    "assets": [
+      {
+        "source_asset_id": 722961285,
+        "filename": "ScreenTranslator-2.10.apk",
+        "original_filename": "ScreenTranslator-2.10.apk",
+        "sha256": "cb861fe179736ca0e10018508e5b0f8196af34ffcadfa80fae8c5d9f20535c90",
+        "file_size": 119458058,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "screentranslator-kotlin-v2.10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/screentranslator-kotlin-v2.10"
+  },
+  "emo": {
+    "source_repository": "galaxymushi/emo",
+    "source_release_id": 438052525,
+    "source_tag": "v1.2.1",
+    "source_published_at": "2026-11-08T05:28:14Z",
+    "synced_at": "2026-11-08T05:42:00.663988+00:00",
+    "assets": [
+      {
+        "source_asset_id": 722994074,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "4c3a9787a2bc9a2c4c74136b7b23ab09635275966621189ef41b6aec36b7eb6b",
+        "file_size": 54381888,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "emo-v1.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/emo-v1.2.1"
+  },
+  "baicodex": {
+    "source_repository": "mubai0122/baicodex",
+    "source_release_id": 437984589,
+    "source_tag": "v1.12.1",
+    "source_published_at": "2026-11-08T02:26:32Z",
+    "synced_at": "2026-11-08T05:42:05.260751+00:00",
+    "assets": [
+      {
+        "source_asset_id": 722634079,
+        "filename": "baicodexV1.12.1.apk",
+        "original_filename": "baicodexV1.12.1.apk",
+        "sha256": "ee5dc476a2ac2f7a4689d0760da5bfe36acbc9ccef6d73375ed82e43e9fbf4c7",
+        "file_size": 42687195,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "baicodex-v1.12.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/baicodex-v1.12.1"
   }
 }

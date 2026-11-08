@@ -1041,9 +1041,9 @@
   },
   "android-guru-agent": {
     "status": "synced",
-    "last_checked": "2026-10-31T17:10:51.563103+00:00",
-    "latest_version": "v1.5.10",
-    "last_synced": "2026-10-31T17:10:51.563103+00:00"
+    "last_checked": "2026-11-08T05:41:17.897189+00:00",
+    "latest_version": "v1.5.43",
+    "last_synced": "2026-11-08T05:41:17.897189+00:00"
   },
   "project-v7": {
     "status": "no-apk",
@@ -5645,5 +5645,71 @@
     "last_checked": "2026-11-07T17:42:38.863586+00:00",
     "latest_version": "v1.9.2",
     "last_synced": "2026-11-07T17:42:38.863586+00:00"
+  },
+  "xpatch-manager": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:40:34.613802+00:00",
+    "latest_version": "v0.1.5",
+    "last_synced": "2026-11-08T05:40:34.613802+00:00"
+  },
+  "flipclose": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:20.720482+00:00",
+    "latest_version": "v10",
+    "last_synced": "2026-11-08T05:41:20.720482+00:00"
+  },
+  "phnlnk": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:23.472839+00:00",
+    "latest_version": "v0.2.1",
+    "last_synced": "2026-11-08T05:41:23.472839+00:00"
+  },
+  "originsu": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:35.538535+00:00",
+    "latest_version": "v4.2.7",
+    "last_synced": "2026-11-08T05:41:35.538535+00:00"
+  },
+  "audioenhancerpro": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:38.482530+00:00",
+    "latest_version": "v322-run42451015373",
+    "last_synced": "2026-11-08T05:41:38.482530+00:00"
+  },
+  "fuck-ets100": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:41.866312+00:00",
+    "latest_version": "v2.3.5-b86a3d2bbe4",
+    "last_synced": "2026-11-08T05:41:41.866312+00:00"
+  },
+  "hidenav": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:44.445950+00:00",
+    "latest_version": "1.0.0",
+    "last_synced": "2026-11-08T05:41:44.445950+00:00"
+  },
+  "traduya": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:49.342823+00:00",
+    "latest_version": "v1.9.0",
+    "last_synced": "2026-11-08T05:41:49.342823+00:00"
+  },
+  "screentranslator-kotlin": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:41:55.749638+00:00",
+    "latest_version": "v2.10",
+    "last_synced": "2026-11-08T05:41:55.749638+00:00"
+  },
+  "emo": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:42:00.664005+00:00",
+    "latest_version": "v1.2.1",
+    "last_synced": "2026-11-08T05:42:00.664005+00:00"
+  },
+  "baicodex": {
+    "status": "synced",
+    "last_checked": "2026-11-08T05:42:05.260772+00:00",
+    "latest_version": "v1.12.1",
+    "last_synced": "2026-11-08T05:42:05.260772+00:00"
   }
 }
