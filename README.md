@@ -261,16 +261,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **BackgroundAppSweep** | theboyrickyg | `build-11` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/backgroundappsweep-build-11) | [Upstream](https://github.com/theboyrickyg/BackgroundAppSweep/releases) |
-| ⚡ **eSIM-Matrix** | hg552 | `v1.4.2` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/esim-matrix-v1.4.2) | [Upstream](https://github.com/hg552/eSIM-Matrix/releases) |
-| ⚡ **pkmn-installer** | bdaenen | `v0.1.0` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pkmn-installer-v0.1.0) | [Upstream](https://github.com/bdaenen/pkmn-installer/releases) |
-| ⚡ **SonderAssist** | Verisonder | `v8.6` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sonderassist-v8.6) | [Upstream](https://github.com/Verisonder/SonderAssist/releases) |
-| ⚡ **MEMI_MusicPlayer** | mumuji-colar | `v1.20` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/memi-musicplayer-v1.20) | [Upstream](https://github.com/mumuji-colar/MEMI_MusicPlayer/releases) |
-| ⚡ **simbridge** | ttabouch12 | `v1.1.0` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/simbridge-v1.1.0) | [Upstream](https://github.com/ttabouch12/simbridge/releases) |
-| ⚡ **wisp** | david-x3d | `v1.1.0` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wisp-v1.1.0) | [Upstream](https://github.com/david-x3d/wisp/releases) |
-| ⚡ **gpay-india-accessibility-fix** | gdr1999 | `v1.1` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gpay-india-accessibility-fix-v1.1) | [Upstream](https://github.com/gdr1999/gpay-india-accessibility-fix/releases) |
-| ⚡ **bypass-control** | JDD700 | `v1.9.2` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bypass-control-v1.9.2) | [Upstream](https://github.com/JDD700/bypass-control/releases) |
-| ⚡ **TinyMCServer** | starclimber | `v1.3.4` | 2026-11-07 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tinymcserver-v1.3.4) | [Upstream](https://github.com/starclimber/TinyMCServer/releases) |
+| ⚡ **diabad** | blev001 | `v49` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/diabad-v49) | [Upstream](https://github.com/blev001/diabad/releases) |
+| ⚡ **chargecall-app** | Sammy219 | `v1.6.1` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargecall-app-v1.6.1) | [Upstream](https://github.com/Sammy219/chargecall-app/releases) |
+| ⚡ **zyraxon-mobile-ai** | onelpawarai-X | `v6.23.9` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zyraxon-mobile-ai-v6.23.9) | [Upstream](https://github.com/onelpawarai-X/zyraxon-mobile-ai/releases) |
+| ⚡ **bilimerge** | 7k7k666OUO | `v1.5.4` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bilimerge-v1.5.4) | [Upstream](https://github.com/7k7k666OUO/bilimerge/releases) |
+| ⚡ **MinimalSF_Extended** | DHIRAJ-J-S | `v1.1` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/minimalsf-extended-v1.1) | [Upstream](https://github.com/DHIRAJ-J-S/MinimalSF_Extended/releases) |
+| ⚡ **honor-adb-root-guide** | freefishin86 | `v1.0.0` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-adb-root-guide-v1.0.0) | [Upstream](https://github.com/freefishin86/honor-adb-root-guide/releases) |
+| ⚡ **Clean-Your-Mobile** | 0xgh0stri13y | `v0.1.0` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clean-your-mobile-v0.1.0) | [Upstream](https://github.com/0xgh0stri13y/Clean-Your-Mobile/releases) |
+| ⚡ **Fuck_ets100** | laststudio | `v2.3.5-b86a3d2bbe4` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fuck-ets100-v2.3.5-b86a3d2bbe4) | [Upstream](https://github.com/laststudio/Fuck_ets100/releases) |
+| ⚡ **AudioEnhancerPro** | FDzaki-dev | `v322-run42451015373` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioenhancerpro-v322-run42451015373) | [Upstream](https://github.com/FDzaki-dev/AudioEnhancerPro/releases) |
+| ⚡ **Traduya** | camilo661 | `v1.9.0` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/traduya-v1.9.0) | [Upstream](https://github.com/camilo661/Traduya/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
