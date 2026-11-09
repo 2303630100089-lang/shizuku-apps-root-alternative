@@ -20190,5 +20190,116 @@
     ],
     "mirror_release_tag": "clean-your-mobile-v0.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clean-your-mobile-v0.1.0"
+  },
+  "feral-launcher": {
+    "source_repository": "Tsifrokayf/feral-launcher",
+    "source_release_id": 438715742,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-11-09T03:34:29Z",
+    "synced_at": "2026-11-09T05:50:47.702497+00:00",
+    "assets": [
+      {
+        "source_asset_id": 726096182,
+        "filename": "Feral_Launcher_v2.0.0.apk",
+        "original_filename": "Feral_Launcher_v2.0.0.apk",
+        "sha256": "25706a3372e0968a5c4d90719a48a237656b8954c7b91143f06dedc539a1c71c",
+        "file_size": 754560,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "feral-launcher-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/feral-launcher-v2.0.0"
+  },
+  "onnshell": {
+    "source_repository": "wyrmbound/onnshell",
+    "source_release_id": 438679600,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-09T02:23:00Z",
+    "synced_at": "2026-11-09T05:51:27.300599+00:00",
+    "assets": [
+      {
+        "source_asset_id": 725937949,
+        "filename": "onnshell.apk",
+        "original_filename": "onnshell.apk",
+        "sha256": "cd9edc8fe5210344be09439cf69f1728dfa8b315a772764578f2f2f874fbebd1",
+        "file_size": 3183217,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "onnshell-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onnshell-v0.1.0"
+  },
+  "ownapps": {
+    "source_repository": "jehan593/ownapps",
+    "source_release_id": 438648810,
+    "source_tag": "v1.0.7",
+    "source_published_at": "2026-11-09T01:20:33Z",
+    "synced_at": "2026-11-09T05:52:04.786069+00:00",
+    "assets": [
+      {
+        "source_asset_id": 725789416,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "adc20b0ab4b277660b2bd9d7f97c06871cb2c25df51a339e5ad3970257ff3159",
+        "file_size": 1597069,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 725789469,
+        "filename": "OwnApps-1.0.7.apk",
+        "original_filename": "OwnApps-1.0.7.apk",
+        "sha256": "adc20b0ab4b277660b2bd9d7f97c06871cb2c25df51a339e5ad3970257ff3159",
+        "file_size": 1597069,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "ownapps-v1.0.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ownapps-v1.0.7"
+  },
+  "agent-vscreen": {
+    "source_repository": "kilolonion/agent-vscreen",
+    "source_release_id": 438705425,
+    "source_tag": "v1.1.7",
+    "source_published_at": "2026-11-09T03:14:16Z",
+    "synced_at": "2026-11-09T05:52:20.302082+00:00",
+    "assets": [
+      {
+        "source_asset_id": 726203540,
+        "filename": "agent-vscreen-1.1.7.apk",
+        "original_filename": "agent-vscreen-1.1.7.apk",
+        "sha256": "d01c108c136be02bb609aa1a4918de5827fa81082990cc7f702fa0aef94005cb",
+        "file_size": 56612946,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "agent-vscreen-v1.1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/agent-vscreen-v1.1.7"
+  },
+  "j-a-r-v-i-s-mobile": {
+    "source_repository": "shanfxr3-cmyk/J.A.R.V.I.S.-Mobile",
+    "source_release_id": 438779762,
+    "source_tag": "build-59",
+    "source_published_at": "2026-11-09T05:43:52Z",
+    "synced_at": "2026-11-09T05:55:05.062145+00:00",
+    "assets": [
+      {
+        "source_asset_id": 726376768,
+        "filename": "Jarvis-Mobile-v1.1.0-build59.apk",
+        "original_filename": "Jarvis-Mobile-v1.1.0-build59.apk",
+        "sha256": "2981de7770891a5166f79e88a4d541b22ddd2f94402bdd0ecb242362084ac0ac",
+        "file_size": 20768971,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 726376769,
+        "filename": "Jarvis-TV-v1.1.0-build59.apk",
+        "original_filename": "Jarvis-TV-v1.1.0-build59.apk",
+        "sha256": "ab9f2f7f7d30f8b01ee0c51b4bcb853f39071ea1d335a3c155b0d9257f157123",
+        "file_size": 1945965,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "j-a-r-v-i-s-mobile-build-59",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/j-a-r-v-i-s-mobile-build-59"
   }
 }

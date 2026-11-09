@@ -968,8 +968,8 @@
     "last_synced": "2026-09-30T17:28:43.297555+00:00"
   },
   "scrcpyforandroid": {
-    "status": "synced",
-    "last_checked": "2026-09-30T17:28:53.850757+00:00",
+    "status": "no-apk",
+    "last_checked": "2026-11-09T05:50:47.796896+00:00",
     "latest_version": "v0.6.8-quic",
     "last_synced": "2026-09-30T17:28:53.850757+00:00"
   },
@@ -5771,5 +5771,75 @@
     "last_checked": "2026-11-08T17:52:51.624146+00:00",
     "latest_version": "v0.1.0",
     "last_synced": "2026-11-08T17:52:51.624146+00:00"
+  },
+  "feral-launcher": {
+    "status": "synced",
+    "last_checked": "2026-11-09T05:50:47.702521+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-11-09T05:50:47.702521+00:00"
+  },
+  "mineapp": {
+    "status": "failed",
+    "last_checked": "2026-11-09T05:51:13.348595+00:00",
+    "latest_version": "v3.9.0",
+    "error": "All asset downloads/validations failed"
+  },
+  "onnshell": {
+    "status": "synced",
+    "last_checked": "2026-11-09T05:51:27.300621+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-09T05:51:27.300621+00:00"
+  },
+  "ownapps": {
+    "status": "synced",
+    "last_checked": "2026-11-09T05:52:04.786089+00:00",
+    "latest_version": "v1.0.7",
+    "last_synced": "2026-11-09T05:52:04.786089+00:00"
+  },
+  "agent-vscreen": {
+    "status": "synced",
+    "last_checked": "2026-11-09T05:52:20.302101+00:00",
+    "latest_version": "v1.1.7",
+    "last_synced": "2026-11-09T05:52:20.302101+00:00"
+  },
+  "systemmonitor-app": {
+    "status": "failed",
+    "last_checked": "2026-11-09T05:52:45.725080+00:00",
+    "latest_version": "v2.3",
+    "error": "All asset downloads/validations failed"
+  },
+  "gagent": {
+    "status": "no-apk",
+    "last_checked": "2026-11-09T05:52:45.965824+00:00"
+  },
+  "rftv-launcher": {
+    "status": "failed",
+    "last_checked": "2026-11-09T05:53:22.409465+00:00",
+    "latest_version": "v0.3.0",
+    "error": "All asset downloads/validations failed"
+  },
+  "kiln": {
+    "status": "failed",
+    "last_checked": "2026-11-09T05:53:47.814917+00:00",
+    "latest_version": "v0.1.0",
+    "error": "All asset downloads/validations failed"
+  },
+  "tabstation-app": {
+    "status": "failed",
+    "last_checked": "2026-11-09T05:54:13.198097+00:00",
+    "latest_version": "v2.17.1",
+    "error": "All asset downloads/validations failed"
+  },
+  "rootlessstore": {
+    "status": "failed",
+    "last_checked": "2026-11-09T05:54:38.652273+00:00",
+    "latest_version": "v2.4.0",
+    "error": "All asset downloads/validations failed"
+  },
+  "j-a-r-v-i-s-mobile": {
+    "status": "synced",
+    "last_checked": "2026-11-09T05:55:05.062165+00:00",
+    "latest_version": "build-59",
+    "last_synced": "2026-11-09T05:55:05.062165+00:00"
   }
 }
