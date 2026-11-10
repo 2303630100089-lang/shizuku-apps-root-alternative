@@ -264,16 +264,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **diabad** | blev001 | `v49` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/diabad-v49) | [Upstream](https://github.com/blev001/diabad/releases) |
-| ⚡ **chargecall-app** | Sammy219 | `v1.6.1` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargecall-app-v1.6.1) | [Upstream](https://github.com/Sammy219/chargecall-app/releases) |
-| ⚡ **zyraxon-mobile-ai** | onelpawarai-X | `v6.23.9` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zyraxon-mobile-ai-v6.23.9) | [Upstream](https://github.com/onelpawarai-X/zyraxon-mobile-ai/releases) |
-| ⚡ **bilimerge** | 7k7k666OUO | `v1.5.4` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bilimerge-v1.5.4) | [Upstream](https://github.com/7k7k666OUO/bilimerge/releases) |
-| ⚡ **MinimalSF_Extended** | DHIRAJ-J-S | `v1.1` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/minimalsf-extended-v1.1) | [Upstream](https://github.com/DHIRAJ-J-S/MinimalSF_Extended/releases) |
-| ⚡ **honor-adb-root-guide** | freefishin86 | `v1.0.0` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-adb-root-guide-v1.0.0) | [Upstream](https://github.com/freefishin86/honor-adb-root-guide/releases) |
-| ⚡ **Clean-Your-Mobile** | 0xgh0stri13y | `v0.1.0` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/clean-your-mobile-v0.1.0) | [Upstream](https://github.com/0xgh0stri13y/Clean-Your-Mobile/releases) |
-| ⚡ **Fuck_ets100** | laststudio | `v2.3.5-b86a3d2bbe4` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fuck-ets100-v2.3.5-b86a3d2bbe4) | [Upstream](https://github.com/laststudio/Fuck_ets100/releases) |
-| ⚡ **AudioEnhancerPro** | FDzaki-dev | `v322-run42451015373` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioenhancerpro-v322-run42451015373) | [Upstream](https://github.com/FDzaki-dev/AudioEnhancerPro/releases) |
-| ⚡ **Traduya** | camilo661 | `v1.9.0` | 2026-11-08 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/traduya-v1.9.0) | [Upstream](https://github.com/camilo661/Traduya/releases) |
+| ⚡ **Honor-Pad-8-Debloater** | SaintBaron | `v1.0.24` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-pad-8-debloater-v1.0.24) | [Upstream](https://github.com/SaintBaron/Honor-Pad-8-Debloater/releases) |
+| ⚡ **RAM-Xtrem** | YutsiOFF | `v1.0.1` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ram-xtrem-v1.0.1) | [Upstream](https://github.com/YutsiOFF/RAM-Xtrem/releases) |
+| ⚡ **ai-usage-companion** | 896kb | `v1.1.35` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ai-usage-companion-v1.1.35) | [Upstream](https://github.com/896kb/ai-usage-companion/releases) |
+| ⚡ **nightfold** | Vibe-Coded-Studio | `v0.2.2` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nightfold-v0.2.2) | [Upstream](https://github.com/Vibe-Coded-Studio/nightfold/releases) |
+| ⚡ **Orion-Store** | wiwek13 | `v2.7.5-morphe-202611091407` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orion-store-v2.7.5-morphe-202611091407) | [Upstream](https://github.com/wiwek13/Orion-Store/releases) |
+| ⚡ **J.A.R.V.I.S.-Mobile** | shanfxr3-cmyk | `build-59` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/j-a-r-v-i-s-mobile-build-59) | [Upstream](https://github.com/shanfxr3-cmyk/J.A.R.V.I.S.-Mobile/releases) |
+| ⚡ **feral-launcher** | Tsifrokayf | `v2.0.0` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/feral-launcher-v2.0.0) | [Upstream](https://github.com/Tsifrokayf/feral-launcher/releases) |
+| ⚡ **agent-vscreen** | kilolonion | `v1.1.7` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/agent-vscreen-v1.1.7) | [Upstream](https://github.com/kilolonion/agent-vscreen/releases) |
+| ⚡ **onnshell** | wyrmbound | `v0.1.0` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onnshell-v0.1.0) | [Upstream](https://github.com/wyrmbound/onnshell/releases) |
+| ⚡ **ownapps** | jehan593 | `v1.0.7` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ownapps-v1.0.7) | [Upstream](https://github.com/jehan593/ownapps/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
