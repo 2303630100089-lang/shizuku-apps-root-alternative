@@ -5875,5 +5875,64 @@
     "last_checked": "2026-11-09T22:13:14.008830+00:00",
     "latest_version": "v2.7.5-morphe-202611091407",
     "last_synced": "2026-11-09T22:13:14.008830+00:00"
+  },
+  "zero": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:56:50.585968+00:00",
+    "latest_version": "v1.0.19",
+    "last_synced": "2026-11-10T06:56:50.585968+00:00"
+  },
+  "gltools-reborn": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:56:56.773459+00:00",
+    "latest_version": "v1.8.0",
+    "last_synced": "2026-11-10T06:56:56.773459+00:00"
+  },
+  "breezeisland": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:57:00.695596+00:00",
+    "latest_version": "v1.7.6",
+    "last_synced": "2026-11-10T06:57:00.695596+00:00"
+  },
+  "air-ko": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:58:10.985350+00:00",
+    "latest_version": "airko-0.0.4",
+    "last_synced": "2026-11-10T06:58:10.985350+00:00"
+  },
+  "battery-saver-app": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:58:14.663277+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-11-10T06:58:14.663277+00:00"
+  },
+  "autoreplacer": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T06:58:14.984412+00:00"
+  },
+  "paste-get": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T06:58:15.291410+00:00"
+  },
+  "pocketscreen": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:58:19.096732+00:00",
+    "latest_version": "v0.17.29",
+    "last_synced": "2026-11-10T06:58:19.096732+00:00"
+  },
+  "cascade": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T06:58:19.424817+00:00"
+  },
+  "dorfikstrap": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T06:58:19.792317+00:00",
+    "latest_version": "Release"
+  },
+  "melisma": {
+    "status": "synced",
+    "last_checked": "2026-11-10T06:58:26.481242+00:00",
+    "latest_version": "v2.11.0",
+    "last_synced": "2026-11-10T06:58:26.481242+00:00"
   }
 }

@@ -20396,5 +20396,162 @@
     ],
     "mirror_release_tag": "orion-store-v2.7.5-morphe-202611091407",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orion-store-v2.7.5-morphe-202611091407"
+  },
+  "zero": {
+    "source_repository": "MDYOUSUF20007-oss/ZERO",
+    "source_release_id": 440031980,
+    "source_tag": "v1.0.19",
+    "source_published_at": "2026-11-10T06:52:25Z",
+    "synced_at": "2026-11-10T06:56:50.585936+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730429395,
+        "filename": "ZERO-requires-adb-v1.0.19.apk",
+        "original_filename": "ZERO-requires-adb-v1.0.19.apk",
+        "sha256": "ea1b0aeb9c094e690f6f85f134bae46f10248d82037c5dcf93c5f444f3891ff3",
+        "file_size": 3543656,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 730429402,
+        "filename": "ZERO-v1.0.19.apk",
+        "original_filename": "ZERO-v1.0.19.apk",
+        "sha256": "dc87ba3faa1971daea93229073ac66a1efc062160b23f2df244885ac20a6cc13",
+        "file_size": 3542504,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "zero-v1.0.19",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zero-v1.0.19"
+  },
+  "gltools-reborn": {
+    "source_repository": "Alex17273747576777/gltools-reborn",
+    "source_release_id": 439956876,
+    "source_tag": "v1.8.0",
+    "source_published_at": "2026-11-10T04:47:28Z",
+    "synced_at": "2026-11-10T06:56:56.773434+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730140743,
+        "filename": "GLTools-Reborn-1.8.0-sin-comprimir.apk",
+        "original_filename": "GLTools-Reborn-1.8.0-sin-comprimir.apk",
+        "sha256": "e8f6277a8c55c243974d822676231f932bd5c4992001c2fa7d861e62272002fd",
+        "file_size": 16204055,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 730140715,
+        "filename": "GLTools-Reborn-1.8.0.apk",
+        "original_filename": "GLTools-Reborn-1.8.0.apk",
+        "sha256": "efe4bc33a7d2959702c1789a0b388282d016b54b1ff2f1e8a898dfd769d3cedb",
+        "file_size": 3193527,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gltools-reborn-v1.8.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gltools-reborn-v1.8.0"
+  },
+  "breezeisland": {
+    "source_repository": "thanhphong28/BreezeIsland",
+    "source_release_id": 440032375,
+    "source_tag": "v1.7.6",
+    "source_published_at": "2026-11-10T06:53:06Z",
+    "synced_at": "2026-11-10T06:57:00.695570+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730431176,
+        "filename": "BreezeIsland.apk",
+        "original_filename": "BreezeIsland.apk",
+        "sha256": "7adcee20728288f94197deee57ab671438f8b002407d7fbbd9ed32a41dfc5209",
+        "file_size": 4178251,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "breezeisland-v1.7.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breezeisland-v1.7.6"
+  },
+  "air-ko": {
+    "source_repository": "Vicyalis/Air-Ko",
+    "source_release_id": 440031484,
+    "source_tag": "airko-0.0.4",
+    "source_published_at": "2026-11-10T06:51:34Z",
+    "synced_at": "2026-11-10T06:58:10.985326+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730428255,
+        "filename": "Air-Ko-0.0.4-arm64.apk",
+        "original_filename": "Air-Ko-0.0.4-arm64.apk",
+        "sha256": "e470bf37b1973019004a70681bcd3212035b204b594fae83b70ea628f5c6dfe6",
+        "file_size": 91557901,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 730432666,
+        "filename": "Air-Ko-0.0.4-universal.apk",
+        "original_filename": "Air-Ko-0.0.4-universal.apk",
+        "sha256": "675fd9b46dfd9fa60d49b6a98ea454c10877081c25e6edcedb6a666e35f38535",
+        "file_size": 107870913,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "air-ko-airko-0.0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/air-ko-airko-0.0.4"
+  },
+  "battery-saver-app": {
+    "source_repository": "abdullah-al-faahim/battery-saver-app",
+    "source_release_id": 439977113,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-11-10T05:21:03Z",
+    "synced_at": "2026-11-10T06:58:14.663256+00:00",
+    "assets": [
+      {
+        "source_asset_id": 730220409,
+        "filename": "BatterySaver.apk",
+        "original_filename": "BatterySaver.apk",
+        "sha256": "71413729a6dab9a489cf71ad6009e735bc38fcb91e69823f3e698d60a7483a7a",
+        "file_size": 56078,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "battery-saver-app-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/battery-saver-app-v1.1"
+  },
+  "pocketscreen": {
+    "source_repository": "AlreadyNoob/pocketscreen",
+    "source_release_id": 439765457,
+    "source_tag": "v0.17.29",
+    "source_published_at": "2026-11-09T23:29:18Z",
+    "synced_at": "2026-11-10T06:58:19.096712+00:00",
+    "assets": [
+      {
+        "source_asset_id": 729372766,
+        "filename": "PocketScreen-0.17.29.apk",
+        "original_filename": "PocketScreen-0.17.29.apk",
+        "sha256": "b2b83d67668cf06bfb7b8ac897f8d063894b2d1b89e43c55f110411bd5fdc1f8",
+        "file_size": 962789,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pocketscreen-v0.17.29",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketscreen-v0.17.29"
+  },
+  "melisma": {
+    "source_repository": "MelismaApp/melisma",
+    "source_release_id": 426562274,
+    "source_tag": "v2.11.0",
+    "source_published_at": "2026-10-28T11:06:19Z",
+    "synced_at": "2026-11-10T06:58:26.481220+00:00",
+    "assets": [
+      {
+        "source_asset_id": 684715463,
+        "filename": "melisma-2.11.0.apk",
+        "original_filename": "melisma-2.11.0.apk",
+        "sha256": "1b781e5d89615aa30e1657a76958f5aed96aa56054310877ec4a9a045752b754",
+        "file_size": 36827317,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "melisma-v2.11.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/melisma-v2.11.0"
   }
 }
