@@ -20553,5 +20553,222 @@
     ],
     "mirror_release_tag": "melisma-v2.11.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/melisma-v2.11.0"
+  },
+  "messenger-direct-bubbles": {
+    "source_repository": "ershadulkhan/messenger-direct-bubbles",
+    "source_release_id": 440813077,
+    "source_tag": "v1.23.25",
+    "source_published_at": "2026-11-10T19:28:37Z",
+    "synced_at": "2026-11-10T19:35:25.324465+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732666681,
+        "filename": "DirectBubbles.apk",
+        "original_filename": "DirectBubbles.apk",
+        "sha256": "d07304e0f526c63d80998798ce933d3ecd0efb0081067cce3bab44e0234f03c6",
+        "file_size": 214082,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "messenger-direct-bubbles-v1.23.25",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messenger-direct-bubbles-v1.23.25"
+  },
+  "sapu": {
+    "source_repository": "laidudum/sapu",
+    "source_release_id": 440314023,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-11-10T12:09:19Z",
+    "synced_at": "2026-11-10T19:35:29.868262+00:00",
+    "assets": [
+      {
+        "source_asset_id": 731304934,
+        "filename": "sapu-android.apk",
+        "original_filename": "sapu-android.apk",
+        "sha256": "603e95b58d64eb1df0c92c328ce7aa13a5cb5777d764341e486e1d290137d02c",
+        "file_size": 11240552,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sapu-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sapu-v0.2.0"
+  },
+  "jingping": {
+    "source_repository": "NERRY3621/JingPing",
+    "source_release_id": 438331537,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-11-08T15:25:09Z",
+    "synced_at": "2026-11-10T19:35:33.615665+00:00",
+    "assets": [
+      {
+        "source_asset_id": 724335863,
+        "filename": "JingPing-1.3.0.apk",
+        "original_filename": "JingPing-1.3.0.apk",
+        "sha256": "dcd4d7faaa9d9f6ba97e95a66f133381f5091eb30773a4291c9fdc43416006a2",
+        "file_size": 121355,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "jingping-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jingping-v1.3.0"
+  },
+  "vyomaconnect": {
+    "source_repository": "Prajwaljb/VyomaConnect",
+    "source_release_id": 440730964,
+    "source_tag": "v0.7.0",
+    "source_published_at": "2026-11-10T18:15:52Z",
+    "synced_at": "2026-11-10T19:35:38.676496+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732447332,
+        "filename": "vyoma-0.7.0.apk",
+        "original_filename": "vyoma-0.7.0.apk",
+        "sha256": "22ba9f7e6ce86c29a08125c60b841cbe1a2f3052a2e6934f6ac5cc9bd8284ca7",
+        "file_size": 11235093,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vyomaconnect-v0.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vyomaconnect-v0.7.0"
+  },
+  "kingmakers-rp": {
+    "source_repository": "thuwanishark2001-art/kingmakers-rp",
+    "source_release_id": 440657047,
+    "source_tag": "v1.0.0-standalone",
+    "source_published_at": "2026-11-10T17:06:46Z",
+    "synced_at": "2026-11-10T19:35:55.335901+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732248510,
+        "filename": "Kingmakers_RP_Launcher_v1.0.apk",
+        "original_filename": "Kingmakers_RP_Launcher_v1.0.apk",
+        "sha256": "41b6177b0e9061407d626939bd087be04bb01ebc781ae94d1bdb18986c4d9375",
+        "file_size": 66958776,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 732248511,
+        "filename": "Kingmakers_RP_Standalone_v1.0.apk",
+        "original_filename": "Kingmakers_RP_Standalone_v1.0.apk",
+        "sha256": "41b6177b0e9061407d626939bd087be04bb01ebc781ae94d1bdb18986c4d9375",
+        "file_size": 66958776,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "kingmakers-rp-v1.0.0-standalone",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kingmakers-rp-v1.0.0-standalone"
+  },
+  "time-my-galaxy": {
+    "source_repository": "MocLG/Time-My-Galaxy",
+    "source_release_id": 440819071,
+    "source_tag": "v1.3",
+    "source_published_at": "2026-11-10T19:33:59Z",
+    "synced_at": "2026-11-10T19:36:01.188277+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732683678,
+        "filename": "Time-My-Galaxy-1.3.apk",
+        "original_filename": "Time-My-Galaxy-1.3.apk",
+        "sha256": "bea3febc6eeb51aa6224a99ba0efd748eaa5934c12bb43228462566554eb94ea",
+        "file_size": 12354955,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "time-my-galaxy-v1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/time-my-galaxy-v1.3"
+  },
+  "usefulapks": {
+    "source_repository": "vibecodeboredom/usefulapks",
+    "source_release_id": 440755391,
+    "source_tag": "adbboot-1.0.0",
+    "source_published_at": "2026-11-10T18:35:22Z",
+    "synced_at": "2026-11-10T19:36:05.382930+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732514743,
+        "filename": "AdbBoot-1.0.0.apk",
+        "original_filename": "AdbBoot-1.0.0.apk",
+        "sha256": "d059dc957bd3a75ff87e820eeb53e9d1b7c36fb27786fc7dc90d715d8d775499",
+        "file_size": 3218341,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "usefulapks-adbboot-1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/usefulapks-adbboot-1.0.0"
+  },
+  "dominanter": {
+    "source_repository": "alnajashia/dominanter",
+    "source_release_id": 440777693,
+    "source_tag": "v1.0.4",
+    "source_published_at": "2026-11-10T18:58:07Z",
+    "synced_at": "2026-11-10T19:36:12.942127+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732574879,
+        "filename": "dominanter-v1.0.4-release.apk",
+        "original_filename": "dominanter-v1.0.4-release.apk",
+        "sha256": "bf7e61a95d8c0c0838dd722e3030effee00d2400d9c25266a2666e4ef512d4d9",
+        "file_size": 54093015,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dominanter-v1.0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dominanter-v1.0.4"
+  },
+  "framescope": {
+    "source_repository": "yashsaxena15/FrameScope",
+    "source_release_id": 440525066,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-11-10T15:16:20Z",
+    "synced_at": "2026-11-10T19:36:17.543214+00:00",
+    "assets": [
+      {
+        "source_asset_id": 731914611,
+        "filename": "FrameScope-1.1.1.apk",
+        "original_filename": "FrameScope-1.1.1.apk",
+        "sha256": "fcb8e5e998825bd5b22357bf9aea802616f06f616e563adb177c3fe3b0d185cb",
+        "file_size": 143858,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "framescope-v1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/framescope-v1.1.1"
+  },
+  "anyauto": {
+    "source_repository": "GitMag/AnyAuto",
+    "source_release_id": 440766584,
+    "source_tag": "v0.6",
+    "source_published_at": "2026-11-10T18:45:46Z",
+    "synced_at": "2026-11-10T19:36:21.478546+00:00",
+    "assets": [
+      {
+        "source_asset_id": 732546593,
+        "filename": "AnyAuto-0.6.apk",
+        "original_filename": "AnyAuto-0.6.apk",
+        "sha256": "938cbdc27d2abaa929f971c3a35fd62f98bffb4350bb7a80477a7492a86f4f5b",
+        "file_size": 2430544,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "anyauto-v0.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/anyauto-v0.6"
+  },
+  "gamebex": {
+    "source_repository": "jeffnash/GameBEX",
+    "source_release_id": 438652260,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-09T01:27:49Z",
+    "synced_at": "2026-11-10T19:36:25.767273+00:00",
+    "assets": [
+      {
+        "source_asset_id": 725805225,
+        "filename": "GameBEX-1.0.0.apk",
+        "original_filename": "GameBEX-1.0.0.apk",
+        "sha256": "4e149e02491dc8e8c3aeae9bbd1ff5c495d5295fde3cf77c65694ccc7b3a8a04",
+        "file_size": 5921689,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "gamebex-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gamebex-v1.0.0"
   }
 }

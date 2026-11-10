@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-11-09T22:13:05.009187+00:00",
+    "last_checked": "2026-11-10T19:35:55.864822+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-11-09T22:13:10.621368+00:00",
+    "last_checked": "2026-11-10T19:36:26.381630+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-09T22:13:01.730182+00:00",
+    "last_checked": "2026-11-10T19:35:40.120355+00:00",
     "latest_version": "zako3.17",
     "last_synced": "2026-10-31T17:09:26.327514+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-11-09T22:12:49.192257+00:00",
+    "last_checked": "2026-11-10T19:35:40.617720+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-11-09T22:12:56.564885+00:00",
+    "last_checked": "2026-11-10T19:35:20.493894+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-11-09T22:12:57.265900+00:00",
+    "last_checked": "2026-11-10T19:35:39.558765+00:00",
     "latest_version": "v0.3.7",
     "last_synced": "2026-10-29T18:21:24.320336+00:00"
   },
@@ -999,7 +999,7 @@
   },
   "phoneguard": {
     "status": "no-apk",
-    "last_checked": "2026-11-09T22:13:06.287705+00:00",
+    "last_checked": "2026-11-10T19:35:38.816341+00:00",
     "latest_version": "v0.4.0",
     "last_synced": "2026-10-01T03:38:31.435544+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-11-09T22:13:06.410497+00:00",
+    "last_checked": "2026-11-10T19:36:05.526880+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1685,7 +1685,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-11-09T22:12:56.618827+00:00",
+    "last_checked": "2026-11-10T19:36:26.506937+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -5934,5 +5934,85 @@
     "last_checked": "2026-11-10T06:58:26.481242+00:00",
     "latest_version": "v2.11.0",
     "last_synced": "2026-11-10T06:58:26.481242+00:00"
+  },
+  "messenger-direct-bubbles": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:35:25.324484+00:00",
+    "latest_version": "v1.23.25",
+    "last_synced": "2026-11-10T19:35:25.324484+00:00"
+  },
+  "sapu": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:35:29.868281+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-11-10T19:35:29.868281+00:00"
+  },
+  "jingping": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:35:33.615684+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-11-10T19:35:33.615684+00:00"
+  },
+  "vyomaconnect": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:35:38.676520+00:00",
+    "latest_version": "v0.7.0",
+    "last_synced": "2026-11-10T19:35:38.676520+00:00"
+  },
+  "kingmakers-rp": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:35:55.335925+00:00",
+    "latest_version": "v1.0.0-standalone",
+    "last_synced": "2026-11-10T19:35:55.335925+00:00"
+  },
+  "waffleboost": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T19:35:56.195672+00:00",
+    "latest_version": "v0.1"
+  },
+  "time-my-galaxy": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:36:01.188300+00:00",
+    "latest_version": "v1.3",
+    "last_synced": "2026-11-10T19:36:01.188300+00:00"
+  },
+  "usefulapks": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:36:05.382952+00:00",
+    "latest_version": "adbboot-1.0.0",
+    "last_synced": "2026-11-10T19:36:05.382952+00:00"
+  },
+  "dominanter": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:36:12.942147+00:00",
+    "latest_version": "v1.0.4",
+    "last_synced": "2026-11-10T19:36:12.942147+00:00"
+  },
+  "uwu-mouse": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T19:36:13.420474+00:00"
+  },
+  "systemhelperprobe": {
+    "status": "no-apk",
+    "last_checked": "2026-11-10T19:36:13.779275+00:00",
+    "latest_version": "v1.1.0"
+  },
+  "framescope": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:36:17.543237+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-11-10T19:36:17.543237+00:00"
+  },
+  "anyauto": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:36:21.478572+00:00",
+    "latest_version": "v0.6",
+    "last_synced": "2026-11-10T19:36:21.478572+00:00"
+  },
+  "gamebex": {
+    "status": "synced",
+    "last_checked": "2026-11-10T19:36:25.767292+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-10T19:36:25.767292+00:00"
   }
 }
