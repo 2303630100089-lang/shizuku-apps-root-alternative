@@ -6014,5 +6014,64 @@
     "last_checked": "2026-11-10T19:36:25.767292+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-11-10T19:36:25.767292+00:00"
+  },
+  "abc": {
+    "status": "no-apk",
+    "last_checked": "2026-11-11T05:46:38.146116+00:00"
+  },
+  "debloat-app-android": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:46:41.848317+00:00",
+    "latest_version": "v1.12.9",
+    "last_synced": "2026-11-11T05:46:41.848317+00:00"
+  },
+  "stream-channeler-app": {
+    "status": "no-apk",
+    "last_checked": "2026-11-11T05:46:42.213068+00:00"
+  },
+  "aster-guard": {
+    "status": "no-apk",
+    "last_checked": "2026-11-11T05:46:42.562825+00:00",
+    "latest_version": "v0.5.0"
+  },
+  "openminis-standalone": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:46:49.468820+00:00",
+    "latest_version": "1.16.6",
+    "last_synced": "2026-11-11T05:46:49.468820+00:00"
+  },
+  "eternal-garden-py": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:46:53.453684+00:00",
+    "latest_version": "V5.6.8",
+    "last_synced": "2026-11-11T05:46:53.453684+00:00"
+  },
+  "onstop2finishandremovetask-timer": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:46:57.078658+00:00",
+    "latest_version": "v2.0.6-timer.4-glass.2",
+    "last_synced": "2026-11-11T05:46:57.078658+00:00"
+  },
+  "tv-settings": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:47:01.233153+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-11T05:47:01.233153+00:00"
+  },
+  "kokonaharness-android": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:47:10.810131+00:00",
+    "latest_version": "v1.0.45",
+    "last_synced": "2026-11-11T05:47:10.810131+00:00"
+  },
+  "kernel": {
+    "status": "no-apk",
+    "last_checked": "2026-11-11T05:47:11.185202+00:00"
+  },
+  "adb-phon": {
+    "status": "synced",
+    "last_checked": "2026-11-11T05:47:15.461754+00:00",
+    "latest_version": "v7.0",
+    "last_synced": "2026-11-11T05:47:15.461754+00:00"
   }
 }

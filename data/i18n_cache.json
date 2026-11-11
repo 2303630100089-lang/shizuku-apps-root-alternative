@@ -2228,7 +2228,23 @@
     "ZeroLauncher: fast app search, file manager, ZIP/7z/TAR/GZIP/BZIP2 archive tools, local ADB utilities. Uses Scoped Storage and SAF only. ADB targets Wireless Debugging on Android 11+ with an operation allowlist, not shell. Java-first, modular; file/archive/ADB/deployment are stubs. Min SDK 29, compile SDK 37. Early scaffolding only. Android 10 min.": "ZeroLauncher ：快速应用程序搜索、文件管理器、ZIP/7z/TAR/GZIP/BZIP2存档工具、本地ADB实用程序。仅使用范围存储和SAF。ADB针对Android 11 +上的无线调试，使用操作允许列表，而不是shell。Java优先，模块化；文件/存档/ADB/部署是存根。Min SDK 29 ，编译SDK 37。仅限早期脚手架。安卓10分钟。",
     "Quick-launch specific Android Settings screens (About, Developer Options, Wi-Fi, and more) on devices that hide them.": "在隐藏它们的设备上快速启动特定的Android设置屏幕（关于、开发人员选项、Wi-Fi等）。",
     "Material You wallpaper colors for Google apps on Samsung One UI. No root, no background service. Material 3 Expressive, Kotlin + Compose.": "材质Samsung One用户界面上Google应用程序的壁纸颜色。无根目录，无后台服务。材料3富有表现力， Kotlin +撰写。",
-    "Kingmakers RP - Complete Mobile Multiplayer Roleplay Stack (open.mp, Android client launcher, Node.js backend)": "Kingmakers RP -完整的移动多人角色扮演栈（ open.mp ， Android客户端启动器， Node.js后端）"
+    "Kingmakers RP - Complete Mobile Multiplayer Roleplay Stack (open.mp, Android client launcher, Node.js backend)": "Kingmakers RP -完整的移动多人角色扮演栈（ open.mp ， Android客户端启动器， Node.js后端）",
+    "一个极简体积（<12MB）的 Android 原生 Python IDE。底层 C++ 自绘渲染，内置完整 CPython 3.12 环境与 C 扩展编译能力。支持智能代码折叠、正则替换、代码透镜（CodeLens）等现代编辑器特性。": "一个极简体积（ < 12MB ）的 Android 原生 Python IDE。底层 C + + 自绘渲染，内置完整 CPython 3.12 环境与 C 扩展编译能力。支持智能代码折叠、正则替换、代码透镜（ CodeLens ）等现代编辑器特性。",
+    "Free ADB manager on your phone: install APK over ADB, air mouse, remote control, special access. No PC, no root. Android 8+": "手机上的免费ADB管理器：通过ADB安装APK ，空气鼠标，遥控器，特殊访问。无PC ，无root。Android 8 +",
+    "Timer Android não oficial: versão alternativa com temporizador de 20 a 60 segundos, filtros e visual Material 3. Requer Shizuku. Baseado no projeto de takusan23.": "Timer Android não oficial: versão alternativa com temporizador de 20 a 60 segundos, filtros e visual Material 3. Requer Shizuku. Baseado no projeto de takusan23.",
+    "alnajashia": "alnajashia",
+    "Prajwaljb": "Prajwaljb",
+    "GitMag": "GitMag",
+    "原生Bionic运行的Android DSH-支持grun运行glibc软件": "原生仿生运行的安卓支持DSH- GRUN运行 GLIBC软件",
+    "yashsaxena15": "yashsaxena15",
+    "thuwanishark2001-art": "thuwanishark2001-art",
+    "laidudum": "laidudum",
+    "thanhphong28": "thanhphong28",
+    "临时root提权": "临时根提权",
+    "MocLG": "MocLG",
+    "ershadulkhan": "ershadulkhan",
+    "OpenMinis 独立仓库（无 fork 标志）：zr987459 分支源码自托管，后台屏/Shizuku 全机制保留": "OpenMinis 独立仓库（无分支标志） ： zr987459 分支源码自托管，后台屏/Shizuku 全机制保留",
+    "vibecodeboredom": "vibecodeboredom"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4459,6 +4475,22 @@
     "SystemHelper (com.mobiletools.systemhelper) 导出服务 RegisterHelperService 无权限保护的 Binder 覆写 PoC": "SystemHelper (com.mobiletools.systemhelper) 导出服务 RegisterHelperService 无权限保护的 Binder 覆写 PoC",
     "ZeroLauncher: fast app search, file manager, ZIP/7z/TAR/GZIP/BZIP2 archive tools, local ADB utilities. Uses Scoped Storage and SAF only. ADB targets Wireless Debugging on Android 11+ with an operation allowlist, not shell. Java-first, modular; file/archive/ADB/deployment are stubs. Min SDK 29, compile SDK 37. Early scaffolding only. Android 10 min.": "ZeroLauncher: быстрый поиск приложений, файловый менеджер, архивные инструменты ZIP/7z/TAR/GZIP/BZIP2, локальные утилиты ADB. Использует только Scoped Storage и SAF. ADB нацеливается на беспроводную отладку на Android 11+ с помощью списка разрешенных операций, а не оболочки. Во-первых, Java, модульная; файл/архив/ADB/развертывание - это заглушки. Мин. SDK 29, скомпилируйте SDK 37. Только ранние строительные леса. Android 10 мин.",
     "Kingmakers RP - Complete Mobile Multiplayer Roleplay Stack (open.mp, Android client launcher, Node.js backend)": "Kingmakers RP - Полный мобильный многопользовательский ролевой стек (open.mp, клиентский лаунчер Android, бэкэнд Node.js)",
-    "Material You wallpaper colors for Google apps on Samsung One UI. No root, no background service. Material 3 Expressive, Kotlin + Compose.": "Цвет обоев Material You для приложений Google в пользовательском интерфейсе Samsung One. Нет корня, нет фоновой службы. Материал 3 Экспрессивный, Kotlin + Compose."
+    "Material You wallpaper colors for Google apps on Samsung One UI. No root, no background service. Material 3 Expressive, Kotlin + Compose.": "Цвет обоев Material You для приложений Google в пользовательском интерфейсе Samsung One. Нет корня, нет фоновой службы. Материал 3 Экспрессивный, Kotlin + Compose.",
+    "alnajashia": "alnajashia",
+    "一个极简体积（<12MB）的 Android 原生 Python IDE。底层 C++ 自绘渲染，内置完整 CPython 3.12 环境与 C 扩展编译能力。支持智能代码折叠、正则替换、代码透镜（CodeLens）等现代编辑器特性。": "一个极简体积(<12 МБ)的 Android 原生 Python IDE。底层 C++自绘渲染,内置完整 CPython 3.12 环境与 C 扩展编译能力。支持智能代码折叠、正则替换、代码透镜(CodeLens)等现代编辑器特性。",
+    "Timer Android não oficial: versão alternativa com temporizador de 20 a 60 segundos, filtros e visual Material 3. Requer Shizuku. Baseado no projeto de takusan23.": "Таймер Android não oficial: versão alternativa com temporizador de 20 a 60 segundos, filtros e visual Материал 3. Requer Shizuku. Baseado no projeto de takusan23.",
+    "Free ADB manager on your phone: install APK over ADB, air mouse, remote control, special access. No PC, no root. Android 8+": "Бесплатный менеджер АБР на телефоне: установка APK через АБР, воздушная мышь, дистанционное управление, специальный доступ. Нет ПК, нет корня. Android 8+",
+    "GitMag": "GitMag",
+    "yashsaxena15": "yashsaxena15",
+    "原生Bionic运行的Android DSH-支持grun运行glibc软件": "原生Bionic运行的Android DSH-支持grun运行glibc软件",
+    "Prajwaljb": "Prajwaljb",
+    "thanhphong28": "thanhphong28",
+    "thuwanishark2001-art": "thuwanishark2001-art",
+    "临时root提权": "临时корень提权",
+    "laidudum": "layudum",
+    "OpenMinis 独立仓库（无 fork 标志）：zr987459 分支源码自托管，后台屏/Shizuku 全机制保留": "OpenMinis 独立仓库(无вилка标志):zr987459分支源码自托管,后台屏/Shizuku 全机制保留",
+    "vibecodeboredom": "vibecodeboredom",
+    "MocLG": "MocLG",
+    "ershadulkhan": "ershadulkhan"
   }
 }
