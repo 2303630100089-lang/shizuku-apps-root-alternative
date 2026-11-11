@@ -267,16 +267,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Honor-Pad-8-Debloater** | SaintBaron | `v1.0.24` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-pad-8-debloater-v1.0.24) | [Upstream](https://github.com/SaintBaron/Honor-Pad-8-Debloater/releases) |
-| ⚡ **RAM-Xtrem** | YutsiOFF | `v1.0.1` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ram-xtrem-v1.0.1) | [Upstream](https://github.com/YutsiOFF/RAM-Xtrem/releases) |
-| ⚡ **ai-usage-companion** | 896kb | `v1.1.35` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ai-usage-companion-v1.1.35) | [Upstream](https://github.com/896kb/ai-usage-companion/releases) |
-| ⚡ **nightfold** | Vibe-Coded-Studio | `v0.2.2` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nightfold-v0.2.2) | [Upstream](https://github.com/Vibe-Coded-Studio/nightfold/releases) |
-| ⚡ **Orion-Store** | wiwek13 | `v2.7.5-morphe-202611091407` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orion-store-v2.7.5-morphe-202611091407) | [Upstream](https://github.com/wiwek13/Orion-Store/releases) |
-| ⚡ **J.A.R.V.I.S.-Mobile** | shanfxr3-cmyk | `build-59` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/j-a-r-v-i-s-mobile-build-59) | [Upstream](https://github.com/shanfxr3-cmyk/J.A.R.V.I.S.-Mobile/releases) |
-| ⚡ **feral-launcher** | Tsifrokayf | `v2.0.0` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/feral-launcher-v2.0.0) | [Upstream](https://github.com/Tsifrokayf/feral-launcher/releases) |
-| ⚡ **agent-vscreen** | kilolonion | `v1.1.7` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/agent-vscreen-v1.1.7) | [Upstream](https://github.com/kilolonion/agent-vscreen/releases) |
-| ⚡ **onnshell** | wyrmbound | `v0.1.0` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onnshell-v0.1.0) | [Upstream](https://github.com/wyrmbound/onnshell/releases) |
-| ⚡ **ownapps** | jehan593 | `v1.0.7` | 2026-11-09 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ownapps-v1.0.7) | [Upstream](https://github.com/jehan593/ownapps/releases) |
+| ⚡ **Time-My-Galaxy** | MocLG | `v1.3` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/time-my-galaxy-v1.3) | [Upstream](https://github.com/MocLG/Time-My-Galaxy/releases) |
+| ⚡ **messenger-direct-bubbles** | ershadulkhan | `v1.23.25` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messenger-direct-bubbles-v1.23.25) | [Upstream](https://github.com/ershadulkhan/messenger-direct-bubbles/releases) |
+| ⚡ **dominanter** | alnajashia | `v1.0.4` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dominanter-v1.0.4) | [Upstream](https://github.com/alnajashia/dominanter/releases) |
+| ⚡ **AnyAuto** | GitMag | `v0.6` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/anyauto-v0.6) | [Upstream](https://github.com/GitMag/AnyAuto/releases) |
+| ⚡ **usefulapks** | vibecodeboredom | `adbboot-1.0.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/usefulapks-adbboot-1.0.0) | [Upstream](https://github.com/vibecodeboredom/usefulapks/releases) |
+| ⚡ **VyomaConnect** | Prajwaljb | `v0.7.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vyomaconnect-v0.7.0) | [Upstream](https://github.com/Prajwaljb/VyomaConnect/releases) |
+| ⚡ **kingmakers-rp** | thuwanishark2001-art | `v1.0.0-standalone` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kingmakers-rp-v1.0.0-standalone) | [Upstream](https://github.com/thuwanishark2001-art/kingmakers-rp/releases) |
+| ⚡ **FrameScope** | yashsaxena15 | `v1.1.1` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/framescope-v1.1.1) | [Upstream](https://github.com/yashsaxena15/FrameScope/releases) |
+| ⚡ **sapu** | laidudum | `v0.2.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sapu-v0.2.0) | [Upstream](https://github.com/laidudum/sapu/releases) |
+| ⚡ **BreezeIsland** | thanhphong28 | `v1.7.6` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breezeisland-v1.7.6) | [Upstream](https://github.com/thanhphong28/BreezeIsland/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
