@@ -20903,5 +20903,270 @@
     ],
     "mirror_release_tag": "adb-phon-v7.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-phon-v7.0"
+  },
+  "hermes-pocket": {
+    "source_repository": "Zcc09/hermes-pocket",
+    "source_release_id": 441672134,
+    "source_tag": "v1.5.0",
+    "source_published_at": "2026-11-11T12:36:21Z",
+    "synced_at": "2026-11-11T19:28:49.837502+00:00",
+    "assets": [
+      {
+        "source_asset_id": 735473982,
+        "filename": "hermes-pocket-release.apk",
+        "original_filename": "hermes-pocket-release.apk",
+        "sha256": "046ee5707f1839f3b693a65a402d1b39538309138ce4bdaa2a1c8244edc09208",
+        "file_size": 1822123,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hermes-pocket-v1.5.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-pocket-v1.5.0"
+  },
+  "lapisroot": {
+    "source_repository": "nekounknown/lapisroot",
+    "source_release_id": 442104823,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-11T19:09:39Z",
+    "synced_at": "2026-11-11T19:28:54.062307+00:00",
+    "assets": [
+      {
+        "source_asset_id": 736640367,
+        "filename": "lapisroot.apk",
+        "original_filename": "lapisroot.apk",
+        "sha256": "bb8dd75146303beb27ad79c2173877cc6717f81c436ab2400f1290a0b8ca1d9b",
+        "file_size": 1901173,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "lapisroot-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lapisroot-v0.1.0"
+  },
+  "hondascanner": {
+    "source_repository": "Murilo358/HondaScanner",
+    "source_release_id": 442072761,
+    "source_tag": "v0.39",
+    "source_published_at": "2026-11-11T18:36:08Z",
+    "synced_at": "2026-11-11T19:28:59.563250+00:00",
+    "assets": [
+      {
+        "source_asset_id": 736539500,
+        "filename": "Scanner-Instalador-v0.39.apk",
+        "original_filename": "Scanner-Instalador-v0.39.apk",
+        "sha256": "9dc36ff6f1926787aa97ca9823ed864e7a3d8102aed2c7e272975e1c3159bc4c",
+        "file_size": 11630740,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 736539502,
+        "filename": "Scanner-v0.39.apk",
+        "original_filename": "Scanner-v0.39.apk",
+        "sha256": "ecaec6b04006d31c5f66a8341306b7e870ce39ba224bae6f3b55f00c568c7492",
+        "file_size": 6161306,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hondascanner-v0.39",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hondascanner-v0.39"
+  },
+  "blyy": {
+    "source_repository": "oneroomlife/blyy",
+    "source_release_id": 429912598,
+    "source_tag": "3.0.0",
+    "source_published_at": "2026-10-31T12:08:53Z",
+    "synced_at": "2026-11-11T19:29:03.861287+00:00",
+    "assets": [
+      {
+        "source_asset_id": 695284574,
+        "filename": "3.0.0.apk",
+        "original_filename": "3.0.0.apk",
+        "sha256": "0c6ae02d82da35068f33e33722af4a9946f4786d1c23f6051cc56f182a5afed0",
+        "file_size": 31790252,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "blyy-3.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blyy-3.0.0"
+  },
+  "fluid-navigation-gesture": {
+    "source_repository": "zwmopen/Fluid-Navigation-Gesture",
+    "source_release_id": 431004310,
+    "source_tag": "v2.0-beta19-diy",
+    "source_published_at": "2026-11-02T02:16:14Z",
+    "synced_at": "2026-11-11T19:29:08.771995+00:00",
+    "assets": [
+      {
+        "source_asset_id": 700213841,
+        "filename": "FluidNavigationGesture-arm64.apk",
+        "original_filename": "FluidNavigationGesture-arm64.apk",
+        "sha256": "51d2d12be2557834fcf3e594a7c99113ea6b62fd6dc62934eab780e9984aa796",
+        "file_size": 4350971,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 700213843,
+        "filename": "FluidNavigationGesture.apk",
+        "original_filename": "FluidNavigationGesture.apk",
+        "sha256": "0c8000f684567428609a410469e17959be8fc620f0df54b9ddff5d3f59996807",
+        "file_size": 5096524,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "fluid-navigation-gesture-v2.0-beta19-diy",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fluid-navigation-gesture-v2.0-beta19-diy"
+  },
+  "burkan": {
+    "source_repository": "barq-al-layl/Burkan",
+    "source_release_id": 419633781,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-10-21T14:04:59Z",
+    "synced_at": "2026-11-11T19:29:14.010294+00:00",
+    "assets": [
+      {
+        "source_asset_id": 662706970,
+        "filename": "Burkan-1.1.1.apk",
+        "original_filename": "Burkan-1.1.1.apk",
+        "sha256": "2020977fdb2606b6ad29d87d5e6da6bec82b366a9fbec35cec82cfb0ca0fdce6",
+        "file_size": 7429036,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "burkan-v1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/burkan-v1.1.1"
+  },
+  "extractkit": {
+    "source_repository": "qq2770355800/ExtractKit",
+    "source_release_id": 441958918,
+    "source_tag": "v9.29",
+    "source_published_at": "2026-11-11T16:50:23Z",
+    "synced_at": "2026-11-11T19:29:17.562160+00:00",
+    "assets": [
+      {
+        "source_asset_id": 736196707,
+        "filename": "ExtractKit-9.29-full.apk",
+        "original_filename": "ExtractKit-9.29-full.apk",
+        "sha256": "1d725b2906e67083d45facb9428de54f78f2641d84b805d722d887c4f981bcbd",
+        "file_size": 15027280,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "extractkit-v9.29",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/extractkit-v9.29"
+  },
+  "axgent": {
+    "source_repository": "bingxizhe/Axgent",
+    "source_release_id": 442061979,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-11-11T18:25:39Z",
+    "synced_at": "2026-11-11T19:29:26.069101+00:00",
+    "assets": [
+      {
+        "source_asset_id": 736505129,
+        "filename": "app-agent-arm64-v8a-prod.apk",
+        "original_filename": "app-agent-arm64-v8a-prod.apk",
+        "sha256": "beb6fb132e84449484a6f6ed1429ad683505599f10c2391bc209d5a37d982d57",
+        "file_size": 65011143,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "axgent-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/axgent-v1.0"
+  },
+  "app-updater": {
+    "source_repository": "Darkstar085/app-updater",
+    "source_release_id": 438199893,
+    "source_tag": "prebuilts-42475599672",
+    "source_published_at": "2026-11-08T11:25:48Z",
+    "synced_at": "2026-11-11T19:29:52.937292+00:00",
+    "assets": [
+      {
+        "source_asset_id": 723725154,
+        "filename": "Arcticons_v15.4.7.apk",
+        "original_filename": "Arcticons_v15.4.7.apk",
+        "sha256": "7e10644035b84a6d0a59acb7f32c30ad48ea957b39961b2a6a50c35461c62726",
+        "file_size": 29897906,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 723725158,
+        "filename": "Bitwarden_v2026.11.0.apk",
+        "original_filename": "Bitwarden_v2026.11.0.apk",
+        "sha256": "84d2d210aeefbba18bd32d72c45fd539d66bfe8d533eb8bbec33a13bc1ecb592",
+        "file_size": 93255883,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      },
+      {
+        "source_asset_id": 723725155,
+        "filename": "DuckDuckGo_v5.301.1.apk",
+        "original_filename": "DuckDuckGo_v5.301.1.apk",
+        "sha256": "a9f39c8364557f8a2daae4a7c6e6248d5f0985e46f63751b7631ac6143e2e9f0",
+        "file_size": 72241691,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 723725283,
+        "filename": "Momogram_v13.1.1-0b74839817.apk",
+        "original_filename": "Momogram_v13.1.1-0b74839817.apk",
+        "sha256": "b15542a0d5c459c38f6a75f429b8ad0d54c7976ee9d1fe93cc5aaa395fb3d33c",
+        "file_size": 85347910,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 723725365,
+        "filename": "Morphe_Manager_v2.5.0.apk",
+        "original_filename": "Morphe_Manager_v2.5.0.apk",
+        "sha256": "681a1c179b9e8698c857a092df0ca9a91e294a103743107f4fe96da20cb42ddc",
+        "file_size": 49876428,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 723725344,
+        "filename": "Twitter_v12.40.1-prod.01.apk",
+        "original_filename": "Twitter_v12.40.1-prod.01.apk",
+        "sha256": "12fa5946755394c13289321b91e9eed4fc26e7a2f4ca2ee3ba965e30c9712902",
+        "file_size": 177858422,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "app-updater-prebuilts-42475599672",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/app-updater-prebuilts-42475599672"
+  },
+  "minori": {
+    "source_repository": "wonderhoy-labs/minori",
+    "source_release_id": 442078942,
+    "source_tag": "v0.6.1",
+    "source_published_at": "2026-11-11T18:42:19Z",
+    "synced_at": "2026-11-11T19:29:57.531250+00:00",
+    "assets": [
+      {
+        "source_asset_id": 736558127,
+        "filename": "minori-v0.6.1.apk",
+        "original_filename": "minori-v0.6.1.apk",
+        "sha256": "81eee779f4f28a84ba533d671ffeb0e28bfac5edac2882f009937346ddc60353",
+        "file_size": 9461593,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "minori-v0.6.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/minori-v0.6.1"
+  },
+  "es-de-overlay": {
+    "source_repository": "clintonium-119/es-de-overlay",
+    "source_release_id": 442085826,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-11T18:49:28Z",
+    "synced_at": "2026-11-11T19:30:01.401924+00:00",
+    "assets": [
+      {
+        "source_asset_id": 736579730,
+        "filename": "es-de-overlay-1.1.0.apk",
+        "original_filename": "es-de-overlay-1.1.0.apk",
+        "sha256": "69c422e2ed45d0a77dc9b1930a4c56f5f73a8ef44d21c05f22a121b2bb5a81d5",
+        "file_size": 22287068,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "es-de-overlay-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/es-de-overlay-v1.1.0"
   }
 }

@@ -1,7 +1,7 @@
 {
   "shizuku": {
     "status": "no-update",
-    "last_checked": "2026-11-10T19:35:55.864822+00:00",
+    "last_checked": "2026-11-11T19:28:50.619186+00:00",
     "latest_version": "v13.6.0",
     "last_synced": "2026-08-22T11:57:04.456608+00:00"
   },
@@ -265,7 +265,7 @@
   },
   "enforcedoze": {
     "status": "no-update",
-    "last_checked": "2026-11-10T19:36:26.381630+00:00",
+    "last_checked": "2026-11-11T19:29:09.430887+00:00",
     "latest_version": "v1.10.2/86",
     "last_synced": "2026-08-22T12:02:01.573786+00:00"
   },
@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-10T19:35:40.120355+00:00",
+    "last_checked": "2026-11-11T19:29:53.842103+00:00",
     "latest_version": "zako3.17",
     "last_synced": "2026-10-31T17:09:26.327514+00:00"
   },
@@ -477,7 +477,7 @@
   },
   "service-keeper": {
     "status": "no-update",
-    "last_checked": "2026-11-10T19:35:40.617720+00:00",
+    "last_checked": "2026-11-11T19:29:26.622423+00:00",
     "latest_version": "v1.0.5",
     "last_synced": "2026-09-29T11:55:39.631521+00:00"
   },
@@ -685,7 +685,7 @@
   },
   "komi-store": {
     "status": "no-update",
-    "last_checked": "2026-11-10T19:35:20.493894+00:00",
+    "last_checked": "2026-11-11T19:29:10.128129+00:00",
     "latest_version": "v1.9.4",
     "last_synced": "2026-10-24T15:45:42.108663+00:00"
   },
@@ -927,7 +927,7 @@
   },
   "deepseek-harness-android": {
     "status": "no-update",
-    "last_checked": "2026-11-10T19:35:39.558765+00:00",
+    "last_checked": "2026-11-11T19:29:10.850357+00:00",
     "latest_version": "v0.3.7",
     "last_synced": "2026-10-29T18:21:24.320336+00:00"
   },
@@ -999,7 +999,7 @@
   },
   "phoneguard": {
     "status": "no-apk",
-    "last_checked": "2026-11-10T19:35:38.816341+00:00",
+    "last_checked": "2026-11-11T19:29:53.105593+00:00",
     "latest_version": "v0.4.0",
     "last_synced": "2026-10-01T03:38:31.435544+00:00"
   },
@@ -1344,7 +1344,7 @@
   },
   "pulse-battery": {
     "status": "no-apk",
-    "last_checked": "2026-11-10T19:36:05.526880+00:00",
+    "last_checked": "2026-11-11T19:29:17.624124+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-03T04:57:18.155939+00:00"
   },
@@ -1685,7 +1685,7 @@
   },
   "void-apps": {
     "status": "no-apk",
-    "last_checked": "2026-11-10T19:36:26.506937+00:00",
+    "last_checked": "2026-11-11T19:29:17.708707+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-10-05T05:13:40.676500+00:00"
   },
@@ -6073,5 +6073,79 @@
     "last_checked": "2026-11-11T05:47:15.461754+00:00",
     "latest_version": "v7.0",
     "last_synced": "2026-11-11T05:47:15.461754+00:00"
+  },
+  "hermes-pocket": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:28:49.837527+00:00",
+    "latest_version": "v1.5.0",
+    "last_synced": "2026-11-11T19:28:49.837527+00:00"
+  },
+  "betterauto": {
+    "status": "no-apk",
+    "last_checked": "2026-11-11T19:28:50.178673+00:00"
+  },
+  "lapisroot": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:28:54.062331+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-11T19:28:54.062331+00:00"
+  },
+  "hondascanner": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:28:59.563273+00:00",
+    "latest_version": "v0.39",
+    "last_synced": "2026-11-11T19:28:59.563273+00:00"
+  },
+  "blyy": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:29:03.861305+00:00",
+    "latest_version": "3.0.0",
+    "last_synced": "2026-11-11T19:29:03.861305+00:00"
+  },
+  "fluid-navigation-gesture": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:29:08.772023+00:00",
+    "latest_version": "v2.0-beta19-diy",
+    "last_synced": "2026-11-11T19:29:08.772023+00:00"
+  },
+  "burkan": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:29:14.010313+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-11-11T19:29:14.010313+00:00"
+  },
+  "extractkit": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:29:17.562218+00:00",
+    "latest_version": "v9.29",
+    "last_synced": "2026-11-11T19:29:17.562218+00:00"
+  },
+  "axgent": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:29:26.069120+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-11T19:29:26.069120+00:00"
+  },
+  "app-updater": {
+    "status": "no-update",
+    "last_checked": "2026-11-11T19:30:01.715298+00:00",
+    "latest_version": "prebuilts-42475599672",
+    "last_synced": "2026-11-11T19:29:52.937315+00:00"
+  },
+  "auto-hotspot-bt": {
+    "status": "no-apk",
+    "last_checked": "2026-11-11T19:29:53.374768+00:00"
+  },
+  "minori": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:29:57.531274+00:00",
+    "latest_version": "v0.6.1",
+    "last_synced": "2026-11-11T19:29:57.531274+00:00"
+  },
+  "es-de-overlay": {
+    "status": "synced",
+    "last_checked": "2026-11-11T19:30:01.401948+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-11T19:30:01.401948+00:00"
   }
 }
