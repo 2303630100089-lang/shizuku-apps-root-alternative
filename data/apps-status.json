@@ -6147,5 +6147,65 @@
     "last_checked": "2026-11-11T19:30:01.401948+00:00",
     "latest_version": "v1.1.0",
     "last_synced": "2026-11-11T19:30:01.401948+00:00"
+  },
+  "pibot": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:26.058172+00:00",
+    "latest_version": "v0.0.14",
+    "last_synced": "2026-11-12T06:52:26.058172+00:00"
+  },
+  "oppo-jailbreak": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:29.821269+00:00",
+    "latest_version": "v4.9",
+    "last_synced": "2026-11-12T06:52:29.821269+00:00"
+  },
+  "zkmnext-gamespace": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:34.599085+00:00",
+    "latest_version": "1.2.9",
+    "last_synced": "2026-11-12T06:52:34.599085+00:00"
+  },
+  "adb-control-android": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:38.773832+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-12T06:52:38.773832+00:00"
+  },
+  "quicksettiles": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:42.782053+00:00",
+    "latest_version": "v1.0.3",
+    "last_synced": "2026-11-12T06:52:42.782053+00:00"
+  },
+  "packageme": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:46.381025+00:00",
+    "latest_version": "v1.4",
+    "last_synced": "2026-11-12T06:52:46.381025+00:00"
+  },
+  "mcpadbandroidlogger": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:52:51.753293+00:00",
+    "latest_version": "v3.3",
+    "last_synced": "2026-11-12T06:52:51.753293+00:00"
+  },
+  "jack-ai": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:53:00.857544+00:00",
+    "latest_version": "v1.1.237",
+    "last_synced": "2026-11-12T06:53:00.857544+00:00"
+  },
+  "dilink-auto-android": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:53:06.808093+00:00",
+    "latest_version": "v1.0.3",
+    "last_synced": "2026-11-12T06:53:06.808093+00:00"
+  },
+  "corniche": {
+    "status": "synced",
+    "last_checked": "2026-11-12T06:53:10.353017+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-11-12T06:53:10.353017+00:00"
   }
 }

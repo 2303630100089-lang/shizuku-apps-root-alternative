@@ -202,6 +202,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | 应用名称 | 功能介绍与 Shizuku 用例 | 开源许可 | 相关链接 |
 |:---|:---|:---|:---|
+| **[Corniche](https://github.com/YoannDev90/Corniche)** | 一款轻量级Android应用，可在整个系统范围内隐藏状态栏（前身为StatusBar-Hider） | MIT | [GitHub 源码](https://github.com/YoannDev90/Corniche) • [下载发布](https://github.com/YoannDev90/Corniche/releases) |
+| **[dilink-auto-android](https://github.com/ID-VerNe/dilink-auto-android)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/ID-VerNe/dilink-auto-android) • [下载发布](https://github.com/ID-VerNe/dilink-auto-android/releases) |
+| **[jack-ai](https://github.com/Augdgasjkh354-lang/jack-ai)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Augdgasjkh354-lang/jack-ai) • [下载发布](https://github.com/Augdgasjkh354-lang/jack-ai/releases) |
+| **[McpAdbAndroidLogger](https://github.com/N2K02/McpAdbAndroidLogger)** | 用于 Claude Android 或其他应用程序在手机上调试日志的桥接连接器。 | GPL-3.0 | [GitHub 源码](https://github.com/N2K02/McpAdbAndroidLogger) • [下载发布](https://github.com/N2K02/McpAdbAndroidLogger/releases) |
+| **[PackageMe](https://github.com/WorkFluently/PackageMe)** | 一款快速、轻量级的 Android 安装程序，适用于 APK、APKS、APKM、XAPK 和 ZIP。轻松安装、管理、克隆和精简应用。 | See project | [GitHub 源码](https://github.com/WorkFluently/PackageMe) • [下载发布](https://github.com/WorkFluently/PackageMe/releases) |
+| **[QuickSetTiles](https://github.com/wizzwuz/QuickSetTiles)** | Android 快速设置磁贴创建器 | GPL-3.0 | [GitHub 源码](https://github.com/wizzwuz/QuickSetTiles) • [下载发布](https://github.com/wizzwuz/QuickSetTiles/releases) |
+| **[adb-control-android](https://github.com/aelrased/adb-control-android)** | 适用于 Android 10+ 的开源自 ADB 应用管理器（Kotlin/Compose）：多设备、精简、APK 备份/安装、远程图标。 | GPL-3.0 | [GitHub 源码](https://github.com/aelrased/adb-control-android) • [下载发布](https://github.com/aelrased/adb-control-android/releases) |
+| **[zkmnext-gamespace](https://github.com/zuanvfx02/zkmnext-gamespace)** | zkmnext的官方游戏空间现已作为独立应用程序推出。 | See project | [GitHub 源码](https://github.com/zuanvfx02/zkmnext-gamespace) • [下载发布](https://github.com/zuanvfx02/zkmnext-gamespace/releases) |
+| **[oppo-jailbreak](https://github.com/tw0m8/oppo-jailbreak)** | OPPO 越狱 — 一键为锁定了引导加载程序的 OPPO/ColorOS 手机获取临时 Root 权限（应用：RootNow）。已在 OPPO Find X8s（最新 ColorOS 17）上验证，2026 年 11 月中旬。 | MIT | [GitHub 源码](https://github.com/tw0m8/oppo-jailbreak) • [下载发布](https://github.com/tw0m8/oppo-jailbreak/releases) |
+| **[PiBot](https://github.com/FireSpoonYZ/PiBot)** | 由 Pi 提供支持的自托管多设备 AI 助手，提供 Windows、Linux 和 Android 客户端。 | AGPL-3.0 | [GitHub 源码](https://github.com/FireSpoonYZ/PiBot) • [下载发布](https://github.com/FireSpoonYZ/PiBot/releases) |
 | **[app-updater](https://github.com/Darkstar085-dev/app-updater)** | 与 Shizuku 兼容的 Android 工具。 | See project | [GitHub 源码](https://github.com/Darkstar085-dev/app-updater) • [下载发布](https://github.com/Darkstar085-dev/app-updater/releases) |
 | **[es-de-overlay](https://github.com/clintonium-119/es-de-overlay)** | 与 Shizuku 兼容的 Android 工具。 | MIT | [GitHub 源码](https://github.com/clintonium-119/es-de-overlay) • [下载发布](https://github.com/clintonium-119/es-de-overlay/releases) |
 | **[minori](https://github.com/wonderhoy-labs/minori)** | 您的 Pixel 的虚拟机管理程序。 | Apache-2.0 | [GitHub 源码](https://github.com/wonderhoy-labs/minori) • [下载发布](https://github.com/wonderhoy-labs/minori/releases) |
@@ -274,16 +284,16 @@ Shizuku allows normal Android apps to access powerful system APIs through **ADB 
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Time-My-Galaxy** | MocLG | `v1.3` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/time-my-galaxy-v1.3) | [Upstream](https://github.com/MocLG/Time-My-Galaxy/releases) |
-| ⚡ **messenger-direct-bubbles** | ershadulkhan | `v1.23.25` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messenger-direct-bubbles-v1.23.25) | [Upstream](https://github.com/ershadulkhan/messenger-direct-bubbles/releases) |
-| ⚡ **dominanter** | alnajashia | `v1.0.4` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dominanter-v1.0.4) | [Upstream](https://github.com/alnajashia/dominanter/releases) |
-| ⚡ **AnyAuto** | GitMag | `v0.6` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/anyauto-v0.6) | [Upstream](https://github.com/GitMag/AnyAuto/releases) |
-| ⚡ **usefulapks** | vibecodeboredom | `adbboot-1.0.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/usefulapks-adbboot-1.0.0) | [Upstream](https://github.com/vibecodeboredom/usefulapks/releases) |
-| ⚡ **VyomaConnect** | Prajwaljb | `v0.7.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vyomaconnect-v0.7.0) | [Upstream](https://github.com/Prajwaljb/VyomaConnect/releases) |
-| ⚡ **kingmakers-rp** | thuwanishark2001-art | `v1.0.0-standalone` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kingmakers-rp-v1.0.0-standalone) | [Upstream](https://github.com/thuwanishark2001-art/kingmakers-rp/releases) |
-| ⚡ **FrameScope** | yashsaxena15 | `v1.1.1` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/framescope-v1.1.1) | [Upstream](https://github.com/yashsaxena15/FrameScope/releases) |
-| ⚡ **sapu** | laidudum | `v0.2.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sapu-v0.2.0) | [Upstream](https://github.com/laidudum/sapu/releases) |
-| ⚡ **BreezeIsland** | thanhphong28 | `v1.7.6` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breezeisland-v1.7.6) | [Upstream](https://github.com/thanhphong28/BreezeIsland/releases) |
+| ⚡ **lapisroot** | nekounknown | `v0.1.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lapisroot-v0.1.0) | [Upstream](https://github.com/nekounknown/lapisroot/releases) |
+| ⚡ **es-de-overlay** | 克林顿锘-119 | `v1.1.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/es-de-overlay-v1.1.0) | [Upstream](https://github.com/clintonium-119/es-de-overlay/releases) |
+| ⚡ **minori** | wonderhoy-labs | `v0.6.1` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/minori-v0.6.1) | [Upstream](https://github.com/wonderhoy-labs/minori/releases) |
+| ⚡ **HondaScanner** | Murilo358 | `v0.39` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hondascanner-v0.39) | [Upstream](https://github.com/Murilo358/HondaScanner/releases) |
+| ⚡ **Axgent** | 冰蜥者 | `v1.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/axgent-v1.0) | [Upstream](https://github.com/bingxizhe/Axgent/releases) |
+| ⚡ **ExtractKit** | qq2770355800 | `v9.29` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/extractkit-v9.29) | [Upstream](https://github.com/qq2770355800/ExtractKit/releases) |
+| ⚡ **hermes-pocket** | Zcc09 | `v1.5.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-pocket-v1.5.0) | [Upstream](https://github.com/Zcc09/hermes-pocket/releases) |
+| ⚡ **OpenMinis-standalone** | 奥基莫尔 | `1.16.6` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openminis-standalone-1.16.6) | [Upstream](https://github.com/Aukimor/OpenMinis-standalone/releases) |
+| ⚡ **Eternal-Garden-Py** | CYX-PyEditor | `V5.6.8` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eternal-garden-py-V5.6.8) | [Upstream](https://github.com/CYX-PyEditor/Eternal-Garden-Py/releases) |
+| ⚡ **tv-settings** | throwarray | `v1.0.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-settings-v1.0.0) | [Upstream](https://github.com/throwarray/tv-settings/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->

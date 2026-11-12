@@ -21168,5 +21168,203 @@
     ],
     "mirror_release_tag": "es-de-overlay-v1.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/es-de-overlay-v1.1.0"
+  },
+  "pibot": {
+    "source_repository": "FireSpoonYZ/PiBot",
+    "source_release_id": 441293447,
+    "source_tag": "v0.0.14",
+    "source_published_at": "2026-11-11T06:00:58Z",
+    "synced_at": "2026-11-12T06:52:26.058143+00:00",
+    "assets": [
+      {
+        "source_asset_id": 734343799,
+        "filename": "PiBot-0.0.14-android-arm64.apk",
+        "original_filename": "PiBot-0.0.14-android-arm64.apk",
+        "sha256": "ebb25c83fea0fc63da2640e661c0fb758a4a14de2833e51cf11e7600cb25980e",
+        "file_size": 62055466,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "pibot-v0.0.14",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pibot-v0.0.14"
+  },
+  "oppo-jailbreak": {
+    "source_repository": "tw0m8/oppo-jailbreak",
+    "source_release_id": 442336448,
+    "source_tag": "v4.9",
+    "source_published_at": "2026-11-12T00:18:00Z",
+    "synced_at": "2026-11-12T06:52:29.821247+00:00",
+    "assets": [
+      {
+        "source_asset_id": 737405466,
+        "filename": "RootNow-v4.9.apk",
+        "original_filename": "RootNow-v4.9.apk",
+        "sha256": "bd1817002b618db823c05710911d3cf5467a066dc0687e98f0ad7a28e963d6de",
+        "file_size": 5707911,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "oppo-jailbreak-v4.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/oppo-jailbreak-v4.9"
+  },
+  "zkmnext-gamespace": {
+    "source_repository": "zuanvfx02/zkmnext-gamespace",
+    "source_release_id": 438747576,
+    "source_tag": "1.2.9",
+    "source_published_at": "2026-11-09T04:38:54Z",
+    "synced_at": "2026-11-12T06:52:34.599045+00:00",
+    "assets": [
+      {
+        "source_asset_id": 726238063,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "73861d7a58f8dc0e014f57fa380641027a98b895b3fad737e394fa03949c30e1",
+        "file_size": 18881081,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "zkmnext-gamespace-1.2.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zkmnext-gamespace-1.2.9"
+  },
+  "adb-control-android": {
+    "source_repository": "aelrased/adb-control-android",
+    "source_release_id": 439940629,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-10T04:18:30Z",
+    "synced_at": "2026-11-12T06:52:38.773804+00:00",
+    "assets": [
+      {
+        "source_asset_id": 737812023,
+        "filename": "ADBControlAndroid-0.1.0.apk",
+        "original_filename": "ADBControlAndroid-0.1.0.apk",
+        "sha256": "ecd5f90a8409403ab93c9e1d41ac8faae8a0871622b299c3d1c4fa3f464c5ec7",
+        "file_size": 12474741,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "adb-control-android-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/adb-control-android-v0.1.0"
+  },
+  "quicksettiles": {
+    "source_repository": "wizzwuz/QuickSetTiles",
+    "source_release_id": 441324089,
+    "source_tag": "v1.0.3",
+    "source_published_at": "2026-11-11T06:49:36Z",
+    "synced_at": "2026-11-12T06:52:42.782030+00:00",
+    "assets": [
+      {
+        "source_asset_id": 734474198,
+        "filename": "QuickSetTiles-1.0.3.apk",
+        "original_filename": "QuickSetTiles-1.0.3.apk",
+        "sha256": "94cfed08304fdc7e668596ecc5c88fb9092b14c8ab296a38413f108e84d3ec15",
+        "file_size": 4737006,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "quicksettiles-v1.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quicksettiles-v1.0.3"
+  },
+  "packageme": {
+    "source_repository": "WorkFluently/PackageMe",
+    "source_release_id": 442560547,
+    "source_tag": "v1.4",
+    "source_published_at": "2026-11-12T06:13:38Z",
+    "synced_at": "2026-11-12T06:52:46.381007+00:00",
+    "assets": [
+      {
+        "source_asset_id": 738308524,
+        "filename": "PackageMe.apk",
+        "original_filename": "PackageMe.apk",
+        "sha256": "3363aea915d119d2f61c45ecca87eed29bb8aa15e254bdd56a7dca4a9d3a67be",
+        "file_size": 2172532,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "packageme-v1.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/packageme-v1.4"
+  },
+  "mcpadbandroidlogger": {
+    "source_repository": "N2K02/McpAdbAndroidLogger",
+    "source_release_id": 442501640,
+    "source_tag": "v3.3",
+    "source_published_at": "2026-11-12T04:36:41Z",
+    "synced_at": "2026-11-12T06:52:51.753274+00:00",
+    "assets": [
+      {
+        "source_asset_id": 738078328,
+        "filename": "McpAdbAndroidLogger-3.3.apk",
+        "original_filename": "McpAdbAndroidLogger-3.3.apk",
+        "sha256": "06bb5357ca1153c3305eb23f1d4d82790a46c39d3357349a1232c762393fe9e2",
+        "file_size": 29644793,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mcpadbandroidlogger-v3.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mcpadbandroidlogger-v3.3"
+  },
+  "jack-ai": {
+    "source_repository": "Augdgasjkh354-lang/jack-ai",
+    "source_release_id": 442575814,
+    "source_tag": "v1.1.237",
+    "source_published_at": "2026-11-12T06:36:04Z",
+    "synced_at": "2026-11-12T06:53:00.857521+00:00",
+    "assets": [
+      {
+        "source_asset_id": 738366992,
+        "filename": "Kavi-v1.1.237.apk",
+        "original_filename": "Kavi-v1.1.237.apk",
+        "sha256": "aad33eab50295ab4422be3ec316cc3e12c3756cbb86e3cf8ba3e283baa0dcf87",
+        "file_size": 106519435,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "jack-ai-v1.1.237",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/jack-ai-v1.1.237"
+  },
+  "dilink-auto-android": {
+    "source_repository": "ID-VerNe/dilink-auto-android",
+    "source_release_id": 432537403,
+    "source_tag": "v1.0.3",
+    "source_published_at": "2026-11-03T10:15:38Z",
+    "synced_at": "2026-11-12T06:53:06.808074+00:00",
+    "assets": [
+      {
+        "source_asset_id": 705163173,
+        "filename": "DiLinkAuto-Car.apk",
+        "original_filename": "DiLinkAuto-Car.apk",
+        "sha256": "da3fff3790fe241da6b3d8ded517168b12af174e098699fef5a410e382abc31f",
+        "file_size": 1772241,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 705163175,
+        "filename": "DiLinkAuto-Phone.apk",
+        "original_filename": "DiLinkAuto-Phone.apk",
+        "sha256": "d5ba6ddf0f68bd93b749ca577b259208d11e12c85bf8575dde66aa9c45b3e933",
+        "file_size": 5610078,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dilink-auto-android-v1.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dilink-auto-android-v1.0.3"
+  },
+  "corniche": {
+    "source_repository": "YoannDev90/Corniche",
+    "source_release_id": 424338611,
+    "source_tag": "v1.3.0",
+    "source_published_at": "2026-10-26T14:16:34Z",
+    "synced_at": "2026-11-12T06:53:10.353000+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678384296,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "e524696b29b84556600cb579997762314a177375c94d4fb82bd6d98d269f944b",
+        "file_size": 1897010,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "corniche-v1.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/corniche-v1.3.0"
   }
 }
