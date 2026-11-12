@@ -271,16 +271,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **Time-My-Galaxy** | MocLG | `v1.3` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/time-my-galaxy-v1.3) | [Upstream](https://github.com/MocLG/Time-My-Galaxy/releases) |
-| ⚡ **messenger-direct-bubbles** | ershadulkhan | `v1.23.25` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/messenger-direct-bubbles-v1.23.25) | [Upstream](https://github.com/ershadulkhan/messenger-direct-bubbles/releases) |
-| ⚡ **dominanter** | alnajashia | `v1.0.4` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dominanter-v1.0.4) | [Upstream](https://github.com/alnajashia/dominanter/releases) |
-| ⚡ **AnyAuto** | GitMag | `v0.6` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/anyauto-v0.6) | [Upstream](https://github.com/GitMag/AnyAuto/releases) |
-| ⚡ **usefulapks** | vibecodeboredom | `adbboot-1.0.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/usefulapks-adbboot-1.0.0) | [Upstream](https://github.com/vibecodeboredom/usefulapks/releases) |
-| ⚡ **VyomaConnect** | Prajwaljb | `v0.7.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vyomaconnect-v0.7.0) | [Upstream](https://github.com/Prajwaljb/VyomaConnect/releases) |
-| ⚡ **kingmakers-rp** | thuwanishark2001-art | `v1.0.0-standalone` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kingmakers-rp-v1.0.0-standalone) | [Upstream](https://github.com/thuwanishark2001-art/kingmakers-rp/releases) |
-| ⚡ **FrameScope** | yashsaxena15 | `v1.1.1` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/framescope-v1.1.1) | [Upstream](https://github.com/yashsaxena15/FrameScope/releases) |
-| ⚡ **sapu** | laidudum | `v0.2.0` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sapu-v0.2.0) | [Upstream](https://github.com/laidudum/sapu/releases) |
-| ⚡ **BreezeIsland** | thanhphong28 | `v1.7.6` | 2026-11-10 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/breezeisland-v1.7.6) | [Upstream](https://github.com/thanhphong28/BreezeIsland/releases) |
+| ⚡ **lapisroot** | nekounknown | `v0.1.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lapisroot-v0.1.0) | [Upstream](https://github.com/nekounknown/lapisroot/releases) |
+| ⚡ **es-de-overlay** | clintonium-119 | `v1.1.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/es-de-overlay-v1.1.0) | [Upstream](https://github.com/clintonium-119/es-de-overlay/releases) |
+| ⚡ **minori** | wonderhoy-labs | `v0.6.1` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/minori-v0.6.1) | [Upstream](https://github.com/wonderhoy-labs/minori/releases) |
+| ⚡ **HondaScanner** | Murilo358 | `v0.39` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hondascanner-v0.39) | [Upstream](https://github.com/Murilo358/HondaScanner/releases) |
+| ⚡ **Axgent** | bingxizhe | `v1.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/axgent-v1.0) | [Upstream](https://github.com/bingxizhe/Axgent/releases) |
+| ⚡ **ExtractKit** | qq2770355800 | `v9.29` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/extractkit-v9.29) | [Upstream](https://github.com/qq2770355800/ExtractKit/releases) |
+| ⚡ **hermes-pocket** | Zcc09 | `v1.5.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hermes-pocket-v1.5.0) | [Upstream](https://github.com/Zcc09/hermes-pocket/releases) |
+| ⚡ **OpenMinis-standalone** | Aukimor | `1.16.6` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/openminis-standalone-1.16.6) | [Upstream](https://github.com/Aukimor/OpenMinis-standalone/releases) |
+| ⚡ **Eternal-Garden-Py** | CYX-PyEditor | `V5.6.8` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/eternal-garden-py-V5.6.8) | [Upstream](https://github.com/CYX-PyEditor/Eternal-Garden-Py/releases) |
+| ⚡ **tv-settings** | throwarray | `v1.0.0` | 2026-11-11 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-settings-v1.0.0) | [Upstream](https://github.com/throwarray/tv-settings/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
