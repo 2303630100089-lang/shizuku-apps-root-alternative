@@ -2275,7 +2275,19 @@
     "Self-hosted multi-device AI assistant powered by Pi, with Windows, Linux and Android clients.": "由 Pi 提供支持的自托管多设备 AI 助手，提供 Windows、Linux 和 Android 客户端。",
     "Open-source self-ADB app manager for Android 10+ (Kotlin/Compose): multi-device, debloat, APK backup/install, remote icons.": "适用于 Android 10+ 的开源自 ADB 应用管理器（Kotlin/Compose）：多设备、精简、APK 备份/安装、远程图标。",
     "A bridge connector for claude android or others to debug logs on phone.": "用于 Claude Android 或其他应用程序在手机上调试日志的桥接连接器。",
-    "clintonium-119": "克林顿锘-119"
+    "clintonium-119": "克林顿锘-119",
+    "Android phone as an MCP capability provider: FastMCP bridge over TLS with device token": "Android 手机作为 MCP 功能提供者：使用设备令牌通过 TLS 进行 FastMCP 桥接",
+    "One TV Launcher: launcher para Android TV / Google TV": "One TV Launcher：Android TV / Google TV 的启动器",
+    "DealPilot AI — Android shopping assistant with native phone browsing, product comparisons and buyer-approved PayPal Sandbox checkout": "DealPilot AI — Android 购物助手，具有本机手机浏览、产品比较和买家认可的 PayPal Sandbox 结账功能",
+    "Mirror and control Android phones from your Mac over USB, wireless debugging or plain Wi-Fi. Second screens, an MCP server for coding agents, and a companion phone app.": "通过 USB、无线调试或普通 Wi-Fi 从 Mac 镜像和控制 Android 手机。第二个屏幕、用于编码代理的 MCP 服务器以及配套的手机应用程序。",
+    "android-dev-settings": "android-dev-设置",
+    "DSHBox — 移动端本地运行和远程操控 DeepSeek Harness。自带终端、文件管理器、浏览器、手机操控等工具，致力打造一站式随身 AI 工作台，免 ROOT 和 Termux。": "DSHBox — 移动端本地运行和远程操纵DeepSeek Harness。自带终端、文件管理器、浏览器、手机操纵器等工具，致力打造一体化AI工作台，免ROOT和Termux。",
+    "Wireless ADB that reconnects by itself: a small Android app and a CLI that bring debugging back after a reboot, a Wi-Fi change or a rotated port.": "自行重新连接的无线 ADB：一个小型 Android 应用程序和一个 CLI，可在重新启动、Wi-Fi 更改或旋转端口后恢复调试。",
+    "An app that shows edge pops/animation when you press volume or power buttons, and a custom volume slider inspired by a concept design is now a reality": "当您按下音量或电源按钮时显示边缘弹出/动画的应用程序，以及受概念设计启发的自定义音量滑块现已成为现实",
+    "Android ?????:ROOT/Shizuku ??,????/??/??/??/??(???,????? HTTP ????)": "Android ??????:ROOT/Shizuku ??,???//??/??/??/??(???,?????? HTTP ??????)",
+    "| **[Jarvis](https://github.com/VadymYem/Jarvis)** | Jarvis \\| AuthorAI: Native Android AI agent with Compose, Accessibility automation, Shizuku privilege separation, local GGUF/llama.cpp inference, and structured tool runtime | See project | [GitHub](https://github.com/VadymYem/Jarvis) |": "| ** [Jarvis](https://github.com/VadymYem/Jarvis) ** |贾维斯\\| AuthorAI：具有 Compose、辅助功能自动化、Shizuku 权限分离、本地 GGUF/llama.cpp 推理和结构化工具运行时的原生 Android AI 代理 |查看项目 | [GitHub](https://github.com/VadymYem/Jarvis) |",
+    "Galaxy tweaks without root — match Fold screen DPI, lock refresh rate, hide the status bar, debloat & more via Shizuku. English / 한국어": "Galaxy 无需 root 即可调整 - 通过 Shizuku 匹配折叠屏幕 DPI、锁定刷新率、隐藏状态栏、消肿等。英语 / 한국어",
+    "A disguise for your map while you're driving": "开车时地图的伪装"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -4553,6 +4565,18 @@
     "Self-hosted multi-device AI assistant powered by Pi, with Windows, Linux and Android clients.": "Автономный ИИ-ассистент для нескольких устройств на базе Pi с клиентами для Windows, Linux и Android.",
     "Open-source self-ADB app manager for Android 10+ (Kotlin/Compose): multi-device, debloat, APK backup/install, remote icons.": "Менеджер приложений с открытым исходным кодом и поддержкой ADB для Android 10+ (Kotlin/Compose): поддержка нескольких устройств, удаление ненужных приложений, резервное копирование/установка APK-файлов, удаленные значки.",
     "A bridge connector for claude android or others to debug logs on phone.": "Мостовой соединитель для Claude Android или других устройств для отладки журналов на телефоне.",
-    "clintonium-119": "клинтониум-119"
+    "clintonium-119": "клинтониум-119",
+    "DealPilot AI — Android shopping assistant with native phone browsing, product comparisons and buyer-approved PayPal Sandbox checkout": "DealPilot AI — помощник для покупок на базе Android с возможностью просмотра на телефоне, сравнения продуктов и одобренной покупателем проверки в песочнице PayPal.",
+    "One TV Launcher: launcher para Android TV / Google TV": "One TV Launcher: программа запуска для Android TV / Google TV",
+    "Android phone as an MCP capability provider: FastMCP bridge over TLS with device token": "Телефон Android как поставщик возможностей MCP: мост FastMCP через TLS с токеном устройства",
+    "android-dev-settings": "настройки Android-разработчика",
+    "DSHBox — 移动端本地运行和远程操控 DeepSeek Harness。自带终端、文件管理器、浏览器、手机操控等工具，致力打造一站式随身 AI 工作台，免 ROOT 和 Termux。": "DSHBox — 移动端本地运行和远程操控 DeepSeek Harness (ремни безопасности). КОРЕНЬ — Termux.",
+    "Wireless ADB that reconnects by itself: a small Android app and a CLI that bring debugging back after a reboot, a Wi-Fi change or a rotated port.": "Беспроводной ADB, который подключается самостоятельно: небольшое приложение для Android и интерфейс командной строки, который возвращает отладку после перезагрузки, изменения Wi-Fi или смены порта.",
+    "Android ?????:ROOT/Shizuku ??,????/??/??/??/??(???,????? HTTP ????)": "Android ?????:ROOT/Shizuku ??,????/??/??/??/??(???,???? HTTP ????)",
+    "Mirror and control Android phones from your Mac over USB, wireless debugging or plain Wi-Fi. Second screens, an MCP server for coding agents, and a companion phone app.": "Зеркально отображайте и управляйте телефонами Android с вашего Mac через USB, беспроводную отладку или обычный Wi-Fi. Вторые экраны, сервер MCP для агентов кодирования и сопутствующее приложение для телефона.",
+    "Galaxy tweaks without root — match Fold screen DPI, lock refresh rate, hide the status bar, debloat & more via Shizuku. English / 한국어": "Настройки Galaxy без рута — настройка разрешения экрана при складывании, блокировка частоты обновления, скрытие строки состояния, раздувание и многое другое с помощью Shizuku. Английский / 한국어",
+    "An app that shows edge pops/animation when you press volume or power buttons, and a custom volume slider inspired by a concept design is now a reality": "Приложение, которое показывает всплывающие окна/анимацию при нажатии кнопок громкости или питания, а также настраиваемый ползунок громкости, вдохновленный концептуальным дизайном, теперь стало реальностью.",
+    "| **[Jarvis](https://github.com/VadymYem/Jarvis)** | Jarvis \\| AuthorAI: Native Android AI agent with Compose, Accessibility automation, Shizuku privilege separation, local GGUF/llama.cpp inference, and structured tool runtime | See project | [GitHub](https://github.com/VadymYem/Jarvis) |": "| ** [Jarvis](https://github.com/VadymYem/Jarvis) ** | Джарвис \\| AuthorAI: собственный AI-агент Android с Compose, автоматизацией специальных возможностей, разделением привилегий Shizuku, локальным выводом GGUF/llama.cpp и структурированной средой выполнения инструментов | Посмотреть проект | [GitHub](https://github.com/VadymYem/Jarvis) |",
+    "A disguise for your map while you're driving": "Маскировка для вашей карты во время вождения"
   }
 }
