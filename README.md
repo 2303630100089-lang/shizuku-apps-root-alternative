@@ -985,16 +985,16 @@ A dedicated zero-dependency terminal companion to search 500+ apps, inspect meta
 
 | App | Developer | Version | Released | APK | Upstream |
 |:---|:---|:---|:---|:---|:---|
-| ⚡ **one-tv-launcher** | ChrnX0 | `v454980` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/one-tv-launcher-v454980) | [Upstream](https://github.com/ChrnX0/one-tv-launcher/releases) |
-| ⚡ **AudioPlayer** | FDzaki-dev | `v1.10.5-run618` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioplayer-v1.10.5-run618) | [Upstream](https://github.com/FDzaki-dev/AudioPlayer/releases) |
-| ⚡ **AudioEnhancerPro** | FDzaki-dev | `v350-run43323678623` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/audioenhancerpro-v350-run43323678623) | [Upstream](https://github.com/FDzaki-dev/AudioEnhancerPro/releases) |
-| ⚡ **pixlink** | FatalQuackers | `v1.0.3` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pixlink-v1.0.3) | [Upstream](https://github.com/FatalQuackers/pixlink/releases) |
-| ⚡ **pocketscreen** | AlreadyNoob | `v0.20.56` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocketscreen-v0.20.56) | [Upstream](https://github.com/AlreadyNoob/pocketscreen/releases) |
-| ⚡ **crosstune** | astrovm | `v2.26.0` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/crosstune-v2.26.0) | [Upstream](https://github.com/astrovm/crosstune/releases) |
-| ⚡ **Haven** | GlassHaven | `v5.94.38` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/haven-v5.94.38) | [Upstream](https://github.com/GlassHaven/Haven/releases) |
-| ⚡ **DriveSanity** | byjoelsamuel | `v0.13.0` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/drivesanity-v0.13.0) | [Upstream](https://github.com/byjoelsamuel/DriveSanity/releases) |
-| ⚡ **pocket-xr** | pocket-xr | `v1.4.4` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/pocket-xr-v1.4.4) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
-| ⚡ **earhop** | akbehera5000 | `v1.4.1` | 2026-11-12 | [⬇️ Download](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root/releases/tag/earhop-v1.4.1) | [Upstream](https://github.com/akbehera5000/earhop/releases) |
+| ⚡ **one-tv-launcher** | ChrnX0 | `v454980` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/one-tv-launcher-v454980) | [Upstream](https://github.com/ChrnX0/one-tv-launcher/releases) |
+| ⚡ **AudioPlayer** | FDzaki-dev | `v1.10.5-run618` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioplayer-v1.10.5-run618) | [Upstream](https://github.com/FDzaki-dev/AudioPlayer/releases) |
+| ⚡ **AudioEnhancerPro** | FDzaki-dev | `v350-run43323678623` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/audioenhancerpro-v350-run43323678623) | [Upstream](https://github.com/FDzaki-dev/AudioEnhancerPro/releases) |
+| ⚡ **pixlink** | FatalQuackers | `v1.0.3` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixlink-v1.0.3) | [Upstream](https://github.com/FatalQuackers/pixlink/releases) |
+| ⚡ **pocketscreen** | AlreadyNoob | `v0.20.56` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocketscreen-v0.20.56) | [Upstream](https://github.com/AlreadyNoob/pocketscreen/releases) |
+| ⚡ **crosstune** | astrovm | `v2.26.0` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/crosstune-v2.26.0) | [Upstream](https://github.com/astrovm/crosstune/releases) |
+| ⚡ **Haven** | GlassHaven | `v5.94.38` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/haven-v5.94.38) | [Upstream](https://github.com/GlassHaven/Haven/releases) |
+| ⚡ **DriveSanity** | byjoelsamuel | `v0.13.0` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/drivesanity-v0.13.0) | [Upstream](https://github.com/byjoelsamuel/DriveSanity/releases) |
+| ⚡ **pocket-xr** | pocket-xr | `v1.4.4` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pocket-xr-v1.4.4) | [Upstream](https://github.com/pocket-xr/pocket-xr/releases) |
+| ⚡ **earhop** | akbehera5000 | `v1.4.1` | 2026-11-12 | [⬇️ Download](https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/earhop-v1.4.1) | [Upstream](https://github.com/akbehera5000/earhop/releases) |
 
 </details>
 <!-- RECENT-UPDATES-END -->
