@@ -6148,5 +6148,72 @@
     "last_checked": "2026-11-12T23:09:47.324320+00:00",
     "latest_version": "v0.1.31-dealpilot.1",
     "last_synced": "2026-11-12T19:27:49.918396+00:00"
+  },
+  "aura-vibe-vibration": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:11:31.061359+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-13T06:11:31.061359+00:00"
+  },
+  "revcoremanager": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:11:35.955452+00:00",
+    "latest_version": "v26.10.21.r1",
+    "last_synced": "2026-11-13T06:11:35.955452+00:00"
+  },
+  "hyperlyrics": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:11:39.348032+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-13T06:11:39.348032+00:00"
+  },
+  "flipmirror": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:11:42.650956+00:00",
+    "latest_version": "v1.3.4",
+    "last_synced": "2026-11-13T06:11:42.650956+00:00"
+  },
+  "aamaker": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:11:47.901016+00:00",
+    "latest_version": "1.0.0",
+    "last_synced": "2026-11-13T06:11:47.901016+00:00"
+  },
+  "planaloud": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:11:52.239846+00:00",
+    "latest_version": "v1.4.2",
+    "last_synced": "2026-11-13T06:11:52.239846+00:00"
+  },
+  "android-agent-bridge": {
+    "status": "no-apk",
+    "last_checked": "2026-11-13T06:11:52.798137+00:00",
+    "latest_version": "v0.1.0"
+  },
+  "luminaauth": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:12:04.423583+00:00",
+    "latest_version": "v1.1.5-vc217",
+    "last_synced": "2026-11-13T06:12:04.423583+00:00"
+  },
+  "biliview": {
+    "status": "no-apk",
+    "last_checked": "2026-11-13T06:12:04.744466+00:00",
+    "latest_version": "v0.6.2"
+  },
+  "qlm-re": {
+    "status": "synced",
+    "last_checked": "2026-11-13T06:12:09.423041+00:00",
+    "latest_version": "v3.1.1",
+    "last_synced": "2026-11-13T06:12:09.423041+00:00"
+  },
+  "tiaotiao": {
+    "status": "no-apk",
+    "last_checked": "2026-11-13T06:12:09.745036+00:00"
+  },
+  "dsh-android-chiheiheideya": {
+    "status": "no-apk",
+    "last_checked": "2026-11-13T06:12:10.104244+00:00",
+    "latest_version": "v0.4.0"
   }
 }
