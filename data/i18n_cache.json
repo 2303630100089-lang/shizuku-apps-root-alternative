@@ -2653,7 +2653,20 @@
     "An open-source Android launch-ad skipper with on-device recognition, optional AI learning, and locally verified rules. No root required.": "一款开源 Android 启动广告跳转程序，具有设备识别、可选的人工智能学习和本地验证的规则。无需root。",
     "byjoelsamuel": "比约尔萨缪尔",
     "DSH-Android 的 chiheiheideya 构建：会话迁移导入、中文思考、导出进度（基于开源 DeepSeek Harness）": "DSH-Android 的 chiheiheideya 构建：会话迁移导入、中文思考、导出进度（基于开源 DeepSeek Harness）",
-    "BiliView · Android 上的 B 站视频与合集批量下载、离线缓存转换和 MP4 弹幕烧录。": "BiliView · Android 上的 B 站视频与合集批量下载、离线存储转换和 MP4 弹幕烧录。"
+    "BiliView · Android 上的 B 站视频与合集批量下载、离线缓存转换和 MP4 弹幕烧录。": "BiliView · Android 上的 B 站视频与合集批量下载、离线存储转换和 MP4 弹幕烧录。",
+    "Private DNS Switcher v3 — widgets, Shizuku setup and themes": "Private DNS Switcher v3 — 小部件、Shizuku 设置和主题",
+    "Baixador Android do pacote de dados do Fuzzy: Rust + Shizuku + Compose": "Baixador Android 的 Fuzzy 包：Rust + Shizuku + Compose",
+    "A comprehensive, modern Android application for Wi-Fi analysis, signal graphing, LAN discovery, and network telemetry built with Jetpack Compose.": "一款全面的现代 Android 应用程序，用于使用 Jetpack Compose 构建的 Wi-Fi 分析、信号绘图、LAN 发现和网络遥测。",
+    "Yucheng-wz": "雨城威兹",
+    "anhxuan989": "安轩989",
+    "TonyVictor88": "托尼维克多88",
+    "Native Android psychedelic visualizer with optional beat and bar tracking for microphone and system audio.": "本机 Android 迷幻可视化工具，具有可选的节拍和小节跟踪功能，适用于麦克风和系统音频。",
+    "cniv14": "cniv14",
+    "revBlackCore": "RevBlackCore",
+    "NekohaCatNya": "猫猫猫",
+    "OpenSweep is a free, open-source cleaner for Windows and Android. Scan shared phone storage, remove duplicates and junk, review large files, and optionally trim app caches with Shizuku. Windows adds startup management, storage reports and software updates.": "OpenSweep 是一款适用于 Windows 和 Android 的免费开源清理器。扫描共享手机存储、删除重复项和垃圾、查看大文件，并可选择使用 Shizuku 修剪应用程序缓存。 Windows 添加了启动管理、存储报告和软件更新。",
+    "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。": "可自由收纳的Android虚拟键鼠悬浮层，通过Shizuku注入系统输入。 改装云游戏 / 串流 / 模拟器 / 手工游。",
+    "GeniusQA": "天才QA"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -5309,6 +5322,19 @@
     "BiliView · Android 上的 B 站视频与合集批量下载、离线缓存转换和 MP4 弹幕烧录。": "BiliView · Android 上的 B, проигрыватель MP4 и MP4.",
     "DSH-Android 的 chiheiheideya 构建：会话迁移导入、中文思考、导出进度（基于开源 DeepSeek Harness）": "DSH-Android 的 chiheiheideya 构建：会话迁移导入、中文思考、导出进度（基于开源 DeepSeek Harness）",
     "angga-syah": "ангга-сях",
-    "byjoelsamuel": "Автор: Джоэлсэмюэль"
+    "byjoelsamuel": "Автор: Джоэлсэмюэль",
+    "Yucheng-wz": "Юйчэн-wz",
+    "A comprehensive, modern Android application for Wi-Fi analysis, signal graphing, LAN discovery, and network telemetry built with Jetpack Compose.": "Комплексное современное приложение для Android для анализа Wi-Fi, построения графиков сигналов, обнаружения локальных сетей и сетевой телеметрии, созданное с помощью Jetpack Compose.",
+    "Baixador Android do pacote de dados do Fuzzy: Rust + Shizuku + Compose": "Baixador Android с пакетом данных для Fuzzy: Rust + Shizuku + Compose",
+    "Private DNS Switcher v3 — widgets, Shizuku setup and themes": "Private DNS Switcher v3 — виджеты, настройка Shizuku и темы",
+    "TonyVictor88": "ТониВиктор88",
+    "anhxuan989": "anhxuan989",
+    "revBlackCore": "revBlackCore",
+    "cniv14": "cniv14",
+    "OpenSweep is a free, open-source cleaner for Windows and Android. Scan shared phone storage, remove duplicates and junk, review large files, and optionally trim app caches with Shizuku. Windows adds startup management, storage reports and software updates.": "OpenSweep — это бесплатный очиститель с открытым исходным кодом для Windows и Android. Сканируйте общую память телефона, удаляйте дубликаты и ненужные файлы, просматривайте большие файлы и при необходимости обрезайте кэш приложений с помощью Shizuku. Windows добавляет управление запуском, отчеты о хранилище и обновления программного обеспечения.",
+    "Native Android psychedelic visualizer with optional beat and bar tracking for microphone and system audio.": "Собственный психоделический визуализатор для Android с дополнительным отслеживанием тактов и тактов для микрофона и системного звука.",
+    "GeniusQA": "GeniusQA",
+    "NekohaCatNya": "НекохаКотНя",
+    "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。": "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 /原生手游。"
   }
 }

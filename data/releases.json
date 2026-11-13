@@ -23148,5 +23148,165 @@
     ],
     "mirror_release_tag": "qlm-re-v3.1.5",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/qlm-re-v3.1.5"
+  },
+  "glide-tv": {
+    "source_repository": "Kw3nty/glide-tv",
+    "source_release_id": 444419493,
+    "source_tag": "v0.2.1",
+    "source_published_at": "2026-11-13T15:50:26Z",
+    "synced_at": "2026-11-13T19:29:53.775688+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744216686,
+        "filename": "glide-tv-v0.2.1-release.apk",
+        "original_filename": "glide-tv-v0.2.1-release.apk",
+        "sha256": "336efc0656b185a62b8a001a6e409599cbbcbffcfaf1b965c76ab0db06bff24d",
+        "file_size": 4166203,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "glide-tv-v0.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/glide-tv-v0.2.1"
+  },
+  "gamepadmapperpluton": {
+    "source_repository": "Hades0413/GamePadMapperPluton",
+    "source_release_id": 444634311,
+    "source_tag": "v1.3",
+    "source_published_at": "2026-11-13T19:12:15Z",
+    "synced_at": "2026-11-13T19:29:57.217090+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744848621,
+        "filename": "GamepadMapperPluton-1.3.apk",
+        "original_filename": "GamepadMapperPluton-1.3.apk",
+        "sha256": "bc185ae1d9a0b0954dfc59d2746fe43da67d42cbd48494fcf561911d673b5573",
+        "file_size": 961133,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "gamepadmapperpluton-v1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gamepadmapperpluton-v1.3"
+  },
+  "osboost": {
+    "source_repository": "Ysfzone/osboost",
+    "source_release_id": 444433773,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-13T16:03:56Z",
+    "synced_at": "2026-11-13T19:30:00.504774+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744258394,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "374832e89176d4bdf40afacfbcc4688caee569ec0419c2688e1c78e3f00c35f3",
+        "file_size": 250594,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "osboost-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/osboost-v1.0.0"
+  },
+  "opensweep": {
+    "source_repository": "dinesh-devkota/OpenSweep",
+    "source_release_id": 444588560,
+    "source_tag": "v1.5.1",
+    "source_published_at": "2026-11-13T18:25:33Z",
+    "synced_at": "2026-11-13T19:30:06.272086+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744708506,
+        "filename": "OpenSweep.apk",
+        "original_filename": "OpenSweep.apk",
+        "sha256": "9f65a712a593a8686f7b821156e0433b1572cda0eedc6cefe213cfef32e76b38",
+        "file_size": 120489,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 744708539,
+        "filename": "SqueakySift.apk",
+        "original_filename": "SqueakySift.apk",
+        "sha256": "9f65a712a593a8686f7b821156e0433b1572cda0eedc6cefe213cfef32e76b38",
+        "file_size": 120489,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "opensweep-v1.5.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opensweep-v1.5.1"
+  },
+  "shizuku-keypad": {
+    "source_repository": "114514hhha233/shizuku-keypad",
+    "source_release_id": 444361822,
+    "source_tag": "v1.6.1",
+    "source_published_at": "2026-11-13T14:58:17Z",
+    "synced_at": "2026-11-13T19:30:09.814314+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744049695,
+        "filename": "shizuku-keypad-1.6.1.apk",
+        "original_filename": "shizuku-keypad-1.6.1.apk",
+        "sha256": "980e3320b2f07cf5f00ffa291db2f83e6cc05fdf1615ed299b0a2913d5702d82",
+        "file_size": 1095004,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "shizuku-keypad-v1.6.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-keypad-v1.6.1"
+  },
+  "fuzzy-downloader": {
+    "source_repository": "deivid22srk/fuzzy-downloader",
+    "source_release_id": 444594645,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-13T18:31:57Z",
+    "synced_at": "2026-11-13T19:30:14.158299+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744728413,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "ed88e154a46780362a1a0fe6b882808aa261533b2e06982f70e1e6ac87b69d0e",
+        "file_size": 7058243,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "fuzzy-downloader-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fuzzy-downloader-v1.0.1"
+  },
+  "privatednsonetap": {
+    "source_repository": "rdavydov/PrivateDnsOneTap",
+    "source_release_id": 444388713,
+    "source_tag": "3.0.3",
+    "source_published_at": "2026-11-13T15:22:20Z",
+    "synced_at": "2026-11-13T19:30:17.796251+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744123049,
+        "filename": "Private.DNS.Switcher.3.0.3.apk",
+        "original_filename": "Private.DNS.Switcher.3.0.3.apk",
+        "sha256": "439a97b29cbf7f9fa2378f1affa45defeafdd5066da6fcdc72f16a632d5fc83b",
+        "file_size": 208476,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "privatednsonetap-3.0.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/privatednsonetap-3.0.3"
+  },
+  "gameroute": {
+    "source_repository": "Vyto-Line/GameRoute",
+    "source_release_id": 444600365,
+    "source_tag": "build-63",
+    "source_published_at": "2026-11-13T18:38:04Z",
+    "synced_at": "2026-11-13T19:30:21.719958+00:00",
+    "assets": [
+      {
+        "source_asset_id": 744748438,
+        "filename": "GameRoute.apk",
+        "original_filename": "GameRoute.apk",
+        "sha256": "4aae2d908316a830e451d9281b393f5feb636aa84f2c43c79ee7eff2e54ae79c",
+        "file_size": 3338963,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "gameroute-build-63",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gameroute-build-63"
   }
 }

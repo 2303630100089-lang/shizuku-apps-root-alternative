@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-13T13:29:47.257932+00:00",
+    "last_checked": "2026-11-13T19:30:14.668148+00:00",
     "latest_version": "zako3.17",
     "last_synced": "2026-10-31T11:27:18.081089+00:00"
   },
@@ -1633,7 +1633,7 @@
   },
   "prism": {
     "status": "no-apk",
-    "last_checked": "2026-11-13T13:34:51.679497+00:00",
+    "last_checked": "2026-11-13T19:30:18.129135+00:00",
     "latest_version": "v3.0"
   },
   "retro-launcher-open": {
@@ -6214,5 +6214,53 @@
     "status": "no-apk",
     "last_checked": "2026-11-13T13:46:14.713976+00:00",
     "latest_version": "v0.4.0"
+  },
+  "glide-tv": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:29:53.775716+00:00",
+    "latest_version": "v0.2.1",
+    "last_synced": "2026-11-13T19:29:53.775716+00:00"
+  },
+  "gamepadmapperpluton": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:29:57.217116+00:00",
+    "latest_version": "v1.3",
+    "last_synced": "2026-11-13T19:29:57.217116+00:00"
+  },
+  "osboost": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:30:00.504795+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-13T19:30:00.504795+00:00"
+  },
+  "opensweep": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:30:06.272108+00:00",
+    "latest_version": "v1.5.1",
+    "last_synced": "2026-11-13T19:30:06.272108+00:00"
+  },
+  "shizuku-keypad": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:30:09.814337+00:00",
+    "latest_version": "v1.6.1",
+    "last_synced": "2026-11-13T19:30:09.814337+00:00"
+  },
+  "fuzzy-downloader": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:30:14.158319+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-13T19:30:14.158319+00:00"
+  },
+  "privatednsonetap": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:30:17.796272+00:00",
+    "latest_version": "3.0.3",
+    "last_synced": "2026-11-13T19:30:17.796272+00:00"
+  },
+  "gameroute": {
+    "status": "synced",
+    "last_checked": "2026-11-13T19:30:21.719977+00:00",
+    "latest_version": "build-63",
+    "last_synced": "2026-11-13T19:30:21.719977+00:00"
   }
 }
