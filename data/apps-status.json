@@ -332,8 +332,8 @@
     "last_synced": "2026-11-10T22:40:04.649148+00:00"
   },
   "shizako": {
-    "status": "synced",
-    "last_checked": "2026-11-14T12:35:37.659379+00:00",
+    "status": "no-update",
+    "last_checked": "2026-11-14T17:53:41.663978+00:00",
     "latest_version": "zako3.19",
     "last_synced": "2026-11-14T12:35:37.659379+00:00"
   },
@@ -6110,7 +6110,7 @@
   },
   "packageme": {
     "status": "no-apk",
-    "last_checked": "2026-11-14T12:47:56.463858+00:00",
+    "last_checked": "2026-11-14T17:53:26.812466+00:00",
     "latest_version": "v1.4.67",
     "last_synced": "2026-11-12T19:27:06.100298+00:00"
   },
@@ -6342,5 +6342,101 @@
     "last_checked": "2026-11-14T12:48:43.000403+00:00",
     "latest_version": "2026.11.14.4",
     "last_synced": "2026-11-14T12:48:43.000403+00:00"
+  },
+  "bluelock-next": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:16.837170+00:00",
+    "latest_version": "v0.3.2",
+    "last_synced": "2026-11-14T17:53:16.837170+00:00"
+  },
+  "power-tv": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:19.636858+00:00",
+    "latest_version": "v1.5.0",
+    "last_synced": "2026-11-14T17:53:19.636858+00:00"
+  },
+  "essentialsx": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:22.887410+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-11-14T17:53:22.887410+00:00"
+  },
+  "codecobo": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:26.124855+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-14T17:53:26.124855+00:00"
+  },
+  "tcl-nxtpaper-e-ink-pre-commitment-mode": {
+    "status": "no-apk",
+    "last_checked": "2026-11-14T17:53:26.417692+00:00"
+  },
+  "diskflow": {
+    "status": "no-apk",
+    "last_checked": "2026-11-14T17:53:26.752614+00:00",
+    "latest_version": "v1.1.1"
+  },
+  "reposhelf": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:31.626535+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-14T17:53:31.626535+00:00"
+  },
+  "paperplay-compose": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:34.933540+00:00",
+    "latest_version": "v1.4.0",
+    "last_synced": "2026-11-14T17:53:34.933540+00:00"
+  },
+  "key-sync-enhanced": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:37.949450+00:00",
+    "latest_version": "v1.49-android16",
+    "last_synced": "2026-11-14T17:53:37.949450+00:00"
+  },
+  "houston": {
+    "status": "no-apk",
+    "last_checked": "2026-11-14T17:53:38.264363+00:00"
+  },
+  "debloater": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:41.158090+00:00",
+    "latest_version": "v0.9.0",
+    "last_synced": "2026-11-14T17:53:41.158090+00:00"
+  },
+  "zc-control": {
+    "status": "no-apk",
+    "last_checked": "2026-11-14T17:53:42.022394+00:00",
+    "latest_version": "v1.0.1"
+  },
+  "btcallfix": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:44.835341+00:00",
+    "latest_version": "latest",
+    "last_synced": "2026-11-14T17:53:44.835341+00:00"
+  },
+  "tipo-launcher": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:47.590405+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-14T17:53:47.590405+00:00"
+  },
+  "corniche": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:48.307960+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-11-14T17:53:48.307960+00:00"
+  },
+  "boxscreen": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:50.828437+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-14T17:53:50.828437+00:00"
+  },
+  "astralparty-toys-android": {
+    "status": "synced",
+    "last_checked": "2026-11-14T17:53:53.836883+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-11-14T17:53:53.836883+00:00"
   }
 }
