@@ -6262,5 +6262,85 @@
     "last_checked": "2026-11-14T03:51:44.913861+00:00",
     "latest_version": "build-70",
     "last_synced": "2026-11-14T03:51:44.913861+00:00"
+  },
+  "te-cvb": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:56:46.714793+00:00",
+    "latest_version": "V3.1",
+    "last_synced": "2026-11-14T05:56:46.714793+00:00"
+  },
+  "matte": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:56:50.865941+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-11-14T05:56:50.865941+00:00"
+  },
+  "ar-touchpad": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:56:55.978566+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-11-14T05:56:55.978566+00:00"
+  },
+  "fcmguard-hyperos": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:02.262817+00:00",
+    "latest_version": "v2.0.1",
+    "last_synced": "2026-11-14T05:57:02.262817+00:00"
+  },
+  "contigua": {
+    "status": "no-apk",
+    "last_checked": "2026-11-14T05:57:02.554459+00:00"
+  },
+  "aegis": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:06.222180+00:00",
+    "latest_version": "v0.7.0",
+    "last_synced": "2026-11-14T05:57:06.222180+00:00"
+  },
+  "opencyclone": {
+    "status": "no-apk",
+    "last_checked": "2026-11-14T05:57:06.669265+00:00"
+  },
+  "sonicraft-dsp": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:10.706336+00:00",
+    "latest_version": "v0.2.3",
+    "last_synced": "2026-11-14T05:57:10.706336+00:00"
+  },
+  "cmf-essential-remapper": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:17.565189+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-14T05:57:17.565189+00:00"
+  },
+  "dsumanager": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:21.189492+00:00",
+    "latest_version": "v2.1.5",
+    "last_synced": "2026-11-14T05:57:21.189492+00:00"
+  },
+  "savesync": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:28.098661+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-14T05:57:28.098661+00:00"
+  },
+  "ketaiqian": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:37.756163+00:00",
+    "latest_version": "v1.16.14",
+    "last_synced": "2026-11-14T05:57:37.756163+00:00"
+  },
+  "selfiestick": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:40.871171+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-14T05:57:40.871171+00:00"
+  },
+  "fk-box": {
+    "status": "synced",
+    "last_checked": "2026-11-14T05:57:48.730197+00:00",
+    "latest_version": "2026.11.14.2",
+    "last_synced": "2026-11-14T05:57:48.730197+00:00"
   }
 }

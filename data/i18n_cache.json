@@ -2666,7 +2666,23 @@
     "NekohaCatNya": "猫猫猫",
     "OpenSweep is a free, open-source cleaner for Windows and Android. Scan shared phone storage, remove duplicates and junk, review large files, and optionally trim app caches with Shizuku. Windows adds startup management, storage reports and software updates.": "OpenSweep 是一款适用于 Windows 和 Android 的免费开源清理器。扫描共享手机存储、删除重复项和垃圾、查看大文件，并可选择使用 Shizuku 修剪应用程序缓存。 Windows 添加了启动管理、存储报告和软件更新。",
     "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。": "可自由收纳的Android虚拟键鼠悬浮层，通过Shizuku注入系统输入。 改装云游戏 / 串流 / 模拟器 / 手工游。",
-    "GeniusQA": "天才QA"
+    "GeniusQA": "天才QA",
+    "在 Android 上管理 DSU 多槽的 Material 3 工具；支持 Root 与 Shizuku 免 Root 原生安装": "在 Android 上管理 DSU 多槽的 Material 3 工具；支持 Root 与 Shizuku 免 Root 原生安装",
+    "A lightweight, open-source Android utility to remap the CMF Essential Key with Nothing OS capsule HUD overlay.": "一款轻量级开源 Android 工具，用于重新映射 CMF Essential Key，并提供 Nothing OS Capsule HUD 叠加层。",
+    "OpenCyclone: open-source AI agent for the Android phone you already own. It does tasks in your apps and asks before it sends, pays, or deletes.": "OpenCyclone：适用于您已拥有的Android手机的开源AI代理。它会在您的应用程序中执行任务，并在发送、支付或删除之前征求您的意见。",
+    "Kw3nty": "Kw3nty",
+    "dinesh-devkota": "dinesh-devkota",
+    "deivid22srk": "deivid22srk",
+    "Android 上的旁路式 DSP 音效引擎：把系统正在播放的音频接进自己的处理链，加完音效再送回输出设备。": "Android 上的旁路式 DSP 音效引擎：将系统正在播放的音频接入自己的处理链，添加音效后再送回输出设备。",
+    "Mac-style continuity for Android: your phone's apps in native Mac windows, over your home network, with the phone locked.": "适用于Android的Mac风格连续性：通过您的家庭网络，在手机锁定的情况下，在原生Mac窗口中运行手机的应用程序。",
+    "Hades0413": "Hades0413",
+    "Aegis — 本地优先的 Android 安全工具：后台风险提醒、DNS 过滤、隐私审计与显式授权的 Root/ADB 主动防护。": "Aegis — 本地优先的 Android 安全工具：后台风险提醒、DNS 过滤、隐私审计与显式授权的 Root/ADB 主动防护。",
+    "Run an adb command at boot by using a temporary / local VPN connection to self-connect.": "使用临时/本地 VPN 连接来自行连接，在启动时运行 adb 命令。",
+    "一款大学生辅助学习app，支持课表查询提醒，自动化修改微信状态，每日自动查寝打卡，学习通及知到刷课等功能": "一款大学生辅助学习app，支持课表查询提醒、自动修改微信状态、每日自动查寝打卡、学习通及知到刷课等功能",
+    "Make ColorOS 17 notifications solid and readable. One tap, no root, fully reversible. For OnePlus, OPPO and realme.": "让 ColorOS 17 的通知更加清晰易读。一键操作，无需 Root，完全可逆。适用于一加、OPPO 和 realme。",
+    "rdavydov": "rdavydov",
+    "114514hhha233": "114514hhha233",
+    "Ysfzone": "Ysfzone"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -5335,6 +5351,22 @@
     "Native Android psychedelic visualizer with optional beat and bar tracking for microphone and system audio.": "Собственный психоделический визуализатор для Android с дополнительным отслеживанием тактов и тактов для микрофона и системного звука.",
     "GeniusQA": "GeniusQA",
     "NekohaCatNya": "НекохаКотНя",
-    "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。": "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 /原生手游。"
+    "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 / 原生手游。": "可自由摆放的 Android 虚拟键鼠悬浮层，通过 Shizuku 注入系统输入。适配云游戏 / 串流 / 模拟器 /原生手游。",
+    "在 Android 上管理 DSU 多槽的 Material 3 工具；支持 Root 与 Shizuku 免 Root 原生安装": "Инструмент Material 3 для управления несколькими слотами DSU на Android; поддержка установки с рутом и без рута с помощью Shizuku",
+    "OpenCyclone: open-source AI agent for the Android phone you already own. It does tasks in your apps and asks before it sends, pays, or deletes.": "OpenCyclone: ИИ-агент с открытым исходным кодом для вашего Android-смартфона. Он выполняет задачи в ваших приложениях и спрашивает разрешения, прежде чем отправлять, оплачивать или удалять что-либо.",
+    "Kw3nty": "Kw3nty",
+    "A lightweight, open-source Android utility to remap the CMF Essential Key with Nothing OS capsule HUD overlay.": "Легкая утилита с открытым исходным кодом для Android, позволяющая переназначить кнопку CMF Essential Key с помощью оверлея HUD капсулы Nothing OS.",
+    "deivid22srk": "deivid22srk",
+    "dinesh-devkota": "динеш-девкота",
+    "Mac-style continuity for Android: your phone's apps in native Mac windows, over your home network, with the phone locked.": "Непрерывность работы в стиле Mac для Android: приложения вашего телефона в собственных окнах Mac через вашу домашнюю сеть при заблокированном телефоне.",
+    "Android 上的旁路式 DSP 音效引擎：把系统正在播放的音频接进自己的处理链，加完音效再送回输出设备。": "Цифровой сигнальный процессор (DSP) с байпасом на Android: направляет воспроизводимый системой звук в собственную цепочку обработки, добавляет звуковые эффекты и отправляет его обратно на устройство вывода.",
+    "Hades0413": "Hades0413",
+    "Aegis — 本地优先的 Android 安全工具：后台风险提醒、DNS 过滤、隐私审计与显式授权的 Root/ADB 主动防护。": "Aegis — 本地优先的 Android 安全工具：后台风险提醒、DNS 过滤、隐私审计与显式授权的 Root/ADB 主动防护。",
+    "Run an adb command at boot by using a temporary / local VPN connection to self-connect.": "Запустите команду adb при загрузке, используя временное/локальное VPN-соединение для самостоятельного подключения.",
+    "一款大学生辅助学习app，支持课表查询提醒，自动化修改微信状态，每日自动查寝打卡，学习通及知到刷课等功能": "Приложение для помощи студентам в учебе, которое поддерживает функции просмотра расписания и напоминаний, автоматического изменения статуса в WeChat, ежедневной автоматической регистрации в общежитии, использования платформ «Xuexitong» и «Zhidao» для посещения занятий и т. д.",
+    "rdavydov": "rdavydov",
+    "Make ColorOS 17 notifications solid and readable. One tap, no root, fully reversible. For OnePlus, OPPO and realme.": "Сделайте уведомления ColorOS 17 четкими и удобочитаемыми. Одно нажатие, без рутинга, полностью обратимо. Для OnePlus, OPPO и realme.",
+    "114514hhha233": "114514hhha233",
+    "Ysfzone": "Ysfzone"
   }
 }

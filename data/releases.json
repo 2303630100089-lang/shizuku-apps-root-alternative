@@ -23340,5 +23340,249 @@
     ],
     "mirror_release_tag": "gameroute-build-70",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gameroute-build-70"
+  },
+  "te-cvb": {
+    "source_repository": "njnan865582375-svg/te-cvb",
+    "source_release_id": 444888113,
+    "source_tag": "V3.1",
+    "source_published_at": "2026-11-14T00:40:53Z",
+    "synced_at": "2026-11-14T05:56:46.714763+00:00",
+    "assets": [
+      {
+        "source_asset_id": 745752776,
+        "filename": "TE.cvb_3.1.apk",
+        "original_filename": "TE.cvb_3.1.apk",
+        "sha256": "cb2b3b340892079759e7bdbd56257f3d8904500218a794d13023725a4f4f2127",
+        "file_size": 370522,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "te-cvb-V3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/te-cvb-V3.1"
+  },
+  "matte": {
+    "source_repository": "nathanrodrigues2111/matte",
+    "source_release_id": 445020059,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-14T04:43:02Z",
+    "synced_at": "2026-11-14T05:56:50.865920+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746318857,
+        "filename": "matte-v0.3.0.apk",
+        "original_filename": "matte-v0.3.0.apk",
+        "sha256": "5b2a7b366cac4e26824d97dcca0ba5df1eaed5f5ce33d2603cbe05eaa5db6fcb",
+        "file_size": 11877261,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "matte-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/matte-v0.3.0"
+  },
+  "ar-touchpad": {
+    "source_repository": "pgratz1/AR-Touchpad",
+    "source_release_id": 313497484,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-04-25T01:31:34Z",
+    "synced_at": "2026-11-14T05:56:55.978547+00:00",
+    "assets": [
+      {
+        "source_asset_id": 405003175,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "614e49007d6bff9bc65b71e1bddd6d732e1a298ba8889269a20dc078795f9bf9",
+        "file_size": 23370820,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ar-touchpad-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ar-touchpad-v1.1"
+  },
+  "fcmguard-hyperos": {
+    "source_repository": "ReedGAOOO/FCMGuard-HyperOS",
+    "source_release_id": 445032598,
+    "source_tag": "v2.0.1",
+    "source_published_at": "2026-11-14T05:12:13Z",
+    "synced_at": "2026-11-14T05:57:02.262792+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746382271,
+        "filename": "FCMGuard-HyperOS-v2.0.1.apk",
+        "original_filename": "FCMGuard-HyperOS-v2.0.1.apk",
+        "sha256": "3d8bd170ca5871f38675418dc5e458ecc528aba85a89546d72b6f18d8984daab",
+        "file_size": 158942,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 746382268,
+        "filename": "FCMGuard-HyperOS.apk",
+        "original_filename": "FCMGuard-HyperOS.apk",
+        "sha256": "3d8bd170ca5871f38675418dc5e458ecc528aba85a89546d72b6f18d8984daab",
+        "file_size": 158942,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "fcmguard-hyperos-v2.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fcmguard-hyperos-v2.0.1"
+  },
+  "aegis": {
+    "source_repository": "S1LENCE-D/Aegis",
+    "source_release_id": 445054188,
+    "source_tag": "v0.7.0",
+    "source_published_at": "2026-11-14T05:53:37Z",
+    "synced_at": "2026-11-14T05:57:06.222156+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746472966,
+        "filename": "Aegis-0.7.0.apk",
+        "original_filename": "Aegis-0.7.0.apk",
+        "sha256": "a187fc35f05664cabcb852466570c46047ce309edcd80a0d700267d95c663901",
+        "file_size": 2883250,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "aegis-v0.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aegis-v0.7.0"
+  },
+  "sonicraft-dsp": {
+    "source_repository": "jiangjie977/Sonicraft-DSP",
+    "source_release_id": 444969872,
+    "source_tag": "v0.2.3",
+    "source_published_at": "2026-11-14T02:54:41Z",
+    "synced_at": "2026-11-14T05:57:10.706315+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746074727,
+        "filename": "Sonicraft-0.2.3-release.apk",
+        "original_filename": "Sonicraft-0.2.3-release.apk",
+        "sha256": "dfc9bd0a0d2b2998187313e0d5eac974c9ab94e6f15d201b7b820dce85e44e7c",
+        "file_size": 10209054,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sonicraft-dsp-v0.2.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sonicraft-dsp-v0.2.3"
+  },
+  "cmf-essential-remapper": {
+    "source_repository": "taher-dev/cmf-essential-remapper",
+    "source_release_id": 437530785,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-07T11:25:37Z",
+    "synced_at": "2026-11-14T05:57:17.565168+00:00",
+    "assets": [
+      {
+        "source_asset_id": 720498302,
+        "filename": "CMF-Essential-Remapper-v1.0.0.apk",
+        "original_filename": "CMF-Essential-Remapper-v1.0.0.apk",
+        "sha256": "d529ada51c797af3322490ae3b2c98b55b8459fd56c7524a3905fe039953c64a",
+        "file_size": 42128259,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "cmf-essential-remapper-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cmf-essential-remapper-v1.0.0"
+  },
+  "dsumanager": {
+    "source_repository": "XZY-01/DSUManager",
+    "source_release_id": 444829383,
+    "source_tag": "v2.1.5",
+    "source_published_at": "2026-11-13T23:06:39Z",
+    "synced_at": "2026-11-14T05:57:21.189467+00:00",
+    "assets": [
+      {
+        "source_asset_id": 745516057,
+        "filename": "DSUManager-v2.1.5.apk",
+        "original_filename": "DSUManager-v2.1.5.apk",
+        "sha256": "d52407d07c69d232a9a9258a05ec1c5b89d91bc6bcc918e6e41f49b9bfd4b189",
+        "file_size": 366506,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "dsumanager-v2.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsumanager-v2.1.5"
+  },
+  "savesync": {
+    "source_repository": "YuShyam/SaveSync",
+    "source_release_id": 445044139,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-14T05:37:39Z",
+    "synced_at": "2026-11-14T05:57:28.098637+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746440805,
+        "filename": "SaveSync-v1.0.1.apk",
+        "original_filename": "SaveSync-v1.0.1.apk",
+        "sha256": "cc5d98a464114a6ed283225b048f09025054462ba41e02bdf1cc53aa9b63a757",
+        "file_size": 16026312,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 746440807,
+        "filename": "SaveSync.apk",
+        "original_filename": "SaveSync.apk",
+        "sha256": "cc5d98a464114a6ed283225b048f09025054462ba41e02bdf1cc53aa9b63a757",
+        "file_size": 16026312,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "savesync-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/savesync-v1.0.1"
+  },
+  "ketaiqian": {
+    "source_repository": "shuhigh3/ketaiqian",
+    "source_release_id": 445038264,
+    "source_tag": "v1.16.14",
+    "source_published_at": "2026-11-14T05:25:17Z",
+    "synced_at": "2026-11-14T05:57:37.756140+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746412168,
+        "filename": "ketai-1.16.14.apk",
+        "original_filename": "ketai-1.16.14.apk",
+        "sha256": "07ae9e755dc5b97f3f445d9e361644a3a272c9d543b452a61900535f0fbc4427",
+        "file_size": 99787164,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ketaiqian-v1.16.14",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ketaiqian-v1.16.14"
+  },
+  "selfiestick": {
+    "source_repository": "throwarray/SelfieStick",
+    "source_release_id": 445002056,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-14T04:06:05Z",
+    "synced_at": "2026-11-14T05:57:40.871146+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746235672,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "c592d4f32d3fb88cc263428583b6926d46614a2a8e3c060aa8da4e075353c845",
+        "file_size": 255455,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "selfiestick-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/selfiestick-v0.1.0"
+  },
+  "fk-box": {
+    "source_repository": "koko123as/fk-box",
+    "source_release_id": 445043476,
+    "source_tag": "2026.11.14.2",
+    "source_published_at": "2026-11-14T05:36:34Z",
+    "synced_at": "2026-11-14T05:57:48.730172+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746438544,
+        "filename": "FK-box-2026.11.14.2-arm64-v8a.apk",
+        "original_filename": "FK-box-2026.11.14.2-arm64-v8a.apk",
+        "sha256": "c6b8e5e329ad8b1c067f9bea20c0ba9b3334c01ed7b4cadae0faa5ad1b32c7dc",
+        "file_size": 76094969,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "fk-box-2026.11.14.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fk-box-2026.11.14.2"
   }
 }
