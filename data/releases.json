@@ -23986,5 +23986,222 @@
     ],
     "mirror_release_tag": "houston-v3.0.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/houston-v3.0.0"
+  },
+  "wheelplay": {
+    "source_repository": "fython/wheelplay",
+    "source_release_id": 445283922,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-14T12:34:17Z",
+    "synced_at": "2026-11-15T05:58:23.359780+00:00",
+    "assets": [
+      {
+        "source_asset_id": 747464693,
+        "filename": "wheelplay-release-v1.0.0.apk",
+        "original_filename": "wheelplay-release-v1.0.0.apk",
+        "sha256": "7b2488d4e394cea0e3970cc66d94beaeb2e14dc35cf2a026c68385c777a249e3",
+        "file_size": 80100730,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "wheelplay-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wheelplay-v1.0.0"
+  },
+  "galaxy-tab-s10-fe-root-temporal": {
+    "source_repository": "CarlenGoss/Galaxy-Tab-S10-FE-root-temporal",
+    "source_release_id": 445824692,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-15T05:07:05Z",
+    "synced_at": "2026-11-15T05:58:26.962633+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749901405,
+        "filename": "Tab-S10-FE-root-temporal-1.0.0.apk",
+        "original_filename": "Tab-S10-FE-root-temporal-1.0.0.apk",
+        "sha256": "b2a517a18ce8f82923bcf0fd9e725ba06124ead25201551cf48b663687804214",
+        "file_size": 7617795,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "galaxy-tab-s10-fe-root-temporal-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/galaxy-tab-s10-fe-root-temporal-v1.0.0"
+  },
+  "flipex": {
+    "source_repository": "Vedjamkar/flipex",
+    "source_release_id": 445770410,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-15T02:55:03Z",
+    "synced_at": "2026-11-15T05:58:31.308199+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749611295,
+        "filename": "FlipEx.apk",
+        "original_filename": "FlipEx.apk",
+        "sha256": "3fa9b1c6454fd9a8a422ad61e21d4c51fff85ba35094bce0df2a1c6d78d6659b",
+        "file_size": 2264762,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "flipex-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flipex-v0.3.0"
+  },
+  "quve": {
+    "source_repository": "nanbeimerco/Quve",
+    "source_release_id": 445842288,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-15T05:50:41Z",
+    "synced_at": "2026-11-15T05:58:34.923422+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749990862,
+        "filename": "Quve-v1.0.1-release.apk",
+        "original_filename": "Quve-v1.0.1-release.apk",
+        "sha256": "73735fb3dc6ede58b65057579499ad83f6a39295d372742178425b9b06b6449c",
+        "file_size": 3048829,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "quve-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quve-v1.0.1"
+  },
+  "nexioschedule-release": {
+    "source_repository": "Jing494/NexioSchedule-release",
+    "source_release_id": 445832181,
+    "source_tag": "v1.7.1.41-gh41",
+    "source_published_at": "2026-11-15T05:25:39Z",
+    "synced_at": "2026-11-15T05:58:39.383719+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749939441,
+        "filename": "Nexio.v1.7.1.41-gh41.apk",
+        "original_filename": "Nexio.v1.7.1.41-gh41.apk",
+        "sha256": "f89687d77e3f972128dc87e1cda34350123ae4e15a79a367804aab54a31e4fb7",
+        "file_size": 4591872,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "nexioschedule-release-v1.7.1.41-gh41",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nexioschedule-release-v1.7.1.41-gh41"
+  },
+  "ftxt": {
+    "source_repository": "gaozhan906/FTxT",
+    "source_release_id": 445838605,
+    "source_tag": "v4.97.2",
+    "source_published_at": "2026-11-15T05:41:10Z",
+    "synced_at": "2026-11-15T05:58:42.832336+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749972561,
+        "filename": "FTxT-v4.97.2-Beta.apk",
+        "original_filename": "FTxT-v4.97.2-Beta.apk",
+        "sha256": "7f38868a294eafc82e809cec99350f67714e8ec0f0704e9b4d47723349ba2ae7",
+        "file_size": 6108108,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "ftxt-v4.97.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ftxt-v4.97.2"
+  },
+  "ohmymeme-android": {
+    "source_repository": "OhMyMeme/OhMyMeme-Android",
+    "source_release_id": 422746528,
+    "source_tag": "0.6.0",
+    "source_published_at": "2026-10-24T13:23:09Z",
+    "synced_at": "2026-11-15T05:58:46.830177+00:00",
+    "assets": [
+      {
+        "source_asset_id": 672328592,
+        "filename": "OhMyMeme-Android-0.6.0.apk",
+        "original_filename": "OhMyMeme-Android-0.6.0.apk",
+        "sha256": "810e35bed8c04e70cd9c022c75272845b7af931387064477f8ffdbd44bbbb683",
+        "file_size": 11032303,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "ohmymeme-android-0.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ohmymeme-android-0.6.0"
+  },
+  "fanrecentswitcher": {
+    "source_repository": "dx9901mk5/FanRecentSwitcher",
+    "source_release_id": 445828943,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-11-15T05:17:44Z",
+    "synced_at": "2026-11-15T05:58:50.553605+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749925967,
+        "filename": "FanRecentSwitcher-v1.0.2.apk",
+        "original_filename": "FanRecentSwitcher-v1.0.2.apk",
+        "sha256": "6dac5ce08b95f295e9c490ee6f2db66d34c1259d9e743cff2f5bf43ac4884e10",
+        "file_size": 5160352,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "fanrecentswitcher-v1.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fanrecentswitcher-v1.0.2"
+  },
+  "abyss-tools": {
+    "source_repository": "abyss-tool/Abyss-Tools",
+    "source_release_id": 445845561,
+    "source_tag": "v0.8.0",
+    "source_published_at": "2026-11-15T05:58:49Z",
+    "synced_at": "2026-11-15T05:58:55.071039+00:00",
+    "assets": [
+      {
+        "source_asset_id": 750006840,
+        "filename": "abyss-tools-v0.8.0.apk",
+        "original_filename": "abyss-tools-v0.8.0.apk",
+        "sha256": "3c343a48c5acfc996c25acc50ddac314adc51043a32410c854128752f2453c07",
+        "file_size": 13798353,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "abyss-tools-v0.8.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/abyss-tools-v0.8.0"
+  },
+  "vivo-double-click-camera": {
+    "source_repository": "NayGnehz/vivo-double-click-camera",
+    "source_release_id": 445840404,
+    "source_tag": "v1.0-standalone.7",
+    "source_published_at": "2026-11-15T05:45:57Z",
+    "synced_at": "2026-11-15T05:58:58.389987+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749981966,
+        "filename": "VivoCamera-Controller-1.0-standalone.7.apk",
+        "original_filename": "VivoCamera-Controller-1.0-standalone.7.apk",
+        "sha256": "dcc8dd35ade2f8eac0f47ce0943057397efd88e6a955839d71318f6c9089b7d3",
+        "file_size": 1953351,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "vivo-double-click-camera-v1.0-standalone.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vivo-double-click-camera-v1.0-standalone.7"
+  },
+  "wearcam": {
+    "source_repository": "The-kadtan2027/wearcam",
+    "source_release_id": 445834382,
+    "source_tag": "v1.8.3",
+    "source_published_at": "2026-11-15T05:31:02Z",
+    "synced_at": "2026-11-15T05:59:03.502509+00:00",
+    "assets": [
+      {
+        "source_asset_id": 749951714,
+        "filename": "wearcam-phone-1.8.3.apk",
+        "original_filename": "wearcam-phone-1.8.3.apk",
+        "sha256": "c61876782572d8b53f6c11bdbe6d7fdb79451766dc701cb9d1ef9ee396244eed",
+        "file_size": 4632603,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 749951716,
+        "filename": "wearcam-watch-1.8.3.apk",
+        "original_filename": "wearcam-watch-1.8.3.apk",
+        "sha256": "cf6fa715b9879a3b51ccadaae9fba4cd65f3d08ef0002634553f78f7c8cde114",
+        "file_size": 59910,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "wearcam-v1.8.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wearcam-v1.8.3"
   }
 }

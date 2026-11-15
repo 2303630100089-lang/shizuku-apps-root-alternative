@@ -2065,7 +2065,7 @@
   },
   "antigravity-android": {
     "status": "no-update",
-    "last_checked": "2026-11-15T03:29:18.961431+00:00",
+    "last_checked": "2026-11-15T05:58:58.839699+00:00",
     "latest_version": "v2.4.1",
     "last_synced": "2026-10-22T10:56:49.311645+00:00"
   },
@@ -6440,5 +6440,76 @@
     "last_checked": "2026-11-15T03:35:35.085110+00:00",
     "latest_version": "v1.1.1",
     "last_synced": "2026-11-14T17:53:53.836883+00:00"
+  },
+  "wheelplay": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:23.359806+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-15T05:58:23.359806+00:00"
+  },
+  "galaxy-tab-s10-fe-root-temporal": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:26.962655+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-15T05:58:26.962655+00:00"
+  },
+  "flipex": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:31.308219+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-11-15T05:58:31.308219+00:00"
+  },
+  "quve": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:34.923440+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-15T05:58:34.923440+00:00"
+  },
+  "canta-arabic": {
+    "status": "no-apk",
+    "last_checked": "2026-11-15T05:58:35.265034+00:00",
+    "latest_version": "v4.1.0-ar1"
+  },
+  "nexioschedule-release": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:39.383741+00:00",
+    "latest_version": "v1.7.1.41-gh41",
+    "last_synced": "2026-11-15T05:58:39.383741+00:00"
+  },
+  "ftxt": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:42.832356+00:00",
+    "latest_version": "v4.97.2",
+    "last_synced": "2026-11-15T05:58:42.832356+00:00"
+  },
+  "ohmymeme-android": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:46.830198+00:00",
+    "latest_version": "0.6.0",
+    "last_synced": "2026-11-15T05:58:46.830198+00:00"
+  },
+  "fanrecentswitcher": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:50.553628+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-11-15T05:58:50.553628+00:00"
+  },
+  "abyss-tools": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:55.071057+00:00",
+    "latest_version": "v0.8.0",
+    "last_synced": "2026-11-15T05:58:55.071057+00:00"
+  },
+  "vivo-double-click-camera": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:58:58.390005+00:00",
+    "latest_version": "v1.0-standalone.7",
+    "last_synced": "2026-11-15T05:58:58.390005+00:00"
+  },
+  "wearcam": {
+    "status": "synced",
+    "last_checked": "2026-11-15T05:59:03.502531+00:00",
+    "latest_version": "v1.8.3",
+    "last_synced": "2026-11-15T05:59:03.502531+00:00"
   }
 }
