@@ -24251,5 +24251,219 @@
     ],
     "mirror_release_tag": "wearcam-v1.8.3",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wearcam-v1.8.3"
+  },
+  "monitor-root": {
+    "source_repository": "kevxngg/monitor-root",
+    "source_release_id": 446274161,
+    "source_tag": "build-71",
+    "source_published_at": "2026-11-15T18:34:34Z",
+    "synced_at": "2026-11-15T18:43:17.603002+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751946510,
+        "filename": "MonitorRoot.apk",
+        "original_filename": "MonitorRoot.apk",
+        "sha256": "30d01422c465385f06bf8068dd9d267578d93f57d4997a3dbc9c2cbfac0abf46",
+        "file_size": 2063789,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "monitor-root-build-71",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/monitor-root-build-71"
+  },
+  "shizzyluna": {
+    "source_repository": "geraldotech/shizzyluna",
+    "source_release_id": 446158089,
+    "source_tag": "0.10.3",
+    "source_published_at": "2026-11-15T16:16:36Z",
+    "synced_at": "2026-11-15T18:43:23.076387+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751431388,
+        "filename": "shizzyluna-v0.10.3.apk",
+        "original_filename": "shizzyluna-v0.10.3.apk",
+        "sha256": "58b860da7711b109f1a371fae84a72eec0b83643e2d9052a5971bd8202c6f9cb",
+        "file_size": 26277072,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shizzyluna-0.10.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizzyluna-0.10.3"
+  },
+  "pc-steuerung": {
+    "source_repository": "ege16tan/pc-steuerung",
+    "source_release_id": 446266344,
+    "source_tag": "v0.10.0",
+    "source_published_at": "2026-11-15T18:22:31Z",
+    "synced_at": "2026-11-15T18:43:28.808420+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751908606,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "2e72c1067109a35b357c8064bd2d0b2f4e127b576f2d25190d8d76d33afc34cf",
+        "file_size": 23714759,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pc-steuerung-v0.10.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pc-steuerung-v0.10.0"
+  },
+  "aoooa-adb-android": {
+    "source_repository": "aoooa101/aoooa-adb-android",
+    "source_release_id": 444241994,
+    "source_tag": "v2.9.6",
+    "source_published_at": "2026-11-13T13:07:45Z",
+    "synced_at": "2026-11-15T18:43:38.523985+00:00",
+    "assets": [
+      {
+        "source_asset_id": 743699176,
+        "filename": "aoooa-adb-2.9.6-arm64-v8a.apk",
+        "original_filename": "aoooa-adb-2.9.6-arm64-v8a.apk",
+        "sha256": "87ec9f5e406b4c5ee6c11d64c6b882d28e5a96bd424d48c485116042c2ee83a5",
+        "file_size": 15716975,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 743699352,
+        "filename": "aoooa-adb-2.9.6-armeabi-v7a.apk",
+        "original_filename": "aoooa-adb-2.9.6-armeabi-v7a.apk",
+        "sha256": "2b6621b463c7c7d7ae87915c9b1d7a46fd60d63fa08b9a74107c431ca2622ee1",
+        "file_size": 14700617,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 743699437,
+        "filename": "aoooa-adb-2.9.6-universal.apk",
+        "original_filename": "aoooa-adb-2.9.6-universal.apk",
+        "sha256": "775c84eabc0143dcfec9922f2c60cc00d0095e7117f471358e41932973277f3e",
+        "file_size": 17617218,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "aoooa-adb-android-v2.9.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aoooa-adb-android-v2.9.6"
+  },
+  "hyperstream-android": {
+    "source_repository": "djsusmith/hyperstream-android",
+    "source_release_id": 446022522,
+    "source_tag": "v0.6.0",
+    "source_published_at": "2026-11-15T11:55:39Z",
+    "synced_at": "2026-11-15T18:43:48.720833+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751932163,
+        "filename": "HyperStream-v0.6.0-arm64.apk",
+        "original_filename": "HyperStream-v0.6.0-arm64.apk",
+        "sha256": "271887b8afb698a43a3a531c04b228de5fc6fb50da621148b7eef37c318fc661",
+        "file_size": 97369298,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hyperstream-android-v0.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperstream-android-v0.6.0"
+  },
+  "honor-cards-personality": {
+    "source_repository": "sofa7320/Honor-Cards-Personality",
+    "source_release_id": 446262360,
+    "source_tag": "v0.2.5",
+    "source_published_at": "2026-11-15T18:15:59Z",
+    "synced_at": "2026-11-15T18:43:53.743064+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751891221,
+        "filename": "CardPersonality-v0.2.5.apk",
+        "original_filename": "CardPersonality-v0.2.5.apk",
+        "sha256": "b591f23441e17b511485e51da9b9af1f292fa7361d2282fcc7165dff80618fd3",
+        "file_size": 27179705,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "honor-cards-personality-v0.2.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/honor-cards-personality-v0.2.5"
+  },
+  "dynamic-island": {
+    "source_repository": "Arusaky/Dynamic-Island-",
+    "source_release_id": 446087749,
+    "source_tag": "v1.7.0",
+    "source_published_at": "2026-11-15T13:39:11Z",
+    "synced_at": "2026-11-15T18:43:57.501865+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751122490,
+        "filename": "DynamicIsland.apk",
+        "original_filename": "DynamicIsland.apk",
+        "sha256": "e1f9ca4d78a96420ee56f156280725af4fa52f5f297b29743761495ec95c37d7",
+        "file_size": 2822408,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "dynamic-island-v1.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dynamic-island-v1.7.0"
+  },
+  "mohalaboptimazation": {
+    "source_repository": "7Mohan/mohalaboptimazation",
+    "source_release_id": 446021977,
+    "source_tag": "v1.7.0",
+    "source_published_at": "2026-11-15T11:55:03Z",
+    "synced_at": "2026-11-15T18:44:03.316899+00:00",
+    "assets": [
+      {
+        "source_asset_id": 750842152,
+        "filename": "MohaLab-Optimization-v1.7.0.apk",
+        "original_filename": "MohaLab-Optimization-v1.7.0.apk",
+        "sha256": "60ac97ea28cb5b5241f5e412ef15b938a5a03f7084952cafd4a60162e747ccd1",
+        "file_size": 68138259,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mohalaboptimazation-v1.7.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mohalaboptimazation-v1.7.0"
+  },
+  "vfont": {
+    "source_repository": "SubmitCodes/VFont",
+    "source_release_id": 446208270,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-15T16:49:22Z",
+    "synced_at": "2026-11-15T18:44:07.337109+00:00",
+    "assets": [
+      {
+        "source_asset_id": 751651318,
+        "filename": "VFont-1.0.0-universal.apk",
+        "original_filename": "VFont-1.0.0-universal.apk",
+        "sha256": "4afd445ae8706a8f2d7be53b91ad4246d80486e750dabb5f2e64169b7e84ab2d",
+        "file_size": 10510620,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vfont-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vfont-v1.0.0"
+  },
+  "webview-kiosk": {
+    "source_repository": "nktnet1/webview-kiosk",
+    "source_release_id": 444996430,
+    "source_tag": "v0.26.27",
+    "source_published_at": "2026-11-14T04:05:26Z",
+    "synced_at": "2026-11-15T18:44:12.853136+00:00",
+    "assets": [
+      {
+        "source_asset_id": 746203598,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "2cb10909b5ce49719e288d7790d7f5a8757b9d60bf097d63e7da00f31383307c",
+        "file_size": 4612044,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 746203628,
+        "filename": "WebviewKiosk_v0.26.27.apk",
+        "original_filename": "WebviewKiosk_v0.26.27.apk",
+        "sha256": "2cb10909b5ce49719e288d7790d7f5a8757b9d60bf097d63e7da00f31383307c",
+        "file_size": 4612044,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "webview-kiosk-v0.26.27",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/webview-kiosk-v0.26.27"
   }
 }

@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-15T13:00:31.593597+00:00",
+    "last_checked": "2026-11-15T18:43:18.248486+00:00",
     "latest_version": "zako3.19",
     "last_synced": "2026-11-14T12:35:37.659379+00:00"
   },
@@ -5764,7 +5764,7 @@
   },
   "opencode-android": {
     "status": "no-update",
-    "last_checked": "2026-11-15T13:17:25.459404+00:00",
+    "last_checked": "2026-11-15T18:43:29.173044+00:00",
     "latest_version": "v1.24.0",
     "last_synced": "2026-11-11T13:26:40.386451+00:00"
   },
@@ -6511,5 +6511,86 @@
     "last_checked": "2026-11-15T13:19:26.937186+00:00",
     "latest_version": "v1.8.3",
     "last_synced": "2026-11-15T05:59:03.502531+00:00"
+  },
+  "monitor-root": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:17.603032+00:00",
+    "latest_version": "build-71",
+    "last_synced": "2026-11-15T18:43:17.603032+00:00"
+  },
+  "carlink": {
+    "status": "no-apk",
+    "last_checked": "2026-11-15T18:43:18.598780+00:00"
+  },
+  "shizzyluna": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:23.076407+00:00",
+    "latest_version": "0.10.3",
+    "last_synced": "2026-11-15T18:43:23.076407+00:00"
+  },
+  "voiceconfig": {
+    "status": "no-apk",
+    "last_checked": "2026-11-15T18:43:23.498356+00:00",
+    "latest_version": "v0.1.2"
+  },
+  "duykhaigamingtools": {
+    "status": "no-apk",
+    "last_checked": "2026-11-15T18:43:23.864969+00:00"
+  },
+  "gpu-check": {
+    "status": "no-apk",
+    "last_checked": "2026-11-15T18:43:24.284857+00:00"
+  },
+  "pc-steuerung": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:28.808438+00:00",
+    "latest_version": "v0.10.0",
+    "last_synced": "2026-11-15T18:43:28.808438+00:00"
+  },
+  "aoooa-adb-android": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:38.524005+00:00",
+    "latest_version": "v2.9.6",
+    "last_synced": "2026-11-15T18:43:38.524005+00:00"
+  },
+  "hyperstream-android": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:48.720851+00:00",
+    "latest_version": "v0.6.0",
+    "last_synced": "2026-11-15T18:43:48.720851+00:00"
+  },
+  "honor-cards-personality": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:53.743084+00:00",
+    "latest_version": "v0.2.5",
+    "last_synced": "2026-11-15T18:43:53.743084+00:00"
+  },
+  "dongle-route": {
+    "status": "no-apk",
+    "last_checked": "2026-11-15T18:43:54.127828+00:00"
+  },
+  "dynamic-island": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:43:57.501886+00:00",
+    "latest_version": "v1.7.0",
+    "last_synced": "2026-11-15T18:43:57.501886+00:00"
+  },
+  "mohalaboptimazation": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:44:03.316918+00:00",
+    "latest_version": "v1.7.0",
+    "last_synced": "2026-11-15T18:44:03.316918+00:00"
+  },
+  "vfont": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:44:07.337129+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-15T18:44:07.337129+00:00"
+  },
+  "webview-kiosk": {
+    "status": "synced",
+    "last_checked": "2026-11-15T18:44:12.853154+00:00",
+    "latest_version": "v0.26.27",
+    "last_synced": "2026-11-15T18:44:12.853154+00:00"
   }
 }
