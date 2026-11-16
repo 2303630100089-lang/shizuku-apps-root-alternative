@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-16T14:04:59.703321+00:00",
+    "last_checked": "2026-11-16T21:54:34.005270+00:00",
     "latest_version": "zako3.19",
     "last_synced": "2026-11-14T12:35:37.659379+00:00"
   },
@@ -4950,7 +4950,7 @@
   },
   "jarvis": {
     "status": "no-update",
-    "last_checked": "2026-11-16T14:15:53.159761+00:00",
+    "last_checked": "2026-11-16T21:54:43.042182+00:00",
     "latest_version": "latest",
     "last_synced": "2026-11-11T13:24:47.682243+00:00"
   },
@@ -6637,5 +6637,106 @@
     "last_checked": "2026-11-16T14:20:17.978170+00:00",
     "latest_version": "v1.1.0",
     "last_synced": "2026-11-16T05:58:09.614492+00:00"
+  },
+  "tv": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:53:41.663744+00:00",
+    "latest_version": "latest",
+    "last_synced": "2026-11-16T21:53:41.663744+00:00"
+  },
+  "openheadunit": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T21:53:42.132175+00:00",
+    "latest_version": "v4.0.2"
+  },
+  "root-my-puxel": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T21:53:42.540036+00:00",
+    "latest_version": "dp11-261030-003-v2"
+  },
+  "escaner-qr": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:53:46.924256+00:00",
+    "latest_version": "v2.9",
+    "last_synced": "2026-11-16T21:53:46.924256+00:00"
+  },
+  "oneplus-oxygenos-debloat": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:53:51.085476+00:00",
+    "latest_version": "app-v0.2.0-alpha",
+    "last_synced": "2026-11-16T21:53:51.085476+00:00"
+  },
+  "lunaroptimizer": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T21:53:51.416729+00:00"
+  },
+  "browser-relay": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:53:55.370434+00:00",
+    "latest_version": "v2.2.1",
+    "last_synced": "2026-11-16T21:53:55.370434+00:00"
+  },
+  "dash-nav": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:53:59.297489+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-16T21:53:59.297489+00:00"
+  },
+  "cve-2026-98260-vivo-x200-ultra-temproot": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T21:53:59.704094+00:00",
+    "latest_version": "v3.3.1"
+  },
+  "aetherx-game-space": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:03.505360+00:00",
+    "latest_version": "v10.0.0",
+    "last_synced": "2026-11-16T21:54:03.505360+00:00"
+  },
+  "oktobot-releases": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:24.002709+00:00",
+    "latest_version": "v2.6.63",
+    "last_synced": "2026-11-16T21:54:24.002709+00:00"
+  },
+  "pinpoint": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:28.708483+00:00",
+    "latest_version": "v1.2.6",
+    "last_synced": "2026-11-16T21:54:28.708483+00:00"
+  },
+  "nova-clean": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:33.124833+00:00",
+    "latest_version": "v1.2-build-01",
+    "last_synced": "2026-11-16T21:54:33.124833+00:00"
+  },
+  "suite": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:38.320621+00:00",
+    "latest_version": "v2.1.7",
+    "last_synced": "2026-11-16T21:54:38.320621+00:00"
+  },
+  "cve-2026-98260-tb710fu": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:42.664825+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-16T21:54:42.664825+00:00"
+  },
+  "lightfreeze": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:46.821859+00:00",
+    "latest_version": "v0.8.1",
+    "last_synced": "2026-11-16T21:54:46.821859+00:00"
+  },
+  "minime-aibot": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T21:54:47.264603+00:00"
+  },
+  "mugshot": {
+    "status": "synced",
+    "last_checked": "2026-11-16T21:54:51.457617+00:00",
+    "latest_version": "v1.2.4",
+    "last_synced": "2026-11-16T21:54:51.457617+00:00"
   }
 }
