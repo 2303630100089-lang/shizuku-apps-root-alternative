@@ -6593,5 +6593,50 @@
     "last_checked": "2026-11-16T03:31:04.602904+00:00",
     "latest_version": "v0.26.27",
     "last_synced": "2026-11-15T18:44:12.853154+00:00"
+  },
+  "ordo": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T05:57:43.907189+00:00"
+  },
+  "kubooster": {
+    "status": "synced",
+    "last_checked": "2026-11-16T05:57:47.242644+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-16T05:57:47.242644+00:00"
+  },
+  "phantomcheck": {
+    "status": "synced",
+    "last_checked": "2026-11-16T05:57:51.564034+00:00",
+    "latest_version": "v1.9.0",
+    "last_synced": "2026-11-16T05:57:51.564034+00:00"
+  },
+  "swissknife": {
+    "status": "no-apk",
+    "last_checked": "2026-11-16T05:57:51.929728+00:00",
+    "latest_version": "v0.6"
+  },
+  "telemetrycleaner": {
+    "status": "synced",
+    "last_checked": "2026-11-16T05:57:56.072999+00:00",
+    "latest_version": "v1.3",
+    "last_synced": "2026-11-16T05:57:56.072999+00:00"
+  },
+  "ds-balance": {
+    "status": "synced",
+    "last_checked": "2026-11-16T05:58:01.933377+00:00",
+    "latest_version": "1.0.0",
+    "last_synced": "2026-11-16T05:58:01.933377+00:00"
+  },
+  "autotv": {
+    "status": "synced",
+    "last_checked": "2026-11-16T05:58:06.419658+00:00",
+    "latest_version": "v0.8.2",
+    "last_synced": "2026-11-16T05:58:06.419658+00:00"
+  },
+  "meet": {
+    "status": "synced",
+    "last_checked": "2026-11-16T05:58:09.614492+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-16T05:58:09.614492+00:00"
   }
 }

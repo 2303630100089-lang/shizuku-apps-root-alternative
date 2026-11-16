@@ -24281,5 +24281,119 @@
     ],
     "mirror_release_tag": "webview-kiosk-v0.26.27",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/webview-kiosk-v0.26.27"
+  },
+  "kubooster": {
+    "source_repository": "gmsakibursabbir/kubooster",
+    "source_release_id": 446656715,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-16T05:54:03Z",
+    "synced_at": "2026-11-16T05:57:47.242623+00:00",
+    "assets": [
+      {
+        "source_asset_id": 753654729,
+        "filename": "kubooster-v1.0.0-release.apk",
+        "original_filename": "kubooster-v1.0.0-release.apk",
+        "sha256": "412e676c4de43a97e3313417fe989f63086c10e6fd0c514ad7efcd21bf8c8c58",
+        "file_size": 1734811,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kubooster-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/kubooster-v1.0.0"
+  },
+  "phantomcheck": {
+    "source_repository": "eric11yothelast-Hwanshen/PhantomCheck",
+    "source_release_id": 446656795,
+    "source_tag": "v1.9.0",
+    "source_published_at": "2026-11-16T05:54:12Z",
+    "synced_at": "2026-11-16T05:57:51.564011+00:00",
+    "assets": [
+      {
+        "source_asset_id": 753655064,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "920bfab31804d59907ae49ae1e5477cb618aaa64f7c62d13dd4e6d1bac0f8e6f",
+        "file_size": 8614075,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "phantomcheck-v1.9.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phantomcheck-v1.9.0"
+  },
+  "telemetrycleaner": {
+    "source_repository": "Eynnzerr/TelemetryCleaner",
+    "source_release_id": 444049714,
+    "source_tag": "v1.3",
+    "source_published_at": "2026-11-13T09:37:50Z",
+    "synced_at": "2026-11-16T05:57:56.072977+00:00",
+    "assets": [
+      {
+        "source_asset_id": 743087534,
+        "filename": "TelemetryCleaner-v1.3.apk",
+        "original_filename": "TelemetryCleaner-v1.3.apk",
+        "sha256": "bbdf8ee06a854e0e4f71eba15be03d633089f1f854dc5268e6f856cb4fe70173",
+        "file_size": 5760741,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "telemetrycleaner-v1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/telemetrycleaner-v1.3"
+  },
+  "ds-balance": {
+    "source_repository": "skoln/DS-Balance",
+    "source_release_id": 446654943,
+    "source_tag": "1.0.0",
+    "source_published_at": "2026-11-16T05:55:42Z",
+    "synced_at": "2026-11-16T05:58:01.933351+00:00",
+    "assets": [
+      {
+        "source_asset_id": 753653236,
+        "filename": "DSBalance_1.0.0.apk",
+        "original_filename": "DSBalance_1.0.0.apk",
+        "sha256": "677e893df1ed873683cbd1460dedce31c8ac0131ae96d87e639e7cfd02d65041",
+        "file_size": 36251145,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ds-balance-1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ds-balance-1.0.0"
+  },
+  "autotv": {
+    "source_repository": "snakemoral/AutoTV",
+    "source_release_id": 446658107,
+    "source_tag": "v0.8.2",
+    "source_published_at": "2026-11-16T05:56:20Z",
+    "synced_at": "2026-11-16T05:58:06.419633+00:00",
+    "assets": [
+      {
+        "source_asset_id": 753660193,
+        "filename": "AutoTV-0.8.2.apk",
+        "original_filename": "AutoTV-0.8.2.apk",
+        "sha256": "02a85d6062afaf9b315f3c0e08645f16805310475ebc29dcc862df779f01c344",
+        "file_size": 14521172,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "autotv-v0.8.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotv-v0.8.2"
+  },
+  "meet": {
+    "source_repository": "QuMinh1526/meet",
+    "source_release_id": 446656369,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-16T05:53:24Z",
+    "synced_at": "2026-11-16T05:58:09.614470+00:00",
+    "assets": [
+      {
+        "source_asset_id": 753653510,
+        "filename": "SensiTune-1.1.0.apk",
+        "original_filename": "SensiTune-1.1.0.apk",
+        "sha256": "c85eef3ad76ce1393338bb21d5088d6367999610225983acbd7d124c9fb65007",
+        "file_size": 1717993,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "meet-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/meet-v1.1.0"
   }
 }
