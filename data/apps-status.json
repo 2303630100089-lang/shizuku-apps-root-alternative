@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-17T14:58:35.225478+00:00",
+    "last_checked": "2026-11-17T20:44:26.037520+00:00",
     "latest_version": "zako3.19",
     "last_synced": "2026-11-14T12:35:37.659379+00:00"
   },
@@ -6776,5 +6776,83 @@
     "last_checked": "2026-11-17T15:15:39.609126+00:00",
     "latest_version": "v0.3.0",
     "last_synced": "2026-11-17T07:36:24.751162+00:00"
+  },
+  "sidecheck": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:44:25.389002+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-17T20:44:25.389002+00:00"
+  },
+  "nexo": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:44:29.423327+00:00",
+    "latest_version": "v0.4.1",
+    "last_synced": "2026-11-17T20:44:29.423327+00:00"
+  },
+  "onehand-touchpad": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:44:32.937409+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-17T20:44:32.937409+00:00"
+  },
+  "maxmanager": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:44:41.650357+00:00",
+    "latest_version": "v5.0",
+    "last_synced": "2026-11-17T20:44:41.650357+00:00"
+  },
+  "androidvirtualgamepad": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:44:45.662855+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-17T20:44:45.662855+00:00"
+  },
+  "kzeo-rgb": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:44:49.429302+00:00",
+    "latest_version": "build-4",
+    "last_synced": "2026-11-17T20:44:49.429302+00:00"
+  },
+  "astrbot-for-android": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:45:50.256991+00:00",
+    "latest_version": "v1.4.1",
+    "last_synced": "2026-11-17T20:45:50.256991+00:00"
+  },
+  "haven-launcher": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:45:56.243150+00:00",
+    "latest_version": "v1.3.0",
+    "last_synced": "2026-11-17T20:45:56.243150+00:00"
+  },
+  "fichio": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:46:00.080682+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-17T20:46:00.080682+00:00"
+  },
+  "intertune": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:46:05.254560+00:00",
+    "latest_version": "v0.12.11",
+    "last_synced": "2026-11-17T20:46:05.254560+00:00"
+  },
+  "custo": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:46:09.531500+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-17T20:46:09.531500+00:00"
+  },
+  "shark-moto": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:46:17.408611+00:00",
+    "latest_version": "v2.5.2",
+    "last_synced": "2026-11-17T20:46:17.408611+00:00"
+  },
+  "localsora": {
+    "status": "synced",
+    "last_checked": "2026-11-17T20:46:23.442067+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-17T20:46:23.442067+00:00"
   }
 }
