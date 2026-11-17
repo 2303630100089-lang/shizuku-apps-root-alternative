@@ -6741,5 +6741,39 @@
     "last_checked": "2026-11-17T01:21:49.961970+00:00",
     "latest_version": "v1.2.5",
     "last_synced": "2026-11-17T01:21:49.961970+00:00"
+  },
+  "dsh-go-1-0-16-gecko-clean-backup": {
+    "status": "synced",
+    "last_checked": "2026-11-17T07:35:51.191794+00:00",
+    "latest_version": "v1.1.0-gecko-clean",
+    "last_synced": "2026-11-17T07:35:51.191794+00:00"
+  },
+  "notch": {
+    "status": "no-apk",
+    "last_checked": "2026-11-17T07:35:51.604355+00:00"
+  },
+  "toggldev": {
+    "status": "synced",
+    "last_checked": "2026-11-17T07:35:55.491341+00:00",
+    "latest_version": "v2.99",
+    "last_synced": "2026-11-17T07:35:55.491341+00:00"
+  },
+  "tinkerbox": {
+    "status": "synced",
+    "last_checked": "2026-11-17T07:36:00.255789+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-11-17T07:36:00.255789+00:00"
+  },
+  "codex-desktop-android": {
+    "status": "synced",
+    "last_checked": "2026-11-17T07:36:19.327063+00:00",
+    "latest_version": "v71",
+    "last_synced": "2026-11-17T07:36:19.327063+00:00"
+  },
+  "logger": {
+    "status": "synced",
+    "last_checked": "2026-11-17T07:36:24.751162+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-11-17T07:36:24.751162+00:00"
   }
 }

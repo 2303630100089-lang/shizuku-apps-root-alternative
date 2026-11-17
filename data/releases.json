@@ -24709,5 +24709,100 @@
     ],
     "mirror_release_tag": "phigros-script-data1.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/phigros-script-data1.1.0"
+  },
+  "dsh-go-1-0-16-gecko-clean-backup": {
+    "source_repository": "qq66588/dsh-go-1.0.16-gecko-clean-backup",
+    "source_release_id": 448283906,
+    "source_tag": "v1.1.0-gecko-clean",
+    "source_published_at": "2026-11-17T07:23:10Z",
+    "synced_at": "2026-11-17T07:35:51.191769+00:00",
+    "assets": [
+      {
+        "source_asset_id": 758062010,
+        "filename": "dsh-go-1.1.0-gecko-clean-arm64.apk",
+        "original_filename": "dsh-go-1.1.0-gecko-clean-arm64.apk",
+        "sha256": "37aacec1ae6f542319db055a7433e4a8ca7db27999130ca7502919614c06bdb8",
+        "file_size": 319558991,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "dsh-go-1-0-16-gecko-clean-backup-v1.1.0-gecko-clean",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/dsh-go-1-0-16-gecko-clean-backup-v1.1.0-gecko-clean"
+  },
+  "toggldev": {
+    "source_repository": "dpkay-io/toggldev",
+    "source_release_id": 448259557,
+    "source_tag": "v2.99",
+    "source_published_at": "2026-11-17T06:54:28Z",
+    "synced_at": "2026-11-17T07:35:55.491321+00:00",
+    "assets": [
+      {
+        "source_asset_id": 757982841,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "a90a2127ab1e58ebcf7128db0ec89a1ebfafcd8742315629731b1c9058d85e75",
+        "file_size": 3581030,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "toggldev-v2.99",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/toggldev-v2.99"
+  },
+  "tinkerbox": {
+    "source_repository": "wumingkj/TinkerBox",
+    "source_release_id": 424520799,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-10-26T17:04:07Z",
+    "synced_at": "2026-11-17T07:36:00.255772+00:00",
+    "assets": [
+      {
+        "source_asset_id": 678833741,
+        "filename": "TinkerBox-release.apk",
+        "original_filename": "TinkerBox-release.apk",
+        "sha256": "1260f55c540bdeee8bcbcf6df0301e840c8c9002c25f972c4e559a787ecd4877",
+        "file_size": 15960147,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tinkerbox-v0.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tinkerbox-v0.4.0"
+  },
+  "codex-desktop-android": {
+    "source_repository": "JinShichang/codex-desktop-android",
+    "source_release_id": 448198607,
+    "source_tag": "v71",
+    "source_published_at": "2026-11-17T05:50:38Z",
+    "synced_at": "2026-11-17T07:36:19.327041+00:00",
+    "assets": [
+      {
+        "source_asset_id": 757823451,
+        "filename": "Codex-Android-v71-update.apk",
+        "original_filename": "Codex-Android-v71-update.apk",
+        "sha256": "7aa852e8a4774617bf7793ea2c77f8b17d772f65ebb07730b80173c847b507d4",
+        "file_size": 221730103,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "codex-desktop-android-v71",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/codex-desktop-android-v71"
+  },
+  "logger": {
+    "source_repository": "aybrkaknc/Logger",
+    "source_release_id": 448273088,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-17T07:09:39Z",
+    "synced_at": "2026-11-17T07:36:24.751135+00:00",
+    "assets": [
+      {
+        "source_asset_id": 758023869,
+        "filename": "Logger-0.3.0-release.apk",
+        "original_filename": "Logger-0.3.0-release.apk",
+        "sha256": "d72df52351faf489fb2578d227aa13d69e132cf2aa9e9d8cb144fc533c21227b",
+        "file_size": 22540106,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "logger-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/logger-v0.3.0"
   }
 }
