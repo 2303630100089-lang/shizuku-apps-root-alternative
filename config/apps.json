@@ -19199,6 +19199,150 @@
         ".*unsigned.*",
         ".*test.*"
       ]
+    },
+    {
+      "name": "AppCloser",
+      "slug": "appcloser",
+      "repository": "theboyrickyg/AppCloser",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "chicken-rear",
+      "slug": "chicken-rear",
+      "repository": "TheRealChickon/chicken-rear",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "server",
+      "slug": "server",
+      "repository": "kazewwk/server",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "Redensity",
+      "slug": "redensity",
+      "repository": "swmckailani/Redensity",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "tandem-with-romm",
+      "slug": "tandem-with-romm",
+      "repository": "cocoaprime/tandem-with-romm",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "PaperPlay",
+      "slug": "paperplay",
+      "repository": "maxcodl/PaperPlay",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "RawanIDE",
+      "slug": "rawanide",
+      "repository": "elhizazi1/RawanIDE",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "droidbridge-chatgpt",
+      "slug": "droidbridge-chatgpt",
+      "repository": "Aliferous3/droidbridge-chatgpt",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
+    },
+    {
+      "name": "greenify-rea",
+      "slug": "greenify-rea",
+      "repository": "Unnidentified/greenify-rea",
+      "enabled": true,
+      "shizuku": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.apk$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*"
+      ]
     }
   ],
   "defaults": {

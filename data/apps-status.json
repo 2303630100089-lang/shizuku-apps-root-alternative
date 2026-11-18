@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-18T14:39:43.232593+00:00",
+    "last_checked": "2026-11-18T20:19:37.388073+00:00",
     "latest_version": "zako3.19",
     "last_synced": "2026-11-14T12:35:37.659379+00:00"
   },
@@ -6900,5 +6900,55 @@
     "last_checked": "2026-11-18T14:56:26.185570+00:00",
     "latest_version": "v0.8.0",
     "last_synced": "2026-11-18T14:56:26.185570+00:00"
+  },
+  "appcloser": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:19.647709+00:00",
+    "latest_version": "build-30",
+    "last_synced": "2026-11-18T20:19:19.647709+00:00"
+  },
+  "chicken-rear": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:24.070825+00:00",
+    "latest_version": "v1.2.1-cr4",
+    "last_synced": "2026-11-18T20:19:24.070825+00:00"
+  },
+  "server": {
+    "status": "no-apk",
+    "last_checked": "2026-11-18T20:19:24.482641+00:00"
+  },
+  "redensity": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:27.594692+00:00",
+    "latest_version": "v1.6",
+    "last_synced": "2026-11-18T20:19:27.594692+00:00"
+  },
+  "tandem-with-romm": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:32.880773+00:00",
+    "latest_version": "romm-0.6.1-preview.2",
+    "last_synced": "2026-11-18T20:19:32.880773+00:00"
+  },
+  "paperplay": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:36.840013+00:00",
+    "latest_version": "v1.9.7",
+    "last_synced": "2026-11-18T20:19:36.840013+00:00"
+  },
+  "rawanide": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:40.429148+00:00",
+    "latest_version": "1.0.0",
+    "last_synced": "2026-11-18T20:19:40.429148+00:00"
+  },
+  "droidbridge-chatgpt": {
+    "status": "synced",
+    "last_checked": "2026-11-18T20:19:45.522643+00:00",
+    "latest_version": "apk-v0.5.9",
+    "last_synced": "2026-11-18T20:19:45.522643+00:00"
+  },
+  "greenify-rea": {
+    "status": "no-apk",
+    "last_checked": "2026-11-18T20:19:45.831139+00:00"
   }
 }

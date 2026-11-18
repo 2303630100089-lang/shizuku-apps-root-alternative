@@ -25291,5 +25291,146 @@
     ],
     "mirror_release_tag": "freezer-v2.0.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/freezer-v2.0.0"
+  },
+  "appcloser": {
+    "source_repository": "theboyrickyg/AppCloser",
+    "source_release_id": 450499656,
+    "source_tag": "build-30",
+    "source_published_at": "2026-11-18T20:09:44Z",
+    "synced_at": "2026-11-18T20:19:19.647679+00:00",
+    "assets": [
+      {
+        "source_asset_id": 764825531,
+        "filename": "AppCloser.apk",
+        "original_filename": "AppCloser.apk",
+        "sha256": "2695e06e5d492461f3b1ac58095aa96fe5f6346b29f9ae51f94344dc8a914cd7",
+        "file_size": 19768471,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "appcloser-build-30",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appcloser-build-30"
+  },
+  "chicken-rear": {
+    "source_repository": "TheRealChickon/chicken-rear",
+    "source_release_id": 450452559,
+    "source_tag": "v1.2.1-cr4",
+    "source_published_at": "2026-11-18T19:25:51Z",
+    "synced_at": "2026-11-18T20:19:24.070809+00:00",
+    "assets": [
+      {
+        "source_asset_id": 764688446,
+        "filename": "chicken-rear-1.2.1-cr4.apk",
+        "original_filename": "chicken-rear-1.2.1-cr4.apk",
+        "sha256": "063d2c4b114b9d1e42483ceb3e760c3b41c660391646a90924e78ae55f33ab3c",
+        "file_size": 44504981,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "chicken-rear-v1.2.1-cr4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chicken-rear-v1.2.1-cr4"
+  },
+  "redensity": {
+    "source_repository": "swmckailani/Redensity",
+    "source_release_id": 450398069,
+    "source_tag": "v1.6",
+    "source_published_at": "2026-11-18T18:34:14Z",
+    "synced_at": "2026-11-18T20:19:27.594675+00:00",
+    "assets": [
+      {
+        "source_asset_id": 764522669,
+        "filename": "Redensity-v1.6.apk",
+        "original_filename": "Redensity-v1.6.apk",
+        "sha256": "4900fbbdae915a6cf3f8c664b6caaf2357e85632b187b3049b457ece186d1f1b",
+        "file_size": 690837,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "redensity-v1.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/redensity-v1.6"
+  },
+  "tandem-with-romm": {
+    "source_repository": "cocoaprime/tandem-with-romm",
+    "source_release_id": 450484199,
+    "source_tag": "romm-0.6.1-preview.2",
+    "source_published_at": "2026-11-18T19:56:40Z",
+    "synced_at": "2026-11-18T20:19:32.880752+00:00",
+    "assets": [
+      {
+        "source_asset_id": 764827276,
+        "filename": "Tandem-RoMM_0.6.1.apk",
+        "original_filename": "Tandem-RoMM_0.6.1.apk",
+        "sha256": "1466e946f306a88d578a930bd7834bc6b7b10365b054190b297b1dd072ca6b4f",
+        "file_size": 8045721,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 764783739,
+        "filename": "Tandem-RoMM_Preview.apk",
+        "original_filename": "Tandem-RoMM_Preview.apk",
+        "sha256": "1466e946f306a88d578a930bd7834bc6b7b10365b054190b297b1dd072ca6b4f",
+        "file_size": 8045721,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tandem-with-romm-romm-0.6.1-preview.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tandem-with-romm-romm-0.6.1-preview.2"
+  },
+  "paperplay": {
+    "source_repository": "maxcodl/PaperPlay",
+    "source_release_id": 450262648,
+    "source_tag": "v1.9.7",
+    "source_published_at": "2026-11-18T16:35:12Z",
+    "synced_at": "2026-11-18T20:19:36.839996+00:00",
+    "assets": [
+      {
+        "source_asset_id": 764141300,
+        "filename": "PaperPlay-1.9.7-android-release.apk",
+        "original_filename": "PaperPlay-1.9.7-android-release.apk",
+        "sha256": "cff09209dd10f6b3d5bd0ec9e6fc947a9814c64286ce62d6b275d16df924d2bc",
+        "file_size": 11494428,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "paperplay-v1.9.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/paperplay-v1.9.7"
+  },
+  "rawanide": {
+    "source_repository": "elhizazi1/RawanIDE",
+    "source_release_id": 449224417,
+    "source_tag": "1.0.0",
+    "source_published_at": "2026-11-17T21:34:20Z",
+    "synced_at": "2026-11-18T20:19:40.429129+00:00",
+    "assets": [
+      {
+        "source_asset_id": 760719614,
+        "filename": "RawanIDE-release-signed.apk",
+        "original_filename": "RawanIDE-release-signed.apk",
+        "sha256": "0895a7db564418965e4e5e067f09cccfca0e7fba897b344454f47588a256a93d",
+        "file_size": 7286381,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "rawanide-1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rawanide-1.0.0"
+  },
+  "droidbridge-chatgpt": {
+    "source_repository": "Aliferous3/droidbridge-chatgpt",
+    "source_release_id": 450492239,
+    "source_tag": "apk-v0.5.9",
+    "source_published_at": "2026-11-18T20:03:35Z",
+    "synced_at": "2026-11-18T20:19:45.522624+00:00",
+    "assets": [
+      {
+        "source_asset_id": 764805999,
+        "filename": "droidbridge-0.5.9-arm64-v8a.apk",
+        "original_filename": "droidbridge-0.5.9-arm64-v8a.apk",
+        "sha256": "1f7144b40eaeb1e3a64a501ebe3006e706885d74ed84abf5e9247638cb6c7f5a",
+        "file_size": 40320448,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "droidbridge-chatgpt-apk-v0.5.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidbridge-chatgpt-apk-v0.5.9"
   }
 }
