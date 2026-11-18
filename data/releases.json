@@ -25126,5 +25126,127 @@
     ],
     "mirror_release_tag": "localsora-v0.1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/localsora-v0.1.0"
+  },
+  "cell-broadcast-toggle": {
+    "source_repository": "Kamilake/cell-broadcast-toggle",
+    "source_release_id": 449621252,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-18T06:52:01Z",
+    "synced_at": "2026-11-18T06:58:43.877738+00:00",
+    "assets": [
+      {
+        "source_asset_id": 762275150,
+        "filename": "cell-broadcast-toggle-v0.1.0.apk",
+        "original_filename": "cell-broadcast-toggle-v0.1.0.apk",
+        "sha256": "3af4f18e7c60b61afe6cc44976fb6a63ad96a2647362665b869962cd75c7a283",
+        "file_size": 1737532,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "cell-broadcast-toggle-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cell-broadcast-toggle-v0.1.0"
+  },
+  "antigravity-arm64-android": {
+    "source_repository": "Comzvy/antigravity-arm64-android",
+    "source_release_id": 449599841,
+    "source_tag": "v2.33.0",
+    "source_published_at": "2026-11-18T06:23:11Z",
+    "synced_at": "2026-11-18T06:59:06.540726+00:00",
+    "assets": [
+      {
+        "source_asset_id": 762195325,
+        "filename": "antigravity-region-bypass.apk",
+        "original_filename": "antigravity-region-bypass.apk",
+        "sha256": "db0c9960f0715bbeef73a35cf4768ee8bb476b7f761f776df1a432299df82963",
+        "file_size": 132705421,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 762195323,
+        "filename": "antigravity.apk",
+        "original_filename": "antigravity.apk",
+        "sha256": "5982fcd7455d41d03c3d9e242e18417e0b96a317d7cc7cf505fad9ac8d778b63",
+        "file_size": 132705421,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "antigravity-arm64-android-v2.33.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/antigravity-arm64-android-v2.33.0"
+  },
+  "droidime": {
+    "source_repository": "Tulipskun/droidime",
+    "source_release_id": 449605718,
+    "source_tag": "latest",
+    "source_published_at": "2026-11-18T06:31:22Z",
+    "synced_at": "2026-11-18T06:59:10.482940+00:00",
+    "assets": [
+      {
+        "source_asset_id": 762219190,
+        "filename": "DroidIME.apk",
+        "original_filename": "DroidIME.apk",
+        "sha256": "edbc7ad37b6038203ddff7194f2af456a716770fe08c4d7106c9e476584ac369",
+        "file_size": 1533627,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "droidime-latest",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidime-latest"
+  },
+  "ana-app": {
+    "source_repository": "daimkillerboyz-lgtm/Ana-App",
+    "source_release_id": 449529772,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-18T04:39:35Z",
+    "synced_at": "2026-11-18T06:59:18.969960+00:00",
+    "assets": [
+      {
+        "source_asset_id": 761918469,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "f990d302720fdb8ec4b11cef3ae0ca297010f425d4dafdf33f44eefe1f163b89",
+        "file_size": 68115983,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ana-app-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ana-app-v1.0.0"
+  },
+  "myclick": {
+    "source_repository": "mingyu0401/MYclick",
+    "source_release_id": 449623159,
+    "source_tag": "v1.0.8",
+    "source_published_at": "2026-11-18T06:54:35Z",
+    "synced_at": "2026-11-18T06:59:22.600011+00:00",
+    "assets": [
+      {
+        "source_asset_id": 762281972,
+        "filename": "MYclick-1.0.8-release.apk",
+        "original_filename": "MYclick-1.0.8-release.apk",
+        "sha256": "7f4c9b29bcfa2a6742afe1a0df15eecd4ad63b68af0a9d6162b6f31792f1f0f2",
+        "file_size": 2524200,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "myclick-v1.0.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/myclick-v1.0.8"
+  },
+  "solid-butler": {
+    "source_repository": "Dry-Earth/solid-butler",
+    "source_release_id": 449615962,
+    "source_tag": "v0.4.0",
+    "source_published_at": "2026-11-18T06:44:52Z",
+    "synced_at": "2026-11-18T06:59:26.607214+00:00",
+    "assets": [
+      {
+        "source_asset_id": 762256049,
+        "filename": "xi-0.4.0.apk",
+        "original_filename": "xi-0.4.0.apk",
+        "sha256": "d55c6766f10b3a705af8d82dad0d3801657d3f3488e0c7a7e345791f814fa970",
+        "file_size": 3030141,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "solid-butler-v0.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/solid-butler-v0.4.0"
   }
 }

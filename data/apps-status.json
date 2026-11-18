@@ -6854,5 +6854,49 @@
     "last_checked": "2026-11-18T00:18:18.840468+00:00",
     "latest_version": "v0.1.0",
     "last_synced": "2026-11-17T20:46:23.442067+00:00"
+  },
+  "freezer": {
+    "status": "no-apk",
+    "last_checked": "2026-11-18T06:58:39.321819+00:00"
+  },
+  "nagramxf-mirror": {
+    "status": "no-apk",
+    "last_checked": "2026-11-18T06:58:39.610072+00:00"
+  },
+  "cell-broadcast-toggle": {
+    "status": "synced",
+    "last_checked": "2026-11-18T06:58:43.877764+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-18T06:58:43.877764+00:00"
+  },
+  "antigravity-arm64-android": {
+    "status": "synced",
+    "last_checked": "2026-11-18T06:59:06.540750+00:00",
+    "latest_version": "v2.33.0",
+    "last_synced": "2026-11-18T06:59:06.540750+00:00"
+  },
+  "droidime": {
+    "status": "synced",
+    "last_checked": "2026-11-18T06:59:10.482961+00:00",
+    "latest_version": "latest",
+    "last_synced": "2026-11-18T06:59:10.482961+00:00"
+  },
+  "ana-app": {
+    "status": "synced",
+    "last_checked": "2026-11-18T06:59:18.969980+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-18T06:59:18.969980+00:00"
+  },
+  "myclick": {
+    "status": "synced",
+    "last_checked": "2026-11-18T06:59:22.600032+00:00",
+    "latest_version": "v1.0.8",
+    "last_synced": "2026-11-18T06:59:22.600032+00:00"
+  },
+  "solid-butler": {
+    "status": "synced",
+    "last_checked": "2026-11-18T06:59:26.607235+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-11-18T06:59:26.607235+00:00"
   }
 }
