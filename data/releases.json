@@ -25605,5 +25605,157 @@
     ],
     "mirror_release_tag": "this-is-recorder-1.2.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/this-is-recorder-1.2.0"
+  },
+  "shizutify": {
+    "source_repository": "theycallmerubik/Shizutify",
+    "source_release_id": 451833949,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-11-19T19:34:50Z",
+    "synced_at": "2026-11-19T20:23:27.999711+00:00",
+    "assets": [
+      {
+        "source_asset_id": 768991831,
+        "filename": "Shizutify-v1.0.2.apk",
+        "original_filename": "Shizutify-v1.0.2.apk",
+        "sha256": "cc19893ab5a26462d8810e70bd9b73bb734dacaca0319ea00fd367a33c6de55c",
+        "file_size": 5006071,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "shizutify-v1.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizutify-v1.0.2"
+  },
+  "lin-shizuku": {
+    "source_repository": "Linwan-yn/Lin-Shizuku",
+    "source_release_id": 451507313,
+    "source_tag": "v1.1.5",
+    "source_published_at": "2026-11-19T15:05:29Z",
+    "synced_at": "2026-11-19T20:23:31.784333+00:00",
+    "assets": [
+      {
+        "source_asset_id": 768130363,
+        "filename": "Lin-Shizuku_1.1.5-lin-Release.apk",
+        "original_filename": "Lin-Shizuku_1.1.5-lin-Release.apk",
+        "sha256": "eb26eaec943ea3768a51c4cab1e6cb88b53a1db36c9ac2992ee3fd34d84def7a",
+        "file_size": 5510591,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "lin-shizuku-v1.1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lin-shizuku-v1.1.5"
+  },
+  "flowkeep": {
+    "source_repository": "adnansiddiqui-dev/FlowKeep",
+    "source_release_id": 451828142,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-19T19:28:58Z",
+    "synced_at": "2026-11-19T20:23:35.470894+00:00",
+    "assets": [
+      {
+        "source_asset_id": 769133683,
+        "filename": "FlowKeep-v1.0.0-build23.apk",
+        "original_filename": "FlowKeep-v1.0.0-build23.apk",
+        "sha256": "fd767ceca8062233f7930103797529fea52d311b4e07e491ec348783e3f06701",
+        "file_size": 2887387,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "flowkeep-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/flowkeep-v1.0.0"
+  },
+  "lenovomotorolovichy70": {
+    "source_repository": "f1rzen-n/LenovoMotorolovichY70",
+    "source_release_id": 451026419,
+    "source_tag": "v2.9",
+    "source_published_at": "2026-11-19T07:53:11Z",
+    "synced_at": "2026-11-19T20:23:39.535842+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766767727,
+        "filename": "LenovoMotorolovichY70_v2.9.apk",
+        "original_filename": "LenovoMotorolovichY70_v2.9.apk",
+        "sha256": "5f87361cb00fed3e28bca50fd0c26ed9bd71278a0ebf7fed36908bba7df6c3a4",
+        "file_size": 804378,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lenovomotorolovichy70-v2.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lenovomotorolovichy70-v2.9"
+  },
+  "net-optimizer-by-doxaiz": {
+    "source_repository": "Doxaiz/net-optimizer-by_doxaiz",
+    "source_release_id": 451817762,
+    "source_tag": "v1.0.9",
+    "source_published_at": "2026-11-19T19:19:27Z",
+    "synced_at": "2026-11-19T20:23:43.542296+00:00",
+    "assets": [
+      {
+        "source_asset_id": 768944908,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "56ce3b177e1fe96d415701907fccbd45873dd691a6a4d8f3464b06c9f99e9b5c",
+        "file_size": 19342935,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "net-optimizer-by-doxaiz-v1.0.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/net-optimizer-by-doxaiz-v1.0.9"
+  },
+  "prune-debloater": {
+    "source_repository": "cyb3rl00m/prune-debloater",
+    "source_release_id": 451405783,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-19T13:46:34Z",
+    "synced_at": "2026-11-19T20:23:46.783262+00:00",
+    "assets": [
+      {
+        "source_asset_id": 767858902,
+        "filename": "Prune-1.0.0.apk",
+        "original_filename": "Prune-1.0.0.apk",
+        "sha256": "d3d389fab24cadbcd4d1e0666c70d4abc3433033f0d47c3b0ff3853b72d01ebe",
+        "file_size": 3202903,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "prune-debloater-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/prune-debloater-v1.0.0"
+  },
+  "tubeauto": {
+    "source_repository": "moskil2/TubeAUTO",
+    "source_release_id": 451874640,
+    "source_tag": "v0.3.6",
+    "source_published_at": "2026-11-19T20:12:53Z",
+    "synced_at": "2026-11-19T20:23:58.918395+00:00",
+    "assets": [
+      {
+        "source_asset_id": 769103427,
+        "filename": "TubeAUTO-0.3.6.apk",
+        "original_filename": "TubeAUTO-0.3.6.apk",
+        "sha256": "116e2f3c9d9c58d3450b214c3f4093f6265fd1af85636de1a8f1fe59fa12220d",
+        "file_size": 208322472,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "tubeauto-v0.3.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tubeauto-v0.3.6"
+  },
+  "stayhifi": {
+    "source_repository": "chengzi2333/StayHiFi",
+    "source_release_id": 451462519,
+    "source_tag": "v1.2.5",
+    "source_published_at": "2026-11-19T14:30:47Z",
+    "synced_at": "2026-11-19T20:24:02.496842+00:00",
+    "assets": [
+      {
+        "source_asset_id": 768006260,
+        "filename": "StayHiFi-v1.2.5.apk",
+        "original_filename": "StayHiFi-v1.2.5.apk",
+        "sha256": "3885274d79794844dd4dea9ad30e1555f0929a7b88247356225417cdc03488e5",
+        "file_size": 3644935,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "stayhifi-v1.2.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stayhifi-v1.2.5"
   }
 }

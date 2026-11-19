@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-19T14:45:57.134963+00:00",
+    "last_checked": "2026-11-19T20:23:47.313721+00:00",
     "latest_version": "zako3.19",
     "last_synced": "2026-11-14T12:35:37.659379+00:00"
   },
@@ -7001,5 +7001,67 @@
     "last_checked": "2026-11-19T15:06:29.448773+00:00",
     "latest_version": "1.2.0",
     "last_synced": "2026-11-19T15:06:29.448773+00:00"
+  },
+  "shizutify": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:27.999739+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-11-19T20:23:27.999739+00:00"
+  },
+  "droidds": {
+    "status": "no-apk",
+    "last_checked": "2026-11-19T20:23:28.277620+00:00",
+    "latest_version": "v2.5.1-b66"
+  },
+  "lin-shizuku": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:31.784356+00:00",
+    "latest_version": "v1.1.5",
+    "last_synced": "2026-11-19T20:23:31.784356+00:00"
+  },
+  "flowkeep": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:35.470914+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-19T20:23:35.470914+00:00"
+  },
+  "nx2android-native-port": {
+    "status": "no-apk",
+    "last_checked": "2026-11-19T20:23:35.804178+00:00"
+  },
+  "cardfacestudio": {
+    "status": "no-apk",
+    "last_checked": "2026-11-19T20:23:36.094514+00:00",
+    "latest_version": "v1.0.0"
+  },
+  "lenovomotorolovichy70": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:39.535864+00:00",
+    "latest_version": "v2.9",
+    "last_synced": "2026-11-19T20:23:39.535864+00:00"
+  },
+  "net-optimizer-by-doxaiz": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:43.542319+00:00",
+    "latest_version": "v1.0.9",
+    "last_synced": "2026-11-19T20:23:43.542319+00:00"
+  },
+  "prune-debloater": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:46.783287+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-19T20:23:46.783287+00:00"
+  },
+  "tubeauto": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:23:58.918414+00:00",
+    "latest_version": "v0.3.6",
+    "last_synced": "2026-11-19T20:23:58.918414+00:00"
+  },
+  "stayhifi": {
+    "status": "synced",
+    "last_checked": "2026-11-19T20:24:02.496862+00:00",
+    "latest_version": "v1.2.5",
+    "last_synced": "2026-11-19T20:24:02.496862+00:00"
   }
 }
