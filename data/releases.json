@@ -25448,5 +25448,138 @@
     ],
     "mirror_release_tag": "droidbridge-chatgpt-apk-v0.5.9",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidbridge-chatgpt-apk-v0.5.9"
+  },
+  "autop": {
+    "source_repository": "W1412X/autop",
+    "source_release_id": 450968020,
+    "source_tag": "v0.3.10",
+    "source_published_at": "2026-11-19T06:40:37Z",
+    "synced_at": "2026-11-19T06:59:20.532324+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766562711,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "fd438bfe47fc85f93f2bb4471253429c9947bfa67b62d756d30d9c9ab10dda24",
+        "file_size": 214027242,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "autop-v0.3.10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autop-v0.3.10"
+  },
+  "bgoom": {
+    "source_repository": "smartThise/bgoom",
+    "source_release_id": 450958809,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-19T06:28:02Z",
+    "synced_at": "2026-11-19T06:59:26.033103+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766528497,
+        "filename": "BGOOM-v1.1.0-release.apk",
+        "original_filename": "BGOOM-v1.1.0-release.apk",
+        "sha256": "200c70abfaf8063f20c0afcb311fffa54978b88148963d9159408405b069e936",
+        "file_size": 74416748,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bgoom-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bgoom-v1.1.0"
+  },
+  "banyu": {
+    "source_repository": "Mini30933/Banyu",
+    "source_release_id": 450905266,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-11-19T05:10:06Z",
+    "synced_at": "2026-11-19T06:59:29.517008+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766320867,
+        "filename": "Banyu.apk",
+        "original_filename": "Banyu.apk",
+        "sha256": "2669db37c52f2fd002d396db444fb4480239807e4211c6bc4038f014b446c87b",
+        "file_size": 16527773,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "banyu-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/banyu-v1.0"
+  },
+  "ii-tools": {
+    "source_repository": "P3DROVFX/ii-tools",
+    "source_release_id": 450908073,
+    "source_tag": "v1.4.1",
+    "source_published_at": "2026-11-19T05:14:35Z",
+    "synced_at": "2026-11-19T06:59:32.566120+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766331597,
+        "filename": "ii-tools-1.4.1.apk",
+        "original_filename": "ii-tools-1.4.1.apk",
+        "sha256": "c33921cfa2d91f6343fe3fb89771361e9449afb32c3dae946d977aa76ea4e80d",
+        "file_size": 7427958,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ii-tools-v1.4.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ii-tools-v1.4.1"
+  },
+  "mobile-app1": {
+    "source_repository": "samyamgamer34-creator/mobile-app1",
+    "source_release_id": 450976290,
+    "source_tag": "latest-apk",
+    "source_published_at": "2026-11-19T06:51:23Z",
+    "synced_at": "2026-11-19T06:59:36.281310+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766590370,
+        "filename": "TheftGuard.apk",
+        "original_filename": "TheftGuard.apk",
+        "sha256": "6b4ca670f08e9fe8096826ede36f473863f5355d4d6e1f54f36fc3173847d52e",
+        "file_size": 1259863,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "mobile-app1-latest-apk",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mobile-app1-latest-apk"
+  },
+  "ci-android-connection-doctor": {
+    "source_repository": "xiankai/ci-android-connection-doctor",
+    "source_release_id": 430523540,
+    "source_tag": "v0.2.2",
+    "source_published_at": "2026-11-01T11:01:10Z",
+    "synced_at": "2026-11-19T06:59:39.953828+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698080669,
+        "filename": "ci-android-connection-doctor-v0.2.2.apk",
+        "original_filename": "ci-android-connection-doctor-v0.2.2.apk",
+        "sha256": "2f3d1e014fabf90f231b573432be10176f8819045f6b779adb5f3e3d9c3ae08f",
+        "file_size": 18299695,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "ci-android-connection-doctor-v0.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ci-android-connection-doctor-v0.2.2"
+  },
+  "this-is-recorder": {
+    "source_repository": "soctrungkien/This-is-Recorder",
+    "source_release_id": 426311733,
+    "source_tag": "1.1.0",
+    "source_published_at": "2026-10-28T06:01:17Z",
+    "synced_at": "2026-11-19T06:59:43.966843+00:00",
+    "assets": [
+      {
+        "source_asset_id": 684012459,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "e6a4f07d5412942339b91a6fa8f505250fff78d41d7b7f3802214e808abf20ea",
+        "file_size": 32216527,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "this-is-recorder-1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/this-is-recorder-1.1.0"
   }
 }

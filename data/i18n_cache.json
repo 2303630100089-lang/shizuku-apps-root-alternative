@@ -2869,7 +2869,21 @@
     "daimkillerboyz-lgtm": "daimkillerboyz-lgtm",
     "Independent Tandem modification with optional RoMM support for Android handhelds.": "独立串联改装，可选配 RoMM 支持，适用于安卓手持设备。",
     "Comzvy": "Comzvy",
-    "Nothing-style minimal Voice Assistant for Android — optional Root/Shizuku, offline neural voice, Needle 3 tool calling, optional AI integration.": "适用于 Android 的“无风格”极简语音助手——可选 Root/Shizuku、离线神经语音、Needle 3 工具调用、可选 AI 集成。"
+    "Nothing-style minimal Voice Assistant for Android — optional Root/Shizuku, offline neural voice, Needle 3 tool calling, optional AI integration.": "适用于 Android 的“无风格”极简语音助手——可选 Root/Shizuku、离线神经语音、Needle 3 工具调用、可选 AI 集成。",
+    "cocoaprime": "cocoaprime",
+    "一款轻量级 Android 应用冻结工具，支持 Root、无线 ADB、Shizuku、设备所有者及设备管理员等多种工作模式。": "一款轻量级 Android 应用冻结工具，支持 Root、无线 ADB、Shizuku、设备所有者及设备管理员等多种工作模式。",
+    "Unlit·息幕 — Android screen-off touch guard using Shizuku. Triple Volume Down to turn off, double to restore. Display-control loading adapted from Moderpach/Extinguish. GPL-3.0-or-later.": "Unlit·息幕 — 使用 Shizuku 的 Android 息屏触控保护。三击音量下键以关闭，双击以恢复。显示屏控制加载功能改编自 Moderpach/Extinguish。GPL-3.0 或更高版本。",
+    "您的近源渗透利器，原生 Android 安全测试工作台：Kali (PRoot, 无需 root) + DeepSeek Harness Agent，支持 OTG 网卡 / Shizuku ADB shell": "您的近源渗透利器，原生 Android 安全测试工作台：Kali (PRoot，无需 root) + DeepSeek Harness Agent，支持 OTG 网卡/Shizuku ADB shell",
+    "theboyrickyg": "theboyrickyg",
+    "TheRealChickon": "TheRealChickon",
+    "An android agent to auto operate your device and do anything": "一款安卓智能代理，可自动操作您的设备并执行各种操作",
+    "大爆 BGOOM — 极简 Gemini 风格离线文档扫描、PP-OCRv5/Texo 公式识别、Typst/Tylax、精修证件照与多设备仅私钥加密 SSH 中转站": "大爆 BGOOM — 极简 Gemini 风格离线文档扫描、PP-OCRv5/Texo 公式识别、Typst/Tylax、精修证件照与多设备仅私钥加密 SSH 中转站",
+    "swmckailani": "swmckailani",
+    "Android companion for the ii shell: the phone as a remote, microphone, webcam, second screen and more, in place of KDE Connect": "ii shell 的 Android 伴侣：将手机用作遥控器、麦克风、网络摄像头、第二块屏幕等，取代 KDE Connect",
+    "伴语 Banyu — 让喜欢的角色住进手机：能角色扮演陪聊、还能替你操作手机的 Android AI 伴侣（基于 roubao / MIT 二次开发）": "伴语Banyu — 让喜欢的角色住进手机：能角色扮演陪聊、还能替你操作手机的Android AI伴侣（基于roubao/MIT二次开发）",
+    "This is Recorder là ứng dụng quay màn hình Android viết bằng Kotlin, giao diện Miuix hiện đại. Hỗ trợ 2 chế độ Chuẩn (MediaProjection) và Screenrecord (ADB/Shizuku/Root) không cần hộp thoại cấp quyền, tùy chỉnh âm thanh linh hoạt, hiệu ứng kính mờ và mã nguồn mở MIT.": "This is Recorder是一款使用Kotlin编写的Android屏幕录制应用，采用现代Miuix界面。支持标准模式（MediaProjection）和屏幕录制模式（ADB/Shizuku/Root）两种模式，无需权限对话框，可灵活自定义声音，具有毛玻璃效果，并采用MIT开源代码。",
+    "Aliferous3": "Aliferous3",
+    "Gets phone streaming to a cochlear implant processor back fast after drops": "在掉落后快速恢复手机流媒体到人工耳蜗植入体声音处理器的传输"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -5741,6 +5755,20 @@
     "mingyu0401": "mingyu0401",
     "daimkillerboyz-lgtm": "daimkillerboyz-lgtm",
     "Comzvy": "Comzvy",
-    "Nothing-style minimal Voice Assistant for Android — optional Root/Shizuku, offline neural voice, Needle 3 tool calling, optional AI integration.": "Минималистичный голосовой помощник в стиле Nothing для Android — с возможностью использования Root/Shizuku, офлайн-синтезатором речи на основе нейросети, функцией вызова инструментов Needle 3 и интеграцией ИИ (по желанию)."
+    "Nothing-style minimal Voice Assistant for Android — optional Root/Shizuku, offline neural voice, Needle 3 tool calling, optional AI integration.": "Минималистичный голосовой помощник в стиле Nothing для Android — с возможностью использования Root/Shizuku, офлайн-синтезатором речи на основе нейросети, функцией вызова инструментов Needle 3 и интеграцией ИИ (по желанию).",
+    "cocoaprime": "cocoaprime",
+    "一款轻量级 Android 应用冻结工具，支持 Root、无线 ADB、Shizuku、设备所有者及设备管理员等多种工作模式。": "一款轻量级 Android 应用冻结工具，支持 Root、无线 ADB、Shizuku、设备所有者及设备管理员等多种工作模式。",
+    "Unlit·息幕 — Android screen-off touch guard using Shizuku. Triple Volume Down to turn off, double to restore. Display-control loading adapted from Moderpach/Extinguish. GPL-3.0-or-later.": "Unlit·息幕 — защита от случайных касаний при выключенном экране Android с использованием Shizuku. Нажмите кнопку уменьшения громкости три раза, чтобы выключить, и два раза, чтобы восстановить. Загрузка управления дисплеем адаптирована из Moderpach/Extinguish. GPL-3.0 или более поздняя версия.",
+    "您的近源渗透利器，原生 Android 安全测试工作台：Kali (PRoot, 无需 root) + DeepSeek Harness Agent，支持 OTG 网卡 / Shizuku ADB shell": "Ваш инструмент для проникновения в систему с близкого расстояния, нативная среда для тестирования безопасности Android: Kali (PRoot, без рута) + DeepSeek Harness Agent, поддержка сетевых адаптеров OTG / Shizuku ADB shell",
+    "TheRealChickon": "TheRealChickon",
+    "theboyrickyg": "theboyrickyg",
+    "An android agent to auto operate your device and do anything": "Агент для Android, который автоматически управляет вашим устройством и выполняет любые действия",
+    "大爆 BGOOM — 极简 Gemini 风格离线文档扫描、PP-OCRv5/Texo 公式识别、Typst/Tylax、精修证件照与多设备仅私钥加密 SSH 中转站": "大爆 BGOOM — 极简 Gemini 风格离线文档扫描、PP-OCRv5/Texo 公式识别、Typst/Tylax、精修证件照与多设备仅私钥加密 SSH 中转站",
+    "swmckailani": "swmckailani",
+    "Android companion for the ii shell: the phone as a remote, microphone, webcam, second screen and more, in place of KDE Connect": "Приложение-компаньон для ii shell на Android: телефон в качестве пульта дистанционного управления, микрофона, веб-камеры, второго экрана и многого другого вместо KDE Connect",
+    "伴语 Banyu — 让喜欢的角色住进手机：能角色扮演陪聊、还能替你操作手机的 Android AI 伴侣（基于 roubao / MIT 二次开发）": "伴语 Banyu — Пусть любимые персонажи поселятся в вашем телефоне: ИИ-компаньон для Android, который может играть роль и поддерживать разговор, а также управлять вашим телефоном (на основе вторичной разработки roubao / MIT)",
+    "This is Recorder là ứng dụng quay màn hình Android viết bằng Kotlin, giao diện Miuix hiện đại. Hỗ trợ 2 chế độ Chuẩn (MediaProjection) và Screenrecord (ADB/Shizuku/Root) không cần hộp thoại cấp quyền, tùy chỉnh âm thanh linh hoạt, hiệu ứng kính mờ và mã nguồn mở MIT.": "This is Recorder — это приложение для записи экрана на Android, написанное на языке Kotlin, с современным интерфейсом Miuix. Поддерживает 2 режима: Стандартный (MediaProjection) и Запись экрана (ADB/Shizuku/Root) без диалогового окна запроса разрешений, с гибкой настройкой звука, эффектом размытия и открытым исходным кодом MIT.",
+    "Aliferous3": "Алифероус3",
+    "Gets phone streaming to a cochlear implant processor back fast after drops": "Быстро восстанавливает потоковую передачу звука с телефона на процессор кохлеарного импланта после падения"
   }
 }

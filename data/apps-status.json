@@ -5385,7 +5385,7 @@
   },
   "gamershub": {
     "status": "no-update",
-    "last_checked": "2026-11-19T04:49:22.466608+00:00",
+    "last_checked": "2026-11-19T06:59:33.053820+00:00",
     "latest_version": "v6.17.1",
     "last_synced": "2026-11-12T00:00:02.758562+00:00"
   },
@@ -6857,7 +6857,7 @@
   },
   "freezer": {
     "status": "no-update",
-    "last_checked": "2026-11-19T04:53:30.068850+00:00",
+    "last_checked": "2026-11-19T06:59:33.381909+00:00",
     "latest_version": "v2.0.0",
     "last_synced": "2026-11-18T14:56:16.976301+00:00"
   },
@@ -6950,5 +6950,56 @@
   "greenify-rea": {
     "status": "no-apk",
     "last_checked": "2026-11-19T04:53:40.121938+00:00"
+  },
+  "autop": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:20.532351+00:00",
+    "latest_version": "v0.3.10",
+    "last_synced": "2026-11-19T06:59:20.532351+00:00"
+  },
+  "kingkang": {
+    "status": "no-apk",
+    "last_checked": "2026-11-19T06:59:20.809478+00:00",
+    "latest_version": "v0.2.5"
+  },
+  "unlit": {
+    "status": "no-apk",
+    "last_checked": "2026-11-19T06:59:21.061110+00:00"
+  },
+  "bgoom": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:26.033120+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-19T06:59:26.033120+00:00"
+  },
+  "banyu": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:29.517029+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-19T06:59:29.517029+00:00"
+  },
+  "ii-tools": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:32.566143+00:00",
+    "latest_version": "v1.4.1",
+    "last_synced": "2026-11-19T06:59:32.566143+00:00"
+  },
+  "mobile-app1": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:36.281327+00:00",
+    "latest_version": "latest-apk",
+    "last_synced": "2026-11-19T06:59:36.281327+00:00"
+  },
+  "ci-android-connection-doctor": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:39.953847+00:00",
+    "latest_version": "v0.2.2",
+    "last_synced": "2026-11-19T06:59:39.953847+00:00"
+  },
+  "this-is-recorder": {
+    "status": "synced",
+    "last_checked": "2026-11-19T06:59:43.966866+00:00",
+    "latest_version": "1.1.0",
+    "last_synced": "2026-11-19T06:59:43.966866+00:00"
   }
 }
