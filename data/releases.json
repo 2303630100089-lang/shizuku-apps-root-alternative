@@ -25781,5 +25781,333 @@
     ],
     "mirror_release_tag": "stayhifi-v1.2.5",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stayhifi-v1.2.5"
+  },
+  "hachidroid": {
+    "source_repository": "HachiFridge/HachiDroid",
+    "source_release_id": 437490321,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-11-07T10:06:08Z",
+    "synced_at": "2026-11-20T06:51:36.994853+00:00",
+    "assets": [
+      {
+        "source_asset_id": 720313108,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "d2bf3479311b69227e8a9a833dab6256620ebc5bb839782ab132cd6a552da231",
+        "file_size": 7069491,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hachidroid-v1.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hachidroid-v1.0.2"
+  },
+  "rustray": {
+    "source_repository": "azziz1601/RustRay",
+    "source_release_id": 450892783,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-19T04:49:31Z",
+    "synced_at": "2026-11-20T06:51:43.884216+00:00",
+    "assets": [
+      {
+        "source_asset_id": 766266743,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "7c782a8fd34b682a026b7edaf9969101bb93ede832200569624f2d39c27e9376",
+        "file_size": 10964430,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 766266734,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "92b57c658f5e5fd79ab7500180ab0779323a00e21d22e923fd258baf81d17f8a",
+        "file_size": 9693750,
+        "architecture": "armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "rustray-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rustray-v1.1.0"
+  },
+  "uad-shizuku": {
+    "source_repository": "nikescar/uad-shizuku",
+    "source_release_id": 374170566,
+    "source_tag": "v0.0.24",
+    "source_published_at": "2026-08-21T04:30:31Z",
+    "synced_at": "2026-11-20T06:51:54.367770+00:00",
+    "assets": [
+      {
+        "source_asset_id": 523226739,
+        "filename": "uad-shizuku-all-signed.apk",
+        "original_filename": "uad-shizuku-all-signed.apk",
+        "sha256": "066894a0266ea2cd69bb29fd82aaeb4de676f4813d249fc155da5af9d8fba2c9",
+        "file_size": 118956234,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "uad-shizuku-v0.0.24",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/uad-shizuku-v0.0.24"
+  },
+  "hzunlock": {
+    "source_repository": "npfp222/HzUnlock",
+    "source_release_id": 452262792,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-20T04:20:47Z",
+    "synced_at": "2026-11-20T06:51:57.495572+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770424109,
+        "filename": "HzUnlock-1.0.1.apk",
+        "original_filename": "HzUnlock-1.0.1.apk",
+        "sha256": "88191f2dded3081257c59efa1fd3be70c89a13654bb0a2d9084c25eace68104a",
+        "file_size": 95852,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "hzunlock-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hzunlock-v1.0.1"
+  },
+  "advancehotspot": {
+    "source_repository": "yeeeee0529/AdvanceHotspot",
+    "source_release_id": 452135536,
+    "source_tag": "v0.2.1",
+    "source_published_at": "2026-11-20T00:59:47Z",
+    "synced_at": "2026-11-20T06:52:02.658420+00:00",
+    "assets": [
+      {
+        "source_asset_id": 769906617,
+        "filename": "AdvanceHotspot-v0.2.1.apk",
+        "original_filename": "AdvanceHotspot-v0.2.1.apk",
+        "sha256": "a298e0222b9171e17101a431d526d3b410b062960451ec406bbd13c829a2481f",
+        "file_size": 25365616,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "advancehotspot-v0.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/advancehotspot-v0.2.1"
+  },
+  "vyomaconnect": {
+    "source_repository": "Prajwaljb/VyomaConnect",
+    "source_release_id": 448933398,
+    "source_tag": "v0.11.0",
+    "source_published_at": "2026-11-17T18:15:10Z",
+    "synced_at": "2026-11-20T06:52:07.390037+00:00",
+    "assets": [
+      {
+        "source_asset_id": 760114781,
+        "filename": "vyoma-0.11.0.apk",
+        "original_filename": "vyoma-0.11.0.apk",
+        "sha256": "c3c9552dd901494c92c66f92eebe889d31886e48b834bb8f8d60cf2a1b6884e0",
+        "file_size": 11268088,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vyomaconnect-v0.11.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vyomaconnect-v0.11.0"
+  },
+  "droidtools": {
+    "source_repository": "Velocity081/droidtools",
+    "source_release_id": 437628307,
+    "source_tag": "v2.0.1",
+    "source_published_at": "2026-11-07T14:33:48Z",
+    "synced_at": "2026-11-20T06:52:14.884319+00:00",
+    "assets": [
+      {
+        "source_asset_id": 721183068,
+        "filename": "DroidTools.apk",
+        "original_filename": "DroidTools.apk",
+        "sha256": "8c54d06d7992b2289137effcc91b89d0e9e255135c0f251f985915a73f74df22",
+        "file_size": 51737500,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "droidtools-v2.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/droidtools-v2.0.1"
+  },
+  "unscopemydata": {
+    "source_repository": "kiyiyip/UnscopeMyData",
+    "source_release_id": 381655046,
+    "source_tag": "v0.14.0",
+    "source_published_at": "2026-09-03T00:44:55Z",
+    "synced_at": "2026-11-20T06:52:18.945923+00:00",
+    "assets": [
+      {
+        "source_asset_id": 541981123,
+        "filename": "UnscopeMyData-v0.14.0.apk",
+        "original_filename": "UnscopeMyData-v0.14.0.apk",
+        "sha256": "d363f6ae8ff04c38940e95425dfcca91058a12344f88599a9a52466a54abf364",
+        "file_size": 9371834,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "unscopemydata-v0.14.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/unscopemydata-v0.14.0"
+  },
+  "glacier": {
+    "source_repository": "Ayang233/Glacier",
+    "source_release_id": 452323837,
+    "source_tag": "v1.2.0",
+    "source_published_at": "2026-11-20T05:58:06Z",
+    "synced_at": "2026-11-20T06:52:22.762042+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770661009,
+        "filename": "Glacier-release.apk",
+        "original_filename": "Glacier-release.apk",
+        "sha256": "66fea1c43d30fa0232b099cf6ce5151049fe4348c279ca75d2c28e5fa7b307b1",
+        "file_size": 4287936,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "glacier-v1.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/glacier-v1.2.0"
+  },
+  "appzuku": {
+    "source_repository": "northmendo/Appzuku",
+    "source_release_id": 302812621,
+    "source_tag": "Release-1.3.16",
+    "source_published_at": "2026-03-29T08:22:59Z",
+    "synced_at": "2026-11-20T06:52:26.604478+00:00",
+    "assets": [
+      {
+        "source_asset_id": 383941486,
+        "filename": "Appzuku-1.3.16.apk",
+        "original_filename": "Appzuku-1.3.16.apk",
+        "sha256": "ea8142c38ed78f02253825131db41fbee3d42aae6c1b27c07625f45f2d6fe27d",
+        "file_size": 2889835,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "appzuku-Release-1.3.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/appzuku-Release-1.3.16"
+  },
+  "android-cn-system-enhancer": {
+    "source_repository": "dx9901mk5/Android-CN-System-Enhancer",
+    "source_release_id": 452341254,
+    "source_tag": "v2.3.5",
+    "source_published_at": "2026-11-20T06:23:51Z",
+    "synced_at": "2026-11-20T06:52:30.576199+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770724517,
+        "filename": "Android_Enhancer_CN-v2.3.5.apk",
+        "original_filename": "Android_Enhancer_CN-v2.3.5.apk",
+        "sha256": "054590da4b7eb0b630b164f53e7a2527d498f0cddd120c44184d93badd2e86c8",
+        "file_size": 3156731,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-cn-system-enhancer-v2.3.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-cn-system-enhancer-v2.3.5"
+  },
+  "pixel-volte-patch": {
+    "source_repository": "bkaganovich-stack/pixel-volte-patch",
+    "source_release_id": 397427882,
+    "source_tag": "v1.3.9",
+    "source_published_at": "2026-09-26T23:15:53Z",
+    "synced_at": "2026-11-20T06:52:36.872302+00:00",
+    "assets": [
+      {
+        "source_asset_id": 591650683,
+        "filename": "PixelIMS-1.3.9-v22.apk",
+        "original_filename": "PixelIMS-1.3.9-v22.apk",
+        "sha256": "efa11cd7717378d497160a59b5ec69dfe621347107216bd530430002da9779f4",
+        "file_size": 33724287,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "pixel-volte-patch-v1.3.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pixel-volte-patch-v1.3.9"
+  },
+  "icebox-for-android": {
+    "source_repository": "MOUAJMD/IceBox_for_Android",
+    "source_release_id": 452196005,
+    "source_tag": "icebox_v3.1",
+    "source_published_at": "2026-11-20T02:33:24Z",
+    "synced_at": "2026-11-20T06:52:43.211063+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770139612,
+        "filename": "IceBox-Helper.apk",
+        "original_filename": "IceBox-Helper.apk",
+        "sha256": "d270080779887b6e370f433b9e452a90b10fe04d7ceea094d7c418a04ff7ca91",
+        "file_size": 827620,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 770139384,
+        "filename": "IceBox_v3.1.apk",
+        "original_filename": "IceBox_v3.1.apk",
+        "sha256": "abfb6400bd0242dee4bb7a3ed56b2defa9ac4c81895f0bb21449144e5435f0f7",
+        "file_size": 15640125,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "icebox-for-android-icebox_v3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/icebox-for-android-icebox_v3.1"
+  },
+  "samsungregionoverride": {
+    "source_repository": "RitelDevs/SamsungRegionOverride",
+    "source_release_id": 386115534,
+    "source_tag": "v4.0.1",
+    "source_published_at": "2026-09-10T08:48:33Z",
+    "synced_at": "2026-11-20T06:52:44.927370+00:00",
+    "assets": [
+      {
+        "source_asset_id": 554616875,
+        "filename": "SamsungRegionOverride-v4.0.1.apk",
+        "original_filename": "SamsungRegionOverride-v4.0.1.apk",
+        "sha256": "f5f070bb9abf28f4c91b936535838edf83757fe3ed9766a46bdac81f32d2120d",
+        "file_size": 25647782,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "samsungregionoverride-v4.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/samsungregionoverride-v4.0.1"
+  },
+  "autojs6-plugin-three-setup-installer": {
+    "source_repository": "SuperMonster003/AutoJs6-Plugin-Three-Setup-Installer",
+    "source_release_id": 452299868,
+    "source_tag": "v1.2.3",
+    "source_published_at": "2026-11-20T05:20:31Z",
+    "synced_at": "2026-11-20T06:52:48.395180+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770568818,
+        "filename": "autojs6-plugin-three-setup-installer-v1.2.3-4f9789ab.apk",
+        "original_filename": "autojs6-plugin-three-setup-installer-v1.2.3-4f9789ab.apk",
+        "sha256": "21ba6a582579f105b06de53a8b61b4317e065b816741f9f88648de9b3848218c",
+        "file_size": 3059180,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "autojs6-plugin-three-setup-installer-v1.2.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autojs6-plugin-three-setup-installer-v1.2.3"
+  },
+  "hachimia": {
+    "source_repository": "greyoak111/hachimia",
+    "source_release_id": 452288184,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-20T05:02:16Z",
+    "synced_at": "2026-11-20T06:52:56.387694+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770525320,
+        "filename": "hachimia-36.apk",
+        "original_filename": "hachimia-36.apk",
+        "sha256": "82490f066bab7197479e9d203b7eaffed9484e5db84879c9e2a5748b91793638",
+        "file_size": 19756317,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 770525203,
+        "filename": "hachimia.apk",
+        "original_filename": "hachimia.apk",
+        "sha256": "e1c6583b799c70e245962f4f55f1bcc50c49b4b16b35d803ebfa11a5a6286a07",
+        "file_size": 19756324,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hachimia-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hachimia-v0.1.0"
   }
 }

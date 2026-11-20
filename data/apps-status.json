@@ -339,7 +339,7 @@
   },
   "aether": {
     "status": "no-update",
-    "last_checked": "2026-11-20T04:52:14.121605+00:00",
+    "last_checked": "2026-11-20T06:51:57.959301+00:00",
     "latest_version": "2.1.7",
     "last_synced": "2026-10-16T20:17:02.376285+00:00"
   },
@@ -381,7 +381,7 @@
   },
   "opendroid": {
     "status": "no-update",
-    "last_checked": "2026-11-20T04:52:16.384741+00:00",
+    "last_checked": "2026-11-20T06:52:07.994102+00:00",
     "latest_version": "v1.0.9",
     "last_synced": "2026-11-10T22:40:13.525398+00:00"
   },
@@ -4952,7 +4952,7 @@
   },
   "jarvis": {
     "status": "no-update",
-    "last_checked": "2026-11-20T04:57:17.407590+00:00",
+    "last_checked": "2026-11-20T06:52:30.987683+00:00",
     "latest_version": "latest",
     "last_synced": "2026-11-11T13:24:47.682243+00:00"
   },
@@ -6297,7 +6297,7 @@
   },
   "aegis": {
     "status": "no-update",
-    "last_checked": "2026-11-20T04:58:53.558404+00:00",
+    "last_checked": "2026-11-20T06:52:27.053583+00:00",
     "latest_version": "v0.8.0",
     "last_synced": "2026-11-14T12:48:23.733183+00:00"
   },
@@ -7063,5 +7063,105 @@
     "last_checked": "2026-11-20T04:59:55.379320+00:00",
     "latest_version": "v1.2.5",
     "last_synced": "2026-11-19T20:24:02.496862+00:00"
+  },
+  "hachidroid": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:51:36.994877+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-11-20T06:51:36.994877+00:00"
+  },
+  "rustray": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:51:43.884235+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-20T06:51:43.884235+00:00"
+  },
+  "uad-shizuku": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:51:54.367790+00:00",
+    "latest_version": "v0.0.24",
+    "last_synced": "2026-11-20T06:51:54.367790+00:00"
+  },
+  "hzunlock": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:51:57.495593+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-20T06:51:57.495593+00:00"
+  },
+  "advancehotspot": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:02.658438+00:00",
+    "latest_version": "v0.2.1",
+    "last_synced": "2026-11-20T06:52:02.658438+00:00"
+  },
+  "vyomaconnect": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:07.390057+00:00",
+    "latest_version": "v0.11.0",
+    "last_synced": "2026-11-20T06:52:07.390057+00:00"
+  },
+  "droidtools": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:14.884339+00:00",
+    "latest_version": "v2.0.1",
+    "last_synced": "2026-11-20T06:52:14.884339+00:00"
+  },
+  "unscopemydata": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:18.945941+00:00",
+    "latest_version": "v0.14.0",
+    "last_synced": "2026-11-20T06:52:18.945941+00:00"
+  },
+  "glacier": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:22.762058+00:00",
+    "latest_version": "v1.2.0",
+    "last_synced": "2026-11-20T06:52:22.762058+00:00"
+  },
+  "appzuku": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:26.604496+00:00",
+    "latest_version": "Release-1.3.16",
+    "last_synced": "2026-11-20T06:52:26.604496+00:00"
+  },
+  "android-cn-system-enhancer": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:30.576222+00:00",
+    "latest_version": "v2.3.5",
+    "last_synced": "2026-11-20T06:52:30.576222+00:00"
+  },
+  "pixel-volte-patch": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:36.872320+00:00",
+    "latest_version": "v1.3.9",
+    "last_synced": "2026-11-20T06:52:36.872320+00:00"
+  },
+  "icebox-for-android": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:43.211081+00:00",
+    "latest_version": "icebox_v3.1",
+    "last_synced": "2026-11-20T06:52:43.211081+00:00"
+  },
+  "samsungregionoverride": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:44.927384+00:00",
+    "latest_version": "v4.0.1",
+    "last_synced": "2026-11-20T06:52:44.927384+00:00"
+  },
+  "autojs6-plugin-three-setup-installer": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:48.395199+00:00",
+    "latest_version": "v1.2.3",
+    "last_synced": "2026-11-20T06:52:48.395199+00:00"
+  },
+  "phonefork": {
+    "status": "no-apk",
+    "last_checked": "2026-11-20T06:52:48.794215+00:00"
+  },
+  "hachimia": {
+    "status": "synced",
+    "last_checked": "2026-11-20T06:52:56.387712+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-20T06:52:56.387712+00:00"
   }
 }
