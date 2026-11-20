@@ -332,10 +332,10 @@
     "last_synced": "2026-11-15T13:00:30.849524+00:00"
   },
   "shizako": {
-    "status": "no-update",
-    "last_checked": "2026-11-20T14:27:24.159396+00:00",
-    "latest_version": "zako3.19",
-    "last_synced": "2026-11-14T12:35:37.659379+00:00"
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:21.505524+00:00",
+    "latest_version": "zako3.19hp",
+    "last_synced": "2026-11-20T19:55:21.505524+00:00"
   },
   "aether": {
     "status": "no-update",
@@ -6834,7 +6834,7 @@
   },
   "intertune": {
     "status": "no-update",
-    "last_checked": "2026-11-20T14:39:24.467933+00:00",
+    "last_checked": "2026-11-20T19:55:50.185234+00:00",
     "latest_version": "v0.12.11",
     "last_synced": "2026-11-17T20:46:05.254560+00:00"
   },
@@ -7164,5 +7164,81 @@
     "last_checked": "2026-11-20T14:40:21.751781+00:00",
     "latest_version": "v0.1.1",
     "last_synced": "2026-11-20T14:40:21.751781+00:00"
+  },
+  "codex-go": {
+    "status": "no-apk",
+    "last_checked": "2026-11-20T19:54:27.885325+00:00"
+  },
+  "sofaly": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:54:37.162583+00:00",
+    "latest_version": "v465338",
+    "last_synced": "2026-11-20T19:54:37.162583+00:00"
+  },
+  "xqly-app": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:54:42.218729+00:00",
+    "latest_version": "v2.4.0",
+    "last_synced": "2026-11-20T19:54:42.218729+00:00"
+  },
+  "io-github-wumisc-antiburn": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:54:46.518395+00:00",
+    "latest_version": "76-3.0.16",
+    "last_synced": "2026-11-20T19:54:46.518395+00:00"
+  },
+  "aare-mate": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:54:53.013659+00:00",
+    "latest_version": "v2.1.1",
+    "last_synced": "2026-11-20T19:54:53.013659+00:00"
+  },
+  "komorebi": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:54:58.344023+00:00",
+    "latest_version": "v0.12.3",
+    "last_synced": "2026-11-20T19:54:58.344023+00:00"
+  },
+  "operator-on-android": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:09.214401+00:00",
+    "latest_version": "v2.6",
+    "last_synced": "2026-11-20T19:55:09.214401+00:00"
+  },
+  "perfmon-plus": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:11.882682+00:00",
+    "latest_version": "v2.1",
+    "last_synced": "2026-11-20T19:55:11.882682+00:00"
+  },
+  "wheelpilot": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:15.067836+00:00",
+    "latest_version": "v3.24.23",
+    "last_synced": "2026-11-20T19:55:15.067836+00:00"
+  },
+  "taskbarandroid": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:18.059435+00:00",
+    "latest_version": "v.1.5.14",
+    "last_synced": "2026-11-20T19:55:18.059435+00:00"
+  },
+  "callctrl": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:24.673157+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-11-20T19:55:24.673157+00:00"
+  },
+  "waaiya": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:49.721071+00:00",
+    "latest_version": "v0.2.12",
+    "last_synced": "2026-11-20T19:55:49.721071+00:00"
+  },
+  "panelfm-android": {
+    "status": "synced",
+    "last_checked": "2026-11-20T19:55:59.296489+00:00",
+    "latest_version": "v2.5.3",
+    "last_synced": "2026-11-20T19:55:59.296489+00:00"
   }
 }

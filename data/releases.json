@@ -3218,22 +3218,22 @@
   },
   "shizako": {
     "source_repository": "xm1437/Shizako",
-    "source_release_id": 445191301,
-    "source_tag": "zako3.19",
-    "source_published_at": "2026-11-14T09:52:02Z",
-    "synced_at": "2026-11-14T12:35:37.659359+00:00",
+    "source_release_id": 452830508,
+    "source_tag": "zako3.19hp",
+    "source_published_at": "2026-11-20T15:02:08Z",
+    "synced_at": "2026-11-20T19:55:21.505497+00:00",
     "assets": [
       {
-        "source_asset_id": 747074707,
-        "filename": "shizako-zako3.19-release.apk",
-        "original_filename": "shizako-zako3.19-release.apk",
-        "sha256": "6e04c91f17042b43c43f0b9b369cf314818c2a076444e99ab0a9284d3ec6324c",
-        "file_size": 7338556,
+        "source_asset_id": 772236265,
+        "filename": "shizako-zako3.19hp-release.apk",
+        "original_filename": "shizako-zako3.19hp-release.apk",
+        "sha256": "af6aa9abd22de0f553392d113f2678c6d1224b416f5db4d26623aab352105e52",
+        "file_size": 7342096,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "shizako-zako3.19",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.19"
+    "mirror_release_tag": "shizako-zako3.19hp",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizako-zako3.19hp"
   },
   "aether": {
     "source_repository": "Zhou-Shilin/Aether",
@@ -26136,5 +26136,337 @@
     ],
     "mirror_release_tag": "vrcdi-4.9.0-Release",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vrcdi-4.9.0-Release"
+  },
+  "sofaly": {
+    "source_repository": "ChrnX0/sofaly",
+    "source_release_id": 452240338,
+    "source_tag": "v465338",
+    "source_published_at": "2026-11-20T03:42:52Z",
+    "synced_at": "2026-11-20T19:54:37.162563+00:00",
+    "assets": [
+      {
+        "source_asset_id": 770331953,
+        "filename": "one-tv-celular.apk",
+        "original_filename": "one-tv-celular.apk",
+        "sha256": "8895b49ab499726829bbb574102b124173594916afbd48ffebfc6d968ddef7a7",
+        "file_size": 336492,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 770331956,
+        "filename": "sofaly-launcher-arm64.apk",
+        "original_filename": "sofaly-launcher-arm64.apk",
+        "sha256": "751b0da8acf0ec52ae3f0f2733fc398c35f838405acf4d8c8196840173a8a0f3",
+        "file_size": 41886852,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 770331949,
+        "filename": "sofaly-launcher.apk",
+        "original_filename": "sofaly-launcher.apk",
+        "sha256": "230976a64d87a49eafc0f9d1364f190637f932bc3adb83aa3dd5437884f496c2",
+        "file_size": 41149030,
+        "architecture": "armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "sofaly-v465338",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sofaly-v465338"
+  },
+  "xqly-app": {
+    "source_repository": "ChaosSurvivalProject/xqly-app",
+    "source_release_id": 453103807,
+    "source_tag": "v2.4.0",
+    "source_published_at": "2026-11-20T19:35:58Z",
+    "synced_at": "2026-11-20T19:54:42.218682+00:00",
+    "assets": [
+      {
+        "source_asset_id": 773088005,
+        "filename": "xqly-app-v2.4.0-android-universal-release.apk",
+        "original_filename": "xqly-app-v2.4.0-android-universal-release.apk",
+        "sha256": "ab1df40127d208e2cdaa6baee91c5ef372d9f1b538ed0b396fc3a73e59fe7944",
+        "file_size": 6719720,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 773088011,
+        "filename": "xqly-app-v2.4.0.apk",
+        "original_filename": "xqly-app-v2.4.0.apk",
+        "sha256": "ab1df40127d208e2cdaa6baee91c5ef372d9f1b538ed0b396fc3a73e59fe7944",
+        "file_size": 6719720,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "xqly-app-v2.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xqly-app-v2.4.0"
+  },
+  "io-github-wumisc-antiburn": {
+    "source_repository": "Xposed-Modules-Repo/io.github.wumisc.antiburn",
+    "source_release_id": 453112994,
+    "source_tag": "76-3.0.16",
+    "source_published_at": "2026-11-20T19:46:13Z",
+    "synced_at": "2026-11-20T19:54:46.518374+00:00",
+    "assets": [
+      {
+        "source_asset_id": 773117436,
+        "filename": "antiburn-3.0.16.apk",
+        "original_filename": "antiburn-3.0.16.apk",
+        "sha256": "0dee9651fb9a76a29606c6c0513c0f49510a1d5cf7b7ecd87260e95c499f6046",
+        "file_size": 28129786,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "io-github-wumisc-antiburn-76-3.0.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/io-github-wumisc-antiburn-76-3.0.16"
+  },
+  "aare-mate": {
+    "source_repository": "TheInGoF/AARE-Mate",
+    "source_release_id": 452812237,
+    "source_tag": "v2.1.1",
+    "source_published_at": "2026-11-20T14:45:40Z",
+    "synced_at": "2026-11-20T19:54:53.013636+00:00",
+    "assets": [
+      {
+        "source_asset_id": 772185789,
+        "filename": "mate-2.1.1.apk",
+        "original_filename": "mate-2.1.1.apk",
+        "sha256": "ebf701b1c9fd2fe6dc09e3e1ba1293e4b14146d42b599496013c90b71ed55f02",
+        "file_size": 106915607,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64"
+      }
+    ],
+    "mirror_release_tag": "aare-mate-v2.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aare-mate-v2.1.1"
+  },
+  "komorebi": {
+    "source_repository": "aislingheart/komorebi",
+    "source_release_id": 453035143,
+    "source_tag": "v0.12.3",
+    "source_published_at": "2026-11-20T18:19:12Z",
+    "synced_at": "2026-11-20T19:54:58.344006+00:00",
+    "assets": [
+      {
+        "source_asset_id": 772854617,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "f2937da9d342f1654e3e5c853a1d4046100d352cd508f9091e7bdb891415ae0f",
+        "file_size": 12731245,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 772854615,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "4aba893f79acf63918c6108c13aa717f283674da385308d3325b6ac9e03c74a9",
+        "file_size": 14015510,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "komorebi-v0.12.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/komorebi-v0.12.3"
+  },
+  "operator-on-android": {
+    "source_repository": "xjyzs/Operator-on-Android",
+    "source_release_id": 368589617,
+    "source_tag": "v2.6",
+    "source_published_at": "2026-08-11T13:25:26Z",
+    "synced_at": "2026-11-20T19:55:09.214377+00:00",
+    "assets": [
+      {
+        "source_asset_id": 510166627,
+        "filename": "app-arm-release.apk",
+        "original_filename": "app-arm-release.apk",
+        "sha256": "b8e435a8256504fde60dfdd5da4be29ecae98787068e4fcc83a5385ecab86654",
+        "file_size": 2327362,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 510166623,
+        "filename": "app-arm64Minsdk29-release.apk",
+        "original_filename": "app-arm64Minsdk29-release.apk",
+        "sha256": "74aaeff74626d11444dc787ec190fb9b833c4aa599c3cfb8f427d39cf3bf7036",
+        "file_size": 4623964,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 510166630,
+        "filename": "app-arm64Minsdk35-release.apk",
+        "original_filename": "app-arm64Minsdk35-release.apk",
+        "sha256": "a80005b10478766063808719cb2bf5f964dab76d95557dd025d7b120d4ef58fc",
+        "file_size": 4457908,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 510166622,
+        "filename": "app-universal-release.apk",
+        "original_filename": "app-universal-release.apk",
+        "sha256": "e7832b1ccb54f307dbbef4c4feda3bd09a99f26089b9fc8934050b43c6efe258",
+        "file_size": 2380277,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 510166631,
+        "filename": "app-x86-release.apk",
+        "original_filename": "app-x86-release.apk",
+        "sha256": "1a2cdcddbe98894da87970b168b60a9856966315fe985c32baf3f66afc07b261",
+        "file_size": 2329386,
+        "architecture": "x86"
+      },
+      {
+        "source_asset_id": 510166626,
+        "filename": "app-x86_64-release.apk",
+        "original_filename": "app-x86_64-release.apk",
+        "sha256": "6239773719ddaf379ec371656fd66b4a945dbd4875beddce427428a9b04fe7f4",
+        "file_size": 2330865,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "operator-on-android-v2.6",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/operator-on-android-v2.6"
+  },
+  "perfmon-plus": {
+    "source_repository": "JrSpatt/PerfMon-PLus",
+    "source_release_id": 452720529,
+    "source_tag": "v2.1",
+    "source_published_at": "2026-11-20T13:21:36Z",
+    "synced_at": "2026-11-20T19:55:11.882662+00:00",
+    "assets": [
+      {
+        "source_asset_id": 771910485,
+        "filename": "PerfMon-Plus.apk",
+        "original_filename": "PerfMon-Plus.apk",
+        "sha256": "f2436e834e0f67f429eff722ac227c49a940d322ee7fe98d4949ae7d709f5a02",
+        "file_size": 101639,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "perfmon-plus-v2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/perfmon-plus-v2.1"
+  },
+  "wheelpilot": {
+    "source_repository": "yubanyuban112/WheelPilot",
+    "source_release_id": 452733541,
+    "source_tag": "v3.24.23",
+    "source_published_at": "2026-11-20T13:34:43Z",
+    "synced_at": "2026-11-20T19:55:15.067815+00:00",
+    "assets": [
+      {
+        "source_asset_id": 771951890,
+        "filename": "WheelPilot-3.24.23-132.apk",
+        "original_filename": "WheelPilot-3.24.23-132.apk",
+        "sha256": "14d321e565076fe2305a2ab07b3196859eeebb407a465a7bed2cf49daa32f309",
+        "file_size": 5940694,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "wheelpilot-v3.24.23",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wheelpilot-v3.24.23"
+  },
+  "taskbarandroid": {
+    "source_repository": "alkisstam/taskbarandroid",
+    "source_release_id": 430649832,
+    "source_tag": "v.1.5.14",
+    "source_published_at": "2026-11-01T14:51:17Z",
+    "synced_at": "2026-11-20T19:55:18.059413+00:00",
+    "assets": [
+      {
+        "source_asset_id": 698619051,
+        "filename": "app-release-v1.5.14.apk",
+        "original_filename": "app-release-v1.5.14.apk",
+        "sha256": "df861573159a577dac449a40f348ecc50488309e0dff00858eaffef7ff27c135",
+        "file_size": 3390676,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "taskbarandroid-v.1.5.14",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/taskbarandroid-v.1.5.14"
+  },
+  "callctrl": {
+    "source_repository": "VoidedKN0X/CallCtrl",
+    "source_release_id": 444289415,
+    "source_tag": "v0.2.0",
+    "source_published_at": "2026-11-13T13:53:25Z",
+    "synced_at": "2026-11-20T19:55:24.673138+00:00",
+    "assets": [
+      {
+        "source_asset_id": 743838972,
+        "filename": "CallCtrl-v0.2.0.apk",
+        "original_filename": "CallCtrl-v0.2.0.apk",
+        "sha256": "ed72060c34000bba4caffbfb9c0d2a292482cd4c6ea52ed524934d9ec190d797",
+        "file_size": 3448406,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "callctrl-v0.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/callctrl-v0.2.0"
+  },
+  "waaiya": {
+    "source_repository": "oksyassine/waaiya",
+    "source_release_id": 453113583,
+    "source_tag": "v0.2.12",
+    "source_published_at": "2026-11-20T19:51:38Z",
+    "synced_at": "2026-11-20T19:55:49.721051+00:00",
+    "assets": [
+      {
+        "source_asset_id": 773130412,
+        "filename": "waaiya-v0.2.12-arm64-v8a-release.apk",
+        "original_filename": "waaiya-v0.2.12-arm64-v8a-release.apk",
+        "sha256": "277f6be44b4c6be4ca50ff097b058aaec2e25aa91d83bd50f04d126a57d13d26",
+        "file_size": 89905472,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 773130410,
+        "filename": "waaiya-v0.2.12-armeabi-v7a-release.apk",
+        "original_filename": "waaiya-v0.2.12-armeabi-v7a-release.apk",
+        "sha256": "d661c8eeaadfe04c6ca4623429debe3627ac40e18cb07e80e989a1e2113c9504",
+        "file_size": 88362712,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 773130407,
+        "filename": "waaiya-v0.2.12-universal-release.apk",
+        "original_filename": "waaiya-v0.2.12-universal-release.apk",
+        "sha256": "b67432f51118eedde4702328ab890e76d211a8caa29699f61f14923755aab442",
+        "file_size": 107815014,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "waaiya-v0.2.12",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/waaiya-v0.2.12"
+  },
+  "panelfm-android": {
+    "source_repository": "U707T/panelfm-android",
+    "source_release_id": 453103021,
+    "source_tag": "v2.5.3",
+    "source_published_at": "2026-11-20T19:35:00Z",
+    "synced_at": "2026-11-20T19:55:59.296466+00:00",
+    "assets": [
+      {
+        "source_asset_id": 773085609,
+        "filename": "PanelFM-release-arm64-v8a.apk",
+        "original_filename": "PanelFM-release-arm64-v8a.apk",
+        "sha256": "b9980f65e8d0ebe8a7783b1ee7ecb573dbb1c0d84a2198e6b6a541d93667f96e",
+        "file_size": 23283682,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 773085608,
+        "filename": "PanelFM-release-armeabi-v7a.apk",
+        "original_filename": "PanelFM-release-armeabi-v7a.apk",
+        "sha256": "8e4c90de8f68c0decc9a2e4ea6b40fd70a95de182227d72a41c89fac28862c9f",
+        "file_size": 23281758,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 773085614,
+        "filename": "PanelFM-release-x86_64.apk",
+        "original_filename": "PanelFM-release-x86_64.apk",
+        "sha256": "e019a7ff50d31286f4037ec081c089e4d78ee909f8ceb2132556056cb7a46169",
+        "file_size": 23282740,
+        "architecture": "x86_64"
+      }
+    ],
+    "mirror_release_tag": "panelfm-android-v2.5.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/panelfm-android-v2.5.3"
   }
 }
