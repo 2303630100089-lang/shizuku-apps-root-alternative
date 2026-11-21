@@ -26669,5 +26669,260 @@
     ],
     "mirror_release_tag": "internalmicguard-v1.0.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/internalmicguard-v1.0.0"
+  },
+  "onehz": {
+    "source_repository": "neveSZ/onehz",
+    "source_release_id": 453542282,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-21T08:18:03Z",
+    "synced_at": "2026-11-21T19:00:27.027435+00:00",
+    "assets": [
+      {
+        "source_asset_id": 774905668,
+        "filename": "OneHZ-1.0.1.apk",
+        "original_filename": "OneHZ-1.0.1.apk",
+        "sha256": "2928950fa19fe99b85e830fb8ef7a67afb311b1643a5c43b8cbfecf7666a5592",
+        "file_size": 3262919,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "onehz-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onehz-v1.0.1"
+  },
+  "codex-phone": {
+    "source_repository": "cjosn/codex-phone",
+    "source_release_id": 453870176,
+    "source_tag": "v1.6.4",
+    "source_published_at": "2026-11-21T17:47:54Z",
+    "synced_at": "2026-11-21T19:00:49.076853+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776375230,
+        "filename": "Codex-Pocket-1.6.4-arm64.apk",
+        "original_filename": "Codex-Pocket-1.6.4-arm64.apk",
+        "sha256": "d4cdfbbeb0420a073297c6fb2d93076f23194d9da456cf9dce8aeccea3495a87",
+        "file_size": 313560532,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "codex-phone-v1.6.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/codex-phone-v1.6.4"
+  },
+  "suibai-patchtool": {
+    "source_repository": "LvShu2009/suibai-patchtool",
+    "source_release_id": 453913226,
+    "source_tag": "v3.15.2",
+    "source_published_at": "2026-11-21T19:00:17Z",
+    "synced_at": "2026-11-21T19:00:52.648533+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776560382,
+        "filename": "_v3.15.2_._v1v2v3.apk",
+        "original_filename": "_v3.15.2_._v1v2v3.apk",
+        "sha256": "6e1756d81f6a8cc91f654295dc6d940927e38bd27388816e0f40cda41680a9ef",
+        "file_size": 2798508,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "suibai-patchtool-v3.15.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/suibai-patchtool-v3.15.2"
+  },
+  "getsms-android": {
+    "source_repository": "smartass08/getsms-android",
+    "source_release_id": 453840205,
+    "source_tag": "v1.0.2",
+    "source_published_at": "2026-11-21T16:58:19Z",
+    "synced_at": "2026-11-21T19:00:56.244684+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776238792,
+        "filename": "getsms-android-v1.0.2.apk",
+        "original_filename": "getsms-android-v1.0.2.apk",
+        "sha256": "9ec971be44d88b1d5e6658b7818a808662a41f668140d3e39f2666059f480d19",
+        "file_size": 2380916,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "getsms-android-v1.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/getsms-android-v1.0.2"
+  },
+  "topdrive-garage-backup": {
+    "source_repository": "Didouraph/topdrive-garage-backup",
+    "source_release_id": 453899486,
+    "source_tag": "latest-apk",
+    "source_published_at": "2026-11-21T18:39:20Z",
+    "synced_at": "2026-11-21T19:01:01.112855+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776510098,
+        "filename": "TopDriveGarageBackup.apk",
+        "original_filename": "TopDriveGarageBackup.apk",
+        "sha256": "149adfdf9ab27dad71005362e582350573c3d3980043b771d310917118425e3a",
+        "file_size": 6271376,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "topdrive-garage-backup-latest-apk",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/topdrive-garage-backup-latest-apk"
+  },
+  "hyperkeep": {
+    "source_repository": "adnansiddiqui-dev/HyperKeep",
+    "source_release_id": 453909896,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-21T18:54:57Z",
+    "synced_at": "2026-11-21T19:01:04.455848+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776547048,
+        "filename": "HyperKeep-v1.0.0.apk",
+        "original_filename": "HyperKeep-v1.0.0.apk",
+        "sha256": "a1d86940f1301d3567c1860549a5253e16b4a34fff93b3c12f14c42b11ef6296",
+        "file_size": 2937415,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hyperkeep-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hyperkeep-v1.0.0"
+  },
+  "privacy-guard": {
+    "source_repository": "ge9x0/privacy-guard",
+    "source_release_id": 453648478,
+    "source_tag": "v0.2.1",
+    "source_published_at": "2026-11-21T11:39:29Z",
+    "synced_at": "2026-11-21T19:01:09.216003+00:00",
+    "assets": [
+      {
+        "source_asset_id": 775384555,
+        "filename": "PrivacyGuard-0.2.1.apk",
+        "original_filename": "PrivacyGuard-0.2.1.apk",
+        "sha256": "46c85c352641a3b95a9cc8f893098ce9ee505b3cc225def6c466a90ac0d8ae12",
+        "file_size": 18558236,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "privacy-guard-v0.2.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/privacy-guard-v0.2.1"
+  },
+  "orbaflux": {
+    "source_repository": "btalal/OrbaFlux",
+    "source_release_id": 453802984,
+    "source_tag": "v2.0",
+    "source_published_at": "2026-11-21T15:57:19Z",
+    "synced_at": "2026-11-21T19:01:12.460412+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776075857,
+        "filename": "orbaflux.apk",
+        "original_filename": "orbaflux.apk",
+        "sha256": "25d4ca8a71b3d549a1a458998e8658686d782c02f1eec7121980959630c14b57",
+        "file_size": 312373,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "orbaflux-v2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orbaflux-v2.0"
+  },
+  "android-remote-control-mcp": {
+    "source_repository": "danielealbano/android-remote-control-mcp",
+    "source_release_id": 436477741,
+    "source_tag": "v1.13.0",
+    "source_published_at": "2026-11-06T13:05:51Z",
+    "synced_at": "2026-11-21T19:01:43.242364+00:00",
+    "assets": [
+      {
+        "source_asset_id": 717107335,
+        "filename": "android-remote-control-mcp-v1.13.0-foss-release.apk",
+        "original_filename": "android-remote-control-mcp-v1.13.0-foss-release.apk",
+        "sha256": "45ae36cd8ece980281f63eacf2f788e583d165d0b09960003a85838ff1477cf2",
+        "file_size": 193855523,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 717107339,
+        "filename": "android-remote-control-mcp-v1.13.0-gms-release.apk",
+        "original_filename": "android-remote-control-mcp-v1.13.0-gms-release.apk",
+        "sha256": "f561aa0a2f13b023d203d6b0d581c84d78459cb0ea8f55a2231032acc52303ea",
+        "file_size": 194900143,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-remote-control-mcp-v1.13.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-remote-control-mcp-v1.13.0"
+  },
+  "afterbeep": {
+    "source_repository": "agarwalvivek29/afterbeep",
+    "source_release_id": 453815246,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-21T16:17:34Z",
+    "synced_at": "2026-11-21T19:01:48.023429+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776128138,
+        "filename": "Afterbeep-1.0.0.apk",
+        "original_filename": "Afterbeep-1.0.0.apk",
+        "sha256": "3dc9f955e280d5bb3c890aac9f8a47321a167e535dbedcda309543dfe27bb3b7",
+        "file_size": 11807082,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "afterbeep-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/afterbeep-v1.0.0"
+  },
+  "batterylog": {
+    "source_repository": "The412Banner/BatteryLog",
+    "source_release_id": 453900308,
+    "source_tag": "v2.2.0",
+    "source_published_at": "2026-11-21T18:40:49Z",
+    "synced_at": "2026-11-21T19:01:51.930450+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776513535,
+        "filename": "BatteryLog-v2.2.0-c0466f80.apk",
+        "original_filename": "BatteryLog-v2.2.0-c0466f80.apk",
+        "sha256": "da20a49d52ea1d1a44c1ead748a0dac4b55cc6add9d7c07052cb0f037d7ebcca",
+        "file_size": 3669815,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "batterylog-v2.2.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batterylog-v2.2.0"
+  },
+  "mywork": {
+    "source_repository": "z2846852/mywork",
+    "source_release_id": 453912415,
+    "source_tag": "v0.2.166",
+    "source_published_at": "2026-11-21T18:58:54Z",
+    "synced_at": "2026-11-21T19:01:56.690760+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776557080,
+        "filename": "BodyTrace-release.apk",
+        "original_filename": "BodyTrace-release.apk",
+        "sha256": "64129f4d19d374e765f56e5da6e8a00f55b4ac99160a12f22ba743ac67400699",
+        "file_size": 20470111,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mywork-v0.2.166",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/mywork-v0.2.166"
+  },
+  "refresh-rate-switch": {
+    "source_repository": "Lkxuii/refresh-rate-switch",
+    "source_release_id": 453705952,
+    "source_tag": "v2.5",
+    "source_published_at": "2026-11-21T13:20:47Z",
+    "synced_at": "2026-11-21T19:01:59.689591+00:00",
+    "assets": [
+      {
+        "source_asset_id": 775654563,
+        "filename": "rrswitch-v2.5.apk",
+        "original_filename": "rrswitch-v2.5.apk",
+        "sha256": "3f85bd165394c44bf2e139c706b50c6e8936fa439a9c8256893e1c3b23bfb780",
+        "file_size": 66986,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "refresh-rate-switch-v2.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/refresh-rate-switch-v2.5"
   }
 }

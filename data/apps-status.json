@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-21T13:46:58.425733+00:00",
+    "last_checked": "2026-11-21T19:01:43.845697+00:00",
     "latest_version": "zako3.19hp",
     "last_synced": "2026-11-20T19:55:21.505524+00:00"
   },
@@ -2466,7 +2466,7 @@
   },
   "phone-agent": {
     "status": "no-update",
-    "last_checked": "2026-11-21T13:53:49.220306+00:00",
+    "last_checked": "2026-11-21T19:00:57.130951+00:00",
     "latest_version": "v0.8.16",
     "last_synced": "2026-10-16T20:25:18.588934+00:00"
   },
@@ -7310,5 +7310,91 @@
     "last_checked": "2026-11-21T14:03:49.798440+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-11-21T06:46:53.862637+00:00"
+  },
+  "onecr": {
+    "status": "no-apk",
+    "last_checked": "2026-11-21T19:00:23.270026+00:00"
+  },
+  "onehz": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:00:27.027456+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-21T19:00:27.027456+00:00"
+  },
+  "codex-phone": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:00:49.076871+00:00",
+    "latest_version": "v1.6.4",
+    "last_synced": "2026-11-21T19:00:49.076871+00:00"
+  },
+  "suibai-patchtool": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:00:52.648554+00:00",
+    "latest_version": "v3.15.2",
+    "last_synced": "2026-11-21T19:00:52.648554+00:00"
+  },
+  "getsms-android": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:00:56.244705+00:00",
+    "latest_version": "v1.0.2",
+    "last_synced": "2026-11-21T19:00:56.244705+00:00"
+  },
+  "hmxharness": {
+    "status": "no-apk",
+    "last_checked": "2026-11-21T19:00:56.626932+00:00"
+  },
+  "topdrive-garage-backup": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:01.112874+00:00",
+    "latest_version": "latest-apk",
+    "last_synced": "2026-11-21T19:01:01.112874+00:00"
+  },
+  "hyperkeep": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:04.455864+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-21T19:01:04.455864+00:00"
+  },
+  "privacy-guard": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:09.216021+00:00",
+    "latest_version": "v0.2.1",
+    "last_synced": "2026-11-21T19:01:09.216021+00:00"
+  },
+  "orbaflux": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:12.460431+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-11-21T19:01:12.460431+00:00"
+  },
+  "android-remote-control-mcp": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:43.242385+00:00",
+    "latest_version": "v1.13.0",
+    "last_synced": "2026-11-21T19:01:43.242385+00:00"
+  },
+  "afterbeep": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:48.023447+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-21T19:01:48.023447+00:00"
+  },
+  "batterylog": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:51.930469+00:00",
+    "latest_version": "v2.2.0",
+    "last_synced": "2026-11-21T19:01:51.930469+00:00"
+  },
+  "mywork": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:56.690781+00:00",
+    "latest_version": "v0.2.166",
+    "last_synced": "2026-11-21T19:01:56.690781+00:00"
+  },
+  "refresh-rate-switch": {
+    "status": "synced",
+    "last_checked": "2026-11-21T19:01:59.689608+00:00",
+    "latest_version": "v2.5",
+    "last_synced": "2026-11-21T19:01:59.689608+00:00"
   }
 }
