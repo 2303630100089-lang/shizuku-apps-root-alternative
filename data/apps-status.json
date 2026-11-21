@@ -7241,5 +7241,75 @@
     "last_checked": "2026-11-21T04:34:57.521537+00:00",
     "latest_version": "v2.5.6",
     "last_synced": "2026-11-21T04:34:57.521537+00:00"
+  },
+  "floatingvirtualscannergun": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:03.458169+00:00",
+    "latest_version": "v0.2.0",
+    "last_synced": "2026-11-21T06:46:03.458169+00:00"
+  },
+  "thorutil": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:06.620792+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-11-21T06:46:06.620792+00:00"
+  },
+  "sundocument": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:10.972893+00:00",
+    "latest_version": "v1.8.0",
+    "last_synced": "2026-11-21T06:46:10.972893+00:00"
+  },
+  "rurudown": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:14.653126+00:00",
+    "latest_version": "v1.0.5",
+    "last_synced": "2026-11-21T06:46:14.653126+00:00"
+  },
+  "switch-fetch-download-manager-fixed": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:20.043916+00:00",
+    "latest_version": "v9.1.28",
+    "last_synced": "2026-11-21T06:46:20.043916+00:00"
+  },
+  "custom-tiles": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:23.365769+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-21T06:46:23.365769+00:00"
+  },
+  "good-lock-updater": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:27.180394+00:00",
+    "latest_version": "v0.4.0",
+    "last_synced": "2026-11-21T06:46:27.180394+00:00"
+  },
+  "sandesh-auto-dispatch": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:31.578495+00:00",
+    "latest_version": "v1.24",
+    "last_synced": "2026-11-21T06:46:31.578495+00:00"
+  },
+  "hyperengine-game-turbo-pro": {
+    "status": "no-apk",
+    "last_checked": "2026-11-21T06:46:31.887505+00:00"
+  },
+  "backstage": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:45.726853+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-21T06:46:45.726853+00:00"
+  },
+  "lmt-launcher-revived": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:49.359184+00:00",
+    "latest_version": "v4.0.1",
+    "last_synced": "2026-11-21T06:46:49.359184+00:00"
+  },
+  "internalmicguard": {
+    "status": "synced",
+    "last_checked": "2026-11-21T06:46:53.862637+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-21T06:46:53.862637+00:00"
   }
 }
