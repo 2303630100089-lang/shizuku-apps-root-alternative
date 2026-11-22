@@ -827,7 +827,7 @@
   },
   "dsh-folk": {
     "status": "no-apk",
-    "last_checked": "2026-11-22T03:40:48.651394+00:00",
+    "last_checked": "2026-11-22T06:16:47.124667+00:00",
     "latest_version": "runtime-0.2.2-rc.1",
     "last_synced": "2026-10-19T11:38:38.040909+00:00"
   },
@@ -7397,5 +7397,82 @@
     "last_checked": "2026-11-22T03:49:08.940142+00:00",
     "latest_version": "v2.5",
     "last_synced": "2026-11-21T19:01:59.689608+00:00"
+  },
+  "zcode-mobile": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:26.173981+00:00",
+    "latest_version": "v3.10.0",
+    "last_synced": "2026-11-22T06:16:26.173981+00:00"
+  },
+  "autotapper": {
+    "status": "no-apk",
+    "last_checked": "2026-11-22T06:16:26.405573+00:00",
+    "latest_version": "debug-latest"
+  },
+  "android-personal-agent": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:27.143072+00:00",
+    "latest_version": "v0.3.1",
+    "last_synced": "2026-11-22T06:16:27.143072+00:00"
+  },
+  "shrimpl": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:30.299164+00:00",
+    "latest_version": "v1.0.9",
+    "last_synced": "2026-11-22T06:16:30.299164+00:00"
+  },
+  "aatube-caster": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:34.959736+00:00",
+    "latest_version": "v1.3.1",
+    "last_synced": "2026-11-22T06:16:34.959736+00:00"
+  },
+  "neon": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:46.259079+00:00",
+    "latest_version": "v0.4.2",
+    "last_synced": "2026-11-22T06:16:46.259079+00:00"
+  },
+  "zfps": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:51.555091+00:00",
+    "latest_version": "v1.4.0",
+    "last_synced": "2026-11-22T06:16:51.555091+00:00"
+  },
+  "gunizi-android": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:55.059445+00:00",
+    "latest_version": "v0.6.0",
+    "last_synced": "2026-11-22T06:16:55.059445+00:00"
+  },
+  "tv-remote": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:16:57.673302+00:00",
+    "latest_version": "build-9",
+    "last_synced": "2026-11-22T06:16:57.673302+00:00"
+  },
+  "coverctl": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:17:00.795751+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-11-22T06:17:00.795751+00:00"
+  },
+  "ro-operit": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:17:20.666020+00:00",
+    "latest_version": "v1.26.2",
+    "last_synced": "2026-11-22T06:17:20.666020+00:00"
+  },
+  "quest-claude": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:17:26.742445+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-22T06:17:26.742445+00:00"
+  },
+  "antigem": {
+    "status": "synced",
+    "last_checked": "2026-11-22T06:17:34.331703+00:00",
+    "latest_version": "v2.0.2",
+    "last_synced": "2026-11-22T06:17:34.331703+00:00"
   }
 }

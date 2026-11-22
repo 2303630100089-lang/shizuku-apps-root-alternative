@@ -26916,5 +26916,257 @@
     ],
     "mirror_release_tag": "refresh-rate-switch-v2.5",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/refresh-rate-switch-v2.5"
+  },
+  "zcode-mobile": {
+    "source_repository": "giangnam728828-rgb/zcode-mobile",
+    "source_release_id": 454243780,
+    "source_tag": "v3.10.0",
+    "source_published_at": "2026-11-22T06:12:48Z",
+    "synced_at": "2026-11-22T06:16:26.173951+00:00",
+    "assets": [
+      {
+        "source_asset_id": 778084907,
+        "filename": "zcode-mobile.apk",
+        "original_filename": "zcode-mobile.apk",
+        "sha256": "32f02de845babaebc2baed1d4e2b560b9a2cf1759d0146b56ea9ee0a8e3fc9e7",
+        "file_size": 66229496,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zcode-mobile-v3.10.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zcode-mobile-v3.10.0"
+  },
+  "android-personal-agent": {
+    "source_repository": "lzh2034855417-beep/Android-Personal-Agent",
+    "source_release_id": 417350146,
+    "source_tag": "v0.3.1",
+    "source_published_at": "2026-10-19T13:52:33Z",
+    "synced_at": "2026-11-22T06:16:27.143053+00:00",
+    "assets": [
+      {
+        "source_asset_id": 656418242,
+        "filename": "APA-v0.3.1-release.apk",
+        "original_filename": "APA-v0.3.1-release.apk",
+        "sha256": "b5edf109ce25ecda239f35bf7a16662584da1e62d86c7ff637d2e13b0528808a",
+        "file_size": 11828638,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "android-personal-agent-v0.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-personal-agent-v0.3.1"
+  },
+  "shrimpl": {
+    "source_repository": "Valghora/shrimpl",
+    "source_release_id": 449637708,
+    "source_tag": "v1.0.9",
+    "source_published_at": "2026-11-18T07:13:43Z",
+    "synced_at": "2026-11-22T06:16:30.299139+00:00",
+    "assets": [
+      {
+        "source_asset_id": 762339708,
+        "filename": "shrimpl-1.0.9.apk",
+        "original_filename": "shrimpl-1.0.9.apk",
+        "sha256": "959bc5e5f632679fbbe008ba8a614c5cfee5e1bd521de0394bcb556cf6331d81",
+        "file_size": 4761832,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shrimpl-v1.0.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shrimpl-v1.0.9"
+  },
+  "aatube-caster": {
+    "source_repository": "dx9901mk5/AATube-Caster",
+    "source_release_id": 454233114,
+    "source_tag": "v1.3.1",
+    "source_published_at": "2026-11-22T05:47:16Z",
+    "synced_at": "2026-11-22T06:16:34.959711+00:00",
+    "assets": [
+      {
+        "source_asset_id": 778029728,
+        "filename": "AATube-Caster-v1.3.1.apk",
+        "original_filename": "AATube-Caster-v1.3.1.apk",
+        "sha256": "c6623c671ba071d97ab4be5de6b57ac6e366abb254182fc67c9b91a3bad37055",
+        "file_size": 55066030,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "aatube-caster-v1.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/aatube-caster-v1.3.1"
+  },
+  "neon": {
+    "source_repository": "QiGai77/neon",
+    "source_release_id": 454239182,
+    "source_tag": "v0.4.2",
+    "source_published_at": "2026-11-22T06:02:07Z",
+    "synced_at": "2026-11-22T06:16:46.259060+00:00",
+    "assets": [
+      {
+        "source_asset_id": 778073355,
+        "filename": "neon-v0.4.2.apk",
+        "original_filename": "neon-v0.4.2.apk",
+        "sha256": "c37cb6c622faf04f38a6627f85cbf9d95592f32513360450eb95df2775660d6d",
+        "file_size": 209444756,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "neon-v0.4.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/neon-v0.4.2"
+  },
+  "zfps": {
+    "source_repository": "zsdev07/ZFps",
+    "source_release_id": 454214813,
+    "source_tag": "v1.4.0",
+    "source_published_at": "2026-11-22T05:02:48Z",
+    "synced_at": "2026-11-22T06:16:51.555070+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777935833,
+        "filename": "fps-monitor-v1.4.0.apk",
+        "original_filename": "fps-monitor-v1.4.0.apk",
+        "sha256": "5d3053af1531a676b5d070e6f4b1672b6719b579159c7199a6bdd0e965511256",
+        "file_size": 46343339,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zfps-v1.4.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zfps-v1.4.0"
+  },
+  "gunizi-android": {
+    "source_repository": "numandegirmenci/gunizi-android",
+    "source_release_id": 454098637,
+    "source_tag": "v0.6.0",
+    "source_published_at": "2026-11-22T00:57:23Z",
+    "synced_at": "2026-11-22T06:16:55.059421+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777402356,
+        "filename": "GunIzi-v0.6.0.apk",
+        "original_filename": "GunIzi-v0.6.0.apk",
+        "sha256": "f7cdc61a041aaba3f835649faded855da21f089ee25144b8c9db37a60dbfb817",
+        "file_size": 14778315,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "gunizi-android-v0.6.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/gunizi-android-v0.6.0"
+  },
+  "tv-remote": {
+    "source_repository": "drauch69-cmd/Tv-remote",
+    "source_release_id": 454218345,
+    "source_tag": "build-9",
+    "source_published_at": "2026-11-22T05:11:19Z",
+    "synced_at": "2026-11-22T06:16:57.673275+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777954632,
+        "filename": "tv-remote.apk",
+        "original_filename": "tv-remote.apk",
+        "sha256": "eeff73bc0a7215f9763ca0de8622d2f738cc2ba84d93db1e463d8808d6cf2efa",
+        "file_size": 2308907,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "tv-remote-build-9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tv-remote-build-9"
+  },
+  "coverctl": {
+    "source_repository": "nguyenthemanh/CoverCtl",
+    "source_release_id": 454159067,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-11-22T03:06:55Z",
+    "synced_at": "2026-11-22T06:17:00.795732+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777693192,
+        "filename": "CoverCtl-2.0.0.apk",
+        "original_filename": "CoverCtl-2.0.0.apk",
+        "sha256": "cdb61bb1faca5561ea2c2bb9de3d8701975ca3fde7b4bf5bf3155e4643ed4c75",
+        "file_size": 14183901,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "coverctl-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/coverctl-v2.0.0"
+  },
+  "ro-operit": {
+    "source_repository": "Davinci198/ro-operit",
+    "source_release_id": 454236029,
+    "source_tag": "v1.26.2",
+    "source_published_at": "2026-11-22T05:54:54Z",
+    "synced_at": "2026-11-22T06:17:20.665998+00:00",
+    "assets": [
+      {
+        "source_asset_id": 778046196,
+        "filename": "app-clone-release.apk",
+        "original_filename": "app-clone-release.apk",
+        "sha256": "07657bdb705a7f0a95dc5c7522fa33695fe904a533dcb5847d741bcb5124758b",
+        "file_size": 402694036,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ro-operit-v1.26.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ro-operit-v1.26.2"
+  },
+  "quest-claude": {
+    "source_repository": "Jodeit/quest-claude",
+    "source_release_id": 454218568,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-22T05:11:52Z",
+    "synced_at": "2026-11-22T06:17:26.742426+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777957008,
+        "filename": "qlaude.apk",
+        "original_filename": "qlaude.apk",
+        "sha256": "0f2fbcb024d94607c2e29f7cdeabb91af7cf93b051bc0f6e7d1468aadc7f4175",
+        "file_size": 43309475,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 777955841,
+        "filename": "quest-claude.apk",
+        "original_filename": "quest-claude.apk",
+        "sha256": "8665b0a787212f21064c93a3ad7ea37c8e0b0e19bd505cbf09d6bed4675730c8",
+        "file_size": 10384613,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "quest-claude-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quest-claude-v0.1.0"
+  },
+  "antigem": {
+    "source_repository": "Santoshkurmi/antigem",
+    "source_release_id": 453555398,
+    "source_tag": "v2.0.2",
+    "source_published_at": "2026-11-21T08:43:36Z",
+    "synced_at": "2026-11-22T06:17:34.331683+00:00",
+    "assets": [
+      {
+        "source_asset_id": 775316341,
+        "filename": "AntiGem-v2.0.2-chroot.apk",
+        "original_filename": "AntiGem-v2.0.2-chroot.apk",
+        "sha256": "bb0c4d1c176e000699de2e3280c2fd5977f2fc9f2b0030b594109554b11c1616",
+        "file_size": 19915234,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      },
+      {
+        "source_asset_id": 775316333,
+        "filename": "AntiGem-v2.0.2-x86_64.apk",
+        "original_filename": "AntiGem-v2.0.2-x86_64.apk",
+        "sha256": "e1fb90e77a1d0eb9de0aabd49d6ae460519c652b67077cd98de2756e1392d9a4",
+        "file_size": 21181318,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 775316334,
+        "filename": "AntiGem-v2.0.2.apk",
+        "original_filename": "AntiGem-v2.0.2.apk",
+        "sha256": "60d17fa6811044c7851ce25b990722a41e4db8c14490ea4a185ac3b1496d5075",
+        "file_size": 15913118,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "antigem-v2.0.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/antigem-v2.0.2"
   }
 }
