@@ -26053,30 +26053,30 @@
   },
   "hachimia": {
     "source_repository": "greyoak111/hachimia",
-    "source_release_id": 453763764,
-    "source_tag": "v0.1.5",
-    "source_published_at": "2026-11-21T14:53:36Z",
-    "synced_at": "2026-11-21T22:44:00.822166+00:00",
+    "source_release_id": 454646553,
+    "source_tag": "v0.1.8",
+    "source_published_at": "2026-11-22T18:11:44Z",
+    "synced_at": "2026-11-22T19:24:09.554632+00:00",
     "assets": [
       {
-        "source_asset_id": 775905797,
+        "source_asset_id": 779983967,
         "filename": "hachimia-36.apk",
         "original_filename": "hachimia-36.apk",
-        "sha256": "690a49319787b8a624f39a3ad7c2fb0bbf683512188c16355351ab14df37f5eb",
-        "file_size": 19441981,
+        "sha256": "0f4d1ca2f2b34d7d1b004c053c0ec0a9427b801e18623feb8343c6bd6a947a74",
+        "file_size": 19495673,
         "architecture": "arm64-v8a"
       },
       {
-        "source_asset_id": 775905779,
+        "source_asset_id": 779983966,
         "filename": "hachimia.apk",
         "original_filename": "hachimia.apk",
-        "sha256": "2500bc9ae7a4f359677460a4e929d515c1f802e199bb271d9e08f0946ef14d55",
-        "file_size": 19441981,
+        "sha256": "1ce3117e5daa417fd5835a2b2223a8c81a982fdd059271c79f3dc9c136aad22f",
+        "file_size": 19495673,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "hachimia-v0.1.5",
-    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hachimia-v0.1.5"
+    "mirror_release_tag": "hachimia-v0.1.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hachimia-v0.1.8"
   },
   "vrcdi": {
     "source_repository": "WanliuStudio/VRCDI",
@@ -27192,5 +27192,211 @@
     ],
     "mirror_release_tag": "antigem-v2.0.3",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/antigem-v2.0.3"
+  },
+  "touchmaster-pro": {
+    "source_repository": "ereasaf9-hue/TouchMaster-Pro",
+    "source_release_id": 454676636,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-22T19:01:03Z",
+    "synced_at": "2026-11-22T19:23:36.998809+00:00",
+    "assets": [
+      {
+        "source_asset_id": 780122643,
+        "filename": "TouchMaster-Pro-v1.0.0.apk",
+        "original_filename": "TouchMaster-Pro-v1.0.0.apk",
+        "sha256": "273c2cb3459292e6b33fd72cc0b2691232e391de7d394af6852155577fa8a359",
+        "file_size": 1598599,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "touchmaster-pro-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/touchmaster-pro-v1.0.0"
+  },
+  "lenovo-kb500u-fkeys": {
+    "source_repository": "nckirik/lenovo-kb500u-fkeys",
+    "source_release_id": 454041053,
+    "source_tag": "v1.3",
+    "source_published_at": "2026-11-21T22:52:21Z",
+    "synced_at": "2026-11-22T19:23:41.940008+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777119178,
+        "filename": "ExKeyMo-KB500U-Fkeys-EN.apk",
+        "original_filename": "ExKeyMo-KB500U-Fkeys-EN.apk",
+        "sha256": "121f06b1c61e8150e10f769b2365f52daa9e0b6410b2cbff119de37776d0f733",
+        "file_size": 12836,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 777119169,
+        "filename": "ExKeyMo-KB500U-Fkeys-TR.apk",
+        "original_filename": "ExKeyMo-KB500U-Fkeys-TR.apk",
+        "sha256": "329acd6e1740e6608778b5d4240f8a91486cef171262b67901786df647328247",
+        "file_size": 12836,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lenovo-kb500u-fkeys-v1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lenovo-kb500u-fkeys-v1.3"
+  },
+  "solcube": {
+    "source_repository": "HerrKaizer/SolCube",
+    "source_release_id": 454666569,
+    "source_tag": "v3.11.0",
+    "source_published_at": "2026-11-22T18:44:38Z",
+    "synced_at": "2026-11-22T19:23:44.953256+00:00",
+    "assets": [
+      {
+        "source_asset_id": 780076406,
+        "filename": "SolCube.apk",
+        "original_filename": "SolCube.apk",
+        "sha256": "a0f6df9748255e854dc1be8d3e95451aa3e8c44f2ce9b1bdbfa50f318bb0a44c",
+        "file_size": 8173619,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "solcube-v3.11.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/solcube-v3.11.0"
+  },
+  "tonale-scanner-download": {
+    "source_repository": "MirkoCrb/tonale-scanner-download",
+    "source_release_id": 454668719,
+    "source_tag": "build-77",
+    "source_published_at": "2026-11-22T18:48:11Z",
+    "synced_at": "2026-11-22T19:23:48.780681+00:00",
+    "assets": [
+      {
+        "source_asset_id": 780085754,
+        "filename": "TonaleScanner-77.apk",
+        "original_filename": "TonaleScanner-77.apk",
+        "sha256": "d874bfe78400a291c033ee1b9d493f2075d282c4675d5664ac17353ff2969edb",
+        "file_size": 27240783,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tonale-scanner-download-build-77",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tonale-scanner-download-build-77"
+  },
+  "frameguard": {
+    "source_repository": "ArtixForLiving/Frameguard",
+    "source_release_id": 454633911,
+    "source_tag": "v1.0.4",
+    "source_published_at": "2026-11-22T17:50:58Z",
+    "synced_at": "2026-11-22T19:23:52.782529+00:00",
+    "assets": [
+      {
+        "source_asset_id": 779925543,
+        "filename": "FrameGuard-v1.0.4.apk",
+        "original_filename": "FrameGuard-v1.0.4.apk",
+        "sha256": "d530fd133b7fb5bce5813d8a7e6b297db9252f17f2c2cb60589936587c058d4a",
+        "file_size": 24924349,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "frameguard-v1.0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/frameguard-v1.0.4"
+  },
+  "suzu-ime": {
+    "source_repository": "1zumiii/suzu-ime",
+    "source_release_id": 454640017,
+    "source_tag": "android-v0.2.2",
+    "source_published_at": "2026-11-22T18:01:15Z",
+    "synced_at": "2026-11-22T19:23:59.794099+00:00",
+    "assets": [
+      {
+        "source_asset_id": 779951490,
+        "filename": "suzu-android-v0.2.2-arm64-i8mm.apk",
+        "original_filename": "suzu-android-v0.2.2-arm64-i8mm.apk",
+        "sha256": "f213c7826fc0e791419b340fd4e96e76c2e3e807b9e3130378bddea339f0015f",
+        "file_size": 30666986,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 779951491,
+        "filename": "suzu-android-v0.2.2-arm64.apk",
+        "original_filename": "suzu-android-v0.2.2-arm64.apk",
+        "sha256": "772c9a69309908c3a5c1727a0bb6739e6c70f300269dac39d50f53c74504c3d7",
+        "file_size": 30703850,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "suzu-ime-android-v0.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/suzu-ime-android-v0.2.2"
+  },
+  "ivo-live": {
+    "source_repository": "evilgreenIvo/ivo-live",
+    "source_release_id": 454665033,
+    "source_tag": "v0.60.0",
+    "source_published_at": "2026-11-22T18:42:01Z",
+    "synced_at": "2026-11-22T19:24:03.809575+00:00",
+    "assets": [
+      {
+        "source_asset_id": 780069719,
+        "filename": "IvoLive-v0.60.0.apk",
+        "original_filename": "IvoLive-v0.60.0.apk",
+        "sha256": "4e7f028227bd4ac92c70d901d8b9e654b4d7e8b3495b22ae2337d27983bbfc89",
+        "file_size": 39296104,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "ivo-live-v0.60.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ivo-live-v0.60.0"
+  },
+  "tomisu": {
+    "source_repository": "cranemay9/TomiSU",
+    "source_release_id": 436741208,
+    "source_tag": "ZakoSU",
+    "source_published_at": "2026-11-06T16:36:11Z",
+    "synced_at": "2026-11-22T19:24:13.363168+00:00",
+    "assets": [
+      {
+        "source_asset_id": 780131502,
+        "filename": "NyxSU_1.1.0.apk",
+        "original_filename": "NyxSU_1.1.0.apk",
+        "sha256": "ffc223b7da3db88923cde9a1bb514225773ab17a32ce52893064c9ebed27f625",
+        "file_size": 17168243,
+        "architecture": "arm64-v8a, riscv64, x86_64"
+      }
+    ],
+    "mirror_release_tag": "tomisu-ZakoSU",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/tomisu-ZakoSU"
+  },
+  "astralparty-xingshu": {
+    "source_repository": "Breezecaresses/AstralParty-XingShu",
+    "source_release_id": 454612304,
+    "source_tag": "v0.1.7",
+    "source_published_at": "2026-11-22T17:19:04Z",
+    "synced_at": "2026-11-22T19:24:16.778498+00:00",
+    "assets": [
+      {
+        "source_asset_id": 779826733,
+        "filename": "XingShu_Android_0.1.7.apk",
+        "original_filename": "XingShu_Android_0.1.7.apk",
+        "sha256": "5204d000e7ec83ac84a9008756c8f5dd34608dfe93983bbfa61062489cb69f6d",
+        "file_size": 15643169,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "astralparty-xingshu-v0.1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/astralparty-xingshu-v0.1.7"
+  },
+  "opaldesk": {
+    "source_repository": "lengsukq/OpalDesk",
+    "source_release_id": 454520722,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-22T14:52:55Z",
+    "synced_at": "2026-11-22T19:24:19.668773+00:00",
+    "assets": [
+      {
+        "source_asset_id": 779396633,
+        "filename": "OpalDesk_v1.0.0.apk",
+        "original_filename": "OpalDesk_v1.0.0.apk",
+        "sha256": "2eda7c7e9cd086b0b3f77b58691bd3b4b11b49dae9f3a621a893515d4db33abe",
+        "file_size": 5425956,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "opaldesk-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/opaldesk-v1.0.0"
   }
 }

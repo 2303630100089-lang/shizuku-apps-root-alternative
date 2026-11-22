@@ -332,8 +332,8 @@
     "last_synced": "2026-11-15T13:00:30.849524+00:00"
   },
   "shizako": {
-    "status": "synced",
-    "last_checked": "2026-11-22T13:40:39.569517+00:00",
+    "status": "no-update",
+    "last_checked": "2026-11-22T19:23:37.491431+00:00",
     "latest_version": "zako4",
     "last_synced": "2026-11-22T13:40:39.569517+00:00"
   },
@@ -7160,10 +7160,10 @@
     "last_checked": "2026-11-22T13:52:35.534379+00:00"
   },
   "hachimia": {
-    "status": "no-update",
-    "last_checked": "2026-11-22T13:52:35.899269+00:00",
-    "latest_version": "v0.1.5",
-    "last_synced": "2026-11-21T22:44:00.822195+00:00"
+    "status": "synced",
+    "last_checked": "2026-11-22T19:24:09.554657+00:00",
+    "latest_version": "v0.1.8",
+    "last_synced": "2026-11-22T19:24:09.554657+00:00"
   },
   "codex-go": {
     "status": "no-apk",
@@ -7473,5 +7473,74 @@
     "last_checked": "2026-11-22T13:54:40.160530+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-11-22T13:54:40.160530+00:00"
+  },
+  "touchmaster-pro": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:23:36.998840+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-22T19:23:36.998840+00:00"
+  },
+  "lenovo-kb500u-fkeys": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:23:41.940034+00:00",
+    "latest_version": "v1.3",
+    "last_synced": "2026-11-22T19:23:41.940034+00:00"
+  },
+  "solcube": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:23:44.953280+00:00",
+    "latest_version": "v3.11.0",
+    "last_synced": "2026-11-22T19:23:44.953280+00:00"
+  },
+  "tonale-scanner-download": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:23:48.780703+00:00",
+    "latest_version": "build-77",
+    "last_synced": "2026-11-22T19:23:48.780703+00:00"
+  },
+  "chess-reviewer": {
+    "status": "no-apk",
+    "last_checked": "2026-11-22T19:23:49.045660+00:00",
+    "latest_version": "build-34"
+  },
+  "frameguard": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:23:52.782549+00:00",
+    "latest_version": "v1.0.4",
+    "last_synced": "2026-11-22T19:23:52.782549+00:00"
+  },
+  "suzu-ime": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:23:59.794122+00:00",
+    "latest_version": "android-v0.2.2",
+    "last_synced": "2026-11-22T19:23:59.794122+00:00"
+  },
+  "ivo-live": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:24:03.809595+00:00",
+    "latest_version": "v0.60.0",
+    "last_synced": "2026-11-22T19:24:03.809595+00:00"
+  },
+  "nectarlink-module": {
+    "status": "no-apk",
+    "last_checked": "2026-11-22T19:24:04.084118+00:00"
+  },
+  "tomisu": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:24:13.363188+00:00",
+    "latest_version": "ZakoSU",
+    "last_synced": "2026-11-22T19:24:13.363188+00:00"
+  },
+  "astralparty-xingshu": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:24:16.778520+00:00",
+    "latest_version": "v0.1.7",
+    "last_synced": "2026-11-22T19:24:16.778520+00:00"
+  },
+  "opaldesk": {
+    "status": "synced",
+    "last_checked": "2026-11-22T19:24:19.668793+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-22T19:24:19.668793+00:00"
   }
 }
