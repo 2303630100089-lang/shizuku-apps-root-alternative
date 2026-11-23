@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-23T16:36:52.653078+00:00",
+    "last_checked": "2026-11-23T23:43:53.290457+00:00",
     "latest_version": "zako4",
     "last_synced": "2026-11-22T13:40:39.569517+00:00"
   },
@@ -7598,5 +7598,65 @@
     "last_checked": "2026-11-23T16:53:57.023847+00:00",
     "latest_version": "v1.0.15",
     "last_synced": "2026-11-23T07:07:52.588252+00:00"
+  },
+  "virtumic": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T23:43:45.953442+00:00"
+  },
+  "radon-player": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:43:52.705513+00:00",
+    "latest_version": "v4.5.9",
+    "last_synced": "2026-11-23T23:43:52.705513+00:00"
+  },
+  "slate": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T23:43:53.545947+00:00"
+  },
+  "fluxtv": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:43:56.640719+00:00",
+    "latest_version": "v1.1.73",
+    "last_synced": "2026-11-23T23:43:56.640719+00:00"
+  },
+  "tv-debloater": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T23:43:57.197410+00:00",
+    "latest_version": "v0.28.0"
+  },
+  "uniroot-next": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:44:04.865622+00:00",
+    "latest_version": "v5.2.2",
+    "last_synced": "2026-11-23T23:44:04.865622+00:00"
+  },
+  "rsensors": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:44:07.701318+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-11-23T23:44:07.701318+00:00"
+  },
+  "fyt7870-widgetdpi": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:44:10.446762+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-23T23:44:10.446762+00:00"
+  },
+  "bellatrix": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:44:14.482128+00:00",
+    "latest_version": "v2.9.43",
+    "last_synced": "2026-11-23T23:44:14.482128+00:00"
+  },
+  "android-backstage": {
+    "status": "synced",
+    "last_checked": "2026-11-23T23:44:17.773250+00:00",
+    "latest_version": "v2.0.0-dev.37",
+    "last_synced": "2026-11-23T23:44:17.773250+00:00"
+  },
+  "galaxy-tuner": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T23:44:18.003734+00:00",
+    "latest_version": "v1.0.6"
   }
 }

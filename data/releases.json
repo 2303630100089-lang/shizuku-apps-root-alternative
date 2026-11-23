@@ -27587,5 +27587,138 @@
     ],
     "mirror_release_tag": "silly-macro-v1.0.15",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/silly-macro-v1.0.15"
+  },
+  "radon-player": {
+    "source_repository": "Radon999/radon-player",
+    "source_release_id": 456067105,
+    "source_tag": "v4.5.9",
+    "source_published_at": "2026-11-23T22:21:40Z",
+    "synced_at": "2026-11-23T23:43:52.705493+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784761864,
+        "filename": "RadonPlayer-Next.apk",
+        "original_filename": "RadonPlayer-Next.apk",
+        "sha256": "e66bbad9f0ef41a392cd6436493ce41d986988fdcc7ea917e8e683f6c8be3e40",
+        "file_size": 87817468,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "radon-player-v4.5.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/radon-player-v4.5.9"
+  },
+  "fluxtv": {
+    "source_repository": "oaatiq/FluxTV",
+    "source_release_id": 456102342,
+    "source_tag": "v1.1.73",
+    "source_published_at": "2026-11-23T23:02:37Z",
+    "synced_at": "2026-11-23T23:43:56.640700+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784874154,
+        "filename": "FluxTV-1.1.73.apk",
+        "original_filename": "FluxTV-1.1.73.apk",
+        "sha256": "c8072c29dc09f7e53151f474713dad8bfb0b79af57a811b7656ec127a5e42b10",
+        "file_size": 9880336,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "fluxtv-v1.1.73",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fluxtv-v1.1.73"
+  },
+  "uniroot-next": {
+    "source_repository": "MahanYTT/UniRoot-Next",
+    "source_release_id": 453929203,
+    "source_tag": "v5.2.2",
+    "source_published_at": "2026-11-21T19:29:29Z",
+    "synced_at": "2026-11-23T23:44:04.865601+00:00",
+    "assets": [
+      {
+        "source_asset_id": 776635220,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "1ccb355df3b0dce7ebbd4611c633c5b8518487ea9b264a7fb7f3067e86320b61",
+        "file_size": 143095904,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "uniroot-next-v5.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/uniroot-next-v5.2.2"
+  },
+  "rsensors": {
+    "source_repository": "reswanaadiwarga/rsensors",
+    "source_release_id": 456117797,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-23T23:23:30Z",
+    "synced_at": "2026-11-23T23:44:07.701291+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784926231,
+        "filename": "rsensors-0.3.0.apk",
+        "original_filename": "rsensors-0.3.0.apk",
+        "sha256": "f356da99f680a5af891a3a6e32232e7d623d3b88ba4834ac8d89623f80255c7e",
+        "file_size": 1155040,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "rsensors-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rsensors-v0.3.0"
+  },
+  "fyt7870-widgetdpi": {
+    "source_repository": "dev-moroz/fyt7870-widgetdpi",
+    "source_release_id": 456084244,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-11-23T22:42:47Z",
+    "synced_at": "2026-11-23T23:44:10.446738+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784821397,
+        "filename": "widgetdpi.apk",
+        "original_filename": "widgetdpi.apk",
+        "sha256": "8427a7f782612461551d7b8a82195321b37d779f69af93d86da8beae72d852da",
+        "file_size": 12703,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "fyt7870-widgetdpi-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fyt7870-widgetdpi-v1.0"
+  },
+  "bellatrix": {
+    "source_repository": "Zaineedyou/Bellatrix",
+    "source_release_id": 455839568,
+    "source_tag": "v2.9.43",
+    "source_published_at": "2026-11-23T18:43:16Z",
+    "synced_at": "2026-11-23T23:44:14.482109+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784692200,
+        "filename": "Bellatrix-2.9.43-036e13d.apk",
+        "original_filename": "Bellatrix-2.9.43-036e13d.apk",
+        "sha256": "8457a482869c2d5ac6044140b2cf2efbe148e7a318768c85e39273e328f1c5fe",
+        "file_size": 29184860,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bellatrix-v2.9.43",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bellatrix-v2.9.43"
+  },
+  "android-backstage": {
+    "source_repository": "WhiteEagle-12/android-backstage",
+    "source_release_id": 455833718,
+    "source_tag": "v2.0.0-dev.37",
+    "source_published_at": "2026-11-23T18:37:24Z",
+    "synced_at": "2026-11-23T23:44:17.773232+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784100290,
+        "filename": "android-backstage-2.0.0-dev.37.apk",
+        "original_filename": "android-backstage-2.0.0-dev.37.apk",
+        "sha256": "c0dfba79e9165e768cc86542c8cbcf81a637fb4cb474c9b459425ab229ba3800",
+        "file_size": 10035728,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-backstage-v2.0.0-dev.37",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-backstage-v2.0.0-dev.37"
   }
 }
