@@ -629,7 +629,7 @@
   },
   "android": {
     "status": "no-update",
-    "last_checked": "2026-11-23T04:14:53.507916+00:00",
+    "last_checked": "2026-11-23T07:07:26.007970+00:00",
     "latest_version": "5.9.1",
     "last_synced": "2026-11-22T22:55:10.260488+00:00"
   },
@@ -7308,7 +7308,7 @@
   },
   "internalmicguard": {
     "status": "no-update",
-    "last_checked": "2026-11-23T04:22:09.393904+00:00",
+    "last_checked": "2026-11-23T07:07:40.272482+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-11-21T06:46:53.862637+00:00"
   },
@@ -7471,7 +7471,7 @@
   },
   "antigem": {
     "status": "no-update",
-    "last_checked": "2026-11-23T04:22:22.584094+00:00",
+    "last_checked": "2026-11-23T07:07:49.309867+00:00",
     "latest_version": "v2.0.3",
     "last_synced": "2026-11-22T13:54:40.160530+00:00"
   },
@@ -7543,5 +7543,60 @@
     "last_checked": "2026-11-23T04:22:34.624441+00:00",
     "latest_version": "v1.0.1",
     "last_synced": "2026-11-23T04:22:34.624441+00:00"
+  },
+  "apkup": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:25.420088+00:00",
+    "latest_version": "v1.46.0",
+    "last_synced": "2026-11-23T07:07:25.420088+00:00"
+  },
+  "yinyang-android": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:32.263185+00:00",
+    "latest_version": "android-20261122-phone-eq-manager",
+    "last_synced": "2026-11-23T07:07:32.263185+00:00"
+  },
+  "vibe-debug": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T07:07:32.542444+00:00",
+    "latest_version": "v2.0.0"
+  },
+  "bittu": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:36.339351+00:00",
+    "latest_version": "v0.2",
+    "last_synced": "2026-11-23T07:07:36.339351+00:00"
+  },
+  "dla": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:39.761063+00:00",
+    "latest_version": "v2.0",
+    "last_synced": "2026-11-23T07:07:39.761063+00:00"
+  },
+  "sim-ai-assistant": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T07:07:40.694190+00:00"
+  },
+  "usage-widget-apk-chg": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:44.391878+00:00",
+    "latest_version": "v0.0.269-dev.757",
+    "last_synced": "2026-11-23T07:07:44.391878+00:00"
+  },
+  "gameupscaler": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:48.540425+00:00",
+    "latest_version": "v1.0.53",
+    "last_synced": "2026-11-23T07:07:48.540425+00:00"
+  },
+  "ta-duwa": {
+    "status": "no-apk",
+    "last_checked": "2026-11-23T07:07:48.860220+00:00"
+  },
+  "silly-macro": {
+    "status": "synced",
+    "last_checked": "2026-11-23T07:07:52.588252+00:00",
+    "latest_version": "v1.0.15",
+    "last_synced": "2026-11-23T07:07:52.588252+00:00"
   }
 }

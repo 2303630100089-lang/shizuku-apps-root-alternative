@@ -3061,7 +3061,23 @@
     "Davinci198": "达芬奇198",
     "Root-free Android multi-display desktop workstation (LocalDeX, native macOS streaming & Type-C external display) with Liquid Glass window engine.": "具有 Liquid Glass 窗口引擎的免 Root Android 多显示器桌面工作站（LocalDeX、本机 macOS 流媒体和 Type-C 外部显示器）。",
     "Download app Tonale Scanner": "下载 Tonale 扫描仪应用程序",
-    "Santoshkurmi": "桑托什库尔米"
+    "Santoshkurmi": "桑托什库尔米",
+    "MirkoCrb": "MirkoCrb",
+    "ereasaf9-hue": "ereasaf9-色相",
+    "AntiGem by Rauf - An AI coding workspace for Android": "Rauf 的 AntiGem——适用于 Android 的 AI 编程工作空间",
+    "Modern open-source Material 3 Android APK updater & actively maintained APKUpdater successor. Supports Google Play, F-Droid & IzzyOnDroid (Index V2), APKMirror, GitHub, GitLab & Codeberg with signature verification, Watchlist, Obtainium sync & silent Shizuku/Root.": "现代开源 Material 3 Android APK 更新器，以及 APKUpdater 的积极维护的继任者。支持 Google Play、F-Droid 和 IzzyOnDroid（Index V2）、APKMirror、GitHub、GitLab 和 Codeberg，并提供签名验证、关注列表、Obtainium 同步以及静默 Shizuku/Root。",
+    "cranemay9": "cranemay9",
+    "evilgreenIvo": "evilgreenIvo",
+    "Android macro for Roblox Bee Swarm Simulator: screen reading + virtual keyboard/mouse, Natro-style routes and patterns. Full source, GPL-3.0.": "适用于 Roblox《蜜蜂模拟器》的安卓宏：屏幕朗读 + 虚拟键盘/鼠标、Natro 风格的路线和模式。完整源代码，GPL-3.0。",
+    "Bittu answers your phone calls for you when you can't: an AI voice assistant that lives on your own Android phone. Wake word, phone control, memory. No server, no call forwarding.": "当您无法接听电话时，Bittu 会代您接听：这款人工智能语音助手常驻在您的安卓手机上。唤醒词、手机控制、记忆。无需服务器，无需呼叫转移。",
+    "Official YinYang Android app releases": "官方YinYang安卓应用发布",
+    "nckirik": "nckirik",
+    "lengsukq": "lengsukq",
+    "Android game launcher, smart screen & internal-audio recorder, Pop Icon overlay, and optional Shizuku Game Boost & network stability suite.": "Android 游戏启动器、智能屏幕和内部音频录制器、Pop Icon 叠加层以及可选的 Shizuku 游戏加速和网络稳定性套件。",
+    "ArtixForLiving": "ArtixForLiving",
+    "⚡ Android utility to upscale game resolution (SSAA 1.10x–1.25x) and display a real-time hardware telemetry HUD (FPS, Watt, Temps) via Shizuku. No root required.": "⚡ Android 实用工具，通过 Shizuku 提升游戏分辨率（SSAA 1.10x–1.25x）并显示实时硬件遥测 HUD（帧率、功耗、温度）。无需 Root。",
+    "Zero-internet 1-tap USB & Wireless Debugging switch for Android (Quick Settings tiles, 1x1 widgets, Clean Launch & auto-off timer)": "适用于 Android 的零互联网一键式 USB 和无线调试开关（快速设置磁贴、1x1 小部件、干净启动和自动关闭定时器）",
+    "DLA · DeepSeek LLM Agent：跑在你自己 Android 手机上的本地智能体（非官方，非官方产品）。Agent 通过 Shizuku 或 Termux 二选一执行真机任务，工具按需发现、默认逐次审批、无遥测，模型请求直达你自己的端点。": "DLA · DeepSeek LLM Agent：跑在你自己 Android 手机上的本地智能体（非官方，非官方产品）。Agent 通过 Shizuku 或 Termux 二选一执行真机任务，工具按需发现、默认逐次审批、无遥测，模型请求直达你自己的端点。"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -6125,6 +6141,22 @@
     "Jodeit": "Йодейт",
     "Davinci198": "Давинчи198",
     "Root-free Android multi-display desktop workstation (LocalDeX, native macOS streaming & Type-C external display) with Liquid Glass window engine.": "Многоэкранная настольная рабочая станция Android без рута (LocalDeX, встроенная потоковая передача macOS и внешний дисплей Type-C) с оконным движком Liquid Glass.",
-    "Download app Tonale Scanner": "Скачать приложение Tonale Scanner"
+    "Download app Tonale Scanner": "Скачать приложение Tonale Scanner",
+    "MirkoCrb": "MirkoCrb",
+    "AntiGem by Rauf - An AI coding workspace for Android": "AntiGem от Rauf — среда разработки на основе ИИ для Android",
+    "ereasaf9-hue": "ereasaf9-hue",
+    "Modern open-source Material 3 Android APK updater & actively maintained APKUpdater successor. Supports Google Play, F-Droid & IzzyOnDroid (Index V2), APKMirror, GitHub, GitLab & Codeberg with signature verification, Watchlist, Obtainium sync & silent Shizuku/Root.": "Современное приложение для обновления APK-файлов на Android, разработанное с использованием Material 3 и с открытым исходным кодом, а также активно поддерживаемый преемник APKUpdater. Поддерживает Google Play, F-Droid и IzzyOnDroid (Index V2), APKMirror, GitHub, GitLab и Codeberg с проверкой подписи, списком отслеживания, синхронизацией Obtainium и Shizuku/Root в фоновом режиме.",
+    "Android macro for Roblox Bee Swarm Simulator: screen reading + virtual keyboard/mouse, Natro-style routes and patterns. Full source, GPL-3.0.": "Макрос для Android для Roblox Bee Swarm Simulator: чтение с экрана + виртуальная клавиатура/мышь, маршруты и шаблоны в стиле Natro. Полный исходный код, GPL-3.0.",
+    "cranemay9": "cranemay9",
+    "evilgreenIvo": "evilgreenIvo",
+    "Bittu answers your phone calls for you when you can't: an AI voice assistant that lives on your own Android phone. Wake word, phone control, memory. No server, no call forwarding.": "Bittu отвечает на ваши телефонные звонки, когда вы не можете этого сделать: голосовой помощник на базе ИИ, который работает на вашем собственном телефоне Android. Слово-триггер, управление телефоном, память. Никаких серверов, никакой переадресации вызовов.",
+    "Official YinYang Android app releases": "Официальные выпуски приложения YinYang для Android",
+    "Android game launcher, smart screen & internal-audio recorder, Pop Icon overlay, and optional Shizuku Game Boost & network stability suite.": "Лаунчер для игр на Android, умный экран и внутренний рекордер звука, оверлей Pop Icon и дополнительный пакет Shizuku Game Boost и обеспечения стабильности сети.",
+    "nckirik": "nckirik",
+    "lengsukq": "lengsukq",
+    "Zero-internet 1-tap USB & Wireless Debugging switch for Android (Quick Settings tiles, 1x1 widgets, Clean Launch & auto-off timer)": "Переключатель отладки по USB и беспроводной отладки для Android с одним нажатием и без подключения к Интернету (панели быстрых настроек, виджеты 1x1, чистый запуск и таймер автоматического отключения)",
+    "⚡ Android utility to upscale game resolution (SSAA 1.10x–1.25x) and display a real-time hardware telemetry HUD (FPS, Watt, Temps) via Shizuku. No root required.": "⚡ Утилита для Android для повышения разрешения игр (SSAA 1,10x–1,25x) и отображения телеметрии аппаратного обеспечения в реальном времени (FPS, мощность, температура) через Shizuku. Рутинг не требуется.",
+    "ArtixForLiving": "ArtixForLiving",
+    "DLA · DeepSeek LLM Agent：跑在你自己 Android 手机上的本地智能体（非官方，非官方产品）。Agent 通过 Shizuku 或 Termux 二选一执行真机任务，工具按需发现、默认逐次审批、无遥测，模型请求直达你自己的端点。": "DLA · DeepSeek LLM Agent: локальный агент, работающий на вашем собственном Android-смартфоне (неофициальный, неофициальный продукт).Агент выполняет задачи на реальном устройстве с помощью Shizuku или Termux (на выбор). Инструменты обнаруживаются по мере необходимости, по умолчанию используется пошаговое подтверждение, телеметрия отсутствует, а запросы к модели направляются напрямую на ваш собственный конечный пункт."
   }
 }
