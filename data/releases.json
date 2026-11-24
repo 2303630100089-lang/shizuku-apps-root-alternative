@@ -28063,5 +28063,157 @@
     ],
     "mirror_release_tag": "framepulse-v1.2.2",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/framepulse-v1.2.2"
+  },
+  "instalogger": {
+    "source_repository": "ramilseferov/instalogger",
+    "source_release_id": 455896088,
+    "source_tag": "v1.0.22-b23",
+    "source_published_at": "2026-11-23T19:30:53Z",
+    "synced_at": "2026-11-24T22:15:27.375210+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784260919,
+        "filename": "InstaLogger.apk",
+        "original_filename": "InstaLogger.apk",
+        "sha256": "c389306dab4940d16f25102f1d395fa59501cf4a5f31f5c387194c26cbe67eac",
+        "file_size": 21180698,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "instalogger-v1.0.22-b23",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/instalogger-v1.0.22-b23"
+  },
+  "essential-island": {
+    "source_repository": "Jero009/essential-island",
+    "source_release_id": 457390395,
+    "source_tag": "v1.12.3",
+    "source_published_at": "2026-11-24T22:04:46Z",
+    "synced_at": "2026-11-24T22:15:32.351983+00:00",
+    "assets": [
+      {
+        "source_asset_id": 789032806,
+        "filename": "essential-island-1.12.3.apk",
+        "original_filename": "essential-island-1.12.3.apk",
+        "sha256": "7c93e9bdf1ba8da2731afce20cfdaf3267479f591de60555aa6e12201f14ee81",
+        "file_size": 10340116,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "essential-island-v1.12.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/essential-island-v1.12.3"
+  },
+  "lenovomotorolovichy70-en": {
+    "source_repository": "b0r1s-69/LenovoMotorolovichY70-EN",
+    "source_release_id": 456631002,
+    "source_tag": "v3.1-en",
+    "source_published_at": "2026-11-24T10:52:38Z",
+    "synced_at": "2026-11-24T22:15:35.915777+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786797420,
+        "filename": "LenovoMotorolovichY70_v3.1_EN.apk",
+        "original_filename": "LenovoMotorolovichY70_v3.1_EN.apk",
+        "sha256": "39114ecf8e7bbcc3e1d66b63e8e79169959f253e18e63b9f582e62a49d362e7b",
+        "file_size": 814027,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "lenovomotorolovichy70-en-v3.1-en",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/lenovomotorolovichy70-en-v3.1-en"
+  },
+  "claude-code-mobile": {
+    "source_repository": "Cielry/Claude-Code-Mobile",
+    "source_release_id": 457382226,
+    "source_tag": "v1.0.4",
+    "source_published_at": "2026-11-24T21:57:24Z",
+    "synced_at": "2026-11-24T22:15:54.335960+00:00",
+    "assets": [
+      {
+        "source_asset_id": 789006140,
+        "filename": "Release.1.0.4.beta-6.apk",
+        "original_filename": "Release.1.0.4.beta-6.apk",
+        "sha256": "09fd61596c7c55d0314dac5ae53a45c03ee85d9b01811d428f30fd66ee17a17c",
+        "file_size": 209813653,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "claude-code-mobile-v1.0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/claude-code-mobile-v1.0.4"
+  },
+  "sendwithmirlo-for-x-twitter": {
+    "source_repository": "D4vRAM369/sendwithmirlo-for-x-twitter",
+    "source_release_id": 457374774,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-24T21:47:54Z",
+    "synced_at": "2026-11-24T22:15:57.901043+00:00",
+    "assets": [
+      {
+        "source_asset_id": 788982353,
+        "filename": "SendWithMirlo-0.1.0.apk",
+        "original_filename": "SendWithMirlo-0.1.0.apk",
+        "sha256": "9011c964e57657dcaea9c908837dca1929ed5968f4b02b0a7a6149ae64e0d522",
+        "file_size": 659598,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "sendwithmirlo-for-x-twitter-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sendwithmirlo-for-x-twitter-v0.1.0"
+  },
+  "hone": {
+    "source_repository": "maxcodl/hone",
+    "source_release_id": 456671622,
+    "source_tag": "v0.1.3",
+    "source_published_at": "2026-11-24T11:30:55Z",
+    "synced_at": "2026-11-24T22:16:02.035569+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786924826,
+        "filename": "Hone-0.1.3.apk",
+        "original_filename": "Hone-0.1.3.apk",
+        "sha256": "51d9399a974bb335453eb90b91a4a76a8cdf781019df602c81604299d438d566",
+        "file_size": 2148037,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "hone-v0.1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hone-v0.1.3"
+  },
+  "wifi-disabler": {
+    "source_repository": "Hiarni/WiFi-Disabler",
+    "source_release_id": 457360600,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-24T21:32:16Z",
+    "synced_at": "2026-11-24T22:16:05.712129+00:00",
+    "assets": [
+      {
+        "source_asset_id": 788934706,
+        "filename": "WiFi-Disabler-v1.1.0.apk",
+        "original_filename": "WiFi-Disabler-v1.1.0.apk",
+        "sha256": "38fed129fb5dadadea072a6684ee090401b90d9cdbe49bc49d6aa1a999cb3284",
+        "file_size": 1367860,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "wifi-disabler-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/wifi-disabler-v1.1.0"
+  },
+  "blocco-app": {
+    "source_repository": "rocco92rc-png/blocco-app",
+    "source_release_id": 454818529,
+    "source_tag": "latest",
+    "source_published_at": "2026-11-22T23:09:50Z",
+    "synced_at": "2026-11-24T22:16:10.098276+00:00",
+    "assets": [
+      {
+        "source_asset_id": 788931895,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "3842b6ff60d1942e0d1a0dd9f50a77710f6d4556e4bbd88b12a3e29b1744c60b",
+        "file_size": 11104087,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "blocco-app-latest",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blocco-app-latest"
   }
 }
