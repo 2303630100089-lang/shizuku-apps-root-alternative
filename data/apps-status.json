@@ -5264,7 +5264,7 @@
   },
   "tandem": {
     "status": "no-update",
-    "last_checked": "2026-11-24T03:41:54.197021+00:00",
+    "last_checked": "2026-11-24T09:32:14.689212+00:00",
     "latest_version": "v0.8.0",
     "last_synced": "2026-11-22T03:46:25.194599+00:00"
   },
@@ -7660,5 +7660,81 @@
     "status": "no-apk",
     "last_checked": "2026-11-24T03:51:18.455130+00:00",
     "latest_version": "v1.0.6"
+  },
+  "grovelauncher": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:31:32.283449+00:00",
+    "latest_version": "v1.55.1",
+    "last_synced": "2026-11-24T09:31:32.283449+00:00"
+  },
+  "alien-booster-auto-claim": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:31:35.336001+00:00",
+    "latest_version": "v0.8.0",
+    "last_synced": "2026-11-24T09:31:35.336001+00:00"
+  },
+  "stream-channeler-android": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:31:39.614534+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-24T09:31:39.614534+00:00"
+  },
+  "fflag-studio": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:31:42.392405+00:00",
+    "latest_version": "v0.14",
+    "last_synced": "2026-11-24T09:31:42.392405+00:00"
+  },
+  "hinata": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:04.646592+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-24T09:32:04.646592+00:00"
+  },
+  "cache-cleaner": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:08.196140+00:00",
+    "latest_version": "v1.1",
+    "last_synced": "2026-11-24T09:32:08.196140+00:00"
+  },
+  "autodora-next": {
+    "status": "no-apk",
+    "last_checked": "2026-11-24T09:32:08.566547+00:00"
+  },
+  "hpma-log-export": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:14.300348+00:00",
+    "latest_version": "v1.6.18",
+    "last_synced": "2026-11-24T09:32:14.300348+00:00"
+  },
+  "turbooverlay": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:17.417355+00:00",
+    "latest_version": "v1.3",
+    "last_synced": "2026-11-24T09:32:17.417355+00:00"
+  },
+  "miaocast-releases": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:20.347298+00:00",
+    "latest_version": "v0.9.7",
+    "last_synced": "2026-11-24T09:32:20.347298+00:00"
+  },
+  "notification-pocket": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:23.268569+00:00",
+    "latest_version": "v1.4.3",
+    "last_synced": "2026-11-24T09:32:23.268569+00:00"
+  },
+  "nna-clicker": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:26.460818+00:00",
+    "latest_version": "v2.3.1",
+    "last_synced": "2026-11-24T09:32:26.460818+00:00"
+  },
+  "framepulse": {
+    "status": "synced",
+    "last_checked": "2026-11-24T09:32:29.876827+00:00",
+    "latest_version": "v1.1.1",
+    "last_synced": "2026-11-24T09:32:29.876827+00:00"
   }
 }

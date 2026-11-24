@@ -27707,5 +27707,273 @@
     ],
     "mirror_release_tag": "slate-dev-59-1",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/slate-dev-59-1"
+  },
+  "grovelauncher": {
+    "source_repository": "aimanharith19-oss/GroveLauncher",
+    "source_release_id": 456540536,
+    "source_tag": "v1.55.1",
+    "source_published_at": "2026-11-24T09:28:50Z",
+    "synced_at": "2026-11-24T09:31:32.283418+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786516554,
+        "filename": "GroveLauncher-1.55.1.apk",
+        "original_filename": "GroveLauncher-1.55.1.apk",
+        "sha256": "ac163a8a235094c1aaefd3fa1a6c569ca73752815702db793b81b268f9865f39",
+        "file_size": 638764,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "grovelauncher-v1.55.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/grovelauncher-v1.55.1"
+  },
+  "alien-booster-auto-claim": {
+    "source_repository": "caiyuxinghai/alien-booster-auto-claim",
+    "source_release_id": 448736793,
+    "source_tag": "v0.8.0",
+    "source_published_at": "2026-11-17T14:22:11Z",
+    "synced_at": "2026-11-24T09:31:35.335976+00:00",
+    "assets": [
+      {
+        "source_asset_id": 759350558,
+        "filename": "alien-booster-claimer-v0.8.0.apk",
+        "original_filename": "alien-booster-claimer-v0.8.0.apk",
+        "sha256": "eeb90e19a916cc837f39c87ce189b2228eb541e4d66b5a98382eb912d940db63",
+        "file_size": 945281,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "alien-booster-auto-claim-v0.8.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/alien-booster-auto-claim-v0.8.0"
+  },
+  "stream-channeler-android": {
+    "source_repository": "ryn-cx/stream-channeler-android",
+    "source_release_id": 456341327,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-24T05:25:35Z",
+    "synced_at": "2026-11-24T09:31:39.614510+00:00",
+    "assets": [
+      {
+        "source_asset_id": 785836335,
+        "filename": "stream-channeler-release.apk",
+        "original_filename": "stream-channeler-release.apk",
+        "sha256": "31d6b3d4ee426d925b4c1f0f8c867a7755a502767459e57cb7392dc194b515df",
+        "file_size": 34030449,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "stream-channeler-android-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/stream-channeler-android-v0.1.0"
+  },
+  "fflag-studio": {
+    "source_repository": "nani201992/fflag-studio",
+    "source_release_id": 456296977,
+    "source_tag": "v0.14",
+    "source_published_at": "2026-11-24T04:12:11Z",
+    "synced_at": "2026-11-24T09:31:42.392381+00:00",
+    "assets": [
+      {
+        "source_asset_id": 785647174,
+        "filename": "FFlagStudio-0.14.apk",
+        "original_filename": "FFlagStudio-0.14.apk",
+        "sha256": "b5466e145350d0e580432e9ca652f63d96cfba79a13d21a2685ad4a6782fae3a",
+        "file_size": 226049,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "fflag-studio-v0.14",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/fflag-studio-v0.14"
+  },
+  "hinata": {
+    "source_repository": "rengix-x/Hinata",
+    "source_release_id": 456303200,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-24T04:35:40Z",
+    "synced_at": "2026-11-24T09:32:04.646569+00:00",
+    "assets": [
+      {
+        "source_asset_id": 785709856,
+        "filename": "app-arm64-v8a-release.apk",
+        "original_filename": "app-arm64-v8a-release.apk",
+        "sha256": "f40f9f13b53b0348ce9d172649c032ee9eb2cc229c4ca9318636025fbd5d8d9c",
+        "file_size": 37296217,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 785709858,
+        "filename": "app-armeabi-v7a-release.apk",
+        "original_filename": "app-armeabi-v7a-release.apk",
+        "sha256": "02f913284c57475a71dbd4cf5ae4e3d8774ad930cbf6793bc382fa5c47067c2f",
+        "file_size": 27841777,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 785709857,
+        "filename": "app-universal-release.apk",
+        "original_filename": "app-universal-release.apk",
+        "sha256": "78cc8a0298bb7beca77c0bc38ff7c4c0787815fe479cf4bfb83a0d4ffd084f49",
+        "file_size": 116901850,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 785671809,
+        "filename": "Hinata-v1.0.0-arm64-v8a.apk",
+        "original_filename": "Hinata-v1.0.0-arm64-v8a.apk",
+        "sha256": "e61ca1ba534a1bc2a47af39f30605c88cb32d1211b15ad878035eb875561bcc9",
+        "file_size": 37296217,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 785671978,
+        "filename": "Hinata-v1.0.0-armeabi-v7a.apk",
+        "original_filename": "Hinata-v1.0.0-armeabi-v7a.apk",
+        "sha256": "5dbb772a6936f7cf306a4dfbc703a94b6ee43ad75c8c6b4d5c3d97b4c7f86dbe",
+        "file_size": 27841777,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 785672070,
+        "filename": "Hinata-v1.0.0-universal.apk",
+        "original_filename": "Hinata-v1.0.0-universal.apk",
+        "sha256": "2441e598c7eed82a327c8fb32b7247e035cdca18d58d1e37ff978fe7b0629dc0",
+        "file_size": 116901850,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hinata-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hinata-v1.0.0"
+  },
+  "cache-cleaner": {
+    "source_repository": "premkajiwala-hub/cache-cleaner",
+    "source_release_id": 456457974,
+    "source_tag": "v1.1",
+    "source_published_at": "2026-11-24T08:03:32Z",
+    "synced_at": "2026-11-24T09:32:08.196120+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786258689,
+        "filename": "CacheCleaner-v1.1.apk",
+        "original_filename": "CacheCleaner-v1.1.apk",
+        "sha256": "e0f41ff167857ed4d6473244ce7b410074c8e89cadb46b701535c5f9d807af87",
+        "file_size": 9708595,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "cache-cleaner-v1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/cache-cleaner-v1.1"
+  },
+  "hpma-log-export": {
+    "source_repository": "PrincessAnnaofArendelle/HPMA-Log-Export",
+    "source_release_id": 456512313,
+    "source_tag": "v1.6.18",
+    "source_published_at": "2026-11-24T09:01:34Z",
+    "synced_at": "2026-11-24T09:32:14.300323+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786425258,
+        "filename": "HPMA-TW-Log-Export-1.6.18-noImport.apk",
+        "original_filename": "HPMA-TW-Log-Export-1.6.18-noImport.apk",
+        "sha256": "4801308c01d66c12971d1c99731e3c9bd3af44d35ab6630f4d115c568255c9b3",
+        "file_size": 53139724,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hpma-log-export-v1.6.18",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/hpma-log-export-v1.6.18"
+  },
+  "turbooverlay": {
+    "source_repository": "Priyanshu75799/TurboOverlay",
+    "source_release_id": 456536745,
+    "source_tag": "v1.3",
+    "source_published_at": "2026-11-24T09:25:53Z",
+    "synced_at": "2026-11-24T09:32:17.417330+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786504504,
+        "filename": "TurboOverlay_v1.3.apk",
+        "original_filename": "TurboOverlay_v1.3.apk",
+        "sha256": "32e6e37547103a97cec6b6e4941225e09afbf2400ddf6ac73f75d12cd2e00231",
+        "file_size": 1592064,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "turbooverlay-v1.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/turbooverlay-v1.3"
+  },
+  "miaocast-releases": {
+    "source_repository": "JasirVoriya/miaocast-releases",
+    "source_release_id": 456520867,
+    "source_tag": "v0.9.7",
+    "source_published_at": "2026-11-24T09:09:53Z",
+    "synced_at": "2026-11-24T09:32:20.347281+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786456784,
+        "filename": "miaocast-v0.9.7-arm64-v8a.apk",
+        "original_filename": "miaocast-v0.9.7-arm64-v8a.apk",
+        "sha256": "83da4c973e5b0d276022abf8721d0762ed4076af4a8d500d06955e451829674b",
+        "file_size": 2567613,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "miaocast-releases-v0.9.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/miaocast-releases-v0.9.7"
+  },
+  "notification-pocket": {
+    "source_repository": "Sokya-Yip/notification-pocket",
+    "source_release_id": 448524246,
+    "source_tag": "v1.4.3",
+    "source_published_at": "2026-11-17T11:16:44Z",
+    "synced_at": "2026-11-24T09:32:23.268551+00:00",
+    "assets": [
+      {
+        "source_asset_id": 758749162,
+        "filename": "notification-pocket-v1.4.3.apk",
+        "original_filename": "notification-pocket-v1.4.3.apk",
+        "sha256": "399480d01e5c2be8ba9cfdfa439cb4ce84b7b48b0e70a102754d23650c8b2f2d",
+        "file_size": 158472,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "notification-pocket-v1.4.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/notification-pocket-v1.4.3"
+  },
+  "nna-clicker": {
+    "source_repository": "NNazuna/nna-clicker",
+    "source_release_id": 456384096,
+    "source_tag": "v2.3.1",
+    "source_published_at": "2026-11-24T06:29:29Z",
+    "synced_at": "2026-11-24T09:32:26.460802+00:00",
+    "assets": [
+      {
+        "source_asset_id": 785994721,
+        "filename": "NNA-Clicker.apk",
+        "original_filename": "NNA-Clicker.apk",
+        "sha256": "e930523eb0475894d296f5430fc081bef5332e9f91554ab788d07b0b6edff68d",
+        "file_size": 1152529,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "nna-clicker-v2.3.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nna-clicker-v2.3.1"
+  },
+  "framepulse": {
+    "source_repository": "hinaaaq/FramePulse",
+    "source_release_id": 456288880,
+    "source_tag": "v1.1.1",
+    "source_published_at": "2026-11-24T03:59:56Z",
+    "synced_at": "2026-11-24T09:32:29.876802+00:00",
+    "assets": [
+      {
+        "source_asset_id": 785610593,
+        "filename": "FramePulse-v1.1.1-signed.apk",
+        "original_filename": "FramePulse-v1.1.1-signed.apk",
+        "sha256": "bb14b171128593ffc4324af445b0e3a767059445419c7bb7262d6df4d5345c96",
+        "file_size": 6174073,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "framepulse-v1.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/framepulse-v1.1.1"
   }
 }
