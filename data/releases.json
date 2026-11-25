@@ -28127,5 +28127,276 @@
     ],
     "mirror_release_tag": "blocco-app-latest",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/blocco-app-latest"
+  },
+  "geomys": {
+    "source_repository": "twisteroidambassador/geomys",
+    "source_release_id": 456641320,
+    "source_tag": "v0.1.1",
+    "source_published_at": "2026-11-24T11:02:08Z",
+    "synced_at": "2026-11-25T08:02:50.786343+00:00",
+    "assets": [
+      {
+        "source_asset_id": 786831597,
+        "filename": "Geomys-v0.1.1-hybrid-release.apk",
+        "original_filename": "Geomys-v0.1.1-hybrid-release.apk",
+        "sha256": "84d6b825c09f7b3ece2484229fad10e87d58180312e81cb66e75f44e976269ec",
+        "file_size": 2408812,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "geomys-v0.1.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/geomys-v0.1.1"
+  },
+  "m7a-android": {
+    "source_repository": "1551265800/m7a-android",
+    "source_release_id": 457801559,
+    "source_tag": "v1.0.4",
+    "source_published_at": "2026-11-25T07:56:28Z",
+    "synced_at": "2026-11-25T08:03:10.919735+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790618766,
+        "filename": "m7a-android-1.0.4-arm64.apk",
+        "original_filename": "m7a-android-1.0.4-arm64.apk",
+        "sha256": "8e8045d64d88456493e806c55361b2f673486298ec01a322e376ae472b0f55bf",
+        "file_size": 607032332,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "m7a-android-v1.0.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/m7a-android-v1.0.4"
+  },
+  "open-carl": {
+    "source_repository": "ones-is-lord/open-cArl",
+    "source_release_id": 457688903,
+    "source_tag": "v0.3.0",
+    "source_published_at": "2026-11-25T05:26:16Z",
+    "synced_at": "2026-11-25T08:03:14.511292+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790194633,
+        "filename": "open-carl-0.3.0.apk",
+        "original_filename": "open-carl-0.3.0.apk",
+        "sha256": "d3394f783580ff81012cc4cb19ceeda7577a17c396753b98660935a776e57588",
+        "file_size": 15365789,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "open-carl-v0.3.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/open-carl-v0.3.0"
+  },
+  "handler": {
+    "source_repository": "ALIEN-KB/Handler",
+    "source_release_id": 457732871,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-25T06:31:22Z",
+    "synced_at": "2026-11-25T08:03:18.832986+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790370884,
+        "filename": "Handler-v1.0.1.apk",
+        "original_filename": "Handler-v1.0.1.apk",
+        "sha256": "b21bec25455f687090179bd122b8cb50cc1d9c674fb4eda2b7019b1a814ee9e2",
+        "file_size": 1335850,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 790370882,
+        "filename": "Handler.apk",
+        "original_filename": "Handler.apk",
+        "sha256": "b21bec25455f687090179bd122b8cb50cc1d9c674fb4eda2b7019b1a814ee9e2",
+        "file_size": 1335850,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "handler-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/handler-v1.0.1"
+  },
+  "halo-ring": {
+    "source_repository": "MRziyi/Halo-Ring",
+    "source_release_id": 457702551,
+    "source_tag": "v1.1.7",
+    "source_published_at": "2026-11-25T05:47:01Z",
+    "synced_at": "2026-11-25T08:03:22.542006+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790248708,
+        "filename": "halo-ring-rokid.apk",
+        "original_filename": "halo-ring-rokid.apk",
+        "sha256": "06a979c93297339f661104ec0f81264f1cf256b6f2eded864c90823fc0ba7ae5",
+        "file_size": 4203065,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "halo-ring-v1.1.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/halo-ring-v1.1.7"
+  },
+  "talos": {
+    "source_repository": "thefalconry/talos",
+    "source_release_id": 457788952,
+    "source_tag": "v1.0.7",
+    "source_published_at": "2026-11-25T07:41:36Z",
+    "synced_at": "2026-11-25T08:03:28.024745+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790575626,
+        "filename": "talos-1.0.7-arm64.apk",
+        "original_filename": "talos-1.0.7-arm64.apk",
+        "sha256": "d0da7c5b5e2ba9f6d0bc26019ddd4344945c9347de279f01d9161a3ed0397991",
+        "file_size": 66340435,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "talos-v1.0.7",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/talos-v1.0.7"
+  },
+  "micmask": {
+    "source_repository": "Taocrypt/MicMask",
+    "source_release_id": 457570912,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-11-25T02:18:59Z",
+    "synced_at": "2026-11-25T08:03:31.876842+00:00",
+    "assets": [
+      {
+        "source_asset_id": 789708552,
+        "filename": "MicMask-2.0.0-android-arm64-v8a.apk",
+        "original_filename": "MicMask-2.0.0-android-arm64-v8a.apk",
+        "sha256": "3e776a2875c1aba10a8f62c14e2cfb3680e863bd532e92249de5da9bb82ba716",
+        "file_size": 27257543,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "micmask-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/micmask-v2.0.0"
+  },
+  "nudge-edge": {
+    "source_repository": "DarkAspect1/Nudge-Edge",
+    "source_release_id": 456081181,
+    "source_tag": "2.5.0",
+    "source_published_at": "2026-11-23T22:44:03Z",
+    "synced_at": "2026-11-25T08:03:36.986851+00:00",
+    "assets": [
+      {
+        "source_asset_id": 784810343,
+        "filename": "Nudge-offline.apk",
+        "original_filename": "Nudge-offline.apk",
+        "sha256": "9c040048dcd1ee3c12105354e022b6d0ec67f58540a18c01b83b89fec0a5f244",
+        "file_size": 2053618,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 784809663,
+        "filename": "Nudge-online.apk",
+        "original_filename": "Nudge-online.apk",
+        "sha256": "864c539003fb04ed790f4fabb13ba7fdc3ca61b1e40cdd4c3bdc114470f5ccee",
+        "file_size": 2070462,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nudge-edge-2.5.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/nudge-edge-2.5.0"
+  },
+  "time-my-galaxy": {
+    "source_repository": "MocLG/Time-My-Galaxy",
+    "source_release_id": 452865082,
+    "source_tag": "v1.5",
+    "source_published_at": "2026-11-20T15:33:27Z",
+    "synced_at": "2026-11-25T08:03:40.423926+00:00",
+    "assets": [
+      {
+        "source_asset_id": 772336987,
+        "filename": "Time-My-Galaxy-1.5.apk",
+        "original_filename": "Time-My-Galaxy-1.5.apk",
+        "sha256": "e6186902103a4e9d5831ffe9b31d0ff8b047f4feb138fa3abe0e8b809644901c",
+        "file_size": 10031831,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "time-my-galaxy-v1.5",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/time-my-galaxy-v1.5"
+  },
+  "autotube": {
+    "source_repository": "debkol35/autotube",
+    "source_release_id": 457677948,
+    "source_tag": "v2.3",
+    "source_published_at": "2026-11-25T05:09:03Z",
+    "synced_at": "2026-11-25T08:03:45.717911+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790150131,
+        "filename": "AutoTube-v2.3.apk",
+        "original_filename": "AutoTube-v2.3.apk",
+        "sha256": "d25ba5e1cb192c1110c7cfc5cc1f1570c89204582c0cd1f43f2f8e3da45be5fd",
+        "file_size": 5875716,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 790575466,
+        "filename": "AutoTube.apk",
+        "original_filename": "AutoTube.apk",
+        "sha256": "d25ba5e1cb192c1110c7cfc5cc1f1570c89204582c0cd1f43f2f8e3da45be5fd",
+        "file_size": 5875716,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "autotube-v2.3",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/autotube-v2.3"
+  },
+  "solarlandroid": {
+    "source_repository": "Team-SolarEngine/solarlandroid",
+    "source_release_id": 457806078,
+    "source_tag": "0.1.0",
+    "source_published_at": "2026-11-25T08:01:40Z",
+    "synced_at": "2026-11-25T08:03:49.875903+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790634797,
+        "filename": "app-universal-release.apk",
+        "original_filename": "app-universal-release.apk",
+        "sha256": "e91af09ea0f0c07cad07797e2409f4ae730354a344ccc82ccc4aba548b9f9da5",
+        "file_size": 34698861,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "solarlandroid-0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/solarlandroid-0.1.0"
+  },
+  "rear-screen-status": {
+    "source_repository": "fengyinxqy/rear-screen-status",
+    "source_release_id": 457582471,
+    "source_tag": "v4.10",
+    "source_published_at": "2026-11-25T02:37:08Z",
+    "synced_at": "2026-11-25T08:03:52.797742+00:00",
+    "assets": [
+      {
+        "source_asset_id": 789760300,
+        "filename": "rear-screen-status-v4.10.apk",
+        "original_filename": "rear-screen-status-v4.10.apk",
+        "sha256": "22f1fc063fe5720e0e625dae5ce1a175bfd4f60975f42a7a215e40b7413debee",
+        "file_size": 94938,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "rear-screen-status-v4.10",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/rear-screen-status-v4.10"
+  },
+  "air-swipe": {
+    "source_repository": "phamhuulocforwork/air-swipe",
+    "source_release_id": 457805339,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-25T08:01:01Z",
+    "synced_at": "2026-11-25T08:04:01.348828+00:00",
+    "assets": [
+      {
+        "source_asset_id": 790632337,
+        "filename": "air-swipe-1.0.1-25-11-2026.apk",
+        "original_filename": "air-swipe-1.0.1-25-11-2026.apk",
+        "sha256": "1ace1b094a31b4bc7da012c3e891c0a83a1cc39a54533986c5b69b5ef4ee80a5",
+        "file_size": 76731997,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "air-swipe-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/air-swipe-v1.0.0"
   }
 }

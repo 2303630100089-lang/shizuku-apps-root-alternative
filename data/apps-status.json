@@ -6707,7 +6707,7 @@
   },
   "pinpoint": {
     "status": "no-update",
-    "last_checked": "2026-11-25T01:50:00.570657+00:00",
+    "last_checked": "2026-11-25T08:03:32.385191+00:00",
     "latest_version": "v1.6.3",
     "last_synced": "2026-11-20T14:39:03.421116+00:00"
   },
@@ -7788,5 +7788,87 @@
     "last_checked": "2026-11-25T01:52:03.030097+00:00",
     "latest_version": "latest",
     "last_synced": "2026-11-24T22:16:10.098298+00:00"
+  },
+  "geomys": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:02:50.786422+00:00",
+    "latest_version": "v0.1.1",
+    "last_synced": "2026-11-25T08:02:50.786422+00:00"
+  },
+  "m7a-android": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:10.919754+00:00",
+    "latest_version": "v1.0.4",
+    "last_synced": "2026-11-25T08:03:10.919754+00:00"
+  },
+  "open-carl": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:14.511310+00:00",
+    "latest_version": "v0.3.0",
+    "last_synced": "2026-11-25T08:03:14.511310+00:00"
+  },
+  "handler": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:18.833014+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-25T08:03:18.833014+00:00"
+  },
+  "gravity": {
+    "status": "no-apk",
+    "last_checked": "2026-11-25T08:03:19.277518+00:00"
+  },
+  "halo-ring": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:22.542034+00:00",
+    "latest_version": "v1.1.7",
+    "last_synced": "2026-11-25T08:03:22.542034+00:00"
+  },
+  "talos": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:28.024763+00:00",
+    "latest_version": "v1.0.7",
+    "last_synced": "2026-11-25T08:03:28.024763+00:00"
+  },
+  "micmask": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:31.876862+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-11-25T08:03:31.876862+00:00"
+  },
+  "nudge-edge": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:36.986873+00:00",
+    "latest_version": "2.5.0",
+    "last_synced": "2026-11-25T08:03:36.986873+00:00"
+  },
+  "time-my-galaxy": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:40.423944+00:00",
+    "latest_version": "v1.5",
+    "last_synced": "2026-11-25T08:03:40.423944+00:00"
+  },
+  "autotube": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:45.717928+00:00",
+    "latest_version": "v2.3",
+    "last_synced": "2026-11-25T08:03:45.717928+00:00"
+  },
+  "solarlandroid": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:49.875928+00:00",
+    "latest_version": "0.1.0",
+    "last_synced": "2026-11-25T08:03:49.875928+00:00"
+  },
+  "rear-screen-status": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:03:52.797767+00:00",
+    "latest_version": "v4.10",
+    "last_synced": "2026-11-25T08:03:52.797767+00:00"
+  },
+  "air-swipe": {
+    "status": "synced",
+    "last_checked": "2026-11-25T08:04:01.348850+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-25T08:04:01.348850+00:00"
   }
 }

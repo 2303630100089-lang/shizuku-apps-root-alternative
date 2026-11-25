@@ -3141,7 +3141,23 @@
     "A native Android app for running Claude Code locally — no Termux required. Features visual API configuration, model management, and environment variable controls. Designed for Android 9–17.": "一款用于在本地运行 Claude Code 的原生 Android 应用——无需 Termux。具备可视化 API 配置、模型管理和环境变量控制功能。专为Android 9–17设计。",
     "PrincessAnnaofArendelle": "阿伦黛尔的安娜公主",
     "Unofficial full English localization of LenovoMotorolovichY70 (com.moto.resolutionmaster) v3.1 — Lenovo Legion Y70 / Moto Edge 70 Max display and power toolkit": "LenovoMotorolovichY70 (com.moto.resolutionmaster) v3.1 的非官方完整英文本地化 — 联想拯救者 Y70/Moto Edge 70 Max 显示屏和电源工具包",
-    "aimanharith19-oss": "aimanharith19-oss"
+    "aimanharith19-oss": "aimanharith19-oss",
+    "a ai focused linux cli assistant with massive power": "一个专注于人工智能的 Linux cli 助手，具有强大的功能",
+    "CVE-2026-98260 timerfd exploit and Shizuku launcher for the Samsung": "适用于 Samsung 的 CVE-2026-98260 timefd 漏洞和 Shizuku 启动器",
+    "Hiarni": "希阿尔尼",
+    "Watch YouTube, Prime Video & any website on your Android Auto car screen (while parked). Free APK, no root, no PC needed. Works with YouTube & YouTube ReVanced. Built-in ad blocker, full-screen player with seek bar, big car keyboard, GPS driving lock.": "在 Android Auto 汽车屏幕上观看 YouTube、Prime Video 和任何网站（停车时）。免费APK，无需root，无需PC。适用于 YouTube 和 YouTube ReVanced。内置广告拦截器、带搜索栏的全屏播放器、大汽车键盘、GPS 驾驶锁。",
+    "把 AI Agent 的实时状态显示到小米手机背屏 · Xiaomi rear-screen status panel": "把AI Agent的实时状态显示到小米手机背屏·小米后屏状态面板",
+    "Lướt reels, shorts bằng cử chỉ tay (thông qua api của Shizuku)": "Lướt 卷轴、短裤 bằng cử chỉ tay (thông qua api của Shizuku)",
+    "Android 离线全盘搜索与空间分析工具 :  类 Everything 语法、毫秒级中文正文检索、WizTree 式空间透视（支持 Shizuku / Root）": "Android离线全盘搜索与空间分析工具：类Everything语法、毫秒级中文主题搜索、WizTree式空间透视（支持Shizuku / Root）",
+    "Cielry": "谢尔里",
+    "| **[MicMask](https://github.com/Taocrypt/MicMask)** | 安卓端真正的原生实时 AI 变声：无需 Root、无需虚拟机，本地 RVC 推理，低延迟（约 300ms），开源免费 \\| Real-time on-device AI voice changer for Android | GPL-3.0 | [GitHub](https://github.com/Taocrypt/MicMask) • [Releases](https://github.com/Taocrypt/MicMask/releases) |": "| ** [MicMask](https://github.com/Taocrypt/MicMask) ** | 安卓端真正的原生实时AI变声：耗根、耗虚拟机，本地RVC推理，低延迟（约300ms），开源免费\\|适用于 Android 的实时设备上人工智能语音转换器 | GPL-3.0 | [GitHub](https://github.com/Taocrypt/MicMask) • [Releases](https://github.com/Taocrypt/MicMask/releases) |",
+    "D4vRAM369": "D4vRAM369",
+    "Solar launcher but for android! Less features, but more control!": "太阳能发射器，但适用于 Android！功能更少，但控制更多！",
+    "An app that shows edge pops/animation for side buttons, a redesigned volume slider, actions & modes panels, and edge handles inspired by a concept design is now a reality": "一款显示侧面按钮的边缘弹出/动画、重新设计的音量滑块、操作和模式面板以及受概念设计启发的边缘手柄的应用程序现已成为现实",
+    "ramilseferov": "拉米尔谢费罗夫",
+    "rocco92rc-png": "rocco92rc-png",
+    "Jero009": "杰罗009",
+    "Localhost Networking Across Profiles on Android 17": "Android 17 上跨配置文件的本地主机网络"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -6285,6 +6301,22 @@
     "A native Android app for running Claude Code locally — no Termux required. Features visual API configuration, model management, and environment variable controls. Designed for Android 9–17.": "Нативное приложение для Android, позволяющее запускать Claude Code локально — Termux не требуется. Предоставляет функции визуальной настройки API, управления моделями и контроля переменных среды. Разработано для Android 9–17.",
     "PrincessAnnaofArendelle": "Принцесса Анна из Эренделла",
     "Unofficial full English localization of LenovoMotorolovichY70 (com.moto.resolutionmaster) v3.1 — Lenovo Legion Y70 / Moto Edge 70 Max display and power toolkit": "Неофициальная полная русская локализация LenovoMotorolovichY70 (com.moto.resolutionmaster) v3.1 — набор инструментов для настройки дисплея и питания Lenovo Legion Y70 / Moto Edge 70 Max",
-    "aimanharith19-oss": "aimanharith19-oss"
+    "aimanharith19-oss": "aimanharith19-oss",
+    "a ai focused linux cli assistant with massive power": "помощник Linux Cli, ориентированный на искусственный интеллект, обладающий огромной мощностью",
+    "CVE-2026-98260 timerfd exploit and Shizuku launcher for the Samsung": "CVE-2026-98260 эксплойт timerfd и программа запуска Shizuku для Samsung",
+    "Hiarni": "Хиарни",
+    "Lướt reels, shorts bằng cử chỉ tay (thông qua api của Shizuku)": "Катушки и шорты bằng cử chỉ tay (thông qua api của Shizuku)",
+    "把 AI Agent 的实时状态显示到小米手机背屏 · Xiaomi rear-screen status panel": "把 AI Agent 的实时状态显示到小米手机背屏 · Панель состояния Xiaomi на заднем экране",
+    "Android 离线全盘搜索与空间分析工具 :  类 Everything 语法、毫秒级中文正文检索、WizTree 式空间透视（支持 Shizuku / Root）": "Android 离线全盘搜索与空间分析工具 : 类 Everything 法、毫秒级中文正文检索、WizTree 式空间透视（支持Шизуку / Корень）",
+    "Watch YouTube, Prime Video & any website on your Android Auto car screen (while parked). Free APK, no root, no PC needed. Works with YouTube & YouTube ReVanced. Built-in ad blocker, full-screen player with seek bar, big car keyboard, GPS driving lock.": "Смотрите YouTube, Prime Video и любой веб-сайт на экране автомобиля Android Auto (когда он припаркован). Бесплатный APK, без рута и ПК. Работает с YouTube и YouTube ReVanced. Встроенный блокировщик рекламы, полноэкранный плеер с панелью поиска, большая автомобильная клавиатура, GPS-блокировка для вождения.",
+    "Cielry": "Сиэльри",
+    "| **[MicMask](https://github.com/Taocrypt/MicMask)** | 安卓端真正的原生实时 AI 变声：无需 Root、无需虚拟机，本地 RVC 推理，低延迟（约 300ms），开源免费 \\| Real-time on-device AI voice changer for Android | GPL-3.0 | [GitHub](https://github.com/Taocrypt/MicMask) • [Releases](https://github.com/Taocrypt/MicMask/releases) |": "| ** [MicMask](https://github.com/Taocrypt/MicMask) ** | 安卓端真正的原生实时 AI 变声：无需 Root、无需虚拟机，本地 RVC 推理,低延迟（约300 мс), 开源免费 \\| Устройство смены голоса с искусственным интеллектом в реальном времени для Android | GPL-3.0 | [GitHub](https://github.com/Taocrypt/MicMask) • [Releases](https://github.com/Taocrypt/MicMask/releases) |",
+    "D4vRAM369": "D4vRAM369",
+    "Solar launcher but for android! Less features, but more control!": "Солнечная пусковая установка, но для Android! Меньше функций, но больше контроля!",
+    "Jero009": "Джеро009",
+    "An app that shows edge pops/animation for side buttons, a redesigned volume slider, actions & modes panels, and edge handles inspired by a concept design is now a reality": "Приложение, которое показывает всплывающие окна/анимацию для боковых кнопок, обновленный ползунок громкости, панели действий и режимов, а также краевые маркеры, вдохновленные концептуальным дизайном, теперь стало реальностью.",
+    "ramilseferov": "Рамилсеферов",
+    "rocco92rc-png": "rocco92rc-png",
+    "Localhost Networking Across Profiles on Android 17": "Сеть Localhost в профилях на Android 17"
   }
 }
