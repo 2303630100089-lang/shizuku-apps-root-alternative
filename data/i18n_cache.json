@@ -3184,7 +3184,23 @@
     "Zero-cloud, mTLS-authenticated file transfers, remote shell & terminal, Quick Share, and Git-aware folder sync across Android, Termux, and Linux.": "零云、mTLS 身份验证的文件传输、远程 shell 和终端、快速共享以及跨 Android、Termux 和 Linux 的 Git 感知文件夹同步。",
     "Desktop mode for Xiaomi phones": "小米手机的桌面模式",
     "Team-SolarEngine": "团队-SolarEngine",
-    "Taocrypt": "Taocrypt"
+    "Taocrypt": "Taocrypt",
+    "xjoker": "xjoker",
+    "Shroud15": "Shroud15",
+    "A mobile security risk control solution including an SDK and a management platform.": "一种移动安全风险控制解决方案，包括SDK和管理平台。",
+    "Devhoss": "Devhoss",
+    "Android app that shows what drains your battery (batterystats diagnosis, charging monitor, reversible fixes). No internet permission.": "一款显示耗电原因的安卓应用（电池统计诊断、充电监测、可逆修复）。无需互联网权限。",
+    "afzlwtu-2": "afzlwtu-2",
+    "Mirmire-Launcher": "Mirmire-发射器",
+    "Non-root Android & OxygenOS system optimizer, debloater, hardware bypass controller, and Banking & UPI Stealth Shield powered by Shizuku.": "非 Root 权限的 Android 和 OxygenOS 系统优化器、精简工具、硬件绕过控制器以及由 Shizuku 提供支持的银行和 UPI 隐身防护。",
+    "东放嵌入式ai翻译": "东放嵌入式ai翻译",
+    "official-hub-000": "official-hub-000",
+    "Hotaro26": "Hotaro26",
+    "之前酷安上有一款一直用着很舒服的快启动PRO，作者很久没更新了，正好我也有些自己需要新增的小功能，就让AI帮忙重新做了一个。": "之前在酷安上有一款一直用着很舒服的快启动PRO，作者很久没更新了。正好我也有些自己需要新增的小功能，就让AI帮忙重新做了一个。",
+    "xxMoonDev": "xxMoonDev",
+    "3ig": "3ig",
+    "阴阳师自动化脚本 · 电脑端 (desktop) + 安卓免 Root Shizuku 后台虚拟屏版 (mobile) 一体公开库": "阴阳师自动化脚本 · 电脑端（桌面）+ 安卓免 Root Shizuku 后台虚拟屏版（移动端）一体公开库",
+    "yunusemreakdeniz": "尤努塞姆雷阿克德尼兹"
   },
   "ru": {
     "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)",
@@ -6371,6 +6387,22 @@
     "Zero-cloud, mTLS-authenticated file transfers, remote shell & terminal, Quick Share, and Git-aware folder sync across Android, Termux, and Linux.": "Передача файлов без использования облака с аутентификацией mTLS, удаленная оболочка и терминал, Quick Share и синхронизация папок с поддержкой Git на Android, Termux и Linux.",
     "Team-SolarEngine": "Команда SolarEngine",
     "Desktop mode for Xiaomi phones": "Режим рабочего стола для телефонов Xiaomi",
-    "Taocrypt": "Taocrypt"
+    "Taocrypt": "Taocrypt",
+    "Devhoss": "Devhoss",
+    "A mobile security risk control solution including an SDK and a management platform.": "Решение для контроля рисков безопасности мобильных устройств, включающее SDK и платформу управления.",
+    "Shroud15": "Кожух 15",
+    "xjoker": "xjoker",
+    "afzlwtu-2": "afzlwtu-2",
+    "Mirmire-Launcher": "Пусковая установка «Мирмирэ»",
+    "Android app that shows what drains your battery (batterystats diagnosis, charging monitor, reversible fixes). No internet permission.": "Приложение для Android, которое показывает, что разряжает ваш аккумулятор (диагностика batterystats, мониторинг зарядки, обратимые исправления). Не требуется разрешение на доступ в Интернет.",
+    "Non-root Android & OxygenOS system optimizer, debloater, hardware bypass controller, and Banking & UPI Stealth Shield powered by Shizuku.": "Оптимизатор системы Android и OxygenOS без рута, инструмент для удаления предустановленных приложений, контроллер обхода аппаратных ограничений, а также защита Banking & UPI Stealth Shield на базе Shizuku.",
+    "东放嵌入式ai翻译": "东放嵌入式ai翻译",
+    "official-hub-000": "official-hub-000",
+    "之前酷安上有一款一直用着很舒服的快启动PRO，作者很久没更新了，正好我也有些自己需要新增的小功能，就让AI帮忙重新做了一个。": "之前酷安上有一款一直用着很舒服的快启动PRO，作者很久没更新了，正好我也有些自己需要新增的小功能，就让AI帮忙重新做了一个。",
+    "Hotaro26": "Hotaro26",
+    "阴阳师自动化脚本 · 电脑端 (desktop) + 安卓免 Root Shizuku 后台虚拟屏版 (mobile) 一体公开库": "Автоматизированный скрипт для игры «Онгё: Сказание о демонах» · Универсальная общедоступная библиотека для ПК (настольной версии) + мобильной версии (для Android без рутинга, с виртуальным экраном в фоновом режиме Shizuku)",
+    "3ig": "3ig",
+    "yunusemreakdeniz": "yunusemreakdeniz",
+    "xxMoonDev": "xxMoonDev"
   }
 }

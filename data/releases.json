@@ -28658,5 +28658,108 @@
     ],
     "mirror_release_tag": "ai-shub-release-ff343b0ed4355fe01d628014e79bdd607bf44811",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ai-shub-release-ff343b0ed4355fe01d628014e79bdd607bf44811"
+  },
+  "batterywatch": {
+    "source_repository": "FoxSoftware-code/BatteryWatch",
+    "source_release_id": 458723855,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-25T22:35:16Z",
+    "synced_at": "2026-11-26T07:54:00.643271+00:00",
+    "assets": [
+      {
+        "source_asset_id": 793408592,
+        "filename": "BatteryWatch-1.1.0.apk",
+        "original_filename": "BatteryWatch-1.1.0.apk",
+        "sha256": "d6b3d42562927a843565105bb3ec23f6361314541953a76f24090e7f12726799",
+        "file_size": 21591896,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "batterywatch-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/batterywatch-v1.1.0"
+  },
+  "onmyojiautoscript-all": {
+    "source_repository": "Jacklove331-source/OnmyojiAutoScript-All",
+    "source_release_id": 458885790,
+    "source_tag": "v0.3.4-b80",
+    "source_published_at": "2026-11-26T02:48:37Z",
+    "synced_at": "2026-11-26T07:54:14.905545+00:00",
+    "assets": [
+      {
+        "source_asset_id": 794103477,
+        "filename": "OASX-Mobile-0.3.4-b80-arm64-v8a.apk",
+        "original_filename": "OASX-Mobile-0.3.4-b80-arm64-v8a.apk",
+        "sha256": "180811ed14c0589bd3d51f3c117120dd421ee049a2925e1b97978d26fd959390",
+        "file_size": 154294098,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "onmyojiautoscript-all-v0.3.4-b80",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onmyojiautoscript-all-v0.3.4-b80"
+  },
+  "android-revamp-hub": {
+    "source_repository": "amolvbharambe/android-revamp-hub",
+    "source_release_id": 458763654,
+    "source_tag": "v1.0",
+    "source_published_at": "2026-11-25T23:31:39Z",
+    "synced_at": "2026-11-26T07:54:18.026164+00:00",
+    "assets": [
+      {
+        "source_asset_id": 793562451,
+        "filename": "AndroidRevampHub-v1.0.apk",
+        "original_filename": "AndroidRevampHub-v1.0.apk",
+        "sha256": "0bef4d5f07527f2fc333e12833ba98aad19e6d30dd32b63a8780bf6b45d94a6d",
+        "file_size": 165201,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "android-revamp-hub-v1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-revamp-hub-v1.0"
+  },
+  "housamoembedtrans": {
+    "source_repository": "Quartewe/HousamoEmbedTrans",
+    "source_release_id": 452151879,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-20T01:21:27Z",
+    "synced_at": "2026-11-26T07:54:25.895794+00:00",
+    "assets": [
+      {
+        "source_asset_id": 769963048,
+        "filename": "HousamoEmbedTrans-v1.1.0-arm64-v8a.apk",
+        "original_filename": "HousamoEmbedTrans-v1.1.0-arm64-v8a.apk",
+        "sha256": "2f920a2dc88df4c3a33289af8efab9c35999b0647712b9d5b5312a06779ec654",
+        "file_size": 16481089,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 769963107,
+        "filename": "HousamoEmbedTrans-v1.1.0-x86-houdini.apk",
+        "original_filename": "HousamoEmbedTrans-v1.1.0-x86-houdini.apk",
+        "sha256": "d8db78d7453ba35d740ea7ccad0db14ac7567da16b92fa6be2548f7dd6993982",
+        "file_size": 16456173,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "housamoembedtrans-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/housamoembedtrans-v1.1.0"
+  },
+  "quickstartmd3": {
+    "source_repository": "wenflight/QuickStartMD3",
+    "source_release_id": 459089344,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-26T07:38:37Z",
+    "synced_at": "2026-11-26T07:54:29.814742+00:00",
+    "assets": [
+      {
+        "source_asset_id": 794799994,
+        "filename": "QuickStartMD3-release.apk",
+        "original_filename": "QuickStartMD3-release.apk",
+        "sha256": "a790e0ac002bed0b8d075ca898afd6cbe8486944cc0613e22ba029e37f768a6b",
+        "file_size": 1929026,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "quickstartmd3-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/quickstartmd3-v1.0.0"
   }
 }

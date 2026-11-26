@@ -7947,5 +7947,44 @@
     "last_checked": "2026-11-26T01:25:51.725087+00:00",
     "latest_version": "release-ff343b0ed4355fe01d628014e79bdd607bf44811",
     "last_synced": "2026-11-25T21:32:17.795268+00:00"
+  },
+  "echora": {
+    "status": "no-apk",
+    "last_checked": "2026-11-26T07:53:55.896604+00:00"
+  },
+  "batterywatch": {
+    "status": "synced",
+    "last_checked": "2026-11-26T07:54:00.643299+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-26T07:54:00.643299+00:00"
+  },
+  "onmyojiautoscript-all": {
+    "status": "synced",
+    "last_checked": "2026-11-26T07:54:14.905563+00:00",
+    "latest_version": "v0.3.4-b80",
+    "last_synced": "2026-11-26T07:54:14.905563+00:00"
+  },
+  "android-revamp-hub": {
+    "status": "synced",
+    "last_checked": "2026-11-26T07:54:18.026189+00:00",
+    "latest_version": "v1.0",
+    "last_synced": "2026-11-26T07:54:18.026189+00:00"
+  },
+  "housamoembedtrans": {
+    "status": "synced",
+    "last_checked": "2026-11-26T07:54:25.895842+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-26T07:54:25.895842+00:00"
+  },
+  "quickstartmd3": {
+    "status": "synced",
+    "last_checked": "2026-11-26T07:54:29.814762+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-26T07:54:29.814762+00:00"
+  },
+  "riskengine": {
+    "status": "no-apk",
+    "last_checked": "2026-11-26T07:54:30.366155+00:00",
+    "latest_version": "v1.5.0"
   }
 }
