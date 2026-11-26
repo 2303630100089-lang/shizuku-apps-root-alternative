@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-26T15:53:05.408324+00:00",
+    "last_checked": "2026-11-26T21:18:32.151613+00:00",
     "latest_version": "zako4",
     "last_synced": "2026-11-22T13:40:39.569517+00:00"
   },
@@ -7986,5 +7986,82 @@
     "status": "no-apk",
     "last_checked": "2026-11-26T16:13:36.913291+00:00",
     "latest_version": "v2.0.1"
+  },
+  "astralparty-xingshu-android": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:27.362425+00:00",
+    "latest_version": "v0.2.6",
+    "last_synced": "2026-11-26T21:18:27.362425+00:00"
+  },
+  "intent-launcher": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:31.530766+00:00",
+    "latest_version": "8.0",
+    "last_synced": "2026-11-26T21:18:31.530766+00:00"
+  },
+  "plainandroid": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:35.358232+00:00",
+    "latest_version": "youtube-v2.9",
+    "last_synced": "2026-11-26T21:18:35.358232+00:00"
+  },
+  "cameo": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:38.713717+00:00",
+    "latest_version": "v0.8.0",
+    "last_synced": "2026-11-26T21:18:38.713717+00:00"
+  },
+  "ruledeck": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:44.706984+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-26T21:18:44.706984+00:00"
+  },
+  "terraxaleid": {
+    "status": "no-apk",
+    "last_checked": "2026-11-26T21:18:45.026873+00:00"
+  },
+  "loglens": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:47.964309+00:00",
+    "latest_version": "v1.2.4",
+    "last_synced": "2026-11-26T21:18:47.964309+00:00"
+  },
+  "phone": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:51.201884+00:00",
+    "latest_version": "v0.21.3",
+    "last_synced": "2026-11-26T21:18:51.201884+00:00"
+  },
+  "voiceisland": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:54.278030+00:00",
+    "latest_version": "v1.50",
+    "last_synced": "2026-11-26T21:18:54.278030+00:00"
+  },
+  "mobilemanager": {
+    "status": "no-apk",
+    "last_checked": "2026-11-26T21:18:54.543110+00:00"
+  },
+  "botforge": {
+    "status": "no-apk",
+    "last_checked": "2026-11-26T21:18:54.865473+00:00",
+    "latest_version": "v1.1.5"
+  },
+  "dpfsentinel-android": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:18:58.462297+00:00",
+    "latest_version": "v1.6.1",
+    "last_synced": "2026-11-26T21:18:58.462297+00:00"
+  },
+  "ptfastrimemanager": {
+    "status": "synced",
+    "last_checked": "2026-11-26T21:19:02.431363+00:00",
+    "latest_version": "1.0",
+    "last_synced": "2026-11-26T21:19:02.431363+00:00"
+  },
+  "quietbridge": {
+    "status": "no-apk",
+    "last_checked": "2026-11-26T21:19:02.722720+00:00"
   }
 }
