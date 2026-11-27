@@ -8076,5 +8076,76 @@
   "quietbridge": {
     "status": "no-apk",
     "last_checked": "2026-11-27T01:28:19.682040+00:00"
+  },
+  "xmodeenabler": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:54:52.215239+00:00",
+    "latest_version": "v1.6.11",
+    "last_synced": "2026-11-27T07:54:52.215239+00:00"
+  },
+  "sh311installer": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:54:56.755677+00:00",
+    "latest_version": "v1.2.2",
+    "last_synced": "2026-11-27T07:54:56.755677+00:00"
+  },
+  "olyvexis": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:00.283429+00:00",
+    "latest_version": "v0.1.0",
+    "last_synced": "2026-11-27T07:55:00.283429+00:00"
+  },
+  "redraincast-android": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:03.480800+00:00",
+    "latest_version": "v0.5.4",
+    "last_synced": "2026-11-27T07:55:03.480800+00:00"
+  },
+  "bitperfect-android-dac": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:08.058921+00:00",
+    "latest_version": "v1.0.1",
+    "last_synced": "2026-11-27T07:55:08.058921+00:00"
+  },
+  "antigem-remake": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:11.859137+00:00",
+    "latest_version": "v2.0.5-beta.8",
+    "last_synced": "2026-11-27T07:55:11.859137+00:00"
+  },
+  "onyx": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:15.046164+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-27T07:55:15.046164+00:00"
+  },
+  "hypercatai-next": {
+    "status": "no-apk",
+    "last_checked": "2026-11-27T07:55:15.367411+00:00",
+    "latest_version": "v0.9.41"
+  },
+  "shizuku-rootzuku-m7l": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:18.874096+00:00",
+    "latest_version": "files",
+    "last_synced": "2026-11-27T07:55:18.874096+00:00"
+  },
+  "chargemeter-pro": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:21.888464+00:00",
+    "latest_version": "v2.0.0",
+    "last_synced": "2026-11-27T07:55:21.888464+00:00"
+  },
+  "pico-dev": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:26.496983+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-27T07:55:26.496983+00:00"
+  },
+  "sarah-voice-agent": {
+    "status": "synced",
+    "last_checked": "2026-11-27T07:55:30.822365+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-27T07:55:30.822365+00:00"
   }
 }

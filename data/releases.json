@@ -29063,5 +29063,222 @@
     ],
     "mirror_release_tag": "ptfastrimemanager-1.0",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/ptfastrimemanager-1.0"
+  },
+  "xmodeenabler": {
+    "source_repository": "huoxingrNaNa/XModeEnabler",
+    "source_release_id": 460173153,
+    "source_tag": "v1.6.11",
+    "source_published_at": "2026-11-27T04:38:40Z",
+    "synced_at": "2026-11-27T07:54:52.215212+00:00",
+    "assets": [
+      {
+        "source_asset_id": 798992247,
+        "filename": "XModeEnabler-v1.6.11-release.apk",
+        "original_filename": "XModeEnabler-v1.6.11-release.apk",
+        "sha256": "bebdac131053d749085466f83298b0a8b67f4c193881ce0738c4a44d51aa9b34",
+        "file_size": 59584,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "xmodeenabler-v1.6.11",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xmodeenabler-v1.6.11"
+  },
+  "sh311installer": {
+    "source_repository": "MoshEZeeD/Sh311Installer",
+    "source_release_id": 459926149,
+    "source_tag": "v1.2.2",
+    "source_published_at": "2026-11-26T21:37:06Z",
+    "synced_at": "2026-11-27T07:54:56.755658+00:00",
+    "assets": [
+      {
+        "source_asset_id": 797797435,
+        "filename": "ShellInstaller-v1.2.2.apk",
+        "original_filename": "ShellInstaller-v1.2.2.apk",
+        "sha256": "213f0272ca79a296fa66e8556c7297bced41451d9308560810807ce240fb31e1",
+        "file_size": 16807310,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sh311installer-v1.2.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sh311installer-v1.2.2"
+  },
+  "olyvexis": {
+    "source_repository": "Kryvanta/Olyvexis",
+    "source_release_id": 460184988,
+    "source_tag": "v0.1.0",
+    "source_published_at": "2026-11-27T04:58:50Z",
+    "synced_at": "2026-11-27T07:55:00.283410+00:00",
+    "assets": [
+      {
+        "source_asset_id": 799046714,
+        "filename": "Olyvexis-0.1.0.apk",
+        "original_filename": "Olyvexis-0.1.0.apk",
+        "sha256": "e5120e4d7bd11881a6971b63369ab4c2f097c90a3d2072663c03dca2ff90793b",
+        "file_size": 19151518,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "olyvexis-v0.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/olyvexis-v0.1.0"
+  },
+  "redraincast-android": {
+    "source_repository": "arisewanggithub/RedrainCast-Android",
+    "source_release_id": 458868479,
+    "source_tag": "v0.5.4",
+    "source_published_at": "2026-11-26T02:21:06Z",
+    "synced_at": "2026-11-27T07:55:03.480780+00:00",
+    "assets": [
+      {
+        "source_asset_id": 793987255,
+        "filename": "RedrainCast-0.5.4.apk",
+        "original_filename": "RedrainCast-0.5.4.apk",
+        "sha256": "f0daa09b6446e274ce859f62920302a0a2833ebb08b8e8004a1ee9707740d693",
+        "file_size": 3345191,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "redraincast-android-v0.5.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/redraincast-android-v0.5.4"
+  },
+  "bitperfect-android-dac": {
+    "source_repository": "AnnChongS/BitPerfect-Android-DAC",
+    "source_release_id": 460201779,
+    "source_tag": "v1.0.1",
+    "source_published_at": "2026-11-27T05:28:16Z",
+    "synced_at": "2026-11-27T07:55:08.058902+00:00",
+    "assets": [
+      {
+        "source_asset_id": 799116377,
+        "filename": "BitPerfect-Root-DAC-v1.0.1-arm64-v8a-release.apk",
+        "original_filename": "BitPerfect-Root-DAC-v1.0.1-arm64-v8a-release.apk",
+        "sha256": "45d38b721f1640329e365f4bc75c66712ccb9f265a0bb2cc91778e4653de8ca5",
+        "file_size": 3795497,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 799116436,
+        "filename": "BitPerfect-USB-Bridge-v1.0.1-arm64-v8a-release.apk",
+        "original_filename": "BitPerfect-USB-Bridge-v1.0.1-arm64-v8a-release.apk",
+        "sha256": "0a1dd3ef2ff744fa091cc61c3fa4d49b920a807915710eaaba6175b4a7e26a9b",
+        "file_size": 3755453,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "bitperfect-android-dac-v1.0.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/bitperfect-android-dac-v1.0.1"
+  },
+  "antigem-remake": {
+    "source_repository": "ger352366-sys/antigem-remake",
+    "source_release_id": 460110561,
+    "source_tag": "v2.0.5-beta.8",
+    "source_published_at": "2026-11-27T02:55:00Z",
+    "synced_at": "2026-11-27T07:55:11.859115+00:00",
+    "assets": [
+      {
+        "source_asset_id": 798715807,
+        "filename": "AntiGem-v2.0.5-beta.8.apk",
+        "original_filename": "AntiGem-v2.0.5-beta.8.apk",
+        "sha256": "b5505d8580ef5f4e79a87c74c9cf422b3f53f4a8ec3d489240444aea37ec6394",
+        "file_size": 19488720,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "antigem-remake-v2.0.5-beta.8",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/antigem-remake-v2.0.5-beta.8"
+  },
+  "onyx": {
+    "source_repository": "Klod9s/ONYX",
+    "source_release_id": 458391646,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-25T17:00:04Z",
+    "synced_at": "2026-11-27T07:55:15.046145+00:00",
+    "assets": [
+      {
+        "source_asset_id": 792364122,
+        "filename": "ONYX.V1.1.apk",
+        "original_filename": "ONYX.V1.1.apk",
+        "sha256": "3d1d2eba39391467f3847f760a7a2fc658b786d63fb32a802cad5f9a638cb981",
+        "file_size": 2527921,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "onyx-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/onyx-v1.1.0"
+  },
+  "shizuku-rootzuku-m7l": {
+    "source_repository": "m7ldev/Shizuku-Rootzuku-M7L",
+    "source_release_id": 460163967,
+    "source_tag": "files",
+    "source_published_at": "2026-11-27T04:22:46Z",
+    "synced_at": "2026-11-27T07:55:18.874078+00:00",
+    "assets": [
+      {
+        "source_asset_id": 798944797,
+        "filename": "rootzuku_m7l.apk",
+        "original_filename": "Rootzuku_M7L+.apk",
+        "sha256": "5380e1f9b0c701579bdaa235221687efbf076a34c7d7630de226ddc65814724f",
+        "file_size": 15756737,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "shizuku-rootzuku-m7l-files",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shizuku-rootzuku-m7l-files"
+  },
+  "chargemeter-pro": {
+    "source_repository": "123xxss/ChargeMeter-Pro",
+    "source_release_id": 460292999,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-11-27T07:43:34Z",
+    "synced_at": "2026-11-27T07:55:21.888445+00:00",
+    "assets": [
+      {
+        "source_asset_id": 799489638,
+        "filename": "WattLens-Pro-v2.0.0.apk",
+        "original_filename": "WattLens-Pro-v2.0.0.apk",
+        "sha256": "d0d77f9c07f855deea0aa1c4451c3584f7b5a40b9f1673a41a41dc492656bf98",
+        "file_size": 276848,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "chargemeter-pro-v2.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/chargemeter-pro-v2.0.0"
+  },
+  "pico-dev": {
+    "source_repository": "HassanDevo/Pico-Dev",
+    "source_release_id": 460289946,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-27T07:40:14Z",
+    "synced_at": "2026-11-27T07:55:26.496965+00:00",
+    "assets": [
+      {
+        "source_asset_id": 799478775,
+        "filename": "PicoDev-v1.0.0.apk",
+        "original_filename": "PicoDev-v1.0.0.apk",
+        "sha256": "9996f528c771ec814b89849028fd255f402e785ca596dcce466d0126d31efd64",
+        "file_size": 57544967,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "pico-dev-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pico-dev-v1.0.0"
+  },
+  "sarah-voice-agent": {
+    "source_repository": "Sumit3972/sarah-voice-agent",
+    "source_release_id": 460223901,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-11-27T06:04:24Z",
+    "synced_at": "2026-11-27T07:55:30.822347+00:00",
+    "assets": [
+      {
+        "source_asset_id": 799275312,
+        "filename": "sarah-v1.0.0-release.apk",
+        "original_filename": "sarah-v1.0.0-release.apk",
+        "sha256": "dcd005fb5ca60327098f5f7da8e460ae9c0465b0d0c73935613c443b9b663371",
+        "file_size": 47435992,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "sarah-voice-agent-v1.0.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/sarah-voice-agent-v1.0.0"
   }
 }
