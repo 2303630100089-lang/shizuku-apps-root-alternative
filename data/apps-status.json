@@ -333,7 +333,7 @@
   },
   "shizako": {
     "status": "no-update",
-    "last_checked": "2026-11-27T15:41:42.814207+00:00",
+    "last_checked": "2026-11-27T20:59:53.440136+00:00",
     "latest_version": "zako4",
     "last_synced": "2026-11-22T13:40:39.569517+00:00"
   },
@@ -8133,5 +8133,74 @@
     "last_checked": "2026-11-27T16:02:35.942523+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-11-27T07:55:30.822365+00:00"
+  },
+  "chisto": {
+    "status": "synced",
+    "last_checked": "2026-11-27T20:59:52.231227+00:00",
+    "latest_version": "v4.2.2-ru.7",
+    "last_synced": "2026-11-27T20:59:52.231227+00:00"
+  },
+  "vantacode-desktop": {
+    "status": "no-apk",
+    "last_checked": "2026-11-27T20:59:52.783788+00:00",
+    "latest_version": "vantagate-desktop-v2.17.0"
+  },
+  "voicelift": {
+    "status": "synced",
+    "last_checked": "2026-11-27T20:59:57.085594+00:00",
+    "latest_version": "build-9",
+    "last_synced": "2026-11-27T20:59:57.085594+00:00"
+  },
+  "openup": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:00.795234+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-27T21:00:00.795234+00:00"
+  },
+  "ruza-lang": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:05.278004+00:00",
+    "latest_version": "v0.9.1",
+    "last_synced": "2026-11-27T21:00:05.278004+00:00"
+  },
+  "carmonitor": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:11.421562+00:00",
+    "latest_version": "v0.10.1",
+    "last_synced": "2026-11-27T21:00:11.421562+00:00"
+  },
+  "openexploit": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:19.117569+00:00",
+    "latest_version": "v20261128",
+    "last_synced": "2026-11-27T21:00:19.117569+00:00"
+  },
+  "cleantv-ai": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:22.740787+00:00",
+    "latest_version": "v1.0.0",
+    "last_synced": "2026-11-27T21:00:22.740787+00:00"
+  },
+  "shamash": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:26.705708+00:00",
+    "latest_version": "v0.1.23",
+    "last_synced": "2026-11-27T21:00:26.705708+00:00"
+  },
+  "march7thassistant": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:38.672309+00:00",
+    "latest_version": "v2026.11.24",
+    "last_synced": "2026-11-27T21:00:38.672309+00:00"
+  },
+  "micmask-pro-th": {
+    "status": "no-apk",
+    "last_checked": "2026-11-27T21:00:39.032526+00:00"
+  },
+  "dsh-gocket": {
+    "status": "synced",
+    "last_checked": "2026-11-27T21:00:57.942038+00:00",
+    "latest_version": "v1.4.5",
+    "last_synced": "2026-11-27T21:00:57.942038+00:00"
   }
 }
