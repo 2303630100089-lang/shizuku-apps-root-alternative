@@ -2068,7 +2068,7 @@
   },
   "antigravity-android": {
     "status": "no-update",
-    "last_checked": "2026-11-28T00:52:52.975437+00:00",
+    "last_checked": "2026-11-28T07:24:15.097947+00:00",
     "latest_version": "v2.4.1",
     "last_synced": "2026-10-22T10:56:49.311645+00:00"
   },
@@ -8205,5 +8205,79 @@
     "last_checked": "2026-11-28T01:07:27.941756+00:00",
     "latest_version": "v1.4.5",
     "last_synced": "2026-11-27T21:00:57.942038+00:00"
+  },
+  "otimizadordroid": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:19.689947+00:00",
+    "latest_version": "v3.9",
+    "last_synced": "2026-11-28T07:24:19.689947+00:00"
+  },
+  "shark-en": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:24.233472+00:00",
+    "latest_version": "Shark-en_2.5.2",
+    "last_synced": "2026-11-28T07:24:24.233472+00:00"
+  },
+  "colorplay-next": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:28.371858+00:00",
+    "latest_version": "v0.2.16",
+    "last_synced": "2026-11-28T07:24:28.371858+00:00"
+  },
+  "android-hotspot-launcher": {
+    "status": "no-apk",
+    "last_checked": "2026-11-28T07:24:28.832838+00:00"
+  },
+  "karsa": {
+    "status": "no-apk",
+    "last_checked": "2026-11-28T07:24:29.144591+00:00"
+  },
+  "zhicode": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:36.819806+00:00",
+    "latest_version": "1.1.0",
+    "last_synced": "2026-11-28T07:24:36.819806+00:00"
+  },
+  "offsave": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:40.948279+00:00",
+    "latest_version": "v0.3.4",
+    "last_synced": "2026-11-28T07:24:40.948279+00:00"
+  },
+  "pintu": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:43.968306+00:00",
+    "latest_version": "unknownauto",
+    "last_synced": "2026-11-28T07:24:43.968306+00:00"
+  },
+  "xiaomi-rear-pet-offline": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:24:48.767816+00:00",
+    "latest_version": "v1.0.11",
+    "last_synced": "2026-11-28T07:24:48.767816+00:00"
+  },
+  "orbit": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:25:11.400972+00:00",
+    "latest_version": "v1.12.2-ry.27",
+    "last_synced": "2026-11-28T07:25:11.400972+00:00"
+  },
+  "swipetool": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:25:15.326271+00:00",
+    "latest_version": "v1.6.1",
+    "last_synced": "2026-11-28T07:25:15.326271+00:00"
+  },
+  "android-agent-workstation": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:25:20.994100+00:00",
+    "latest_version": "v0.118.3-custom.36106fb",
+    "last_synced": "2026-11-28T07:25:20.994100+00:00"
+  },
+  "vanta": {
+    "status": "synced",
+    "last_checked": "2026-11-28T07:25:24.802144+00:00",
+    "latest_version": "v1.1.0",
+    "last_synced": "2026-11-28T07:25:24.802144+00:00"
   }
 }

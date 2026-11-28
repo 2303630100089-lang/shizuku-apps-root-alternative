@@ -29940,5 +29940,222 @@
     ],
     "mirror_release_tag": "vantacode-desktop-v5.9.7",
     "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vantacode-desktop-v5.9.7"
+  },
+  "otimizadordroid": {
+    "source_repository": "odorizzioficial/otimizadordroid",
+    "source_release_id": 461290147,
+    "source_tag": "v3.9",
+    "source_published_at": "2026-11-28T04:22:07Z",
+    "synced_at": "2026-11-28T07:24:19.689923+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803200528,
+        "filename": "OtimizadorDroid.apk",
+        "original_filename": "OtimizadorDroid.apk",
+        "sha256": "c3ed1cd6e57e1b51f148be1a88ea50a7cec7417e38abc83638bc3a2bf036de63",
+        "file_size": 11886651,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "otimizadordroid-v3.9",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/otimizadordroid-v3.9"
+  },
+  "shark-en": {
+    "source_repository": "kpgc10kai/Shark-en",
+    "source_release_id": 461311253,
+    "source_tag": "Shark-en_2.5.2",
+    "source_published_at": "2026-11-28T04:56:34Z",
+    "synced_at": "2026-11-28T07:24:24.233450+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803288639,
+        "filename": "Shark-en_2.5.2.apk",
+        "original_filename": "Shark-en_2.5.2.apk",
+        "sha256": "e36f48f1e5faff734997dff1fcc2af1d5514777c4386fb07b4c9e2d6893ec709",
+        "file_size": 20087187,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "shark-en-Shark-en_2.5.2",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/shark-en-Shark-en_2.5.2"
+  },
+  "colorplay-next": {
+    "source_repository": "StrivingRabbit/colorplay-next",
+    "source_release_id": 461374206,
+    "source_tag": "v0.2.16",
+    "source_published_at": "2026-11-28T07:12:03Z",
+    "synced_at": "2026-11-28T07:24:28.371838+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803627548,
+        "filename": "colorplay-next-0.2.16-release.apk",
+        "original_filename": "colorplay-next-0.2.16-release.apk",
+        "sha256": "62677d7b6bca12712b7258309654a624113692319a4cd72b5b0255308e170bf0",
+        "file_size": 9180621,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "colorplay-next-v0.2.16",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/colorplay-next-v0.2.16"
+  },
+  "zhicode": {
+    "source_repository": "zhizhu0002/ZhiCode",
+    "source_release_id": 461300494,
+    "source_tag": "1.1.0",
+    "source_published_at": "2026-11-28T04:33:52Z",
+    "synced_at": "2026-11-28T07:24:36.819780+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803229808,
+        "filename": "ZhiCode.1.1.0.apk",
+        "original_filename": "ZhiCode.1.1.0.apk",
+        "sha256": "f660fcc46e8a57cc865ce64a12a7cbc8061412e1146ae605344395700993f7af",
+        "file_size": 69523853,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "zhicode-1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/zhicode-1.1.0"
+  },
+  "offsave": {
+    "source_repository": "3pino/offsave",
+    "source_release_id": 461263813,
+    "source_tag": "v0.3.4",
+    "source_published_at": "2026-11-28T03:26:32Z",
+    "synced_at": "2026-11-28T07:24:40.948254+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803025387,
+        "filename": "offsave_0.3.4_android-arm64.apk",
+        "original_filename": "offsave_0.3.4_android-arm64.apk",
+        "sha256": "13c331849489d8f397ece3f84132c243252352415b224662cacdbbb8ce6ab2ad",
+        "file_size": 11844723,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "offsave-v0.3.4",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/offsave-v0.3.4"
+  },
+  "pintu": {
+    "source_repository": "ashraviinrajthinagaraj/pintu",
+    "source_release_id": 454200955,
+    "source_tag": "unknownauto",
+    "source_published_at": "2026-11-22T04:29:13Z",
+    "synced_at": "2026-11-28T07:24:43.968283+00:00",
+    "assets": [
+      {
+        "source_asset_id": 777865934,
+        "filename": "unknownauto.apk",
+        "original_filename": "unknownauto.apk",
+        "sha256": "d4cbad53e1a4c7c0d53df26be0dae48e87b230f6e5937ccc57ac63bb0bbd2dc3",
+        "file_size": 65963,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "pintu-unknownauto",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/pintu-unknownauto"
+  },
+  "xiaomi-rear-pet-offline": {
+    "source_repository": "nzz0991999-ai/xiaomi-rear-pet-offline",
+    "source_release_id": 461369681,
+    "source_tag": "v1.0.11",
+    "source_published_at": "2026-11-28T07:02:44Z",
+    "synced_at": "2026-11-28T07:24:48.767796+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803603897,
+        "filename": "MiRearPet_Offline.apk",
+        "original_filename": "MiRearPet_Offline.apk",
+        "sha256": "96310c3d38a6a1266bf3d4599c2630a07128eff0ff543d8c5f711fcfe33a898f",
+        "file_size": 107058,
+        "architecture": "unknown"
+      },
+      {
+        "source_asset_id": 803603908,
+        "filename": "Shizuku.apk",
+        "original_filename": "Shizuku.apk",
+        "sha256": "6e273ab0e991c4e79bc8b1bbb9b9dd739ccac1a8712a541a214078886b7b790f",
+        "file_size": 2571773,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "xiaomi-rear-pet-offline-v1.0.11",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/xiaomi-rear-pet-offline-v1.0.11"
+  },
+  "orbit": {
+    "source_repository": "CATMIAOZHI/Orbit",
+    "source_release_id": 460737601,
+    "source_tag": "v1.12.2-ry.27",
+    "source_published_at": "2026-11-27T14:55:05Z",
+    "synced_at": "2026-11-28T07:25:11.400951+00:00",
+    "assets": [
+      {
+        "source_asset_id": 800896255,
+        "filename": "Operit-Ry-1.12.2-ry.27-arm64-v8a.apk",
+        "original_filename": "Operit-Ry-1.12.2-ry.27-arm64-v8a.apk",
+        "sha256": "04b82b5d1398c02bad6040ab933d2d1296d94bd29543e342628c2c72122a7542",
+        "file_size": 279820914,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "orbit-v1.12.2-ry.27",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/orbit-v1.12.2-ry.27"
+  },
+  "swipetool": {
+    "source_repository": "ipp-agent/SwipeTool",
+    "source_release_id": 461365902,
+    "source_tag": "v1.6.1",
+    "source_published_at": "2026-11-28T06:54:42Z",
+    "synced_at": "2026-11-28T07:25:15.326250+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803583588,
+        "filename": "SwipeTool-1.6.1.apk",
+        "original_filename": "SwipeTool-1.6.1.apk",
+        "sha256": "58a706bcfa87c18f28b8396b360f06e62a2a2c3bfac0eebdd7d9e662980dceec",
+        "file_size": 62772,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "swipetool-v1.6.1",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/swipetool-v1.6.1"
+  },
+  "android-agent-workstation": {
+    "source_repository": "qwerty123yucy/android-agent-workstation",
+    "source_release_id": 461368788,
+    "source_tag": "v0.118.3-custom.36106fb",
+    "source_published_at": "2026-11-28T07:14:47Z",
+    "synced_at": "2026-11-28T07:25:20.994079+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803598444,
+        "filename": "termux-app_v0.118.3-custom.36106fb_arm64-v8a.apk",
+        "original_filename": "termux-app_v0.118.3+custom.36106fb_arm64-v8a.apk",
+        "sha256": "85989b67ce57634ba7f76f1ad7cc7079a77a72e2c77b615152ded9c5287e71d0",
+        "file_size": 33815627,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "android-agent-workstation-v0.118.3-custom.36106fb",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/android-agent-workstation-v0.118.3-custom.36106fb"
+  },
+  "vanta": {
+    "source_repository": "fleurdeur/Vanta",
+    "source_release_id": 461371424,
+    "source_tag": "v1.1.0",
+    "source_published_at": "2026-11-28T07:05:59Z",
+    "synced_at": "2026-11-28T07:25:24.802124+00:00",
+    "assets": [
+      {
+        "source_asset_id": 803611892,
+        "filename": "VANTA-1.1.0-release.apk",
+        "original_filename": "VANTA-1.1.0-release.apk",
+        "sha256": "c043593e83be8c7f0c7ff792791ece12724ef695e534b85688a68ea1c7ff3707",
+        "file_size": 2651632,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vanta-v1.1.0",
+    "mirror_release_url": "https://github.com/2303630100089-lang/shizuku-apps-root-alternative/releases/tag/vanta-v1.1.0"
   }
 }
